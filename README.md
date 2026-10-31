@@ -142,10 +142,17 @@ useful cross-links, and notes for currently empty specialties.
 
    ```bash
    npm run lint
+   npm run validate:notes
    npm run build
    ```
 
-7. Open a pull request describing what changed and citing the sources used.
+   The note validator reports missing review dates and sources as warnings, but
+   fails on malformed frontmatter, invalid dates, and other structural errors.
+
+7. Add a `reviewed` date and authoritative `sources` before opening a pull
+   request. The validator will highlight omissions while the existing library
+   is being brought up to that standard.
+8. Open a pull request describing what changed and citing the sources used.
 
 For code or UI changes, follow the existing TypeScript and React patterns,
 keep changes focused, and include a clear description of how the change was

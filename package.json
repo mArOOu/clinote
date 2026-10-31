@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate:notes": "node scripts/validate-notes.mjs"
   },
   "dependencies": {
     "github-slugger": "^2.0.0",

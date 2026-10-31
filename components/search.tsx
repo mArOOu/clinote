@@ -45,9 +45,12 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
   const [query, setQuery] = useState("");
   const [cursor, setCursor] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
+  const panelRef = useRef<HTMLDivElement>(null);
+  const restoreFocusRef = useRef<HTMLElement | null>(null);
 
   useEffect(() => {
     if (!open) return;
+    restoreFocusRef.current = document.activeElement instanceof HTMLElement ? document.activeElement : null;
     inputRef.current?.focus();
     if (index || error) return;
     fetch("/search-index.json")
@@ -55,6 +58,12 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
       .then((d: Entry[]) => setIndex(d))
       .catch(() => setError(true));
   }, [open, index, error]);
+
+  useEffect(() => {
+    if (open) return;
+    restoreFocusRef.current?.focus();
+    restoreFocusRef.current = null;
+  }, [open]);
 
   const results = useMemo(() => {
     if (!index) return [];
@@ -78,24 +87,45 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
     router.push(`/n/${e.slug}`);
   };
 
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLDivElement>) => {
+    if (e.key === "Escape") {
+      e.preventDefault();
+      onClose();
+    } else if (e.key === "Tab") {
+      const focusable = panelRef.current?.querySelectorAll<HTMLElement>(
+        'button, input, [href], [tabindex]:not([tabindex="-1"])',
+      );
+      if (!focusable?.length) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
+    } else if (e.key === "ArrowDown") {
+      e.preventDefault();
+      setCursor((c) => Math.min(c + 1, results.length - 1));
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      setCursor((c) => Math.max(c - 1, 0));
+    } else if (e.key === "Enter" && results[cursor]) {
+      go(results[cursor]);
+    }
+  };
+
   return (
     <div className="search-overlay" onMouseDown={onClose} role="presentation">
       <div
+        ref={panelRef}
         className="search-panel"
         role="dialog"
         aria-modal="true"
         aria-label="Search notes"
         onMouseDown={(e) => e.stopPropagation()}
-        onKeyDown={(e) => {
-          if (e.key === "Escape") onClose();
-          else if (e.key === "ArrowDown") {
-            e.preventDefault();
-            setCursor((c) => Math.min(c + 1, results.length - 1));
-          } else if (e.key === "ArrowUp") {
-            e.preventDefault();
-            setCursor((c) => Math.max(c - 1, 0));
-          } else if (e.key === "Enter" && results[cursor]) go(results[cursor]);
-        }}
+        onKeyDown={handleKeyDown}
       >
         <input
           ref={inputRef}
@@ -108,7 +138,10 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
           className="search-input"
           aria-label="Search query"
         />
-        <ul className="search-results" role="listbox">
+        <p className="sr-only" aria-live="polite">
+          {index && !error ? `${results.length} ${results.length === 1 ? "result" : "results"}` : ""}
+        </p>
+        <ul className="search-results" role="listbox" aria-label="Search results">
           {error && <li className="search-empty">Couldn’t load the search index. Check your connection and try again.</li>}
           {!error && !index && <li className="search-empty">Loading…</li>}
           {index && results.length === 0 && <li className="search-empty">No notes match “{query}”.</li>}

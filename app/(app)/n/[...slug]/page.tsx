@@ -28,6 +28,14 @@ function fmtDate(iso: string) {
   });
 }
 
+function fmtDateTime(iso: string) {
+  return new Date(iso).toLocaleDateString("en-GB", {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+  });
+}
+
 async function NoteContent({ params }: { params: Promise<{ slug: string[] }> }) {
   const { slug } = await params;
   const lib = getLibrary();
@@ -81,6 +89,7 @@ async function NoteContent({ params }: { params: Promise<{ slug: string[] }> }) 
             <span className={note.reviewed ? "badge badge-ok" : "badge badge-warn"}>
               {note.reviewed ? `Reviewed ${fmtDate(note.reviewed)}` : "Review date not recorded"}
             </span>
+            <span className="badge">Updated {fmtDateTime(note.updatedAt)}</span>
           </div>
 
           {note.firstAid && (
