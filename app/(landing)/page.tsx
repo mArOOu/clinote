@@ -3,6 +3,7 @@ import { ArrowRight, BookOpen, ListChecks, Smartphone } from "lucide-react";
 import { getLibrary, noteCountIn } from "@/lib/library";
 import { SpecialtyIcon } from "@/components/specialty-icon";
 import { LandingSearch } from "@/components/landing-search";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 const SECTIONS: [string, string][] = [
   ["abstract", "Definition"],
@@ -30,9 +31,12 @@ export default function Landing() {
           <span className="brand-mark" aria-hidden />
           Clinote
         </Link>
-        <Link href="/library" className="landing-link">
-          Open library <ArrowRight size={15} aria-hidden />
-        </Link>
+        <div className="flex items-center gap-3">
+          <ThemeToggle />
+          <Link href="/library" className="landing-link">
+            Open library <ArrowRight size={15} aria-hidden />
+          </Link>
+        </div>
       </header>
 
       <main id="main">

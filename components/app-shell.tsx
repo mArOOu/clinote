@@ -7,6 +7,7 @@ import { ChevronDown, Menu, Search, X } from "lucide-react";
 import type { TreeFolder } from "@/lib/library";
 import { SearchDialog } from "./search";
 import { SpecialtyIcon } from "./specialty-icon";
+import { ThemeToggle } from "./theme-toggle";
 
 function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: number; pathname: string }) {
   const containsActive =
@@ -130,9 +131,17 @@ export function AppShell({ tree, children }: { tree: TreeFolder; children: React
         <div className="sidebar-scroll">
           <Nav tree={tree} pathname={pathname} />
         </div>
-        <p className="sidebar-foot">
-          <Link href="/">About Clinote</Link> · Personal study notes, not validated clinical guidance.
-        </p>
+        <div className="sidebar-foot">
+          <div className="sidebar-foot-row">
+            <Link href="/" className="sidebar-foot-link">
+              About Clinote
+            </Link>
+            <ThemeToggle />
+          </div>
+          <p className="sidebar-foot-disclaimer">
+            Personal study notes · not validated clinical guidance.
+          </p>
+        </div>
       </aside>
       {drawer && <div className="scrim" onClick={() => setDrawer(false)} aria-hidden />}
 
@@ -142,9 +151,12 @@ export function AppShell({ tree, children }: { tree: TreeFolder; children: React
             <Menu size={18} aria-hidden />
           </button>
           {brand}
-          <button type="button" className="icon-btn ml-auto" onClick={() => setSearchOpen(true)} aria-label="Search">
-            <Search size={18} aria-hidden />
-          </button>
+          <div className="topbar-actions">
+            <ThemeToggle />
+            <button type="button" className="icon-btn" onClick={() => setSearchOpen(true)} aria-label="Search">
+              <Search size={18} aria-hidden />
+            </button>
+          </div>
         </header>
         <main id="main" className="main">
           {children}
