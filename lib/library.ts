@@ -63,6 +63,17 @@ function titleFromName(name: string) {
 
 const stripWiki = (s: string) => s.replace(/^\[\[|\]\]$/g, "").split("|")[0].trim();
 
+function parseMatter(raw: string) {
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (!match) return matter(raw);
+
+  const frontmatter = match[1].replace(
+    /^(\s*[^:#\r\n]+:\s*)(\[\[[^\r\n]+\]\](?:\s*,\s*\[\[[^\r\n]+\]\])*)\s*$/gm,
+    '$1"$2"',
+  );
+  return matter(frontmatter === match[1] ? raw : raw.replace(match[1], frontmatter));
+}
+
 function strList(v: unknown): string[] {
   if (Array.isArray(v)) return v.map((x) => stripWiki(String(x).trim())).filter(Boolean);
   if (typeof v === "string") return v.split(",").map((x) => stripWiki(x.trim())).filter(Boolean);
@@ -150,7 +161,7 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
       folder.folders.push(readFolder(full, [...slugParts, slugify(e.name)], e.name, notes));
     } else if (e.isFile() && /\.md$/i.test(e.name)) {
       const raw = fs.readFileSync(full, "utf8");
-      const parsed = matter(raw);
+      const parsed = parseMatter(raw);
       parsed.content = stripHiddenSections(parsed.content);
       const fm = parsed.data as Record<string, unknown>;
       const fallbackTitle = titleFromName(e.name);

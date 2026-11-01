@@ -4,7 +4,7 @@ Aliases: [Bronchogenic Carcinoma, NSCLC, SCLC, Non-Small Cell Lung Cancer, Small
 Discipline: Pulmonology / Medical Oncology / Thoracic Surgery
 Sub Pathologies: [Adenocarcinoma of the Lung, Squamous Cell Carcinoma of the Lung, Small Cell Lung Cancer, Pancoast Tumor, Superior Vena Cava Syndrome]
 First Aid: 
-Compare: [[Solitary Pulmonary Nodule]], [[Community-Acquired Pneumonia]], [[Pleural Disease]]
+Compare: "[[Solitary Pulmonary Nodule]], [[Community-Acquired Pneumonia]], [[Pleural Disease]]"
 ---
 
 > [!abstract] Lung Cancer

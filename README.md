@@ -97,7 +97,9 @@ related:
 
 Lists may also be written as comma-separated strings. Dates should use
 `YYYY-MM-DD`. `sources` can contain URLs or objects with `title`, `url`, and
-`kind` (`reference` or `own`).
+`kind` (`reference` or `own`). Wikilink values such as `Compare` may be written
+as a YAML list or as a comma-separated wikilink string; both forms are loaded
+automatically.
 
 ### Note content
 

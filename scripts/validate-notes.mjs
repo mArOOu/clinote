@@ -24,6 +24,17 @@ function keyFor(value) {
   return slugify(value).replace(/\\/g, "/");
 }
 
+function parseMatter(raw) {
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (!match) return matter(raw);
+
+  const frontmatter = match[1].replace(
+    /^(\s*[^:#\r\n]+:\s*)(\[\[[^\r\n]+\]\](?:\s*,\s*\[\[[^\r\n]+\]\])*)\s*$/gm,
+    '$1"$2"',
+  );
+  return matter(frontmatter === match[1] ? raw : raw.replace(match[1], frontmatter));
+}
+
 function walk(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))) {
     if (entry.name.startsWith(".") || entry.name.startsWith("_")) continue;
@@ -43,7 +54,7 @@ for (const file of notes) {
   const relative = path.relative(contentDir, file);
   let parsed;
   try {
-    parsed = matter(fs.readFileSync(file, "utf8"));
+    parsed = parseMatter(fs.readFileSync(file, "utf8"));
   } catch (error) {
     errors.push(`${relative}: invalid frontmatter (${error.message})`);
     continue;
