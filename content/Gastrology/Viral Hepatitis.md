@@ -1,5 +1,5 @@
 ---
-Tags: [Gastroenterology, Hepatology, Infectious_Disease, Internal_Medicine]
+Tags: [Gastroenterology, Hepatology, Infectious_Disease, Internal_Medicine, Chronic]
 Aliases: [Hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E, Chronic HBV, Chronic HCV]
 Discipline: Gastroenterology
 Sub Pathologies: [Hepatitis A, Hepatitis B, Hepatitis C, Hepatitis D, Hepatitis E]
