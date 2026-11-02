@@ -1,11 +1,20 @@
 import Link from "next/link";
+import { Siren, Stethoscope } from "lucide-react";
 import { getLibrary, noteCountIn } from "@/lib/library";
+import { KINDS } from "@/lib/kinds";
 import { NoteRow } from "@/components/note-row";
 import { SpecialtyIcon } from "@/components/specialty-icon";
 
 export default function LibraryHome() {
   const lib = getLibrary();
-  const recent = [...lib.notes].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt)).slice(0, 6);
+  const count = (k: "emergency" | "chronic" | "unclassified") => lib.notes.filter((n) => n.kind === k).length;
+  const unclassified = count("unclassified");
+
+  // Only notes whose content really changed (see lib/library.ts, data/note-versions.json).
+  const recent = lib.notes
+    .filter((n) => n.updatedAt)
+    .sort((a, b) => b.updatedAt!.localeCompare(a.updatedAt!) || a.title.localeCompare(b.title))
+    .slice(0, 6);
 
   return (
     <div className="page">
@@ -20,6 +29,33 @@ export default function LibraryHome() {
         </p>
       ) : (
         <>
+          <h2 className="section-label">Browse by type</h2>
+          <div className="kind-grid">
+            <Link href={KINDS.emergency.href} className="kind-tile kind-emergency">
+              <Siren size={22} aria-hidden />
+              <span className="kind-tile-text">
+                <strong>{KINDS.emergency.plural}</strong>
+                <span>{KINDS.emergency.description}</span>
+              </span>
+              <span className="kind-tile-count">{count("emergency")}</span>
+            </Link>
+            <Link href={KINDS.chronic.href} className="kind-tile kind-chronic">
+              <Stethoscope size={22} aria-hidden />
+              <span className="kind-tile-text">
+                <strong>{KINDS.chronic.plural}</strong>
+                <span>{KINDS.chronic.description}</span>
+              </span>
+              <span className="kind-tile-count">{count("chronic")}</span>
+            </Link>
+          </div>
+          {unclassified > 0 && (
+            <p className="kind-hint">
+              <Link href={KINDS.unclassified.href}>
+                {unclassified} {unclassified === 1 ? "note is" : "notes are"} not classified yet
+              </Link>
+            </p>
+          )}
+
           <h2 className="section-label">Specialties</h2>
           <ul className="folder-grid">
             {lib.root.folders.map((f) => (
@@ -33,12 +69,16 @@ export default function LibraryHome() {
             ))}
           </ul>
 
-          <h2 className="section-label">Recently updated</h2>
-          <ul className="note-list">
-            {recent.map((n) => (
-              <NoteRow key={n.slug} note={n} />
-            ))}
-          </ul>
+          {recent.length > 0 && (
+            <>
+              <h2 className="section-label">Recently updated</h2>
+              <ul className="note-list">
+                {recent.map((n) => (
+                  <NoteRow key={n.slug} note={n} />
+                ))}
+              </ul>
+            </>
+          )}
         </>
       )}
     </div>

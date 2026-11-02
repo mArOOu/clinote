@@ -1,0 +1,150 @@
+{
+  "Cardiology/Acute Aortic Syndromes.md": {
+    "hash": "4b63c84c6bebc9c6f32ce5bb4acf665f4c425348",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Acute Heart Failure.md": {
+    "hash": "e11e77ddc828eb8d16d3df19d9e05086edb3f671",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Cardiac Arrest & Sudden Cardiac Death.md": {
+    "hash": "23d8021ea205c49213e72703e1a4eb93eae20d92",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Cardiac Tamponade.md": {
+    "hash": "08b1128529d4c25ed512edb28c7836712834d533",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Cardiogenic Shcok.md": {
+    "hash": "9c1ff37588c5dfa4e1196e215c2a30d0f7e00a50",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Hypertensive Emergencies.md": {
+    "hash": "ed59c5027d08e45c4cf51dada570785e9db669b1",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Life-threatening Arrhythmias.md": {
+    "hash": "d9b8bef962f32be0ae264dea2f231635ed32d1de",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/NSTEMI.md": {
+    "hash": "3848559fabac95aa30c09357960b5bc4fbfcbd6c",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Pulmonary Embolism.md": {
+    "hash": "16f6a4f6cb6d028a94ee8bfd0170e23ea990c130",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/STEMI.md": {
+    "hash": "7a3f17f8ca80c3002286299f31d0f600274396fb",
+    "addedAt": "2026-11-02"
+  },
+  "Cardiology/Unstable Angin.md": {
+    "hash": "5deba6c1d62cf26c286f9b0413a702c9a14562d0",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Acute Hepatitis & Acute Liver Failure.md": {
+    "hash": "ece1900fbd171672438acd6163a27ffef0a18dfc",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Acute Lower GI Bleeding.md": {
+    "hash": "710af1cf619e19efd0a35db6e84982d3a5a088ad",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Acute Pancreatitis.md": {
+    "hash": "8bd7fa590e4b11a730d72b5ac743aa235785580d",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Caustic Ingestion.md": {
+    "hash": "5feaa9f1a627dc48f90e3cf456764e43c806cf0b",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Celiac Disease.md": {
+    "hash": "0afc879bebb30624f148e206bcc0240928f1ad2d",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Constipation & Diarrhea.md": {
+    "hash": "a756418868c09d50659fd81095f3578883a3be95",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Decompensated Cirrhosis.md": {
+    "hash": "046548d091b685e37fe410b83562dc5beb26d3cd",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Dyspepsia & Peptic Ulcer Disease.md": {
+    "hash": "24011843dc693876e74e7332483d2b0bbddc6f63",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Gastroesophageal Reflux Disease.md": {
+    "hash": "c82aa6369ecac7930a062c2ea1cb5ece4399c987",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Hemorrhoids & Common Anorectal Disorders.md": {
+    "hash": "c0957b111962b5b6c258118dc6feb0e68b10bef0",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Inflammatory Bowel Disease.md": {
+    "hash": "b3202bacdaccf70fb52f4b487e7f764710e66dd3",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Irritable Bowel Syndrome.md": {
+    "hash": "e0bccc41fb42b5fbfe62891d6788324dea514fdc",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Upper GI Bleeding.md": {
+    "hash": "74c8622bf0548578cb53d782c1e7cd06f3835e08",
+    "addedAt": "2026-11-02"
+  },
+  "Gastrology/Viral Hepatitis.md": {
+    "hash": "4b7e6ca2c3fe53d60812a791083719731eda8bda",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Acute COPD Exacerbation.md": {
+    "hash": "1c4962d1f606858228bc68cab642d232bfa24716",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Acute Respiratory Failure.md": {
+    "hash": "caa6b68ec08553b39bfd162cd023dd96480ffe10",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Acute Severe Asthma.md": {
+    "hash": "a897c9516c1ed6e86d7b5500cf314585d3ff90c6",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Asthma.md": {
+    "hash": "74707c269c7aa8ea51e3768203c8e583acc5f494",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/COPD.md": {
+    "hash": "d42616f64fe2e8645653d8a1af8f314e3dfa539b",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Chronic Cough.md": {
+    "hash": "b4456d09287617acaf775791f18f25ef68792247",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Community-Acquired Pneumonia.md": {
+    "hash": "b6edea266d34501b30102fd0bf18c61d4cc0b99d",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Lung Cancer.md": {
+    "hash": "f573e0291578d2187d29db001775f52def0ec932",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Massive Hemoptysis.md": {
+    "hash": "143c99aa669359fdbb4367fdff8a2fae5f7c0b04",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Obstructive Sleep Apnea.md": {
+    "hash": "1876a75b52ee60ac477261d2f5a0d22740caaf94",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Pleural Disease.md": {
+    "hash": "7363d1a24000d3a22f33cbfc432f7f6454d1172e",
+    "addedAt": "2026-11-02"
+  },
+  "Pneumology/Pneumothorax.md": {
+    "hash": "99c78753dad21d80eec6c8c7151b74220f509f1d",
+    "addedAt": "2026-11-02"
+  }
+}

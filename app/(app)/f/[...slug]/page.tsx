@@ -3,6 +3,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getLibrary, noteCountIn } from "@/lib/library";
+import { KIND_ORDER } from "@/lib/kinds";
+import { KindBadge } from "@/components/kind-badge";
 import { NoteRow } from "@/components/note-row";
 import { PageSkeleton } from "@/components/page-skeleton";
 import { SpecialtyIcon } from "@/components/specialty-icon";
@@ -63,14 +65,23 @@ async function FolderContent({ params }: { params: Promise<{ slug: string[] }> }
       )}
 
       {folder.notes.length > 0 ? (
-        <>
-          <h2 className="section-label">Notes</h2>
-          <ul className="note-list">
-            {folder.notes.map((n) => (
-              <NoteRow key={n.slug} note={n} showFolder={false} />
-            ))}
-          </ul>
-        </>
+        KIND_ORDER.map((kind) => {
+          const list = folder.notes.filter((n) => n.kind === kind);
+          if (list.length === 0) return null;
+          return (
+            <section key={kind}>
+              <h2 className="section-label group-label">
+                <KindBadge kind={kind} full />
+                <span className="tree-count">{list.length}</span>
+              </h2>
+              <ul className="note-list">
+                {list.map((n) => (
+                  <NoteRow key={n.slug} note={n} showFolder={false} />
+                ))}
+              </ul>
+            </section>
+          );
+        })
       ) : (
         folder.folders.length === 0 && <p className="empty">This folder has no notes yet.</p>
       )}

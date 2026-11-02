@@ -1,5 +1,5 @@
 // Clinote PWA Service Worker — Offline Clinical Reference
-const CACHE_VERSION = "clinote-v1";
+const CACHE_VERSION = "clinote-v2";
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const PAGES_CACHE = `${CACHE_VERSION}-pages`;
 const DATA_CACHE = `${CACHE_VERSION}-data`;

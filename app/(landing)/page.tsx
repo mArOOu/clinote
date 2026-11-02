@@ -23,6 +23,8 @@ const SECTIONS: [string, string][] = [
 export default function Landing() {
   const lib = getLibrary();
   const specialties = lib.root.folders;
+  const emergencyCount = lib.notes.filter((n) => n.kind === "emergency").length;
+  const chronicCount = lib.notes.filter((n) => n.kind === "chronic").length;
 
   return (
     <div className="landing">
@@ -59,6 +61,11 @@ export default function Landing() {
             <span className="hero-stats">
               {lib.notes.length} {lib.notes.length === 1 ? "note" : "notes"} · {specialties.length}{" "}
               {specialties.length === 1 ? "specialty" : "specialties"}
+              {emergencyCount + chronicCount > 0 && (
+                <>
+                  {" "}· {emergencyCount} {emergencyCount === 1 ? "emergency" : "emergencies"} · {chronicCount} primary care / chronic
+                </>
+              )}
             </span>
           </div>
         </section>

@@ -2,6 +2,8 @@
 
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
+import { KINDS, type Kind } from "@/lib/kinds";
+import { KindBadge } from "@/components/kind-badge";
 
 type Entry = {
   slug: string;
@@ -10,7 +12,10 @@ type Entry = {
   aliases: string[];
   tags: string[];
   text: string;
+  kind: Kind;
 };
+
+type KindFilter = "all" | "emergency" | "chronic";
 
 const norm = (s: string) =>
   s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
@@ -44,6 +49,7 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
   const [error, setError] = useState(false);
   const [query, setQuery] = useState("");
   const [cursor, setCursor] = useState(0);
+  const [kindFilter, setKindFilter] = useState<KindFilter>("all");
   const inputRef = useRef<HTMLInputElement>(null);
   const panelRef = useRef<HTMLDivElement>(null);
   const restoreFocusRef = useRef<HTMLElement | null>(null);
@@ -55,7 +61,7 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
     if (index || error) return;
     fetch("/search-index.json")
       .then((r) => (r.ok ? r.json() : Promise.reject()))
-      .then((d: Entry[]) => setIndex(d))
+      .then((d: Entry[]) => setIndex(d.map((e) => ({ ...e, kind: e.kind ?? "unclassified" }))))
       .catch(() => setError(true));
   }, [open, index, error]);
 
@@ -67,17 +73,18 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
 
   const results = useMemo(() => {
     if (!index) return [];
+    const pool = kindFilter === "all" ? index : index.filter((e) => e.kind === kindFilter);
     const words = norm(query).split(/\s+/).filter(Boolean);
     const tagFilters = words.filter((w) => w.startsWith("#") && w.length > 1).map((w) => w.slice(1));
     const terms = words.filter((w) => !w.startsWith("#"));
-    if (!terms.length && !tagFilters.length) return index.slice(0, 8);
-    return index
+    if (!terms.length && !tagFilters.length) return pool.slice(0, 8);
+    return pool
       .map((e) => ({ e, s: score(e, terms, tagFilters) }))
       .filter((x) => x.s >= 0)
       .sort((a, b) => b.s - a.s || a.e.title.localeCompare(b.e.title))
       .slice(0, 30)
       .map((x) => x.e);
-  }, [index, query]);
+  }, [index, query, kindFilter]);
 
   if (!open) return null;
 
@@ -138,6 +145,25 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
           className="search-input"
           aria-label="Search query"
         />
+        <div className="search-filters" role="group" aria-label="Filter by type">
+          {(["all", "emergency", "chronic"] as const).map((k) => (
+            <button
+              key={k}
+              type="button"
+              className="search-chip"
+              data-active={kindFilter === k}
+              data-kind={k}
+              aria-pressed={kindFilter === k}
+              onClick={() => {
+                setKindFilter(k);
+                setCursor(0);
+                inputRef.current?.focus();
+              }}
+            >
+              {k === "all" ? "All" : KINDS[k].plural}
+            </button>
+          ))}
+        </div>
         <p className="sr-only" aria-live="polite">
           {index && !error ? `${results.length} ${results.length === 1 ? "result" : "results"}` : ""}
         </p>
@@ -154,7 +180,10 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
                 onMouseMove={() => setCursor(i)}
                 onClick={() => go(r)}
               >
-                <span className="search-title">{r.title}</span>
+                <span className="search-title">
+                  {r.title}
+                  {r.kind !== "unclassified" && <KindBadge kind={r.kind} />}
+                </span>
                 <span className="search-meta">
                   {r.folder || "Library"}
                   {r.tags.length > 0 && ` · ${r.tags.slice(0, 3).map((t) => "#" + t).join(" ")}`}

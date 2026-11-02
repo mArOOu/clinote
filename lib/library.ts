@@ -1,7 +1,8 @@
 import "server-only";
 import fs from "node:fs";
 import path from "node:path";
-import matter from "gray-matter";
+import { classify, type Kind } from "./kinds";
+import { hashNote, readNoteSource } from "./note-source.mjs";
 
 /**
  * Filesystem-backed library. Folders under /content are specialties/collections,
@@ -29,7 +30,11 @@ export type Note = {
   reviewed?: string; // ISO date
   sources: Source[];
   related: string[]; // raw titles from `related:` frontmatter
-  updatedAt: string; // ISO, from file mtime
+  kind: Kind; // emergency vs primary care / chronic (see lib/kinds.ts)
+  /** yyyy-mm-dd of the last *real* content change (by content hash). Undefined until the note is edited. */
+  updatedAt?: string;
+  /** Set when the frontmatter could not be parsed; the note still loads without metadata. */
+  warning?: string;
 };
 
 export type Folder = {
@@ -63,22 +68,46 @@ function titleFromName(name: string) {
 
 const stripWiki = (s: string) => s.replace(/^\[\[|\]\]$/g, "").split("|")[0].trim();
 
-function parseMatter(raw: string) {
-  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-  if (!match) return matter(raw);
-
-  const frontmatter = match[1].replace(
-    /^(\s*[^:#\r\n]+:\s*)(\[\[[^\r\n]+\]\](?:\s*,\s*\[\[[^\r\n]+\]\])*)\s*$/gm,
-    '$1"$2"',
-  );
-  return matter(frontmatter === match[1] ? raw : raw.replace(match[1], frontmatter));
+/** `splitSlash` also splits "Pulmonology / Internal Medicine" into separate disciplines. */
+function strList(v: unknown, splitSlash = false): string[] {
+  const items = Array.isArray(v) ? v.flat(Infinity).map(String) : typeof v === "string" ? v.split(",") : [];
+  return items
+    .flatMap((x) => (splitSlash ? x.split(/\s+\/\s+/) : [x]))
+    .map((x) => stripWiki(x.trim()))
+    .filter(Boolean);
 }
 
-function strList(v: unknown): string[] {
-  if (Array.isArray(v)) return v.map((x) => stripWiki(String(x).trim())).filter(Boolean);
-  if (typeof v === "string") return v.split(",").map((x) => stripWiki(x.trim())).filter(Boolean);
-  return [];
+type VersionEntry = { hash: string; addedAt?: string; updatedAt?: string };
+
+function loadVersions(): Record<string, VersionEntry> {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(process.cwd(), "data", "note-versions.json"), "utf8"));
+  } catch {
+    return {};
+  }
 }
+
+/**
+ * "Updated" means the content really changed, never that a file was touched or copied.
+ * The committed manifest (data/note-versions.json, maintained by scripts/sync-note-versions.mjs) stores
+ * a content hash and the date it last changed. While developing, an edit that has not been synced yet
+ * is shown using the file time so you get feedback immediately; in production only the manifest counts.
+ */
+function resolveUpdatedAt(rel: string, raw: string, fullPath: string): string | undefined {
+  const entry = versions[rel];
+  if (!entry) return undefined; // not tracked yet: new notes are not "updated"
+  if (process.env.NODE_ENV !== "production" && entry.hash !== hashNote(raw)) {
+    return localDate(fs.statSync(fullPath).mtime);
+  }
+  return entry.updatedAt;
+}
+
+function localDate(d: Date) {
+  const p = (n: number) => String(n).padStart(2, "0");
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
+}
+
+let versions: Record<string, VersionEntry> = {};
 
 /** Frontmatter lookup tolerant of case, spaces and underscores ("First Aid", "first_aid", "firstAid"). */
 function fmGet(fm: Record<string, unknown>, key: string): unknown {
@@ -119,21 +148,6 @@ function parseSources(v: unknown): Source[] {
   return out;
 }
 
-/** Callout titles that are never shown (kept in the source files, dropped at load time). */
-const HIDDEN_SECTIONS = ["personal experience"];
-
-function stripHiddenSections(body: string): string {
-  const out: string[] = [];
-  let skipping = false;
-  for (const line of body.split(/\r?\n/)) {
-    const m = /^>\s*\[![\w-]+\][+-]?[ \t]*(.*)$/.exec(line);
-    if (m) skipping = HIDDEN_SECTIONS.includes(m[1].trim().toLowerCase());
-    else if (skipping && !/^>/.test(line)) skipping = false;
-    if (!skipping) out.push(line);
-  }
-  return out.join("\n").replace(/\n{3,}/g, "\n\n");
-}
-
 function makeExcerpt(body: string) {
   const text = body
     .replace(/^---[\s\S]*?---/, "")
@@ -161,12 +175,17 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
       folder.folders.push(readFolder(full, [...slugParts, slugify(e.name)], e.name, notes));
     } else if (e.isFile() && /\.md$/i.test(e.name)) {
       const raw = fs.readFileSync(full, "utf8");
-      const parsed = parseMatter(raw);
-      parsed.content = stripHiddenSections(parsed.content);
+      const parsed = readNoteSource(raw);
       const fm = parsed.data as Record<string, unknown>;
       const fallbackTitle = titleFromName(e.name);
       const fmTitle = fmGet(fm, "title");
       const title = typeof fmTitle === "string" && fmTitle.trim() ? fmTitle.trim() : fallbackTitle;
+      const tags = strList(fmGet(fm, "tags"));
+      const disciplines = strList(fmGet(fm, "discipline"), true);
+      const explicitKind = ["type", "category", "setting"]
+        .map((k) => fmGet(fm, k))
+        .find((v): v is string => typeof v === "string" && v.trim() !== "");
+      const rel = path.relative(CONTENT_DIR, full).split(path.sep).join("/");
       const note: Note = {
         slug: [...slugParts, slugify(e.name.replace(/\.md$/i, ""))].join("/"),
         title,
@@ -174,16 +193,18 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
         folderTitle: folder.title,
         body: parsed.content.trim(),
         excerpt: makeExcerpt(parsed.content),
-        tags: strList(fm.tags),
-        aliases: strList(fm.aliases),
-        disciplines: strList(fmGet(fm, "discipline")),
+        tags,
+        aliases: strList(fmGet(fm, "aliases")),
+        disciplines,
         firstAid: firstAidText(fmGet(fm, "first aid")),
         subPathologies: strList(fmGet(fm, "sub pathologies")),
         compare: strList(fmGet(fm, "compare")),
         reviewed: toIsoDate(fmGet(fm, "reviewed") ?? fmGet(fm, "last reviewed")),
         sources: parseSources(fmGet(fm, "sources")),
         related: strList(fmGet(fm, "related")),
-        updatedAt: fs.statSync(full).mtime.toISOString(),
+        kind: classify(explicitKind, tags, disciplines),
+        updatedAt: resolveUpdatedAt(rel, raw, full),
+        warning: parsed.warning,
       };
       folder.notes.push(note);
       notes.push(note);
@@ -194,6 +215,7 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
 
 export function getLibrary(): Library {
   const notes: Note[] = [];
+  versions = loadVersions();
   if (!fs.existsSync(CONTENT_DIR)) fs.mkdirSync(CONTENT_DIR, { recursive: true });
   const root = readFolder(CONTENT_DIR, [], "Clinote", notes);
 
@@ -227,7 +249,7 @@ export type TreeFolder = {
   title: string;
   count: number;
   folders: TreeFolder[];
-  notes: { slug: string; title: string }[];
+  notes: { slug: string; title: string; kind: Kind }[];
 };
 
 /** Serializable, minimal tree for the sidebar (no note bodies). */
@@ -237,7 +259,7 @@ export function toTree(folder: Folder): TreeFolder {
     title: folder.title,
     count: noteCountIn(folder),
     folders: folder.folders.map(toTree),
-    notes: folder.notes.map((n) => ({ slug: n.slug, title: n.title })),
+    notes: folder.notes.map((n) => ({ slug: n.slug, title: n.title, kind: n.kind })),
   };
 }
 

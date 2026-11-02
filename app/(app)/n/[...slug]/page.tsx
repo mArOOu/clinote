@@ -7,6 +7,8 @@ import { Markdown } from "@/components/markdown";
 import { CalloutControls } from "@/components/callout-controls";
 import { extractOutline } from "@/lib/remark-callouts";
 import { PageSkeleton } from "@/components/page-skeleton";
+import { KindBadge } from "@/components/kind-badge";
+import { fmtDate } from "@/lib/format";
 
 export function generateStaticParams() {
   const notes = getLibrary().notes;
@@ -17,23 +19,6 @@ export async function generateMetadata({ params }: PageProps<"/n/[...slug]">): P
   const { slug } = await params;
   const note = getLibrary().bySlug.get(slug.join("/"));
   return { title: note?.title ?? "Not found", description: note?.excerpt };
-}
-
-function fmtDate(iso: string) {
-  return new Date(iso + "T00:00:00Z").toLocaleDateString("en-GB", {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-    timeZone: "UTC",
-  });
-}
-
-function fmtDateTime(iso: string) {
-  return new Date(iso).toLocaleDateString("en-GB", {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-  });
 }
 
 async function NoteContent({ params }: { params: Promise<{ slug: string[] }> }) {
@@ -69,6 +54,7 @@ async function NoteContent({ params }: { params: Promise<{ slug: string[] }> }) 
           <h1>{note.title}</h1>
           {note.aliases.length > 0 && <p className="aliases">Also known as {note.aliases.join(" · ")}</p>}
           <div className="chips">
+            <KindBadge kind={note.kind} full />
             {note.disciplines.map((d) => {
               const f = resolveFolder(lib, d);
               return f ? (
@@ -89,7 +75,7 @@ async function NoteContent({ params }: { params: Promise<{ slug: string[] }> }) 
             <span className={note.reviewed ? "badge badge-ok" : "badge badge-warn"}>
               {note.reviewed ? `Reviewed ${fmtDate(note.reviewed)}` : "Review date not recorded"}
             </span>
-            <span className="badge">Updated {fmtDateTime(note.updatedAt)}</span>
+            {note.updatedAt && <span className="badge">Updated {fmtDate(note.updatedAt)}</span>}
           </div>
 
           {note.firstAid && (

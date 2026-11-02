@@ -8,6 +8,7 @@ import type { TreeFolder } from "@/lib/library";
 import { SearchDialog } from "./search";
 import { SpecialtyIcon } from "./specialty-icon";
 import { ThemeToggle } from "./theme-toggle";
+import { KindDot } from "./kind-badge";
 
 function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: number; pathname: string }) {
   const containsActive =
@@ -48,6 +49,7 @@ function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: nu
           {folder.notes.map((n) => (
             <li key={n.slug} style={{ paddingLeft: depth * 12 }}>
               <Link href={`/n/${n.slug}`} className="tree-link tree-note" data-active={pathname === `/n/${n.slug}`}>
+                <KindDot kind={n.kind} />
                 <span className="truncate">{n.title}</span>
               </Link>
             </li>
@@ -68,6 +70,7 @@ function Nav({ tree, pathname }: { tree: TreeFolder; pathname: string }) {
         {tree.notes.map((n) => (
           <li key={n.slug}>
             <Link href={`/n/${n.slug}`} className="tree-link tree-note" data-active={pathname === `/n/${n.slug}`}>
+              <KindDot kind={n.kind} />
               <span className="truncate">{n.title}</span>
             </Link>
           </li>

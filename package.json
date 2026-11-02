@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "sync-versions": "node scripts/sync-note-versions.mjs",
+    "predev": "node scripts/sync-note-versions.mjs",
     "dev": "next dev",
+    "prebuild": "node scripts/sync-note-versions.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
