@@ -1,32 +1,18 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useSyncExternalStore } from "react";
 import { Languages } from "lucide-react";
 import type { Note, Source } from "@/lib/library";
 import { fmtDate } from "@/lib/format";
 import { KindBadge } from "@/components/kind-badge";
 import { CalloutControls } from "@/components/callout-controls";
+import { useTranslation } from "@/lib/i18n";
 
 type OutlineItem = { id: string; text: string; kind: string };
 
 type Crumb = { slug: string; title: string };
 type CompareItem = { name: string; note?: { slug: string } };
 type RelatedItem = { slug: string; title: string };
-
-function getLangSnapshot(): "en" | "fr" {
-  if (typeof window === "undefined") return "en";
-  return localStorage.getItem("clinote-lang") === "fr" ? "fr" : "en";
-}
-
-function getServerLangSnapshot(): "en" | "fr" {
-  return "en";
-}
-
-function subscribeLang(callback: () => void) {
-  window.addEventListener("storage", callback);
-  return () => window.removeEventListener("storage", callback);
-}
 
 export function BilingualNoteView({
   note,
@@ -48,20 +34,9 @@ export function BilingualNoteView({
   crumbs: Crumb[];
 }) {
   const hasFr = Boolean(note.fr && contentFr);
-  const preferredLang = useSyncExternalStore(subscribeLang, getLangSnapshot, getServerLangSnapshot);
-  const [localLang, setLocalLang] = useState<"en" | "fr" | null>(null);
+  const { lang, isFr: preferredIsFr, setLang, t, tSpecialty } = useTranslation();
 
-  const lang: "en" | "fr" = localLang ?? (hasFr ? preferredLang : "en");
-
-  const switchLang = (next: "en" | "fr") => {
-    setLocalLang(next);
-    if (typeof window !== "undefined") {
-      localStorage.setItem("clinote-lang", next);
-      window.dispatchEvent(new Event("storage"));
-    }
-  };
-
-  const isFr = lang === "fr" && hasFr;
+  const isFr = preferredIsFr && hasFr;
   const currentTitle = isFr ? note.fr!.title : note.title;
   const currentOutline = isFr ? outlineFr : outlineEn;
   const currentSources: Source[] = isFr && note.fr?.sources?.length ? note.fr.sources : note.sources;
@@ -72,11 +47,11 @@ export function BilingualNoteView({
       <article className="note">
         {/* Navigation Breadcrumbs */}
         <nav className="crumbs" aria-label="Breadcrumb">
-          <Link href="/library">Library</Link>
+          <Link href="/library">{t("library")}</Link>
           {crumbs.map((c) => (
             <span key={c.slug}>
               <span aria-hidden> / </span>
-              <Link href={`/f/${c.slug}`}>{c.title}</Link>
+              <Link href={`/f/${c.slug}`}>{tSpecialty(c.title)}</Link>
             </span>
           ))}
         </nav>
@@ -96,7 +71,8 @@ export function BilingualNoteView({
                     className="lang-btn"
                     data-active={lang === "en"}
                     aria-pressed={lang === "en"}
-                    onClick={() => switchLang("en")}
+                    onClick={() => setLang("en")}
+                    title="Switch to English"
                   >
                     EN
                   </button>
@@ -106,14 +82,15 @@ export function BilingualNoteView({
                     className="lang-btn"
                     data-active={lang === "fr"}
                     aria-pressed={lang === "fr"}
-                    onClick={() => switchLang("fr")}
+                    onClick={() => setLang("fr")}
+                    title="Passer en français"
                   >
                     FR
                   </button>
                 </div>
               ) : (
-                <span className="lang-badge" title="Translation not yet available for this note">
-                  EN only
+                <span className="lang-badge" title={t("onlyEnNotice")}>
+                  {preferredIsFr ? "FR indisponible" : "EN only"}
                 </span>
               )}
             </div>
@@ -130,12 +107,12 @@ export function BilingualNoteView({
             <KindBadge kind={note.kind} full />
             {note.disciplines.map((d) => (
               <span key={d} className="badge">
-                {d}
+                {tSpecialty(d)}
               </span>
             ))}
-            {note.tags.map((t) => (
-              <span key={t} className="badge badge-tag">
-                #{t}
+            {note.tags.map((tTag) => (
+              <span key={tTag} className="badge badge-tag">
+                #{tTag}
               </span>
             ))}
             <span className={note.reviewed ? "badge badge-ok" : "badge badge-warn"}>
@@ -160,41 +137,42 @@ export function BilingualNoteView({
               {note.firstAid}
             </p>
           )}
-
-          {note.subPathologies.length > 0 && (
-            <dl className="meta-list">
-              <dt>{isFr ? "Sous-pathologies :" : "Includes :"}</dt>
-              <dd>{note.subPathologies.join(" · ")}</dd>
-            </dl>
-          )}
-
-          {compare.length > 0 && (
-            <dl className="meta-list">
-              <dt>{isFr ? "Diagnostics différentiels :" : "Compare with :"}</dt>
-              <dd>
-                {compare.map((c, i) => (
-                  <span key={c.name}>
-                    {i > 0 && " · "}
-                    {c.note ? <Link href={`/n/${c.note.slug}`}>{c.name}</Link> : <span className="muted">{c.name}</span>}
-                  </span>
-                ))}
-              </dd>
-            </dl>
-          )}
         </header>
 
-        {/* Mobile Section Jump */}
+        {/* Clinical Comparison Strip */}
+        {compare.length > 0 && (
+          <aside className="compare-strip" aria-label="Clinical comparisons">
+            <span className="compare-label">{t("compareWith")}</span>
+            <span className="compare-chips">
+              {compare.map((c) =>
+                c.note ? (
+                  <Link key={c.name} href={`/n/${c.note.slug}`} className="compare-chip">
+                    {c.name}
+                  </Link>
+                ) : (
+                  <span key={c.name} className="compare-chip compare-chip-stub" title="Note not yet created">
+                    {c.name}
+                  </span>
+                ),
+              )}
+            </span>
+          </aside>
+        )}
+
+        {/* Outline / In-page Jump on Mobile */}
         {currentOutline.length > 2 && (
-          <details className="toc-mobile">
-            <summary>{isFr ? "Aller à la section" : "Jump to section"}</summary>
-            <ul>
+          <nav className="outline" aria-label={t("jumpToSection")}>
+            <p className="outline-title">{t("jumpToSection")}</p>
+            <ol>
               {currentOutline.map((h) => (
                 <li key={h.id}>
-                  <a href={`#${h.id}`}>{h.text}</a>
+                  <a href={`#${h.id}`} data-kind={h.kind}>
+                    {h.text}
+                  </a>
                 </li>
               ))}
-            </ul>
-          </details>
+            </ol>
+          </nav>
         )}
 
         {/* Active Note Content */}
@@ -205,7 +183,7 @@ export function BilingualNoteView({
         {/* Sources */}
         {currentSources.length > 0 ? (
           <section className="sources" aria-labelledby="sources-h">
-            <h2 id="sources-h">{isFr ? "Sources & Références" : "Sources"}</h2>
+            <h2 id="sources-h">{t("sourcesTitle")}</h2>
             <ul>
               {currentSources.map((s, i) => (
                 <li key={i}>
@@ -236,7 +214,7 @@ export function BilingualNoteView({
         {/* Related Notes */}
         {related.length > 0 && (
           <section className="related">
-            <h2>{isFr ? "Notes associées" : "Related"}</h2>
+            <h2>{t("relatedNotes")}</h2>
             <ul>
               {related.map((r) => (
                 <li key={r.slug}>
@@ -262,8 +240,8 @@ export function BilingualNoteView({
 
       {/* Desktop On this page TOC */}
       {currentOutline.length > 2 && (
-        <aside className="toc" aria-label="On this page">
-          <p>{isFr ? "Sur cette page" : "On this page"}</p>
+        <aside className="toc" aria-label={t("onThisPage")}>
+          <p>{t("onThisPage")}</p>
           <ul>
             {currentOutline.map((h) => (
               <li key={h.id}>

@@ -280,7 +280,7 @@ export type TreeFolder = {
   title: string;
   count: number;
   folders: TreeFolder[];
-  notes: { slug: string; title: string; kind: Kind; hasFr?: boolean }[];
+  notes: { slug: string; title: string; frTitle?: string; kind: Kind; hasFr?: boolean }[];
 };
 
 /** Serializable, minimal tree for the sidebar (no note bodies). */
@@ -290,7 +290,13 @@ export function toTree(folder: Folder): TreeFolder {
     title: folder.title,
     count: noteCountIn(folder),
     folders: folder.folders.map(toTree),
-    notes: folder.notes.map((n) => ({ slug: n.slug, title: n.title, kind: n.kind, hasFr: !!n.fr })),
+    notes: folder.notes.map((n) => ({
+      slug: n.slug,
+      title: n.title,
+      frTitle: n.fr?.title,
+      kind: n.kind,
+      hasFr: !!n.fr,
+    })),
   };
 }
 

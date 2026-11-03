@@ -8,9 +8,12 @@ import type { TreeFolder } from "@/lib/library";
 import { SearchDialog } from "./search";
 import { SpecialtyIcon } from "./specialty-icon";
 import { ThemeToggle } from "./theme-toggle";
+import { LanguageToggle } from "./language-toggle";
 import { KindDot } from "./kind-badge";
+import { useTranslation } from "@/lib/i18n";
 
 function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: number; pathname: string }) {
+  const { isFr, t, tSpecialty } = useTranslation();
   const containsActive =
     pathname === `/f/${folder.slug}` ||
     pathname.startsWith(`/f/${folder.slug}/`) ||
@@ -23,17 +26,19 @@ function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: nu
     if (containsActive) setOpen(true);
   }
 
+  const folderTitle = tSpecialty(folder.title);
+
   return (
     <li>
       <div className="tree-row" style={{ paddingLeft: depth * 12 }}>
         <Link href={`/f/${folder.slug}`} className="tree-link tree-folder" data-active={pathname === `/f/${folder.slug}`}>
           <SpecialtyIcon name={folder.title} className="tree-icon" />
-          <span className="truncate flex-1">{folder.title}</span>
+          <span className="truncate flex-1">{folderTitle}</span>
           <span className="tree-count">{folder.count}</span>
         </Link>
         <button
           type="button"
-          aria-label={open ? `Collapse ${folder.title}` : `Expand ${folder.title}`}
+          aria-label={open ? `${t("collapse")} ${folderTitle}` : `${t("expand")} ${folderTitle}`}
           aria-expanded={open}
           onClick={() => setOpen(!open)}
           className="tree-chevron"
@@ -46,14 +51,17 @@ function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: nu
           {folder.folders.map((f) => (
             <FolderNode key={f.slug} folder={f} depth={depth + 1} pathname={pathname} />
           ))}
-          {folder.notes.map((n) => (
-            <li key={n.slug} style={{ paddingLeft: depth * 12 }}>
-              <Link href={`/n/${n.slug}`} className="tree-link tree-note" data-active={pathname === `/n/${n.slug}`}>
-                <KindDot kind={n.kind} />
-                <span className="truncate">{n.title}</span>
-              </Link>
-            </li>
-          ))}
+          {folder.notes.map((n) => {
+            const noteTitle = isFr && n.frTitle ? n.frTitle : n.title;
+            return (
+              <li key={n.slug} style={{ paddingLeft: depth * 12 }}>
+                <Link href={`/n/${n.slug}`} className="tree-link tree-note" data-active={pathname === `/n/${n.slug}`}>
+                  <KindDot kind={n.kind} />
+                  <span className="truncate">{noteTitle}</span>
+                </Link>
+              </li>
+            );
+          })}
         </ul>
       )}
     </li>
@@ -61,20 +69,24 @@ function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: nu
 }
 
 function Nav({ tree, pathname }: { tree: TreeFolder; pathname: string }) {
+  const { isFr } = useTranslation();
   return (
     <nav aria-label="Library" className="px-2 pb-6">
       <ul>
         {tree.folders.map((f) => (
           <FolderNode key={f.slug} folder={f} depth={0} pathname={pathname} />
         ))}
-        {tree.notes.map((n) => (
-          <li key={n.slug}>
-            <Link href={`/n/${n.slug}`} className="tree-link tree-note" data-active={pathname === `/n/${n.slug}`}>
-              <KindDot kind={n.kind} />
-              <span className="truncate">{n.title}</span>
-            </Link>
-          </li>
-        ))}
+        {tree.notes.map((n) => {
+          const noteTitle = isFr && n.frTitle ? n.frTitle : n.title;
+          return (
+            <li key={n.slug}>
+              <Link href={`/n/${n.slug}`} className="tree-link tree-note" data-active={pathname === `/n/${n.slug}`}>
+                <KindDot kind={n.kind} />
+                <span className="truncate">{noteTitle}</span>
+              </Link>
+            </li>
+          );
+        })}
       </ul>
     </nav>
   );
@@ -82,6 +94,7 @@ function Nav({ tree, pathname }: { tree: TreeFolder; pathname: string }) {
 
 export function AppShell({ tree, children }: { tree: TreeFolder; children: React.ReactNode }) {
   const pathname = usePathname();
+  const { t } = useTranslation();
   const [drawer, setDrawer] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [prevPath, setPrevPath] = useState(pathname);
@@ -104,8 +117,15 @@ export function AppShell({ tree, children }: { tree: TreeFolder; children: React
         setDrawer(false);
       }
     };
+    const onOpenSearch = () => setSearchOpen(true);
+
     window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
+    window.addEventListener("clinote-open-search", onOpenSearch);
+
+    return () => {
+      window.removeEventListener("keydown", onKey);
+      window.removeEventListener("clinote-open-search", onOpenSearch);
+    };
   }, []);
 
   const brand = (
@@ -120,14 +140,14 @@ export function AppShell({ tree, children }: { tree: TreeFolder; children: React
       <aside className="sidebar" data-open={drawer}>
         <div className="sidebar-head">
           {brand}
-          <button type="button" className="icon-btn sidebar-close" onClick={() => setDrawer(false)} aria-label="Close menu">
+          <button type="button" className="icon-btn sidebar-close" onClick={() => setDrawer(false)} aria-label={t("closeMenu")}>
             <X size={18} aria-hidden />
           </button>
         </div>
         <div className="px-3 pb-3">
           <button type="button" className="search-trigger" onClick={() => setSearchOpen(true)}>
             <Search size={14} aria-hidden />
-            <span className="flex-1 text-left">Search notes</span>
+            <span className="flex-1 text-left">{t("searchNotes")}</span>
             <kbd className="search-kbd">Ctrl K</kbd>
           </button>
         </div>
@@ -137,15 +157,18 @@ export function AppShell({ tree, children }: { tree: TreeFolder; children: React
         <div className="sidebar-foot">
           <div className="sidebar-foot-row">
             <Link href="/" className="sidebar-foot-link">
-              About Clinote
+              {t("about")}
             </Link>
-            <ThemeToggle />
+            <div className="sidebar-foot-actions">
+              <LanguageToggle compact />
+              <ThemeToggle />
+            </div>
           </div>
           <p className="sidebar-foot-author">
             &copy; Marouane Mebarek Falouti
           </p>
           <p className="sidebar-foot-disclaimer">
-            Personal study notes · not validated clinical guidance.
+            {t("disclaimer")}
           </p>
         </div>
       </aside>
@@ -153,13 +176,13 @@ export function AppShell({ tree, children }: { tree: TreeFolder; children: React
 
       <div className="main-col">
         <header className="topbar">
-          <button type="button" className="icon-btn" onClick={() => setDrawer(true)} aria-label="Open menu">
+          <button type="button" className="icon-btn" onClick={() => setDrawer(true)} aria-label={t("openMenu")}>
             <Menu size={18} aria-hidden />
           </button>
           {brand}
           <div className="topbar-actions">
-            <ThemeToggle />
-            <button type="button" className="icon-btn" onClick={() => setSearchOpen(true)} aria-label="Search">
+            <LanguageToggle />
+            <button type="button" className="icon-btn" onClick={() => setSearchOpen(true)} aria-label={t("search")}>
               <Search size={18} aria-hidden />
             </button>
           </div>

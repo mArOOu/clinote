@@ -2,8 +2,9 @@
 
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
-import { KINDS, type Kind } from "@/lib/kinds";
+import { type Kind } from "@/lib/kinds";
 import { KindBadge } from "@/components/kind-badge";
+import { useTranslation } from "@/lib/i18n";
 
 type Entry = {
   slug: string;
@@ -48,6 +49,7 @@ function score(e: Entry, terms: string[], tagFilters: string[]): number {
 
 export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => void }) {
   const router = useRouter();
+  const { isFr, t, tSpecialty } = useTranslation();
   const [index, setIndex] = useState<Entry[] | null>(null);
   const [error, setError] = useState(false);
   const [query, setQuery] = useState("");
@@ -126,6 +128,12 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
     }
   };
 
+  const filterLabels: Record<KindFilter, string> = {
+    all: t("filterAll"),
+    emergency: t("filterEmergencies"),
+    chronic: t("filterChronic"),
+  };
+
   return (
     <div className="search-overlay" onMouseDown={onClose} role="presentation">
       <div
@@ -133,7 +141,7 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
         className="search-panel"
         role="dialog"
         aria-modal="true"
-        aria-label="Search notes"
+        aria-label={t("searchNotes")}
         onMouseDown={(e) => e.stopPropagation()}
         onKeyDown={handleKeyDown}
       >
@@ -144,9 +152,9 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
             setQuery(e.target.value);
             setCursor(0);
           }}
-          placeholder="Search titles, content, #tags…"
+          placeholder={t("searchPlaceholder")}
           className="search-input"
-          aria-label="Search query"
+          aria-label={t("searchNotes")}
         />
         <div className="search-filters" role="group" aria-label="Filter by type">
           {(["all", "emergency", "chronic"] as const).map((k) => (
@@ -163,7 +171,7 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
                 inputRef.current?.focus();
               }}
             >
-              {k === "all" ? "All" : KINDS[k].plural}
+              {filterLabels[k]}
             </button>
           ))}
         </div>
@@ -171,35 +179,43 @@ export function SearchDialog({ open, onClose }: { open: boolean; onClose: () => 
           {index && !error ? `${results.length} ${results.length === 1 ? "result" : "results"}` : ""}
         </p>
         <ul className="search-results" role="listbox" aria-label="Search results">
-          {error && <li className="search-empty">Couldn’t load the search index. Check your connection and try again.</li>}
-          {!error && !index && <li className="search-empty">Loading…</li>}
-          {index && results.length === 0 && <li className="search-empty">No notes match “{query}”.</li>}
-          {results.map((r, i) => (
-            <li key={r.slug} role="option" aria-selected={i === cursor}>
-              <button
-                type="button"
-                className="search-item"
-                data-active={i === cursor}
-                onMouseMove={() => setCursor(i)}
-                onClick={() => go(r)}
-              >
-                <span className="search-title">
-                  {r.title}
-                  {r.kind !== "unclassified" && <KindBadge kind={r.kind} />}
-                </span>
-                <span className="search-meta">
-                  {r.folder || "Library"}
-                  {r.tags.length > 0 && ` · ${r.tags.slice(0, 3).map((t) => "#" + t).join(" ")}`}
-                </span>
-              </button>
+          {error && <li className="search-empty">{isFr ? "Impossible de charger l'index de recherche." : "Couldn’t load the search index."}</li>}
+          {!error && !index && <li className="search-empty">{isFr ? "Chargement…" : "Loading…"}</li>}
+          {index && results.length === 0 && (
+            <li className="search-empty">
+              {t("noResults")} “{query}”.
             </li>
-          ))}
+          )}
+          {results.map((r, i) => {
+            const title = isFr && r.frTitle ? r.frTitle : r.title;
+            const folder = isFr && r.folder ? tSpecialty(r.folder) : (r.folder || t("library"));
+            return (
+              <li key={r.slug} role="option" aria-selected={i === cursor}>
+                <button
+                  type="button"
+                  className="search-item"
+                  data-active={i === cursor}
+                  onMouseMove={() => setCursor(i)}
+                  onClick={() => go(r)}
+                >
+                  <span className="search-title">
+                    {title}
+                    {r.kind !== "unclassified" && <KindBadge kind={r.kind} />}
+                  </span>
+                  <span className="search-meta">
+                    {folder}
+                    {r.tags.length > 0 && ` · ${r.tags.slice(0, 3).map((t) => "#" + t).join(" ")}`}
+                  </span>
+                </button>
+              </li>
+            );
+          })}
         </ul>
         <div className="search-foot">
-          <span>↑↓ navigate</span>
-          <span>↵ open</span>
-          <span>esc close</span>
-          <span className="ml-auto">Tip: add #tag to filter</span>
+          <span>↑↓ {t("searchTipNav")}</span>
+          <span>↵ {t("searchTipOpen")}</span>
+          <span>{t("searchTipClose")}</span>
+          <span className="ml-auto">{isFr ? "Astuce: filtrez avec #tag" : "Tip: add #tag to filter"}</span>
         </div>
       </div>
     </div>

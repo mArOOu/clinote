@@ -6,6 +6,7 @@ import { getLibrary, noteCountIn } from "@/lib/library";
 import { KIND_ORDER } from "@/lib/kinds";
 import { KindBadge } from "@/components/kind-badge";
 import { NoteRow } from "@/components/note-row";
+import { FolderHeader } from "@/components/folder-header";
 import { PageSkeleton } from "@/components/page-skeleton";
 import { SpecialtyIcon } from "@/components/specialty-icon";
 
@@ -28,24 +29,15 @@ async function FolderContent({ params }: { params: Promise<{ slug: string[] }> }
   const folder = lib.folders.get(key);
   if (!folder || !key) notFound();
 
-  const crumbs = slug.map((_, i) => lib.folders.get(slug.slice(0, i + 1).join("/"))).filter(Boolean);
+  const crumbs = slug
+    .map((_, i) => lib.folders.get(slug.slice(0, i + 1).join("/")))
+    .filter((f): f is NonNullable<typeof f> => Boolean(f))
+    .slice(0, -1)
+    .map((f) => ({ slug: f.slug, title: f.title }));
 
   return (
     <div className="page">
-      <nav className="crumbs" aria-label="Breadcrumb">
-        <Link href="/library">Library</Link>
-        {crumbs.slice(0, -1).map((c) => (
-          <span key={c!.slug}>
-            <span aria-hidden> / </span>
-            <Link href={`/f/${c!.slug}`}>{c!.title}</Link>
-          </span>
-        ))}
-      </nav>
-      <h1 className="page-title page-title-icon">
-        <SpecialtyIcon name={folder.title} size={28} className="title-icon" />
-        {folder.title}
-      </h1>
-      <p className="page-sub">{noteCountIn(folder)} notes</p>
+      <FolderHeader folderTitle={folder.title} noteCount={noteCountIn(folder)} crumbs={crumbs} />
 
       {folder.folders.length > 0 && (
         <>

@@ -1,10 +1,12 @@
 "use client";
 
 import { useEffect, useRef } from "react";
+import { useTranslation } from "@/lib/i18n";
 
 /** Expand/collapse-all for foldable callouts, and opens a collapsed section when linked via #hash. */
 export function CalloutControls({ children }: { children: React.ReactNode }) {
   const ref = useRef<HTMLDivElement>(null);
+  const { t } = useTranslation();
 
   useEffect(() => {
     const openFromHash = () => {
@@ -30,10 +32,10 @@ export function CalloutControls({ children }: { children: React.ReactNode }) {
     <div ref={ref}>
       <div className="fold-controls">
         <button type="button" onClick={() => setAll(true)}>
-          Expand all
+          {t("expandAll")}
         </button>
         <button type="button" onClick={() => setAll(false)}>
-          Collapse all
+          {t("collapseAll")}
         </button>
       </div>
       {children}
