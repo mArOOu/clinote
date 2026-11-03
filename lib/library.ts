@@ -14,6 +14,14 @@ export const CONTENT_DIR = path.join(process.cwd(), "content");
 
 export type Source = { title: string; url?: string; kind: "own" | "reference" };
 
+export type NoteFr = {
+  title: string;
+  body: string;
+  excerpt: string;
+  sources?: Source[];
+  updatedAt?: string;
+};
+
 export type Note = {
   slug: string; // url path, e.g. "cardiology/heart-failure"
   title: string;
@@ -35,6 +43,8 @@ export type Note = {
   updatedAt?: string;
   /** Set when the frontmatter could not be parsed; the note still loads without metadata. */
   warning?: string;
+  /** Optional French translation loaded from a companion `.fr.md` file. */
+  fr?: NoteFr;
 };
 
 export type Folder = {
@@ -173,7 +183,7 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
     const full = path.join(dir, e.name);
     if (e.isDirectory()) {
       folder.folders.push(readFolder(full, [...slugParts, slugify(e.name)], e.name, notes));
-    } else if (e.isFile() && /\.md$/i.test(e.name)) {
+    } else if (e.isFile() && /\.md$/i.test(e.name) && !/\.fr\.md$/i.test(e.name)) {
       const raw = fs.readFileSync(full, "utf8");
       const parsed = readNoteSource(raw);
       const fm = parsed.data as Record<string, unknown>;
@@ -186,6 +196,26 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
         .map((k) => fmGet(fm, k))
         .find((v): v is string => typeof v === "string" && v.trim() !== "");
       const rel = path.relative(CONTENT_DIR, full).split(path.sep).join("/");
+
+      // Optional French companion note: same name ending in .fr.md
+      const frFile = path.join(dir, e.name.replace(/\.md$/i, ".fr.md"));
+      let fr: NoteFr | undefined = undefined;
+      if (fs.existsSync(frFile)) {
+        const frRaw = fs.readFileSync(frFile, "utf8");
+        const frParsed = readNoteSource(frRaw);
+        const frFm = frParsed.data as Record<string, unknown>;
+        const frFmTitle = fmGet(frFm, "title");
+        const frTitle = typeof frFmTitle === "string" && frFmTitle.trim() ? frFmTitle.trim() : title;
+        const frRel = path.relative(CONTENT_DIR, frFile).split(path.sep).join("/");
+        fr = {
+          title: frTitle,
+          body: frParsed.content.trim(),
+          excerpt: makeExcerpt(frParsed.content),
+          sources: parseSources(fmGet(frFm, "sources")),
+          updatedAt: resolveUpdatedAt(frRel, frRaw, frFile),
+        };
+      }
+
       const note: Note = {
         slug: [...slugParts, slugify(e.name.replace(/\.md$/i, ""))].join("/"),
         title,
@@ -205,6 +235,7 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
         kind: classify(explicitKind, tags, disciplines),
         updatedAt: resolveUpdatedAt(rel, raw, full),
         warning: parsed.warning,
+        fr,
       };
       folder.notes.push(note);
       notes.push(note);
@@ -249,7 +280,7 @@ export type TreeFolder = {
   title: string;
   count: number;
   folders: TreeFolder[];
-  notes: { slug: string; title: string; kind: Kind }[];
+  notes: { slug: string; title: string; kind: Kind; hasFr?: boolean }[];
 };
 
 /** Serializable, minimal tree for the sidebar (no note bodies). */
@@ -259,7 +290,7 @@ export function toTree(folder: Folder): TreeFolder {
     title: folder.title,
     count: noteCountIn(folder),
     folders: folder.folders.map(toTree),
-    notes: folder.notes.map((n) => ({ slug: n.slug, title: n.title, kind: n.kind })),
+    notes: folder.notes.map((n) => ({ slug: n.slug, title: n.title, kind: n.kind, hasFr: !!n.fr })),
   };
 }
 

@@ -141,6 +141,9 @@ export function AppShell({ tree, children }: { tree: TreeFolder; children: React
             </Link>
             <ThemeToggle />
           </div>
+          <p className="sidebar-foot-author">
+            &copy; Marouane Mebarek Falouti
+          </p>
           <p className="sidebar-foot-disclaimer">
             Personal study notes · not validated clinical guidance.
           </p>

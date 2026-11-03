@@ -122,7 +122,10 @@ export default function Landing() {
       </main>
 
       <footer className="landing-foot">
-        <p>
+        <p className="landing-author">
+          &copy; 2026 <strong>Marouane Mebarek Falouti</strong> · Clinote
+        </p>
+        <p className="disclaimer">
           Clinote contains personal study notes. They are not independently validated and are not a clinical
           decision-support tool. Always verify against current guidelines. Never store patient-identifiable
           information.

@@ -1,14 +1,11 @@
 import { Suspense } from "react";
-import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getLibrary, resolveFolder, resolveNote } from "@/lib/library";
+import { getLibrary, resolveNote } from "@/lib/library";
 import { Markdown } from "@/components/markdown";
-import { CalloutControls } from "@/components/callout-controls";
 import { extractOutline } from "@/lib/remark-callouts";
 import { PageSkeleton } from "@/components/page-skeleton";
-import { KindBadge } from "@/components/kind-badge";
-import { fmtDate } from "@/lib/format";
+import { BilingualNoteView } from "@/components/bilingual-note-view";
 
 export function generateStaticParams() {
   const notes = getLibrary().notes;
@@ -27,160 +24,29 @@ async function NoteContent({ params }: { params: Promise<{ slug: string[] }> }) 
   const note = lib.bySlug.get(slug.join("/"));
   if (!note) notFound();
 
-  const outline = extractOutline(note.body);
+  const outlineEn = extractOutline(note.body);
+  const outlineFr = note.fr ? extractOutline(note.fr.body) : [];
   const compare = note.compare.map((name) => ({ name, note: resolveNote(lib, name) }));
   const related = note.related
     .map((r) => resolveNote(lib, r))
     .filter((r): r is NonNullable<typeof r> => !!r && r.slug !== note.slug);
   const folderParts = note.folderSlug ? note.folderSlug.split("/") : [];
+  const crumbs = folderParts
+    .map((_, i) => lib.folders.get(folderParts.slice(0, i + 1).join("/")))
+    .filter((f): f is NonNullable<typeof f> => !!f)
+    .map((f) => ({ slug: f.slug, title: f.title }));
 
   return (
-    <div className="note-layout">
-      <article className="note">
-        <nav className="crumbs" aria-label="Breadcrumb">
-          <Link href="/library">Library</Link>
-          {folderParts.map((_, i) => {
-            const f = lib.folders.get(folderParts.slice(0, i + 1).join("/"));
-            return f ? (
-              <span key={f.slug}>
-                <span aria-hidden> / </span>
-                <Link href={`/f/${f.slug}`}>{f.title}</Link>
-              </span>
-            ) : null;
-          })}
-        </nav>
-
-        <header className="note-head">
-          <h1>{note.title}</h1>
-          {note.aliases.length > 0 && <p className="aliases">Also known as {note.aliases.join(" · ")}</p>}
-          <div className="chips">
-            <KindBadge kind={note.kind} full />
-            {note.disciplines.map((d) => {
-              const f = resolveFolder(lib, d);
-              return f ? (
-                <Link key={d} href={`/f/${f.slug}`} className="badge badge-link">
-                  {d}
-                </Link>
-              ) : (
-                <span key={d} className="badge">
-                  {d}
-                </span>
-              );
-            })}
-            {note.tags.map((t) => (
-              <span key={t} className="badge badge-tag">
-                #{t}
-              </span>
-            ))}
-            <span className={note.reviewed ? "badge badge-ok" : "badge badge-warn"}>
-              {note.reviewed ? `Reviewed ${fmtDate(note.reviewed)}` : "Review date not recorded"}
-            </span>
-            {note.updatedAt && <span className="badge">Updated {fmtDate(note.updatedAt)}</span>}
-          </div>
-
-          {note.firstAid && (
-            <p className="first-aid">
-              <span>First Aid</span>
-              {note.firstAid}
-            </p>
-          )}
-
-          {note.subPathologies.length > 0 && (
-            <dl className="meta-list">
-              <dt>Includes</dt>
-              <dd>{note.subPathologies.join(" · ")}</dd>
-            </dl>
-          )}
-          {compare.length > 0 && (
-            <dl className="meta-list">
-              <dt>Compare with</dt>
-              <dd>
-                {compare.map((c, i) => (
-                  <span key={c.name}>
-                    {i > 0 && " · "}
-                    {c.note ? <Link href={`/n/${c.note.slug}`}>{c.name}</Link> : <span className="muted">{c.name}</span>}
-                  </span>
-                ))}
-              </dd>
-            </dl>
-          )}
-        </header>
-
-        {outline.length > 2 && (
-          <details className="toc-mobile">
-            <summary>Jump to section</summary>
-            <ul>
-              {outline.map((h) => (
-                <li key={h.id}>
-                  <a href={`#${h.id}`}>{h.text}</a>
-                </li>
-              ))}
-            </ul>
-          </details>
-        )}
-
-        <CalloutControls>
-          <Markdown body={note.body} lib={lib} />
-        </CalloutControls>
-
-        {note.sources.length > 0 ? (
-          <section className="sources" aria-labelledby="sources-h">
-            <h2 id="sources-h">Sources</h2>
-            <ul>
-              {note.sources.map((s, i) => (
-                <li key={i}>
-                  <span className={s.kind === "own" ? "badge badge-own" : "badge badge-ref"}>
-                    {s.kind === "own" ? "Own notes" : "Reference"}
-                  </span>{" "}
-                  {s.url ? (
-                    <a href={s.url} target="_blank" rel="noopener noreferrer">
-                      {s.title}
-                    </a>
-                  ) : (
-                    s.title
-                  )}
-                </li>
-              ))}
-            </ul>
-          </section>
-        ) : (
-          <p className="no-sources">No sources recorded in the frontmatter of this note.</p>
-        )}
-
-        {related.length > 0 && (
-          <section className="related">
-            <h2>Related</h2>
-            <ul>
-              {related.map((r) => (
-                <li key={r.slug}>
-                  <Link href={`/n/${r.slug}`}>{r.title}</Link>
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
-
-        <p className="disclaimer">
-          Personal study notes. Not independently validated or intended for clinical decision-making. Verify against
-          current guidelines. Never store patient-identifiable information.
-        </p>
-      </article>
-
-      {outline.length > 2 && (
-        <aside className="toc" aria-label="On this page">
-          <p>On this page</p>
-          <ul>
-            {outline.map((h) => (
-              <li key={h.id}>
-                <a href={`#${h.id}`} data-kind={h.kind}>
-                  {h.text}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </aside>
-      )}
-    </div>
+    <BilingualNoteView
+      note={note}
+      outlineEn={outlineEn}
+      outlineFr={outlineFr}
+      contentEn={<Markdown body={note.body} lib={lib} />}
+      contentFr={note.fr ? <Markdown body={note.fr.body} lib={lib} /> : undefined}
+      compare={compare}
+      related={related}
+      crumbs={crumbs}
+    />
   );
 }
 

@@ -24,29 +24,33 @@ import {
 
 /** First matching keyword wins. Names are matched case-insensitively against folder titles. */
 const RULES: [RegExp, LucideIcon][] = [
-  [/cardio|heart/, HeartPulse],
-  [/pneumo|pulmo|respir|lung/, Wind],
-  [/gastro|digest|hepat|liver/, Utensils],
-  [/neurosurg/, Scissors],
-  [/neuro|brain|psych/, Brain],
+  [/cardio|heart|coeur/, HeartPulse],
+  [/pneumo|pulmo|respir|lung|poumon/, Wind],
+  [/gastro|digest|hepat|liver|foie/, Utensils],
+  [/neurosurg|neurochir/, Scissors],
+  [/neuro|brain|psych|cerveau/, Brain],
   [/infect|microb|bacter|virol/, Bug],
-  [/hemat|blood/, Droplet],
-  [/emerg|urgen|critical|resusc|icu/, Siren],
-  [/surg/, Scissors],
-  [/ortho|rheum|bone|trauma/, Bone],
-  [/pediat|paed|neonat/, Baby],
-  [/ophthal|eye/, Eye],
-  [/\bent\b|otolar|ear/, Ear],
+  [/hemat|blood|sang/, Droplet],
+  [/emerg|urgen|critical|resusc|icu|reanim/, Siren],
+  [/surg|chirurg/, Scissors],
+  [/ortho|rheum|bone|trauma|os\b/, Bone],
+  [/pediat|paed|neonat|enfant/, Baby],
+  [/ophthal|ophtal|eye|oeil|yeux/, Eye],
+  [/\bent\b|\borl\b|otolar|ear|oreille/, Ear],
   [/pharma|drug|medic/, Pill],
   [/onco|cancer/, Microscope],
   [/endocr|diabet/, Syringe],
-  [/nephro|renal|kidney|uro/, Activity],
-  [/personal|my notes/, StickyNote],
+  [/nephro|renal|kidney|uro|rein/, Activity],
+  [/personal|my notes|notes perso/, StickyNote],
   [/hospital|general/, Hospital],
 ];
 
 function pick(name: string): LucideIcon {
-  const n = name.toLowerCase();
+  // Strip accents and lower-case so "Pédiatrie" matches "pediat", "Hématologie" matches "hemat"
+  const n = name
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
   return RULES.find(([re]) => re.test(n))?.[1] ?? Folder;
 }
 

@@ -8,6 +8,8 @@ import { KindBadge } from "@/components/kind-badge";
 type Entry = {
   slug: string;
   title: string;
+  frTitle?: string;
+  hasFr?: boolean;
   folder: string;
   aliases: string[];
   tags: string[];
@@ -23,6 +25,7 @@ const norm = (s: string) =>
 function score(e: Entry, terms: string[], tagFilters: string[]): number {
   if (tagFilters.some((t) => !e.tags.some((x) => norm(x) === t))) return -1;
   const title = norm(e.title);
+  const frTitle = e.frTitle ? norm(e.frTitle) : "";
   const aliases = e.aliases.map(norm);
   const tags = e.tags.map(norm);
   const folder = norm(e.folder);
@@ -30,11 +33,11 @@ function score(e: Entry, terms: string[], tagFilters: string[]): number {
   let total = 0;
   for (const t of terms) {
     let s = 0;
-    if (title === t) s = 100;
+    if (title === t || frTitle === t) s = 100;
     else if (aliases.includes(t)) s = 90;
-    else if (title.startsWith(t)) s = 70;
+    else if (title.startsWith(t) || (frTitle && frTitle.startsWith(t))) s = 70;
     else if (aliases.some((a) => a.startsWith(t))) s = 60;
-    else if (title.includes(t)) s = 50;
+    else if (title.includes(t) || (frTitle && frTitle.includes(t))) s = 50;
     else if (tags.some((x) => x.includes(t)) || folder.includes(t)) s = 30;
     else if (text.includes(t)) s = 10;
     else return -1; // every term must match somewhere

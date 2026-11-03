@@ -1491,3 +1491,78 @@ details.callout > summary:hover {
   align-items: center;
   gap: 0.5rem;
 }
+/* ---------- bilingual language switcher & copyright ---------- */
+.note-title-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.lang-switcher-wrap {
+  flex: none;
+  margin-top: 0.35rem;
+}
+.lang-switcher {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.76rem;
+  font-weight: 650;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  border-radius: 999px;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.04);
+}
+.lang-icon {
+  color: var(--accent);
+  margin-right: 0.15rem;
+}
+.lang-btn {
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+  color: var(--muted);
+  font-weight: 650;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.lang-btn:hover {
+  color: var(--fg);
+}
+.lang-btn[data-active="true"] {
+  color: #ffffff;
+  background: var(--accent);
+}
+.lang-divider {
+  color: var(--line);
+  font-size: 0.7rem;
+  user-select: none;
+}
+.lang-badge {
+  font-size: 0.72rem;
+  font-weight: 560;
+  padding: 0.2rem 0.55rem;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px dashed var(--line);
+  border-radius: 999px;
+}
+.note-footer {
+  margin-top: 3.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.note-author,
+.landing-author,
+.sidebar-foot-author {
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+.note-author strong,
+.landing-author strong {
+  color: var(--fg);
+}
