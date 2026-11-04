@@ -138,6 +138,7 @@ export const UI_STRINGS = {
   expandAll: { en: "Expand all", fr: "Tout déplier" },
   collapseAll: { en: "Collapse all", fr: "Tout replier" },
   sourcesTitle: { en: "Sources & Guidelines", fr: "Sources & Références Médicales" },
+  includes: { en: "Includes", fr: "Comprend" },
   compareWith: { en: "Compare with", fr: "Comparer avec" },
   relatedNotes: { en: "Related notes", fr: "Fiches associées" },
   updatedPrefix: { en: "Updated", fr: "Mise à jour le" },

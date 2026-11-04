@@ -19,6 +19,7 @@ export type NoteFr = {
   body: string;
   excerpt: string;
   sources?: Source[];
+  subPathologies?: string[];
   updatedAt?: string;
 };
 
@@ -212,6 +213,7 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
           body: frParsed.content.trim(),
           excerpt: makeExcerpt(frParsed.content),
           sources: parseSources(fmGet(frFm, "sources")),
+          subPathologies: strList(fmGet(frFm, "sub pathologies")),
           updatedAt: resolveUpdatedAt(frRel, frRaw, frFile),
         };
       }

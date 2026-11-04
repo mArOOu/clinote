@@ -39,6 +39,7 @@ export function BilingualNoteView({
   const currentTitle = isFr ? note.fr!.title : note.title;
   const currentOutline = isFr ? outlineFr : outlineEn;
   const currentUpdatedAt = isFr && note.fr?.updatedAt ? note.fr.updatedAt : note.updatedAt;
+  const subPathologies = isFr && note.fr?.subPathologies?.length ? note.fr.subPathologies : note.subPathologies;
 
   return (
     <div className="note-layout">
@@ -101,42 +102,45 @@ export function BilingualNoteView({
               {note.firstAid}
             </p>
           )}
+
+          {subPathologies.length > 0 && (
+            <dl className="meta-list">
+              <dt>{t("includes")}</dt>
+              <dd>{subPathologies.join(" · ")}</dd>
+            </dl>
+          )}
+
+          {compare.length > 0 && (
+            <dl className="meta-list">
+              <dt>{t("compareWith")}</dt>
+              <dd>
+                {compare.map((c, i) => (
+                  <span key={c.name}>
+                    {i > 0 && " · "}
+                    {c.note ? (
+                      <Link href={`/n/${c.note.slug}`}>{c.name}</Link>
+                    ) : (
+                      <span className="muted">{c.name}</span>
+                    )}
+                  </span>
+                ))}
+              </dd>
+            </dl>
+          )}
         </header>
 
-        {/* Clinical Comparison Strip */}
-        {compare.length > 0 && (
-          <aside className="compare-strip" aria-label="Clinical comparisons">
-            <span className="compare-label">{t("compareWith")}</span>
-            <span className="compare-chips">
-              {compare.map((c) =>
-                c.note ? (
-                  <Link key={c.name} href={`/n/${c.note.slug}`} className="compare-chip">
-                    {c.name}
-                  </Link>
-                ) : (
-                  <span key={c.name} className="compare-chip compare-chip-stub" title="Note not yet created">
-                    {c.name}
-                  </span>
-                ),
-              )}
-            </span>
-          </aside>
-        )}
-
-        {/* Outline / In-page Jump on Mobile */}
+        {/* Mobile Outline: Collapsible, hidden on desktop via CSS */}
         {currentOutline.length > 2 && (
-          <nav className="outline" aria-label={t("jumpToSection")}>
-            <p className="outline-title">{t("jumpToSection")}</p>
-            <ol>
+          <details className="toc-mobile">
+            <summary>{t("jumpToSection")}</summary>
+            <ul>
               {currentOutline.map((h) => (
                 <li key={h.id}>
-                  <a href={`#${h.id}`} data-kind={h.kind}>
-                    {h.text}
-                  </a>
+                  <a href={`#${h.id}`}>{h.text}</a>
                 </li>
               ))}
-            </ol>
-          </nav>
+            </ul>
+          </details>
         )}
 
         {/* Active Note Content */}
