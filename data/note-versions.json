@@ -1,128 +1,155 @@
 {
   "Cardiology/Acute Aortic Syndromes.fr.md": {
-    "hash": "dcf6800c00c6d5cbc5266f5d87a4d3d8121ab427",
-    "addedAt": "2026-11-04"
+    "hash": "56bf019048debd6bb7ce80a1b7458f18859bd3a8",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Acute Aortic Syndromes.md": {
-    "hash": "4b63c84c6bebc9c6f32ce5bb4acf665f4c425348",
-    "addedAt": "2026-11-02"
+    "hash": "98aac70837850681da21a8d14d83028129cd0799",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Acute Heart Failure.fr.md": {
-    "hash": "82a8121d88ff02918bc6d3e9c6920722571c2c42",
-    "addedAt": "2026-11-04"
+    "hash": "c9a9f0f953f84ab9d0ae2f3dab04f8b924fc7cd9",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Acute Heart Failure.md": {
-    "hash": "e11e77ddc828eb8d16d3df19d9e05086edb3f671",
-    "addedAt": "2026-11-02"
+    "hash": "5ba1d3f3fdb35b9b547a8e1822e885ae36638139",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Cardiac Arrest & Sudden Cardiac Death.fr.md": {
-    "hash": "caa41f691468843b22a4ab7cba033674080604fe",
-    "addedAt": "2026-11-04"
+    "hash": "7936aea65cd069bf4645867688545eceabc765fb",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Cardiac Arrest & Sudden Cardiac Death.md": {
-    "hash": "23d8021ea205c49213e72703e1a4eb93eae20d92",
-    "addedAt": "2026-11-02"
+    "hash": "aa77eab1e2f871bbc1e8a199e047918b6b2fb04d",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Cardiac Tamponade.fr.md": {
-    "hash": "48da711511d406d302f2ad2120410cbba1303b91",
-    "addedAt": "2026-11-04"
+    "hash": "0d9cda370520c477fc9c5477dee359494104d7b5",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Cardiac Tamponade.md": {
-    "hash": "08b1128529d4c25ed512edb28c7836712834d533",
-    "addedAt": "2026-11-02"
+    "hash": "42e44058ff303129068208f2dfd1636f9974725c",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Cardiogenic Shcok.fr.md": {
-    "hash": "418af8ac3141efaf09812eecbd937aca8c64dc1a",
-    "addedAt": "2026-11-04"
+    "hash": "780a4b11323e1615178ff0bc8b00a4ec24934c11",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Cardiogenic Shcok.md": {
-    "hash": "9c1ff37588c5dfa4e1196e215c2a30d0f7e00a50",
-    "addedAt": "2026-11-02"
+    "hash": "d81f6d1ab5a119a9e9d65826bb5adfbae5f38375",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Hypertensive Emergencies.fr.md": {
-    "hash": "e37d0ea8fa601563d592f71f636c80d36535f0ea",
-    "addedAt": "2026-11-04"
+    "hash": "a4365aeab66cd5d9325e8e3031bd7a7c479e6571",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Hypertensive Emergencies.md": {
-    "hash": "ed59c5027d08e45c4cf51dada570785e9db669b1",
-    "addedAt": "2026-11-02"
+    "hash": "35187f50d49882f26be562a339e9e8351adcab38",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Life-threatening Arrhythmias.fr.md": {
-    "hash": "a4d1d12679621a2da94a818ca85dd69dcf76e913",
-    "addedAt": "2026-11-04"
+    "hash": "b3b1e95c764abdc4079c29ef4c7300993a3e6872",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Life-threatening Arrhythmias.md": {
-    "hash": "d9b8bef962f32be0ae264dea2f231635ed32d1de",
-    "addedAt": "2026-11-02"
+    "hash": "a2862a3bb58fed8bab933233a715aa3e75bedb1b",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/NSTEMI.fr.md": {
-    "hash": "afa4e9841978ebfbd3df6c24b27a94ee46f2350b",
-    "addedAt": "2026-11-04"
+    "hash": "1c70bbf09c874b1c7181ccd02ce7e01d47309f3f",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/NSTEMI.md": {
-    "hash": "977f5208657d216c43bffdd40e1f44768bd241f7",
+    "hash": "64722cb08342264263ee3d8b9d1e4be7d2151a6e",
     "addedAt": "2026-11-02",
-    "updatedAt": "2026-11-03"
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Pulmonary Embolism.fr.md": {
-    "hash": "74ddbb8197885d38030a790fe2cb97e5aaf598ec",
-    "addedAt": "2026-11-04"
+    "hash": "219e274c2aa6e5986946d4752c66856725e5dc09",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Pulmonary Embolism.md": {
-    "hash": "16f6a4f6cb6d028a94ee8bfd0170e23ea990c130",
-    "addedAt": "2026-11-02"
+    "hash": "0eabe805021b75008efa824c97f5ec89a87717e1",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/STEMI.fr.md": {
-    "hash": "e470f12181880eb11ecb3be2b38bc601ba154457",
-    "addedAt": "2026-11-03"
+    "hash": "53df3c216dd0d05d853f56683a126b768d6da1bd",
+    "addedAt": "2026-11-03",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/STEMI.md": {
-    "hash": "7a3f17f8ca80c3002286299f31d0f600274396fb",
-    "addedAt": "2026-11-02"
+    "hash": "1a7fc7c37bae1771cd96b6fe239fa009c15907f6",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Unstable Angin.fr.md": {
-    "hash": "c8e48b41d87a9f4faef1037f362bbb6a7ce18db2",
-    "addedAt": "2026-11-04"
+    "hash": "dc0f9c5e7e421580a218ca62dd5982c5b2cb1f98",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Cardiology/Unstable Angin.md": {
-    "hash": "5deba6c1d62cf26c286f9b0413a702c9a14562d0",
-    "addedAt": "2026-11-02"
+    "hash": "77c644a210f612be16e2152bdb5f9f5f14b46b7b",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Acute Hepatitis & Acute Liver Failure.fr.md": {
-    "hash": "0e0e6b91a72b20248634cce042bd7e589ff04d92",
-    "addedAt": "2026-11-04"
+    "hash": "eeb458d7436cc9632b1a0d81320bd427f3488527",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Acute Hepatitis & Acute Liver Failure.md": {
     "hash": "ece1900fbd171672438acd6163a27ffef0a18dfc",
     "addedAt": "2026-11-02"
   },
   "Gastrology/Acute Lower GI Bleeding.fr.md": {
-    "hash": "b1da5547acc9be5e9413942e6354bde55590f969",
-    "addedAt": "2026-11-04"
+    "hash": "2b5d22aa8850d2c338875caf088c3d285ee91c18",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Acute Lower GI Bleeding.md": {
     "hash": "710af1cf619e19efd0a35db6e84982d3a5a088ad",
     "addedAt": "2026-11-02"
   },
   "Gastrology/Acute Pancreatitis.fr.md": {
-    "hash": "17393b4f6bc05cf1eb3fcb2f0efd7ec037abf52b",
-    "addedAt": "2026-11-04"
+    "hash": "2973e7f7ff0efd4b30ec483270ef3bae9aac00fc",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Acute Pancreatitis.md": {
     "hash": "8bd7fa590e4b11a730d72b5ac743aa235785580d",
     "addedAt": "2026-11-02"
   },
   "Gastrology/Caustic Ingestion.fr.md": {
-    "hash": "e4356f962e76384cffe40504310f099d0790277b",
-    "addedAt": "2026-11-04"
+    "hash": "512af192041ee0d3eca518130687ef94b9e3cfad",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Caustic Ingestion.md": {
-    "hash": "5feaa9f1a627dc48f90e3cf456764e43c806cf0b",
-    "addedAt": "2026-11-02"
+    "hash": "5e410b10fe20c97f5aaafe546754b046501e0524",
+    "addedAt": "2026-11-02",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Celiac Disease.fr.md": {
-    "hash": "edaced92ac63a1b5cb43b9dcef6deea71cc49025",
-    "addedAt": "2026-11-04"
+    "hash": "90e324fad15f1017f958321a4bf71ea33176cde5",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Celiac Disease.md": {
     "hash": "fd2447914870fd70f1b3cfdb8dee6c109238a492",
@@ -130,24 +157,27 @@
     "updatedAt": "2026-11-03"
   },
   "Gastrology/Constipation & Diarrhea.fr.md": {
-    "hash": "03a0dfe0528ebac8e9036bb2e4ea7dfa9b1a242d",
-    "addedAt": "2026-11-04"
+    "hash": "dc98233599f5e6f49ab53d390c62d9f83da10070",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Constipation & Diarrhea.md": {
     "hash": "a756418868c09d50659fd81095f3578883a3be95",
     "addedAt": "2026-11-02"
   },
   "Gastrology/Decompensated Cirrhosis.fr.md": {
-    "hash": "213a7b4aea292d4c1812756c235d7cf761c3edf1",
-    "addedAt": "2026-11-04"
+    "hash": "c7a6eee2f4c50c71e9dce4771f32c3567065b80a",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Decompensated Cirrhosis.md": {
     "hash": "046548d091b685e37fe410b83562dc5beb26d3cd",
     "addedAt": "2026-11-02"
   },
   "Gastrology/Dyspepsia & Peptic Ulcer Disease.fr.md": {
-    "hash": "61307650924087eaae9f009644e002fd75f5ad33",
-    "addedAt": "2026-11-04"
+    "hash": "dc6f24d8ebec1b872bd97a479fc7ed0adc018f3c",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Gastrology/Dyspepsia & Peptic Ulcer Disease.md": {
     "hash": "24011843dc693876e74e7332483d2b0bbddc6f63",
@@ -204,64 +234,72 @@
     "updatedAt": "2026-11-03"
   },
   "Pneumology/Acute COPD Exacerbation.fr.md": {
-    "hash": "3169766ff943527656594e6e9f87f24a0ca09b8b",
-    "addedAt": "2026-11-04"
+    "hash": "d1e43d626fef5b29455fed5d2bc8c3e180e2bd71",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Acute COPD Exacerbation.md": {
     "hash": "1c4962d1f606858228bc68cab642d232bfa24716",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Acute Respiratory Failure.fr.md": {
-    "hash": "ebb52e5d00cfc36eab6c837d0528b7cb45505ca3",
-    "addedAt": "2026-11-04"
+    "hash": "da080ca690f2caf22ae04fa93f632225da705094",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Acute Respiratory Failure.md": {
     "hash": "caa6b68ec08553b39bfd162cd023dd96480ffe10",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Acute Severe Asthma.fr.md": {
-    "hash": "55386f1313d6249882662786605d44d823fc620b",
-    "addedAt": "2026-11-04"
+    "hash": "2bc6d3e0866bd8684e1a03befbb32b683d86f705",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Acute Severe Asthma.md": {
     "hash": "a897c9516c1ed6e86d7b5500cf314585d3ff90c6",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Asthma.fr.md": {
-    "hash": "774f6871f9b9b0aa2f7a54fddc41b82d07913b0c",
-    "addedAt": "2026-11-04"
+    "hash": "1e97c4f98d7a24c2fdc1056b80b3b0775a53ad41",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Asthma.md": {
     "hash": "74707c269c7aa8ea51e3768203c8e583acc5f494",
     "addedAt": "2026-11-02"
   },
   "Pneumology/COPD.fr.md": {
-    "hash": "e5869e5f2f01bccd5193351fe0c866118ce37326",
-    "addedAt": "2026-11-04"
+    "hash": "e0599b06f7f4eb8c737a280918ccd496473e84f2",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/COPD.md": {
     "hash": "d42616f64fe2e8645653d8a1af8f314e3dfa539b",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Chronic Cough.fr.md": {
-    "hash": "f863631ba777daae34d3a306fdf3e0975bf803fa",
-    "addedAt": "2026-11-04"
+    "hash": "6e2b1d841db946811436a461b18d6922d53168b9",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Chronic Cough.md": {
     "hash": "b4456d09287617acaf775791f18f25ef68792247",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Community-Acquired Pneumonia.fr.md": {
-    "hash": "47b797d3777ffd2b46b303b54d16d9ea5e7750d8",
-    "addedAt": "2026-11-04"
+    "hash": "cc888759d35826fa57612c3e9885bbeca9facc66",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Community-Acquired Pneumonia.md": {
     "hash": "b6edea266d34501b30102fd0bf18c61d4cc0b99d",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Lung Cancer.fr.md": {
-    "hash": "588eed092aa453c2c5ea95ad2ffd57eee3a4a15f",
-    "addedAt": "2026-11-04"
+    "hash": "96ec944777027c95a9a60b5a49da0221fc3a69ef",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Lung Cancer.md": {
     "hash": "03a21323ff37721bf0c0409ec5d6931c368ca7cd",
@@ -269,120 +307,135 @@
     "updatedAt": "2026-11-03"
   },
   "Pneumology/Massive Hemoptysis.fr.md": {
-    "hash": "47dd0d7a71518ad169956f6ee66a785876c8ab53",
-    "addedAt": "2026-11-04"
+    "hash": "c684432c6d591322d16b32213f27d83ae68c8cfe",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Massive Hemoptysis.md": {
     "hash": "143c99aa669359fdbb4367fdff8a2fae5f7c0b04",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Obstructive Sleep Apnea.fr.md": {
-    "hash": "4267a70a1b8cd07baf0afb8153dacf203c15ad80",
-    "addedAt": "2026-11-04"
+    "hash": "bbd31b96b043f2767bec8d1d9e54e7d14be14c01",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Obstructive Sleep Apnea.md": {
     "hash": "1876a75b52ee60ac477261d2f5a0d22740caaf94",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Pleural Disease.fr.md": {
-    "hash": "4ad05525cab37968150aea636b97975a70772cfb",
-    "addedAt": "2026-11-04"
+    "hash": "0513194b4a32f9be34b233399ce104dd3df77189",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Pleural Disease.md": {
     "hash": "7363d1a24000d3a22f33cbfc432f7f6454d1172e",
     "addedAt": "2026-11-02"
   },
   "Pneumology/Pneumothorax.fr.md": {
-    "hash": "9cf51024b918b5a02e7d90037640ddd284af7815",
-    "addedAt": "2026-11-04"
+    "hash": "94ca3505a8896b247d45735d520a73f1a9cd7d8a",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Pneumology/Pneumothorax.md": {
     "hash": "99c78753dad21d80eec6c8c7151b74220f509f1d",
     "addedAt": "2026-11-02"
   },
   "Surgery/Abdominal Trauma.fr.md": {
-    "hash": "8897a76b406046156d9ddcd090cc5bbecc1520db",
-    "addedAt": "2026-11-04"
+    "hash": "729466a25b1acca65ce97f2bb3ec61c5691b7228",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Abdominal Trauma.md": {
     "hash": "0eb6bc0836a213bf87fef9dd577f0e5da3536616",
     "addedAt": "2026-11-03"
   },
   "Surgery/Acute Abdomen.fr.md": {
-    "hash": "994a24360d7a0dc938669e43b3485d975edb1ad3",
-    "addedAt": "2026-11-04"
+    "hash": "0f8759787c0ada57a3ad27d169edd95a10a381fa",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Acute Abdomen.md": {
     "hash": "074376c94bad9bff753c9b51d6336b15a7ca9e87",
     "addedAt": "2026-11-03"
   },
   "Surgery/Acute Appendicitis.fr.md": {
-    "hash": "0c8de797305dec44e9bb0a654485b420e69a7c97",
-    "addedAt": "2026-11-04"
+    "hash": "3d702e0ba61b976e1f3e00498422dac2596e004c",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Acute Appendicitis.md": {
     "hash": "d1a8d0a1d6adbe0af0ba2fe7fab6125701e4115f",
     "addedAt": "2026-11-03"
   },
   "Surgery/Acute Cholangitis.fr.md": {
-    "hash": "53de972309187af0e89a5e4bd03f112909c25fa0",
-    "addedAt": "2026-11-04"
+    "hash": "fdb31c1fc064fec411f4d4513e1f9d0268e078fc",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Acute Cholangitis.md": {
     "hash": "b36a0286bd03f97a46d39e08bcf6b2659857674a",
     "addedAt": "2026-11-03"
   },
   "Surgery/Acute Cholecystitis.fr.md": {
-    "hash": "c6ef3058b5d5b3d8c624532b7c6449886c555991",
-    "addedAt": "2026-11-04"
+    "hash": "f9dac1469def47d27efcfd6bbe5a9504aef92295",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Acute Cholecystitis.md": {
     "hash": "7d7cc969e47ebd7715263cdc9510d6e5685c77ef",
     "addedAt": "2026-11-03"
   },
   "Surgery/Acute Mesenteric Ischemia.fr.md": {
-    "hash": "8d710f1a789072c97ab99ad8e8d016954224dcb6",
-    "addedAt": "2026-11-04"
+    "hash": "3b49a528e669a2580db5900b06c3b70394878e71",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Acute Mesenteric Ischemia.md": {
     "hash": "55dde6ae5cbec62a75c1690dfa22ae2677b63ff1",
     "addedAt": "2026-11-03"
   },
   "Surgery/Gallstone Disease.fr.md": {
-    "hash": "8864ecb21e5b713eacaee26a512d063f88f1165f",
-    "addedAt": "2026-11-04"
+    "hash": "00cb066d86711214c43ab9d6f811a5feaeaf09f0",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Gallstone Disease.md": {
     "hash": "651ef59a310e157a1882cfb15403871fa9282c7d",
     "addedAt": "2026-11-03"
   },
   "Surgery/Hernias.fr.md": {
-    "hash": "e262f7984c6c355620e12ba5f4bd26c9cf2495e9",
-    "addedAt": "2026-11-04"
+    "hash": "83b05fac7582b5f53d323ad8c795f4b3401c9328",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Hernias.md": {
     "hash": "354dd9cb69d15a69efc7d4b3f1cb8fa7c04ffd66",
     "addedAt": "2026-11-03"
   },
   "Surgery/Intestinal Obstruction.fr.md": {
-    "hash": "9e9223e524c575ade77e3e3c08be21f84d41dd26",
-    "addedAt": "2026-11-04"
+    "hash": "0ad96dc350d58cac83f24a4823bccb60e74805ef",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Intestinal Obstruction.md": {
     "hash": "f900402c3a933738da8a5079292e71638b39ce49",
     "addedAt": "2026-11-03"
   },
   "Surgery/Perforated Viscus - Peritonitis.fr.md": {
-    "hash": "64241fcac514482f24bf34f72f72bfb8d02df4b4",
-    "addedAt": "2026-11-04"
+    "hash": "e7dde925548d037310a8892ba35e460b0827c1bb",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Perforated Viscus - Peritonitis.md": {
     "hash": "226a714fbab7c582c6b608660d91b5518afdb28a",
     "addedAt": "2026-11-03"
   },
   "Surgery/Severe IBD Flare.fr.md": {
-    "hash": "df815a3b8725943543e5a014a96a5fff2ff6f669",
-    "addedAt": "2026-11-04"
+    "hash": "e3ae7b70ed54cb1e17b4d1aac0dcc85809852138",
+    "addedAt": "2026-11-04",
+    "updatedAt": "2026-11-04"
   },
   "Surgery/Severe IBD Flare.md": {
     "hash": "bd0bcb2e378aebb269d9b20e4d41e3c328a7def5",

@@ -6,11 +6,6 @@ aliases:
   - Plaie Pénétrante Abdominale
   - Lésion Splénique Traumatique
   - Lésion Hépatique Traumatique
-sources:
-  - title: Recommandations ATLS - Advanced Trauma Life Support, 10th Edition
-    kind: reference
-  - title: Recommandations WSES - World Society of Emergency Surgery Guidelines on Spleen & Liver Trauma
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -119,6 +114,8 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 29 ans est admis après un choc violent à moto contre une glissière. À l'arrivée au déchocage : FC 134 bpm, PA 78/48 mmHg, abdomen distendu douloureux. Le protocole de transfusion massive 1:1:1 et l'acide tranexamique IV sont débutés immédiatement. L'échographie FAST au lit du patient objective un épanchement anéchogène abondant dans les espaces de Morison et spléno-rénal. Le scanner est court-circuité : il est transféré directement au bloc opératoire pour laparotomie médiane exploratrice. La rate, éclatée en plusieurs fragments avec saignement actif massif (Grade V), est réséquée par splénectomie totale avec hémostase complète et stabilisation tensionnelle immédiate. Le patient reçoit ses vaccins contre le pneumocoque, le méningocoque et l'Haemophilus 14 jours après l'intervention.
 
-> [!example]- Références & Recommandations
-> - ATLS (Advanced Trauma Life Support) Student Course Manual, 10th Edition — American College of Surgeons
-> - WSES Guidelines for the management of splenic and liver trauma — World Society of Emergency Surgery
+> [!example]- Références
+>
+> - ATLS (Advanced Trauma Life Support) Student Course Manual, 10th Edition — American College of Surgeons — 2018 — https://www.facs.org/quality-programs/trauma/education/advanced-trauma-life-support/
+> - Splenic Trauma: WSES Classification and Guidelines for Adult and Pediatric Patients — World Society of Emergency Surgery — 2017 — https://wjes.biomedcentral.com/articles/10.1186/s13017-017-0151-4
+> - Liver Trauma: WSES 2020 Clinical Practice Guidelines — World Society of Emergency Surgery — 2020 — https://wjes.biomedcentral.com/articles/10.1186/s13017-020-00302-7

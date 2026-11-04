@@ -1,8 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Languages } from "lucide-react";
-import type { Note, Source } from "@/lib/library";
+import type { Note } from "@/lib/library";
 import { fmtDate } from "@/lib/format";
 import { KindBadge } from "@/components/kind-badge";
 import { CalloutControls } from "@/components/callout-controls";
@@ -34,12 +33,11 @@ export function BilingualNoteView({
   crumbs: Crumb[];
 }) {
   const hasFr = Boolean(note.fr && contentFr);
-  const { lang, isFr: preferredIsFr, setLang, t, tSpecialty } = useTranslation();
+  const { isFr: preferredIsFr, t, tSpecialty } = useTranslation();
 
   const isFr = preferredIsFr && hasFr;
   const currentTitle = isFr ? note.fr!.title : note.title;
   const currentOutline = isFr ? outlineFr : outlineEn;
-  const currentSources: Source[] = isFr && note.fr?.sources?.length ? note.fr.sources : note.sources;
   const currentUpdatedAt = isFr && note.fr?.updatedAt ? note.fr.updatedAt : note.updatedAt;
 
   return (
@@ -60,40 +58,6 @@ export function BilingualNoteView({
         <header className="note-head">
           <div className="note-title-row">
             <h1>{currentTitle}</h1>
-
-            {/* Language Switcher */}
-            <div className="lang-switcher-wrap">
-              {hasFr ? (
-                <div className="lang-switcher" role="group" aria-label="Language selection">
-                  <Languages size={14} className="lang-icon" aria-hidden />
-                  <button
-                    type="button"
-                    className="lang-btn"
-                    data-active={lang === "en"}
-                    aria-pressed={lang === "en"}
-                    onClick={() => setLang("en")}
-                    title="Switch to English"
-                  >
-                    EN
-                  </button>
-                  <span className="lang-divider" aria-hidden>|</span>
-                  <button
-                    type="button"
-                    className="lang-btn"
-                    data-active={lang === "fr"}
-                    aria-pressed={lang === "fr"}
-                    onClick={() => setLang("fr")}
-                    title="Passer en français"
-                  >
-                    FR
-                  </button>
-                </div>
-              ) : (
-                <span className="lang-badge" title={t("onlyEnNotice")}>
-                  {preferredIsFr ? "FR indisponible" : "EN only"}
-                </span>
-              )}
-            </div>
           </div>
 
           {note.aliases.length > 0 && (
@@ -179,37 +143,6 @@ export function BilingualNoteView({
         <CalloutControls>
           {isFr ? contentFr : contentEn}
         </CalloutControls>
-
-        {/* Sources */}
-        {currentSources.length > 0 ? (
-          <section className="sources" aria-labelledby="sources-h">
-            <h2 id="sources-h">{t("sourcesTitle")}</h2>
-            <ul>
-              {currentSources.map((s, i) => (
-                <li key={i}>
-                  <span className={s.kind === "own" ? "badge badge-own" : "badge badge-ref"}>
-                    {s.kind === "own"
-                      ? isFr ? "Notes personnelles" : "Own notes"
-                      : isFr ? "Référence clinique" : "Reference"}
-                  </span>{" "}
-                  {s.url ? (
-                    <a href={s.url} target="_blank" rel="noopener noreferrer">
-                      {s.title}
-                    </a>
-                  ) : (
-                    s.title
-                  )}
-                </li>
-              ))}
-            </ul>
-          </section>
-        ) : (
-          <p className="no-sources">
-            {isFr
-              ? "Aucune source externe renseignée dans les métadonnées."
-              : "No sources recorded in the frontmatter of this note."}
-          </p>
-        )}
 
         {/* Related Notes */}
         {related.length > 0 && (

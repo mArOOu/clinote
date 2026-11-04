@@ -5,11 +5,6 @@ aliases:
   - Dissection Aortique
   - Hématome Intramural
   - Ulcère Athéromateux Pénétrant
-sources:
-  - title: Recommandations ESC - Diagnostic et prise en charge des maladies de l'aorte
-    kind: reference
-  - title: Recommandations ACC/AHA - Prise en charge des pathologies aortiques
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -110,6 +105,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 62 ans, hypertendu, présente une douleur thoracique rétrosternale et dorsale brutale, d'intensité maximale d'emblée à 10/10. Aux urgences : PA 190/100 mmHg au bras droit contre 155/85 mmHg au bras gauche, FC 92 bpm. L'angio-TDM confirme une dissection de Stanford Type A avec flap étendu de la racine aortique jusqu'aux artères iliaques. Un traitement par Ésmolol IV est débuté immédiatement, associé à la Nicardipine après obtention d'une FC à 58 bpm. Le chirurgien cardiaque est activé sans délai pour remplacement prothétique de l'aorte ascendante.
 
-> [!example]- Références & Recommandations
-> - 2024 ESC Guidelines on the management of aortic diseases — European Heart Journal
-> - 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease — Circulation
+> [!example]- Références
+>
+> - Recommandations ESC sur le diagnostic et la prise en charge des maladies aortiques — European Heart Journal — 2024 — https://doi.org/10.1093/eurheartj/ehae178
+> - Recommandations ACC/AHA sur la prise en charge des pathologies aortiques — Circulation — 2022 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106

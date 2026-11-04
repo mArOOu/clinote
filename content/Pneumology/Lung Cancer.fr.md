@@ -6,11 +6,6 @@ aliases:
   - Carcinome Broncho-Pulmonaire
   - CBNPC
   - CBPC
-sources:
-  - title: Recommandations ESMO - Non-Small-Cell Lung Cancer & Small-Cell Lung Cancer Guidelines
-    kind: reference
-  - title: Institut National du Cancer (INCa) / SPLF - Cancers broncho-pulmonaires
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -113,6 +108,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 62 ans, tabagique à 40 paquets-années, consulte pour une toux persistante depuis 2 mois avec deux épisodes d'expectorations striées de sang (hémoptysie minime) et un amaigrissement de 4 kg. La radiographie puis le scanner thoracique révèlent une masse spiculée de 38 mm du lobe supérieur droit avec adénomégalies médiastinales latéro-trachéales droites (N2). L'écho-endoscopie bronchique (EBUS) avec ponction ganglionnaire confirme un adénocarcinome TTF-1 positif. Le séquençage haut débit (NGS) met en évidence une mutation exon 19 d'EGFR, et l'IRM cérébrale écarte toute métastase à distance. Il débute un traitement ciblé de première intention par Osimertinib en RCP avec régression tumorale objective majeure au premier bilan d'évaluation.
 
-> [!example]- Références & Recommandations
-> - ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of metastatic non-small cell lung cancer — Annals of Oncology — 2023
-> - Recommandations INCa / SPLF — Prise en charge des cancers broncho-pulmonaires de l'adulte
+> [!example]- Références
+>
+>
+> - NCCN Clinical Practice Guidelines in Oncology: Non-Small Cell Lung Cancer & Small Cell Lung Cancer — National Comprehensive Cancer Network (NCCN) — 2025/2026 (https://www.nccn.org/)
+> - Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement — USPSTF — 2021 (https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening)
+> - ASCO Living Guideline: Therapy for Stage IV Non-Small-Cell Lung Cancer With and Without Driver Alterations — ASCO — 2024/2025 (https://ascopubs.org/)

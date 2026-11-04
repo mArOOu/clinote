@@ -139,5 +139,6 @@ Compare:
 > <!-- Personal notes, clinical encounters, and ward experiences -->
 
 > [!example]- Resources
-> - 2019 ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism — European Heart Journal — 2019
-> - CHEST Guideline and Expert Panel Report: Antithrombotic Therapy for VTE Disease — CHEST — 2021 Update
+>
+> - 2019 ESC Guidelines for the Diagnosis and Management of Acute Pulmonary Embolism — European Heart Journal — 2019 — https://academic.oup.com/eurheartj/article/41/4/543/5556136
+> - Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report — CHEST — 2021 — https://doi.org/10.1016/j.chest.2021.07.055

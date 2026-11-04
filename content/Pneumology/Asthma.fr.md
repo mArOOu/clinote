@@ -5,11 +5,6 @@ aliases:
   - Asthme Allergique
   - Asthme Toux-Variante
   - Maladie Asthmatique
-sources:
-  - title: Recommandations GINA - Global Strategy for Asthma Management and Prevention
-    kind: reference
-  - title: Collège des Enseignants de Pneumologie (CEP) & SPLF - Asthme de l'adulte
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -107,6 +102,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une jeune femme de 26 ans, ayant un terrain de rhinite allergique saisonnière, consulte pour une toux sèche quinteuse nocturne l'obligeant à s'asseoir plusieurs nuits par semaine, accompagnée d'un sifflement expiratoire lors des séances de sport. La spirométrie initiale objective un trouble obstructif modéré avec un VEMS à 72% de la valeur théorique et un rapport VEMS/CV à 0,65. Quinze minutes après inhalation de 400 mcg de salbutamol, le VEMS augmente de 380 mL (+18%), signant un trouble ventilatoire obstructif très réversible caractéristique d'un asthme bronchique. Mise sous association Budésonide-Formotérol à faible dose selon la stratégie MART, elle constate la disparition complète des réveils nocturnes et une reprise sans gêne de ses activités sportives au contrôle à 1 mois.
 
-> [!example]- Références & Recommandations
-> - Global Initiative for Asthma (GINA) — 2024 Strategy Report
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Diagnostic et suivi de l'asthme de l'adulte
+> [!example]- Références
+>
+>
+> - Global Strategy for Asthma Management and Prevention — GINA — 2024/2025 (https://ginasthma.org/reports/)
+> - Asthma: Diagnosis, Monitoring and Chronic Asthma Management — BTS/NICE/SIGN (NG245) — 2024 (https://www.nice.org.uk/guidance/ng245)
+> - ERS/ATS Technical Standard on Interpretive Strategies for Routine Lung Function Tests — ERS/ATS — 2022 (https://erj.ersjournals.com/content/60/1/2101499)

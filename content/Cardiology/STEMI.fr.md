@@ -4,9 +4,6 @@ aliases:
   - STEMI
   - Syndrome Coronarien Aigu ST+
   - Infarctus du myocarde transmural
-sources:
-  - title: Recommandations ESC - Prise en charge du syndrome coronarien aigu
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -77,3 +74,8 @@ sources:
 > - Insuffisance cardiaque gauche aiguë.
 > - Choc cardiogénique avec mortalité hospitalière élevée.
 > - Réocclusion coronaire ou thrombose aiguë de stent.
+
+> [!example]- Références
+>
+> - Recommandations ESC sur la prise en charge des syndromes coronariens aigus — European Heart Journal — 2023 — https://academic.oup.com/eurheartj/article/44/38/3720/7243210
+> - Recommandations ACCF/AHA sur la prise en charge de l'infarctus du myocarde avec sus-décalage de ST — Circulation — 2013 — https://www.ahajournals.org/doi/10.1161/CIR.0b013e3182742cf6

@@ -5,11 +5,6 @@ aliases:
   - Apnées du Sommeil
   - Syndrome d'Apnées Obstructives du Sommeil
   - SAOS
-sources:
-  - title: Recommandations AASM - Clinical Practice Guideline for Diagnostic Testing and Management of Adult OSA
-    kind: reference
-  - title: Société Française de Recherche et Médecine du Sommeil (SFRMS) & SPLF - Prise en charge du SAHOS
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -111,6 +106,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 51 ans, chauffeur routier, en surpoids (IMC 33 kg/m2, tour de cou 43 cm) et suivi pour une HTA résistante sous triple thérapie, consulte sur l'insistance de son épouse en raison de ronflements majeurs et d'arrêts respiratoires nocturnes répétés. Il rapporte une somnolence diurne sévère avec un score d'Epworth à 15/24. La polygraphie ventilatoire confirme un SAHOS très sévère avec un IAH à 46 événements par heure et une désaturation minimale à 78%. L'instauration d'un traitement par Pression Positive Continue (PPC) nasale auto-pilotée permet dès la première semaine la disparition complète des ronflements, une régression de la somnolence (Epworth à 4/24) et une normalisation remarquable de ses chiffres tensionnels.
 
-> [!example]- Références & Recommandations
-> - Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea — AASM — 2017/2021
-> - Recommandations de la Société Française de Recherche et Médecine du Sommeil (SFRMS) — Prise en charge du SAHOS de l'adulte
+> [!example]- Références
+>
+>
+> - Clinical Practice Guideline for Diagnostic Testing for Adult Obstructive Sleep Apnea — American Academy of Sleep Medicine (AASM) — 2017 (https://jcsm.aasm.org/doi/10.5664/jcsm.6506)
+> - Treatment of Adult Obstructive Sleep Apnea with Positive Airway Pressure: An AASM Clinical Practice Guideline — AASM — 2019 (https://jcsm.aasm.org/doi/10.5664/jcsm.7640)
+> - Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity (SURMOUNT-OSA) — NEJM — 2024 (https://www.nejm.org/doi/full/10.1056/NEJMoa2404881)

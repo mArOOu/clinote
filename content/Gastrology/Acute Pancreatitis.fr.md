@@ -5,13 +5,6 @@ aliases:
   - Pancréatite Aiguë Biliaire
   - Pancréatite Nécrosante
   - Nécrose Pancréatique
-sources:
-  - title: Recommandations ACG 2024 - Management of Acute Pancreatitis
-    kind: reference
-  - title: Essai WATERFALL 2022 - Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis (NEJM)
-    kind: reference
-  - title: Recommandations AGA 2020 - Management of Pancreatic Necrosis
-    kind: reference
 ---
 
 > [!abstract] Pancréatite Aiguë
@@ -137,7 +130,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Une femme de 48 ans consulte pour une douleur épigastrique continue et atroce apparue il y a 8 heures, irradiant en barre transfixiante vers le dos avec vomissements bilieux répétés. Les constantes montrent une FC à 108 bpm et une PA à 112/70 mmHg ; la biologie objective une lipasémie à 1 850 UI/L (> 3× LSN), des ALAT à 240 UI/L, une urée à 16 mg/dL (5,7 mmol/L) et un hématocrite à 41 %. L'échographie abdominale retrouve une lithiase vésiculaire avec une voie biliaire principale fine à 4 mm sans signe d'angiocholite. Elle reçoit une réhydratation modérée au **Ringer Lactate à 1,5 mL/kg/h**, des morphiniques IV, reprend une alimentation orale légère à 24 heures sans récidive douloureuse et bénéficie d'une **cholécystectomie laparoscopique au cours de la même hospitalisation** avant son retour à domicile.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - ACG Clinical Guideline: Management of Acute Pancreatitis — American College of Gastroenterology — 2024 — https://journals.lww.com/ajg/fulltext/2024/03000/american_college_of_gastroenterology_guidelines_.14.aspx
 > - Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis (WATERFALL Trial) — New England Journal of Medicine — 2022 — https://www.nejm.org/doi/full/10.1056/NEJMoa2202884

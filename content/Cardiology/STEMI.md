@@ -120,5 +120,6 @@ Compare:
 > N/A
 
 > [!example]- Resources
-> - 2023 ESC Guidelines for the management of acute coronary syndromes — ESC — 2023
-> - 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction — ACCF/AHA — 2013
+>
+> - 2023 ESC Guidelines for the Management of Acute Coronary Syndromes — European Heart Journal — 2023 — https://academic.oup.com/eurheartj/article/44/38/3720/7243210
+> - 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction — Circulation — 2013 — https://www.ahajournals.org/doi/10.1161/CIR.0b013e3182742cf6

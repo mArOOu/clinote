@@ -115,5 +115,6 @@ compare: Obstructive shock, Hypovolemic shock, Septic shock
 > 
 
 > [!example]- Resources
-> - AHA/ACC/HFSA Guideline for the Management of Heart Failure — 2022
-> - SCAI Clinical Expert Consensus Statement on the Classification of Cardiogenic Shock — 2022
+>
+> - SCAI Clinical Expert Consensus Statement on the Classification of Cardiogenic Shock — Catheterization and Cardiovascular Interventions — 2022 — https://doi.org/10.1016/j.jscai.2021.100008
+> - 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure — Circulation — 2022 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063

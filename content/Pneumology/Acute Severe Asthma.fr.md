@@ -5,11 +5,6 @@ aliases:
   - AAG
   - État de Mal Asthmatique
   - Crise d'Asthme Aiguë Sévère
-sources:
-  - title: Recommandations GINA - Global Strategy for Asthma Management and Prevention
-    kind: reference
-  - title: Recommandations SFAR / SPLF / SRLF - Prise en charge de l'asthme aigu grave
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -113,6 +108,8 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une jeune femme de 22 ans, asthmatique sous-traitée, consulte au déchocage pour une crise d'asthme majeure depuis 4 heures, ne répondant plus à son inhalateur de secours. Cliniquement : assise penchée en avant, sueurs profuses, ne prononce que des syllabes isolées, FR 34/min, FC 132 bpm, SpO2 à 87% en air ambiant. Le DEP mesuré est à 120 L/min (24% de sa valeur théorique). La gazométrie artérielle montre un pH à 7,33 avec une PaCO2 à 42 mmHg (normocapnie pathologique traduisant l'épuisement). Elle est mise sous oxygène à 4 L/min, reçoit immédiatement 3 nébulisations successives de Salbutamol 5 mg + Ipratropium 0,5 mg, 80 mg de Méthylprednisolone IV et une perfusion de 2 g de Sulfate de Magnésium. Au bout d'une heure, la dyspnée régresse, la SpO2 remonte à 95% et le DEP atteint 65% de la valeur théorique, évitant l'intubation en réanimation.
 
-> [!example]- Références & Recommandations
-> - Global Initiative for Asthma (GINA) — Global Strategy for Asthma Management and Prevention 2024
-> - Recommandations formalisées d'experts SFAR / SPLF / SRLF — Prise en charge de l'asthme aigu grave
+> [!example]- Références
+>
+>
+> - Global Strategy for Asthma Management and Prevention — GINA — 2024 (https://ginasthma.org/reports/)
+> - British Guideline on the Management of Asthma — BTS/SIGN/NICE — 2024 (https://www.nice.org.uk/guidance/ng245)

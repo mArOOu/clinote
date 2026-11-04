@@ -6,13 +6,6 @@ aliases:
   - Hémorragie Diverticulaire
   - Saignement Digestif Bas
   - Angiodysplasies Coliques
-sources:
-  - title: Recommandations ACG 2023 - Management of Patients With Acute Lower Gastrointestinal Bleeding
-    kind: reference
-  - title: Recommandations ESGE 2021 - Diagnosis and Management of Acute Lower Gastrointestinal Bleeding
-    kind: reference
-  - title: Recommandations BSG 2019 - Diagnosis and Management of Acute Lower Gastrointestinal Bleeding
-    kind: reference
 ---
 
 > [!abstract] Hémorragie Digestive Basse Aiguë
@@ -143,7 +136,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Une femme de 74 ans suivie pour hypertension artérielle consulte pour l'émission brutale et indolore de volumineuses selles sanglantes de couleur marron foncé avec sensation de malaise lipothymique. Les constantes montrent une FC à 118 bpm et une PA à 98/62 mmHg (Index de Choc = 1,2) ; le taux d'hémoglobine est à 7,6 g/dL. Après mise en place de deux voies veineuses de 18G et remplissage cristalloïde, un **Angioscanner Biphasique (CTA)** est réalisé d'emblée (court-circuitant la coloscopie en raison de l'instabilité hémodynamique), mettant en évidence une fuite active intraluminale de produit de contraste au niveau d'un diverticule du côlon sigmoïde. Elle bénéficie dans l'heure d'une **embolisation artérielle suprasélective par micro-coils en radiologie interventionnelle** avec succès complet immédiat et régression des rectorragies.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - ACG Clinical Guideline: Management of Patients With Acute Lower Gastrointestinal Bleeding — American College of Gastroenterology — 2023 — https://journals.lww.com/ajg/fulltext/2023/02000/management_of_patients_with_acute_lower.14.aspx
 > - ESGE Guideline: Diagnosis and Management of Acute Lower Gastrointestinal Bleeding — European Society of Gastrointestinal Endoscopy — 2021 — https://www.esge.com/esge-guideline-acute-lower-gi-bleeding-2021/

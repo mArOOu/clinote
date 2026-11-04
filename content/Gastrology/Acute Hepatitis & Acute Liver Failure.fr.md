@@ -6,13 +6,6 @@ aliases:
   - Hépatite Aiguë Grave
   - Intoxication au Paracétamol
   - Nécrose Hépatique Aiguë
-sources:
-  - title: Recommandations ACG 2023 - Clinical Guideline on Acute Liver Failure
-    kind: reference
-  - title: Recommandations EASL 2017 - Management of Acute (Fulminant) Liver Failure
-    kind: reference
-  - title: Recommandations AASLD - Management of Acute Liver Failure
-    kind: reference
 ---
 
 > [!abstract] Hépatite Aiguë & Insuffisance Hépatique Aiguë
@@ -149,7 +142,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Une jeune femme de 24 ans est admise pour des nausées, des douleurs de l'hypochondre droit et une désorientation temporelle apparues 36 heures après l'ingestion de 15 grammes de paracétamol dans un contexte autolytique. Les constantes montrent une FC à 112 bpm et une PA à 102/64 mmHg ; l'examen retrouve un subictère conjonctival et un **astérixis net (Encéphalopathie Hépatique de Stade II selon West Haven)**. Les examens de laboratoire mettent en évidence des ASAT à 6 400 UI/L, des ALAT à 7 200 UI/L, une bilirubine totale à 3,8 mg/dL (65 µmol/L), un **INR à 3,2 (TP à 18 %)**, une glycémie à 0,52 g/L (2,9 mmol/L), une créatininémie à 1,8 mg/dL (160 µmol/L) et un ammoniac artériel à 140 µmol/L. Le protocole de **N-Acétylcystéine IV (NAC)** et une **perfusion de Sérum Glucosé à 10 %** sont immédiatement démarrés, les **PFC sont proscrits** (aucun saignement actif, préservation de la valeur pronostique de l'INR) et elle est transférée par SAMU en **réanimation dans un Centre de Transplantation Hépatique**.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - ACG Clinical Guideline: Acute Liver Failure — American College of Gastroenterology — 2023 — https://journals.lww.com/ajg/fulltext/2023/07000/acg_clinical_guideline__acute_liver_failure.14.aspx
 > - EASL Clinical Practical Guidelines on the Management of Acute (Fulminant) Liver Failure — European Association for the Study of the Liver — 2017 — https://www.journal-of-hepatology.eu/article/S0168-8278(16)30708-5/fulltext

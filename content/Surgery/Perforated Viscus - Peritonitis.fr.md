@@ -7,13 +7,6 @@ aliases:
   - Ulcère Perforé
   - Diverticulite Perforée
   - Syndrome de Boerhaave
-sources:
-  - title: Recommandations WSES 2020 - Perforated and Bleeding Peptic Ulcer
-    kind: reference
-  - title: Recommandations WSES 2020 - Management of Acute Colonic Diverticulitis in Emergency Setting
-    kind: reference
-  - title: Essai STOP-IT - Trial of Short-Course Antimicrobial Therapy for Intraabdominal Infection (NEJM)
-    kind: reference
 ---
 
 > [!abstract] Péritonite Aiguë & Perforation d'Organe Creux
@@ -159,7 +152,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Un homme de 58 ans suivi pour gonarthrose sévère sous naproxène quotidien à forte dose consulte pour l'apparition brutale, il y a 4 heures, d'une douleur abdominale intolérable en coup de poignard née dans l'épigastre et irradiant vers l'épaule droite. Les constantes montrent une température à 38,2 °C, une FC à 122 bpm et une PA à 92/58 mmHg ; le patient est immobile en décubitus dorsal avec un **abdomen « de bois » rigide et invincible**, une douleur diffuse à la décompression et un silence auscultatoire complet. La biologie met en évidence 19 500 leucocytes/µL et des lactates à 3,4 mmol/L ; une **radiographie pulmonaire debout au lit du malade** objective un **pneumopéritoine franc bilatéral sous forme de volumineux croissants gazeux sous les deux coupoles diaphragmatiques**. Il est immédiatement réanimé par **30 mL/kg de Ringer Lactate**, mis sous sonde naso-gastrique, reçoit une première dose de **Pipéracilline-Tazobactam, Fluconazole et Pantoprazole IV** dans les 30 minutes et est acheminé **directement au bloc opératoire (sans délai pour un scanner)** : il bénéficie d'une **suture-épiploïdie selon Graham par voie cœlioscopique** d'une perforation de 1 cm de la face antérieure du bulbe duodénal avec lavage péritonéal abondant.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - Perforated and Bleeding Peptic Ulcer: WSES Guidelines — World Society of Emergency Surgery — 2020 — https://wjes.biomedcentral.com/articles/10.1186/s13017-019-0283-9
 > - 2020 Update of the WSES Guidelines for the Management of Acute Colonic Diverticulitis in the Emergency Setting — World Society of Emergency Surgery — 2020 — https://wjes.biomedcentral.com/articles/10.1186/s13017-020-00313-4

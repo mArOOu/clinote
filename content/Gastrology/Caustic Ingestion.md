@@ -121,5 +121,6 @@ Compare: [Boerhaave Syndrome, Foreign Body Ingestion, Esophagitis, Thermal Airwa
 > <!-- Personal notes, clinical encounters, and ward experiences -->
 
 > [!example]- Resources
-> - Management of Caustic Ingestion in Adults — World Journal of Gastrointestinal Endoscopy — 2020 Update
-> - 2021 WSES Guidelines for the Management of Acute Caustic Ingestion in Children and Adults — World Journal of Emergency Surgery — 2021
+>
+> - WSES Guidelines on the Management of Ingestion of Caustic Substances in Adults — World Journal of Emergency Surgery — 2020 — https://wjes.biomedcentral.com/articles/10.1186/s13017-020-00343-0
+> - Management of Ingested Foreign Bodies and Caustics — Gastrointestinal Endoscopy — 2021 — https://doi.org/10.1016/j.gie.2021.03.029

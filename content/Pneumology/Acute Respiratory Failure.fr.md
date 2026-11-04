@@ -5,11 +5,6 @@ aliases:
   - IRA
   - Détresse Respiratoire Aiguë
   - Défaillance Respiratoire Aiguë
-sources:
-  - title: Collège des Enseignants de Pneumologie (CEP) & Collège des Enseignants de Réanimation (CEN)
-    kind: reference
-  - title: Recommandations SRLF / SFAR - Oxygénothérapie et support ventilatoire en réanimation
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -102,6 +97,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une patiente de 58 ans, traitée par chimiothérapie pour un cancer du sein, présente brutalement une détresse respiratoire fébrile à 39°C avec polypnée à 36/min et SpO2 à 81% en air ambiant. L'échographie pulmonaire objective une hépatisation lobaire inférieure droite avec bronchogramme dynamique et le scanner confirme une pneumonie lobaire étendue. La gazométrie artérielle sous masque à 15 L/min montre une PaO2 à 54 mmHg et une PaCO2 à 28 mmHg (PaO2/FiO2 à 110, shunt intrapulmonaire sévère). Elle est admise en réanimation pour mise sous Oxygène à Haut Débit Nasal (Optiflow à 60 L/min et FiO2 80%), permettant de remonter la SpO2 à 94% avec un index de ROX favorable à 5,2 sous antibiothérapie par Ceftriaxone et Lévofloxacine.
 
-> [!example]- Références & Recommandations
-> - Recommandations d'experts SRLF / SFAR — Support respiratoire non invasif chez l'adulte en réanimation
-> - ERS/ATS Clinical Practice Guidelines on High-Flow Nasal Cannula in Acute Respiratory Failure
+> [!example]- Références
+>
+>
+> - ERS/ATS Clinical Practice Guidelines: Noninvasive Ventilation for Acute Respiratory Failure — ERS/ATS — 2017 (https://erj.ersjournals.com/content/50/2/1602426)
+> - ESICM Guidelines on Acute Respiratory Distress Syndrome — ESICM — 2023 (https://link.springer.com/article/10.1007/s00134-023-07050-7)
+> - ATS/ESICM/SCCM Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with ARDS — ATS — 2024 (https://www.atsjournals.org/doi/full/10.1164/rccm.202311-2011ST)

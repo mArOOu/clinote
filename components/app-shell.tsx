@@ -31,7 +31,14 @@ function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: nu
   return (
     <li>
       <div className="tree-row" style={{ paddingLeft: depth * 12 }}>
-        <Link href={`/f/${folder.slug}`} className="tree-link tree-folder" data-active={pathname === `/f/${folder.slug}`}>
+        <Link
+          href={`/f/${folder.slug}`}
+          className="tree-link tree-folder"
+          data-active={pathname === `/f/${folder.slug}`}
+          onClick={() => {
+            if (!open) setOpen(true);
+          }}
+        >
           <SpecialtyIcon name={folder.title} className="tree-icon" />
           <span className="truncate flex-1">{folderTitle}</span>
           <span className="tree-count">{folder.count}</span>
@@ -40,10 +47,17 @@ function FolderNode({ folder, depth, pathname }: { folder: TreeFolder; depth: nu
           type="button"
           aria-label={open ? `${t("collapse")} ${folderTitle}` : `${t("expand")} ${folderTitle}`}
           aria-expanded={open}
-          onClick={() => setOpen(!open)}
+          onClick={(e) => {
+            e.stopPropagation();
+            setOpen(!open);
+          }}
           className="tree-chevron"
         >
-          <ChevronDown size={16} className={open ? "" : "-rotate-90"} aria-hidden />
+          <ChevronDown
+            size={16}
+            className={`tree-chevron-icon ${open ? "tree-chevron-open" : "tree-chevron-closed"}`}
+            aria-hidden
+          />
         </button>
       </div>
       {open && (

@@ -285,11 +285,15 @@ kbd {
   color: var(--muted);
   flex: none;
 }
-.tree-chevron svg {
-  transition: transform 0.15s;
+.tree-chevron svg,
+.tree-chevron-icon {
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
-.tree-chevron .rotate-90 {
-  transform: rotate(90deg);
+.tree-chevron-closed {
+  transform: rotate(-90deg);
+}
+.tree-chevron-open {
+  transform: rotate(0deg);
 }
 .tree-link {
   display: flex;

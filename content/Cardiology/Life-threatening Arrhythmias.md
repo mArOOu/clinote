@@ -138,6 +138,6 @@ Compare:
 > <!-- Personal notes, clinical encounters, and ward experiences -->
 
 > [!example]- Resources
-> - 2020 AHA Guidelines for CPR and ECC: Adult Advanced Cardiovascular Life Support — Circulation — 2020
-> - 2022 ESC Guidelines for the Management of Patients with Ventricular Arrhythmias and Prevention of Sudden Cardiac Death — European Heart Journal — 2022
-> - 2019 ESC Guidelines for the Management of Patients with Supraventricular Tachycardia — European Heart Journal — 2019
+>
+> - 2022 ESC Guidelines for the Management of Patients with Ventricular Arrhythmias — European Heart Journal — 2022 — https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+> - 2019 ESC Guidelines for the Management of Patients with Supraventricular Tachycardia — European Heart Journal — 2019 — https://academic.oup.com/eurheartj/article/41/5/655/5556821

@@ -128,5 +128,6 @@ Compare:
 > <!-- Personal notes, clinical encounters, and ward experiences -->
 
 > [!example]- Resources
-> - 2015 ESC Guidelines for the Diagnosis and Management of Pericardial Diseases — European Heart Journal — 2015
-> - Focused Update on Pericardial Effusion and Tamponade — Journal of the American Society of Echocardiography (JASE) — 2020
+>
+> - 2015 ESC Guidelines for the Diagnosis and Management of Pericardial Diseases — European Heart Journal — 2015 — https://academic.oup.com/eurheartj/article/36/42/2921/2293375
+> - Focused Update on Pericardial Effusion and Tamponade — Journal of the American Society of Echocardiography (JASE) — 2020 — https://doi.org/10.1016/j.echo.2020.03.011

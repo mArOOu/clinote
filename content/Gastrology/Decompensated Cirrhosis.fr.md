@@ -9,13 +9,6 @@ aliases:
   - Encéphalopathie Hépatique
   - Syndrome Hépatorénal
   - SHR
-sources:
-  - title: Recommandations Baveno VII 2022 - Renewing Consensus in Portal Hypertension
-    kind: reference
-  - title: Recommandations AASLD 2021 - Management of Ascites, SBP, and Hepatorenal Syndrome
-    kind: reference
-  - title: Recommandations EASL 2018 - Management of Patients with Decompensated Cirrhosis
-    kind: reference
 ---
 
 > [!abstract] Cirrhose Décompensée
@@ -152,7 +145,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Un homme de 58 ans atteint de cirrhose éthylique avec ascite connue est admis aux urgences pour l'apparition progressive depuis 48 heures d'une somnolence diurne et de propos incohérents. Les constantes montrent une température à 37,8 °C, une FC à 98 bpm et une PA à 96/58 mmHg ; l'examen met en évidence un ictère, une ascite volumineuse et un **astérixis bilidaire net (Encéphalopathie de Stade II selon West Haven)**. La biologie retrouve un sodium à 129 mmol/L, une créatinine à 1,6 mg/dL (142 µmol/L pour une valeur basale à 0,9), une bilirubine totale à 4,5 mg/dL et un INR à 1,9. La **ponction d'ascite exploratrice immédiate** objective un liquide jaune citrin avec un **taux de PNN à 480/mm³ et un GASA à 1,6 g/dL (confirmant une ISLA / PBS comme facteur déclenchant de l'encéphalopathie et de l'AKI)**. Les diurétiques et bêtabloquants sont immédiatement suspendus ; il est traité sans délai par **Ceftriaxone IV (2 g/jour)**, **Albumine à 20 % IV (1,5 g/kg à J1 puis 1,0 g/kg à J3)** et **Lactulose oral** titré pour obtenir 3 selles molles par jour, avec normalisation complète des fonctions rénale et cérébrale en quelques jours.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - Baveno VII: Renewing Consensus in Portal Hypertension — Journal of Hepatology — 2022 — https://www.journal-of-hepatology.eu/article/S0168-8278(21)02299-6/fulltext
 > - AASLD Practice Guidance on Ascites, SBP, and Hepatorenal Syndrome — Hepatology — 2021 — https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep.31884

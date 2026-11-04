@@ -138,5 +138,6 @@ Compare:
 > <!-- Personal notes, clinical encounters, and ward experiences -->
 
 > [!example]- Resources
-> - Adult Advanced Cardiovascular Life Support (ACLS) Guidelines — American Heart Association (AHA) — 2020 / 2023 Focused Update
-> - Post-Resuscitation Care Guidelines — European Resuscitation Council (ERC) & ESICM — 2021
+>
+> - 2023 AHA Focused Update on Adult Advanced Cardiovascular Life Support (ACLS) — Circulation — 2023 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001194
+> - European Resuscitation Council and European Society of Intensive Care Medicine Guidelines for Post-Resuscitation Care — Resuscitation — 2021 — https://doi.org/10.1016/j.resuscitation.2021.02.012

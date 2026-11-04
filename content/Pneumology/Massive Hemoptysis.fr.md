@@ -5,11 +5,6 @@ aliases:
   - Hémoptysie Grave
   - Hémorragie Alvéolaire
   - Saignement Bronchique Cataclysmique
-sources:
-  - title: Recommandations SPLF - Prise en charge des hémoptysies graves de l'adulte
-    kind: reference
-  - title: Collège des Enseignants de Pneumologie (CEP) & SRLF - Hémoptysie de l'adulte
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -102,6 +97,8 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 56 ans, porteur de séquelles cavitaires tuberculeuses du lobe supérieur droit, est admis en déchocage pour une hémoptysie massive d'environ 300 mL de sang rouge en 30 minutes, avec détresse respiratoire aiguë et SpO2 à 86%. Il est immédiatement installé en décubitus latéral droit (poumon droit en bas). Une nébulisation d'acide tranexamique 500 mg et une oxygénothérapie sont débutées. Devant la persistance du saignement, il est intubé avec une sonde de 8,5 mm et transféré immédiatement en salle de radiologie interventionnelle. L'artériographie confirme une hypervascularisation anarchique de l'artère bronchique droite avec extravasation active, permettant une embolisation super-sélective complète par microparticules avec arrêt immédiat et définitif du saignement.
 
-> [!example]- Références & Recommandations
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Prise en charge des hémoptysies graves de l'adulte
-> - Management of Life-Threatening Hemoptysis — CHEST Guidelines
+> [!example]- Références
+>
+>
+> - ACR Appropriateness Criteria: Hemoptysis — American College of Radiology — 2020 (https://acsearch.acr.org/docs/69469/Narrative/)
+> - Management of Life-Threatening Hemoptysis — CHEST / Critical Care Reviews — 2020/2024 (https://journal.chestnet.org/)

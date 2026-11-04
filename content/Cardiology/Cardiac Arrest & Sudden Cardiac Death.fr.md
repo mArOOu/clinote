@@ -5,11 +5,6 @@ aliases:
   - Arrêt Cardiaque
   - Mort Subite d'Origine Cardiaque
   - Réanimation Cardio-Pulmonaire
-sources:
-  - title: Recommandations ERC / SFRMU - Réanimation cardio-pulmonaire avancée de l'adulte
-    kind: reference
-  - title: Recommandations AHA - Advanced Cardiovascular Life Support (ACLS)
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -99,6 +94,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 58 ans s'effondre brutalement lors d'une réunion. Un témoin alerte les secours et commence immédiatement les compressions thoraciques. Le SMUR arrive à 7 minutes et objective une fibrillation ventriculaire. Après délivrance d'un premier choc de 200 J et 2 minutes de MCE, le rythme persiste en FV ; un second choc est administré avec injection d'1 mg d'Adrénaline. Un troisième choc couplé à 300 mg d'Amiodarone permet un retour d'activité circulatoire spontanée (RACS). L'ECG montre un infarctus antérieur étendu (STEMI) : le patient est transféré directement en salle de coronarographie sous sédation et contrôle ciblé de la température.
 
-> [!example]- Références & Recommandations
-> - 2021 European Resuscitation Council (ERC) Guidelines for Resuscitation — Resuscitation
-> - 2023 AHA Focused Update on Adult Advanced Cardiovascular Life Support — Circulation
+> [!example]- Références
+>
+> - Recommandations actualisées AHA sur la réanimation cardio-pulmonaire avancée (ACLS) — Circulation — 2023 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001194
+> - Recommandations ERC / ESICM sur la prise en charge post-arrêt cardiaque — Resuscitation — 2021 — https://doi.org/10.1016/j.resuscitation.2021.02.012

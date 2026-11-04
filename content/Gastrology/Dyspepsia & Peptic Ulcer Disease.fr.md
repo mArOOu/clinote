@@ -7,13 +7,6 @@ aliases:
   - Infection à Helicobacter pylori
   - Ulcère Gastrique
   - Ulcère Duodénal
-sources:
-  - title: Recommandations ACG 2024 - Treatment of Helicobacter pylori Infection
-    kind: reference
-  - title: Recommandations ACG / CAG 2017 - Management of Dyspepsia
-    kind: reference
-  - title: Consensus de Maastricht VI / Florence 2022 - Management of Helicobacter pylori Infection (Gut)
-    kind: reference
 ---
 
 > [!abstract] Dyspepsie & Ulcère Gastro-Duodénal (UGD)
@@ -153,7 +146,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Un homme de 42 ans consulte pour des douleurs épigastriques nocturnes à type de crampes évoluant depuis 3 mois, le réveillant régulièrement vers 1h du matin et soulagées par l'ingestion d'aliments ; il ne rapporte aucun amaigrissement, pas de dysphagie ni de méléna, et ne prend pas d'AINS. Âgé de **$< 60$ ans sans aucun signe d'alarme**, un **test respiratoire à l'urée $^{13}\text{C}$** est réalisé en ambulatoire sans pratiquer de FOGD initiale, revenant franchement positif. Il reçoit **14 jours de Quadrithérapie Bismuthée (Pylera® + Oméprazole 20 mg 2×/jour)**, tolère bien le traitement, interrompt les IPP à la fin de la cure et effectue un **test respiratoire de contrôle 4 semaines plus tard** qui confirme la négativation complète et la guérison clinique définitive.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - ACG Clinical Guideline: Treatment of Helicobacter pylori Infection — American College of Gastroenterology — 2024 — https://journals.lww.com/ajg/fulltext/2024/09000/acg_clinical_guideline__treatment_of_helicobacter.13.aspx
 > - ACG and CAG Clinical Guideline: Management of Dyspepsia — American College of Gastroenterology / Canadian Association of Gastroenterology — 2017 — https://journals.lww.com/ajg/fulltext/2017/07000/acg_and_cag_clinical_guideline__management_of.10.aspx

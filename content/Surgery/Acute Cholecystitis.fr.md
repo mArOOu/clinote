@@ -7,13 +7,6 @@ aliases:
   - Cholécystite Emphysémateuse
   - Syndrome de Mirizzi
   - Iléus Biliaire
-sources:
-  - title: Recommandations TG18 - Tokyo Guidelines 2018 on Acute Cholecystitis
-    kind: reference
-  - title: Recommandations WSES 2020 - Guidelines for the Diagnosis & Treatment of Acute Calculus Cholecystitis
-    kind: reference
-  - title: Recommandations ASGE - Role of Endoscopy in Choledocholithiasis
-    kind: reference
 ---
 
 > [!abstract] Cholécystite Aiguë
@@ -162,7 +155,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Une femme de 46 ans suivie pour obésité consulte pour une douleur persistante de l'hypochondre droit irradiant vers l'omoplate droite, apparue il y a 14 heures après un dîner copieux, accompagnée de nausées et d'une fébricule. Les constantes montrent une température à 38,4 °C, une FC à 102 bpm et une PA à 126/78 mmHg ; la palpation sous-costale droite déclenche une **inhibition inspiratoire douloureuse caractéristique (signe de Murphy positif)**. Le bilan biologique retrouve 15 200 leucocytes/µL, une bilirubine totale normale (0,8 mg/dL [14 µmol/L]), des phosphatases alcalines normales (85 UI/L) et une lipasémie normale (42 UI/L) ; l'**échographie hépato-biliaire** objective un volumineux calcul enclavé dans le collet vésiculaire, un **épaississement pariétal à 5 mm avec dédoublement liquidien péri-vésiculaire** et une voie biliaire principale fine à 4 mm (faible risque de calcul de la VBP). Mise à jeun, réhydratée par Ringer Lactate et traitée par **Ceftriaxone + Métronidazole IV**, elle bénéficie le lendemain matin d'une **cholécystectomie laparoscopique précoce** sans incident (sans nécessité d'écho-endoscopie ni de CPRE), avec arrêt des antibiotiques dès la fin de l'intervention.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - Tokyo Guidelines 2018 (TG18): Diagnostic Criteria and Severity Grading of Acute Cholecystitis & Flowchart for the Management of Acute Cholecystitis — Journal of Hepato-Biliary-Pancreatic Sciences — 2018 — https://onlinelibrary.wiley.com/doi/10.1002/jhbp.515
 > - 2020 World Society of Emergency Surgery Updated Guidelines for the Diagnosis and Treatment of Acute Calculus Cholecystitis — World Journal of Emergency Surgery — 2020 — https://wjes.biomedcentral.com/articles/10.1186/s13017-020-00336-x

@@ -5,11 +5,6 @@ aliases:
   - OAP
   - Insuffisance Cardiaque Décompensée
   - Décompensation Cardiaque Aiguë
-sources:
-  - title: Recommandations ESC - Diagnostic et traitement de l'insuffisance cardiaque aiguë et chronique
-    kind: reference
-  - title: Collège National des Enseignants de Cardiologie (CNEC) - Insuffisance cardiaque de l'adulte
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -114,6 +109,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une patiente de 71 ans ayant un antécédent d'insuffisance cardiaque à fraction d'éjection réduite (FEVG 32%) consulte aux urgences pour orthopnée majeure, toux grasse et prise de 3,5 kg en 4 jours. Clinique : PA 168/92 mmHg, FC 102 bpm, râles crépitants aux 2/3 inférieurs des deux champs pulmonaires, turgescence jugulaire et œdèmes des chevilles. L'échographie montre de multiples lignes B pulmonaires confluentes. La prise en charge immédiate associe la VNI (CPAP), un bolus de Furosémide 80 mg IV et une perfusion de dérivés nitrés IV, permettant une détresse résolue et une diurèse de 2,2 litres en 6 heures.
 
-> [!example]- Références & Recommandations
-> - 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure — European Heart Journal
-> - Recommandations de la Société Française de Cardiologie (SFC) — Prise en charge de l'insuffisance cardiaque aiguë
+> [!example]- Références
+>
+> - Recommandations ESC actualisées pour le diagnostic et le traitement de l'insuffisance cardiaque aiguë et chronique — European Heart Journal — 2023 — https://academic.oup.com/eurheartj/article/44/37/3627/7238262
+> - Recommandations AHA/ACC/HFSA sur la prise en charge de l'insuffisance cardiaque — Circulation — 2022 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063

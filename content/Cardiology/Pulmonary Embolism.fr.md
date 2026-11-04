@@ -5,11 +5,6 @@ aliases:
   - Maladie Thrombo-Embolique Veineuse
   - MTEV
   - Embolie Pulmonaire Massive
-sources:
-  - title: Recommandations ESC - Diagnostic et prise en charge de l'embolie pulmonaire aiguë
-    kind: reference
-  - title: Collège des Enseignants de Pneumologie (CEP) & Société Française de Pneumologie
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -109,6 +104,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une femme de 42 ans, sous contraception œstroprogestative et revenant d'un vol long-courrier de 11 heures, présente brutalement une dyspnée aiguë associée à un point de côté thoracique droit et une angoisse. L'examen aux urgences retrouve une fréquence respiratoire à 26/min, une fréquence cardiaque à 112 bpm, une SpO2 à 91% en air ambiant et une PA normale à 125/78 mmHg. L'auscultation pulmonaire est libre. Le score de Genève est intermédiaire. Le dosage des D-dimères revient très élevé à 2800 mcg/L. L'angio-TDM thoracique confirme une embolie pulmonaire proximale lobaire inférieure droite. Les troponines et le BNP sont normaux, et l'échographie ne montre pas de dilatation du VD (EP à bas risque). Un traitement par Apixaban est initié, avec arrêt définitif de la contraception orale.
 
-> [!example]- Références & Recommandations
-> - 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism — European Heart Journal
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Maladie thromboembolique veineuse
+> [!example]- Références
+>
+> - Recommandations ESC pour le diagnostic et la prise en charge de l'embolie pulmonaire aiguë — European Heart Journal — 2019 — https://academic.oup.com/eurheartj/article/41/4/543/5556136
+> - Recommandations CHEST sur le traitement antithrombotique de la maladie thromboembolique veineuse — CHEST — 2021 — https://doi.org/10.1016/j.chest.2021.07.055

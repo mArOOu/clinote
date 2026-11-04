@@ -5,11 +5,6 @@ aliases:
   - Angine de Poitrine Instable
   - Menace d'Infarctus
   - Syndrome Coronarien Aigu sans Nécrose
-sources:
-  - title: Recommandations ESC - Prise en charge des syndromes coronariens aigus
-    kind: reference
-  - title: Collège National des Enseignants de Cardiologie (CNEC) - Angor instable et ischémie myocardique
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -104,6 +99,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 59 ans, sans antécédent cardiaque mais tabagique et dyslipidémique, consulte pour trois épisodes de serrement thoracique rétrosternal survenus au repos au cours des dernières 24 heures, cédant spontanément en 15 minutes. L'ECG réalisé en dehors des douleurs est subnormal. Le premier dosage de troponine ultrasensible est négatif (< 5 ng/L), mais l'évaluation à H2 reste également strictement négative sans delta significatif. Devant ce tableau d'angor de repos typique, le diagnostic d'angor instable est posé. Mis sous aspirine, fondaparinux et bisoprolol, la coronarographie réalisée le lendemain met en évidence une sténose subocclusive de l'artère interventriculaire antérieure (IVA) traitée par pose d'un stent actif, sans complication.
 
-> [!example]- Références & Recommandations
-> - 2023 ESC Guidelines for the management of acute coronary syndromes — European Heart Journal
-> - Recommandations Société Française de Cardiologie (SFC) — Prise en charge de la maladie coronarienne stable et instable
+> [!example]- Références
+>
+> - Recommandations ESC sur la prise en charge des syndromes coronariens aigus — European Heart Journal — 2023 — https://academic.oup.com/eurheartj/article/44/38/3720/7243210
+> - Recommandations AHA/ACC sur les syndromes coronariens aigus sans sus-décalage de ST — Circulation — 2014 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000000134

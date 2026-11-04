@@ -5,11 +5,6 @@ aliases:
   - PFLA
   - Pneumonie Communautaire
   - Infection Pulmonaire Aiguë
-sources:
-  - title: Recommandations ATS / IDSA - Diagnosis and Treatment of Community-Acquired Pneumonia
-    kind: reference
-  - title: Collège des Enseignants de Pneumologie (CEP) & Société de Pathologie Infectieuse (SPILF)
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -117,6 +112,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 61 ans consulte pour une fièvre brutale à 39,5°C avec frissons violents, un point de côté thoracique droit et une toux ramenant des crachats rouillés depuis 24 heures. L'examen clinique retrouve une FR à 24/min, une SpO2 à 93% en air ambiant et un syndrome de condensation alvéolaire franc avec râles crépitants et souffle tubaire au niveau de la base pulmonaire droite. La radiographie thoracique confirme une opacité alvéolaire systématisée dense du lobe inférieur droit avec bronchogramme aérique. Le score CRB-65 est égal à 0. Il est traité en ambulatoire par Amoxicilline 1 g trois fois par jour pendant 5 jours, permettant une apyrexie complète à 48 heures et une disparition des symptômes à J5.
 
-> [!example]- Références & Recommandations
-> - Diagnosis and Treatment of Adults with Community-acquired Pneumonia — ATS/IDSA Guidelines — 2019
-> - Recommandations SPILF / SPLF — Prise en charge des pneumonies aiguës communautaires de l'adulte
+> [!example]- Références
+>
+>
+> - Diagnosis and Treatment of Adults with Community-Acquired Pneumonia: An Official Clinical Practice Guideline — ATS / IDSA — 2019 (https://www.atsjournals.org/doi/full/10.1164/rccm.201908-1581ST)
+> - ERS/ESICM/ESCMID/ALAT Guidelines for the Management of Severe Community-Acquired Pneumonia — ERS — 2023 (https://erj.ersjournals.com/content/61/4/2200735)
+> - Hydrocortisone in Severe Community-Acquired Pneumonia (CAPE COD Trial) — NEJM — 2023 (https://www.nejm.org/doi/full/10.1056/NEJMoa2215145)

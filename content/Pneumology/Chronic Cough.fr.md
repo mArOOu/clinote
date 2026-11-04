@@ -5,11 +5,6 @@ aliases:
   - Toux Chronique Inexpliquée
   - Toux Réfractaire
   - Syndrome d'Hypersensibilité Tussigène
-sources:
-  - title: Recommandations ERS - Diagnostic et prise en charge de la toux chronique chez l'adulte
-    kind: reference
-  - title: Recommandations SPLF - Conduite à tenir devant une toux chronique de l'adulte
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -110,6 +105,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une femme de 46 ans, non fumeuse, sans antécédent particulier en dehors d'une hypertension traitée par Énalapril depuis 6 mois, consulte pour une toux sèche épuisante survenue depuis 10 semaines, avec sensation de gorge irritée. La radiographie thoracique et les EFR sont strictement normales. L'examen des tympans et de l'oropharynx est sans particularité. L'Énalapril est suspendu et relayé par l'Amlodipine. Au bout de 4 semaines, la toux a totalement régressé sans nécessiter d'autre investigation, confirmant une toux iatrogène induite par les IEC.
 
-> [!example]- Références & Recommandations
-> - ERS guidelines on the diagnosis and treatment of chronic cough in adults and children — European Respiratory Journal — 2020
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Toux chronique
+> [!example]- Références
+>
+>
+> - Classification and Management of Cough: CHEST Guideline and Expert Panel Report — American College of Chest Physicians (ACCP / CHEST) — 2016/2018/2020 (https://journal.chestnet.org/)
+> - European Respiratory Society Guidelines on the Diagnosis and Treatment of Chronic Cough in Adults and Children — ERS — 2020 (https://erj.ersjournals.com/content/55/1/1901136)
+> - British Thoracic Society Clinical Statement on Chronic Cough in Adults — BTS — 2023 (https://thorax.bmj.com/content/78/Suppl_6/s3)

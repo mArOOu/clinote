@@ -6,13 +6,6 @@ aliases:
   - Urgence Abdominale Chirurgicale
   - Perforation d'Organe Creux
   - Ischémie Mésentérique Aiguë
-sources:
-  - title: Recommandations WSES - World Society of Emergency Surgery Guidelines on Acute Mesenteric Ischemia & Peritonitis
-    kind: reference
-  - title: ACR Appropriateness Criteria - Acute Nonlocalized Abdominal Pain
-    kind: reference
-  - title: Collège Français des Enseignants de Chirurgie Générale et Viscérale (CFECGV)
-    kind: reference
 ---
 
 > [!abstract] Abdomen Aigu
@@ -158,7 +151,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Une femme de 72 ans suivie pour fibrillation atriale (anticoagulation par apixaban interrompue 3 jours plus tôt pour des soins dentaires) se présente aux urgences pour l'apparition brutale, il y a 3 heures, d'une douleur péri-ombilicale atroce avec 2 épisodes de vomissements. Les constantes montrent une FC à 124 bpm (arythmie complète) et une PA à 135/80 mmHg ; l'examen abdominal retrouve un **abdomen souple, non distendu, sans défense ni contracture (« douleur disproportionnée par rapport à la pauvreté de l'examen physique »)**, et le taux de lactate initial est normal à 1,6 mmol/L. Évoquant d'emblée une **Ischémie Mésentérique Aiguë**, le praticien administre de la morphine IV, débute une **perfusion d'héparine non fractionnée IV**, prescrit en urgence un **Angioscanner Biphasique (CTA)** (qui visualise une occlusion embolique du tronc de l'**Artère Mésentérique Supérieure**) et l'achemine immédiatement pour une **embolectomie de l'AMS au bloc opératoire** avant l'installation d'une nécrose transmurale irréversible du grêle.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - WSES Guidelines: Acute Mesenteric Ischemia — World Society of Emergency Surgery — 2022 — https://wjes.biomedcentral.com/articles/10.1186/s13017-022-00443-x
 > - ACR Appropriateness Criteria: Acute Nonlocalized Abdominal Pain — American College of Radiology — 2023 — https://acsearch.acr.org/docs/69467/Narrative/

@@ -6,11 +6,6 @@ aliases:
   - Tachycardie Ventriculaire
   - Torsades de Pointes
   - Bloc Auriculo-Ventriculaire Complet
-sources:
-  - title: Recommandations ESC - Prise en charge des arythmies ventriculaires et prévention de la mort subite
-    kind: reference
-  - title: Recommandations ERC / SFRMU - Prise en charge des tachyarythmies et bradyarythmies en urgence
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -111,6 +106,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 64 ans ayant un antécédent d'infarctus du myocarde présente brutalement des palpitations violentes, des sueurs et des vertiges. Aux urgences, le moniteur montre une tachycardie régulière à complexes larges à 185 bpm avec dissociation auriculo-ventriculaire (TV monomorphe). La PA est mesurée à 74/45 mmHg avec marbrures des genoux (patient instable). Après une sédation rapide par Étomidate IV, un choc électrique synchronisé de 150 J est délivré, rétablissant instantanément un rythme sinusal régulier à 75 bpm et une PA à 120/75 mmHg. Une perfusion d'Amiodarone est mise en place avec transfert en USIC pour coronarographie et pose de DAI.
 
-> [!example]- Références & Recommandations
-> - 2022 ESC Guidelines for the management of patients with ventricular arrhythmias and the prevention of sudden cardiac death — European Heart Journal
-> - Recommandations SFC / SFRMU — Prise en charge des tachycardies et bradycardies de l'adulte
+> [!example]- Références
+>
+> - Recommandations ESC sur la prise en charge des arythmies ventriculaires et la prévention de la mort subite — European Heart Journal — 2022 — https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+> - Recommandations ESC sur la prise en charge des tachycardies supraventriculaires — European Heart Journal — 2019 — https://academic.oup.com/eurheartj/article/41/5/655/5556821

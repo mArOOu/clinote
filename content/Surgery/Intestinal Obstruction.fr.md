@@ -8,13 +8,6 @@ aliases:
   - Volvulus du Cæcum
   - Iléus Paralytique
   - Syndrome d'Ogilvie
-sources:
-  - title: Recommandations de Bologne 2017/2018 - WSES Guidelines for Adhesive Small Bowel Obstruction (ASBO)
-    kind: reference
-  - title: Recommandations ASGE 2020 - Endoscopy in Colonic Volvulus and Acute Colonic Pseudo-Obstruction
-    kind: reference
-  - title: Recommandations ASCRS 2021 - Clinical Practice Guidelines for Colonic Volvulus and Ogilvie Syndrome
-    kind: reference
 ---
 
 > [!abstract] Occlusion Intestinale Aiguë
@@ -171,7 +164,7 @@ sources:
 > **Scénario 1 (Occlusion du Grêle sur Bride) :** Une femme de 54 ans avec antécédent d'hystérectomie par laparotomie il y a 8 ans consulte pour des douleurs péri-ombilicales crampoïdes évoluant par vagues toutes les 5 minutes depuis 18 heures, avec vomissements bilieux répétés, météorisme et arrêt des gaz. Elle est apyrétique avec une FC à 88 bpm ; son abdomen est distendu et tympanique avec des bruits hydro-aériques métalliques de lutte **sans défense ni contracture**, ses leucocytes sont à 10 200/µL et ses lactates à 1,2 mmol/L. Le **scanner abdomino-pelvien injecté** montre une dilatation des anses jéjuno-iléales d'amont à 4 cm avec rehaussement pariétal conservé, une **zone de transition nette** pelvienne sur bride et un grêle distal collabé (sans boucle fermée ni ischémie). Elle est prise en charge par **mise à jeun, réhydratation par Ringer Lactate, recharge potassique et sonde naso-gastrique en aspiration**, suivie d'un **test à la Gastrografine** ; le produit de contraste franchit l'obstacle et opacifie le cæcum sur le cliché à 8 heures, les gaz reprennent le lendemain et elle s'alimente sans nécessiter de chirurgie.
 > **Scénario 2 (Syndrome d'Ogilvie) :** Un homme de 78 ans hospitalisé pour prothèse totale de hanche sous oxycodone à J4 post-opératoire développe une distension abdominale indolore monstrueuse avec silence auscultatoire complet. Le scanner avec injection IV objective un **cæcum dilaté à 12,5 cm** et un côlon droit très distendu **SANS zone de transition mécanique**, sans pneumopéritoine, avec parois bien rehaussées. Les opioïdes sont interrompus, la kaliémie et la magnésémie sont normalisées ; en raison du calibre cæcal $> 12\text{ cm}$, il est placé sous télémétrie cardiaque continue (avec atropine au lit) et reçoit **2 mg de Néostigmine en IV lente**, déclenchant en 15 minutes une débâcle massive de gaz et de selles liquides permettant une vidange complète du cæcum.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - Bologna Guidelines for Diagnosis and Management of Adhesive Small Bowel Obstruction (ASBO): 2017 Update of the Evidence-Based Guidelines from the World Society of Emergency Surgery ASBO Working Group — World Journal of Emergency Surgery — 2018 — https://wjes.biomedcentral.com/articles/10.1186/s13017-018-0185-2
 > - ASGE Guideline on the Role of Endoscopy in the Management of Colonic Volvulus and Acute Colonic Pseudo-Obstruction — Gastrointestinal Endoscopy — 2020 — https://www.giejournal.org/article/S0016-5107(19)32404-6/fulltext

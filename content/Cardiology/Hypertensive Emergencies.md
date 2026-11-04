@@ -152,5 +152,6 @@ Compare:
 > - When managing aortic dissection, remember: **"Beta-blocker first, vasodilator second"**—never invert the order.
 
 > [!example]- Resources
-> - 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for High Blood Pressure in Adults — ACC/AHA — 2017
-> - 2024 ESC Guidelines for the management of elevated blood pressure and hypertension — European Society of Cardiology — 2024
+>
+> - 2024 ESC Guidelines for the Management of Elevated Blood Pressure and Hypertension — European Heart Journal — 2024 — https://doi.org/10.1093/eurheartj/ehae178
+> - 2017 ACC/AHA Guideline for High Blood Pressure in Adults — Hypertension — 2018 — https://www.ahajournals.org/doi/10.1161/HYP.0000000000000065

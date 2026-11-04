@@ -143,5 +143,6 @@ Compare:
 > - In hypertensive flash pulmonary edema, high-dose IV nitroglycerin boluses (e.g., 1–2 mg IV q3–5min) can resolve pulmonary congestion and eliminate the need for intubation within minutes.
 
 > [!example]- Resources
-> - 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure — European Society of Cardiology — 2023
-> - 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure — AHA/ACC/HFSA — 2022
+>
+> - 2023 Focused Update of the 2021 ESC Guidelines for the Diagnosis and Treatment of Acute and Chronic Heart Failure — European Heart Journal — 2023 — https://academic.oup.com/eurheartj/article/44/37/3627/7238262
+> - 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure — Circulation — 2022 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063

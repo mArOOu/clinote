@@ -4,11 +4,6 @@ aliases:
   - Défaillance de Pompe
   - Choc Cardiogénique Ischémique
   - Choc d'Origine Cardiaque
-sources:
-  - title: Recommandations ESC - Prise en charge du choc cardiogénique
-    kind: reference
-  - title: Consensus d'experts SCAI - Classification du choc cardiogénique
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -104,6 +99,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 66 ans, admis pour un infarctus antérieur étendu revascularisé tardivement, développe une oligurie avec marbrures des membres inférieurs et somnolence. La PA est à 76/48 mmHg, la FC à 118 bpm et les lactates artériels mesurés à 4,8 mmol/L. L'échocardiographie objective une FEVG effondrée à 20% avec akinésie antérieure étendue et absence de complication mécanique. Une perfusion de Noradrénaline est débutée immédiatement pour remonter la PAM à 65 mmHg, complétée par de la Dobutamine, permettant la reprise d'une diurèse et la clairance des lactates sous surveillance continue en Soins Intensifs Cardiologiques (USIC).
 
-> [!example]- Références & Recommandations
-> - 2023 ESC Guidelines for the management of acute coronary syndromes — European Heart Journal
-> - SCAI Clinical Expert Consensus Statement on the Classification of Cardiogenic Shock — Catheter Cardiovasc Interv — 2022
+> [!example]- Références
+>
+> - Consensus d'experts SCAI sur la classification du choc cardiogénique — JSCAI — 2022 — https://doi.org/10.1016/j.jscai.2021.100008
+> - Recommandations AHA/ACC/HFSA sur la prise en charge de l'insuffisance cardiaque — Circulation — 2022 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063

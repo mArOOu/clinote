@@ -6,13 +6,6 @@ aliases:
   - Sprue Cœliaque
   - Dermatite Herpétiforme
   - Atrophie Villositaire
-sources:
-  - title: Recommandations ACG 2023 - Diagnosis and Management of Celiac Disease
-    kind: reference
-  - title: Recommandations ESsCD 2019 - Guidelines for Coeliac Disease and Other Gluten-Related Disorders
-    kind: reference
-  - title: Recommandations AGA 2022 - Management of Refractory Celiac Disease
-    kind: reference
 ---
 
 > [!abstract] Maladie Cœliaque
@@ -150,7 +143,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Une femme de 34 ans suivie pour thyroïdite de Hashimoto consulte pour une anémie microcytaire ferriprive traînante (Hb à 9,6 g/dL, VGM à 71 fL, ferritine à 5 ng/mL) réfractaire à 6 mois de fer per os, associée à un météorisme post-prandial et à des lésions vésiculeuses très prurigineuses symétriques des deux coudes. Sous alimentation normale avec gluten, le bilan sérologique met en évidence un **taux très élevé d'Ac anti-transglutaminase IgA (> 100 UI/mL)** avec IgA totales normales. La **FOGD avec 6 biopsies duodénales (bulbe et D2)** retrouve une **lymphocytose intra-épithéliale massive avec hyperplasie des cryptes et atrophie villositaire totale (stade 3c de Marsh)**. Orientée vers une diététicienne spécialisée pour la mise en route d'un **régime sans gluten strict à vie**, elle reçoit de la **Dapsone per os** (après vérification de la G6PD) qui fait disparaître les lésions de **Dermatite Herpétiforme** en 48 heures, bénéficie d'une recharge martiale intraveineuse et d'une **vaccination contre le pneumocoque**.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - ACG Clinical Guidelines: Diagnosis and Management of Celiac Disease — American College of Gastroenterology — 2023 — https://journals.lww.com/ajg/fulltext/2023/01000/american_college_of_gastroenterology_guidelines.15.aspx
 > - AGA Clinical Practice Update on Management of Refractory Celiac Disease — American Gastroenterological Association — 2022 — https://www.gastrojournal.org/article/S0016-5085(22)00798-3/fulltext

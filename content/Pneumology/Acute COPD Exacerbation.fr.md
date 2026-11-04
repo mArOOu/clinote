@@ -5,11 +5,6 @@ aliases:
   - Poussée de BPCO
   - AECOPD
   - Décompensation Respiratoire Aiguë de BPCO
-sources:
-  - title: Recommandations GOLD - Stratégie globale pour le diagnostic et la prise en charge de la BPCO
-    kind: reference
-  - title: Société de Pneumologie de Langue Française (SPLF) - Prise en charge des exacerbations de BPCO
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -110,6 +105,8 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 67 ans, tabagique sevré porteur d'une BPCO de stade 3 sous double bronchodilatation, consulte aux urgences pour une majoration sévère de son essoufflement depuis 3 jours avec crachats très épais et verdâtres. À l'examen : FR 28/min, FC 105 bpm, SpO2 à 83% en air ambiant, tirage sus-claviculaire et somnolence. La gazométrie artérielle met en évidence une acidose respiratoire : pH 7,29, PaCO2 66 mmHg, PaO2 51 mmHg, HCO3- 32 mEq/L. Une oxygénothérapie contrôlée au masque Venturi est mise en place pour viser 90% de SpO2, couplée immédiatement à une séance de VNI (BiPAP). Il reçoit des aérosols de Salbutamol et d'Ipratropium à l'air comprimé, 40 mg de Prednisone et de l'Amoxicilline-acide clavulanique IV. À H2, le pH remonte à 7,36 avec disparition de la somnolence.
 
-> [!example]- Références & Recommandations
-> - Global Initiative for Chronic Obstructive Lung Disease (GOLD) — 2024/2025 Report
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Prise en charge de la BPCO
+> [!example]- Références
+>
+>
+> - Global Strategy for Prevention, Diagnosis and Management of COPD — GOLD — 2025/2026 (https://goldcopd.org/)
+> - Management of COPD Exacerbations: A European Respiratory Society/American Thoracic Society Guideline — ERS/ATS — 2017 (https://erj.ersjournals.com/content/49/3/1600791)

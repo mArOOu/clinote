@@ -5,11 +5,6 @@ aliases:
   - SCA ST-
   - Infarctus du Myocarde sans Sus-Décalage de ST
   - Syndrome Coronarien Aigu Non-ST+
-sources:
-  - title: Recommandations ESC - Prise en charge des syndromes coronariens aigus
-    kind: reference
-  - title: Collège National des Enseignants de Cardiologie (CNEC) - Syndrome coronarien aigu
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -110,6 +105,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 63 ans, fumeur et hypertendu, présente une douleur rétrosternale constrictive survenue au repos depuis 45 minutes, irradiant au bras gauche avec sueurs. L'ECG initial montre un sous-décalage horizontal de ST de 1,5 mm en V4-V6. Le dosage de la troponine ultrasensible à l'admission est très élevé à 450 ng/L (N < 14). Il reçoit 250 mg d'aspirine IV, une dose de charge de Ticagrélor 180 mg et une injection d'Énoxaparine. Admis en USIC sous surveillance scopée continue, il bénéficie d'une coronarographie dans les 12 heures révélant une sténose subocclusive de l'artère circonflexe traitée avec succès par angioplastie avec stent actif.
 
-> [!example]- Références & Recommandations
-> - 2023 ESC Guidelines for the management of acute coronary syndromes — European Heart Journal
-> - Recommandations SFC — Prise en charge des syndromes coronariens aigus sans sus-décalage du segment ST
+> [!example]- Références
+>
+> - Recommandations ESC sur la prise en charge des syndromes coronariens aigus — European Heart Journal — 2023 — https://academic.oup.com/eurheartj/article/44/38/3720/7243210
+> - Recommandations AHA/ACC sur les syndromes coronariens aigus sans sus-décalage de ST — Circulation — 2014 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000000134

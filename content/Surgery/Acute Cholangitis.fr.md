@@ -6,13 +6,6 @@ aliases:
   - Angiocholite Suppurée
   - Triade de Charcot
   - Pentade de Reynolds
-sources:
-  - title: Recommandations TG18 - Tokyo Guidelines 2018 on Acute Cholangitis
-    kind: reference
-  - title: Recommandations ASGE - Management of Cholangitis & Choledocholithiasis
-    kind: reference
-  - title: Recommandations ESGE - Endoscopic Management of Common Bile Duct Stones
-    kind: reference
 ---
 
 > [!abstract] Angiocholite Aiguë
@@ -155,7 +148,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Un homme de 76 ans avec antécédent de lithiase vésiculaire est admis aux urgences pour l'apparition, depuis 18 heures, d'une fièvre à 39,3 °C avec frissons intenses, de douleurs de l'hypochondre droit et d'une confusion mentale d'apparition récente. Les constantes montrent une FC à 118 bpm et une PA à 84/50 mmHg ; l'examen met en évidence un subictère conjonctival, une léthargie et une sensibilité modérée de l'hypochondre droit (**Pentade de Reynolds = Angiocholite Aiguë Grave Grade III selon Tokyo 2018**). La biologie objective 21 400 leucocytes/µL, des plaquettes à 88 000/µL, une bilirubine totale à 6,8 mg/dL (116 µmol/L), des PAL à 460 UI/L, des ASAT/ALAT à 310/340 UI/L, un INR à 1,7 et des lactates à 4,6 mmol/L ; l'**échographie abdominale au lit du patient** objective une **dilatation de la voie biliaire principale à 11 mm** avec des calculs vésiculaires. Après hémocultures, un remplissage par **Ringer Lactate, Noradrénaline, Vitamine K IV et Pipéracilline-Tazobactam IV** est initié dans les 30 minutes, et il bénéficie d'une **CPRE d'urgence (< 12 heures)** avec aspiration de bile purulente et mise en place d'une **prothèse biliaire plastique** (la sphinctérotomie étant différée du fait de la coagulopathie et du choc), permettant une stabilisation hémodynamique rapide suivie d'une extraction lithiasique et d'une cholécystectomie au cours du même séjour.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - Tokyo Guidelines 2018 (TG18): Diagnostic Criteria and Severity Grading of Acute Cholangitis & Flowchart for the Management of Acute Cholangitis — Journal of Hepato-Biliary-Pancreatic Sciences — 2018 — https://onlinelibrary.wiley.com/doi/10.1002/jhbp.512
 > - ASGE Guideline on the Management of Cholangitis — American Society for Gastrointestinal Endoscopy — 2021 — https://www.giejournal.org/article/S0016-5107(21)01334-1/fulltext

@@ -8,13 +8,6 @@ aliases:
   - Ischémie Non Occlusive
   - NOMI
   - Thrombose Veineuse Mésentérique
-sources:
-  - title: Recommandations WSES 2022 - Guidelines on Acute Mesenteric Ischemia
-    kind: reference
-  - title: Recommandations ESVS 2017 - Clinical Practice Guidelines on the Management of the Diseases of Mesenteric Arteries and Veins
-    kind: reference
-  - title: Recommandations AGA 2024 - Diagnosis and Management of Acute Mesenteric Ischemia
-    kind: reference
 ---
 
 > [!abstract] Ischémie Mésentérique Aiguë
@@ -155,7 +148,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Un homme de 74 ans porteur d'une fibrillation atriale paroxystique (sous rivaroxaban mal observant) et d'une insuffisance cardiaque consulte pour des douleurs péri-ombilicales atroces et brutales apparues il y a 3 heures, avec vomissements incoercibles et une selle liquide impérieuse. Les constantes montrent une FC à 128 bpm (arythmie complète) et une PA à 118/74 mmHg ; le patient est agité et en sueurs, pourtant la palpation abdominale retrouve un **abdomen souple, indolore, non distendu, SANS défense ni contracture (« douleur disproportionnée par rapport à la pauvreté de l'examen clinique »)**. La biologie montre 18 400 leucocytes/µL et un **taux de lactate strictement normal à 1,5 mmol/L**. Évoquant d'emblée une **Ischémie Mésentérique Aiguë débutante**, le médecin n'attend pas l'élévation du lactate, débute un **bolus d'héparine non fractionnée IV**, administre de la **Pipéracilline-Tazobactam IV** et prescrit en urgence absolue un **Angioscanner Biphasique (CTA)** sans produit de contraste oral. L'examen met en évidence une **occlusion embolique de l'Artère Mésentérique Supérieure** 5 cm en aval de son origine (après le départ de l'artère colique moyenne) avec préservation du rehaussement pariétal. Il est immédiatement transféré en **salle hybride pour embolectomie chirurgicale de l'AMS à la sonde de Fogarty et laparotomie exploratrice de sauvetage** avec **second-look programmé à 24h**, permettant de sauver l'intégralité de son intestin grêle.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - Acute Mesenteric Ischemia: Updated Guidelines of the World Society of Emergency Surgery (WSES) — World Journal of Emergency Surgery — 2022 — https://wjes.biomedcentral.com/articles/10.1186/s13017-022-00443-x
 > - Editor's Choice – Management of the Diseases of Mesenteric Arteries and Veins: Clinical Practice Guidelines of the European Society of Vascular Surgery (ESVS) — European Journal of Vascular and Endovascular Surgery — 2017 — https://www.ejves.com/article/S1078-5884(17)30059-X/fulltext

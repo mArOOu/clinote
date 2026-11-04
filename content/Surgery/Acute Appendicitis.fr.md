@@ -5,13 +5,6 @@ aliases:
   - Péritonite Appendiculaire
   - Plastron Appendiculaire
   - Abcès Appendiculaire
-sources:
-  - title: Recommandations WSES - Jerusalem Guidelines on Diagnosis & Management of Acute Appendicitis
-    kind: reference
-  - title: Essai CODA - A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis (NEJM)
-    kind: reference
-  - title: Recommandations SAGES - Guidelines for the Diagnosis and Treatment of Appendicitis
-    kind: reference
 ---
 
 > [!abstract] Appendicite Aiguë
@@ -146,7 +139,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Une jeune femme de 21 ans consulte pour des douleurs abdominales évoluant depuis 12 heures, débutées sous forme d'une gêne sourde péri-ombilicale avant de migrer il y a 4 heures vers la fosse iliaque droite, associées à une anorexie complète, des nausées et un vomissement alimentaire. Les constantes indiquent une température à 38,1 °C, une FC à 94 bpm et une PA à 118/72 mmHg ; la palpation retrouve une douleur exquise avec défense au **point de McBurney** et un **signe de Rovsing positif**. Les $\beta$-hCG urinaires sont négatifs, la NFS met en évidence 14 800 leucocytes/µL (dont 82 % de PNN), et le **scanner abdomino-pelvien avec produit de contraste IV** objective un appendice épaissi à 10 mm de diamètre avec infiltration de la graisse adjacente et présence d'un **stercolithe calcifié** intraluminal sans abcès collecté. Elle reçoit une perfusion de **ceftriaxone + métronidazole**, de la morphine IV et bénéficie dans les 12 heures d'une **appendicectomie laparoscopique** non compliquée (l'antibiothérapie exclusive ayant été récusée en raison de la présence du stercolithe), avec arrêt immédiat des antibiotiques en post-opératoire.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - Diagnosis and Treatment of Acute Appendicitis: 2020 Update of the WSES Jerusalem Guidelines — World Society of Emergency Surgery — 2020 — https://wjes.biomedcentral.com/articles/10.1186/s13017-020-00306-3
 > - A Randomized Trial Comparing Antibiotics with Appendectomy for Appendicitis (CODA Trial) — New England Journal of Medicine — 2020 — https://www.nejm.org/doi/full/10.1056/NEJMoa2014320

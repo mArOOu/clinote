@@ -8,13 +8,6 @@ aliases:
   - Colite Microscopique
   - Diarrhée Sécrétoire
   - Diarrhée Osmotique
-sources:
-  - title: Recommandations AGA / ACG 2023 - Pharmacological Management of Chronic Idiopathic Constipation
-    kind: reference
-  - title: Recommandations AGA 2019 - Laboratory Evaluation of Functional Diarrhea and IBS-D
-    kind: reference
-  - title: Recommandations ACG 2016 - Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections
-    kind: reference
 ---
 
 > [!abstract] Constipation & Diarrhée
@@ -161,7 +154,7 @@ sources:
 > **Scénario 1 (Diarrhée Chronique) :** Une femme de 66 ans sous sertraline et ibuprofène consulte pour une diarrhée aqueuse évoluant depuis 3 mois à raison de 6 à 8 selles liquides par jour sans sang, la réveillant deux fois par nuit ; le bilan de débrouillage (NFS, ionogramme, TSH, Ac anti-tTG, calprotectine fécale) est strictement normal. La coloscopie retrouve une muqueuse colique d'aspect macroscopiquement sain sur toute sa longueur, mais les **biopsies coliques systématiques étagées** révèlent un épaississement franc de la bande collagène sous-épithéliale à 15 µm, confirmant une **Colite Collagène (Microscopique)**. L'ibuprofène et la sertraline sont arrêtés, et elle est mise sous **Budésonide oral (9 mg/jour pendant 8 semaines)**, entraînant une rémission clinique complète en quelques jours.
 > **Scénario 2 (Constipation Rebelle) :** Une femme de 38 ans consulte pour une constipation sévère avec efforts de poussée majeurs, deux selles dures par semaine et nécessité de comprimer son périnée pour expulser la selle, en échec d'un traitement bien conduit par macrogol et séné. Le toucher rectal retrouve une absence de relâchement du muscle pubo-rectal à la poussée, et la **manométrie anorectale couplée au test d'expulsion de ballonnet (> 2 minutes)** confirme une **Asynergie Défécatrice**, avec guérison complète obtenue après 8 séances de **Biofeedback Anorectal**.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - AGA-ACG Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation — American Gastroenterological Association / American College of Gastroenterology — 2023 — https://www.gastrojournal.org/article/S0016-5085(23)00512-7/fulltext
 > - AGA Clinical Practice Guideline on the Laboratory Evaluation of Functional Diarrhea and Diarrhea-Predominant Irritable Bowel Syndrome in Adults — American Gastroenterological Association — 2019 — https://www.gastrojournal.org/article/S0016-5085(19)41082-2/fulltext

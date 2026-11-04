@@ -7,13 +7,6 @@ aliases:
   - Mégacôlon Toxique
   - Colectasie Toxique
   - Poussée Grave de Maladie de Crohn
-sources:
-  - title: Recommandations GETAID / SNFGE - Prise en charge de la Colite Aiguë Grave
-    kind: reference
-  - title: Recommandations ECCO 2022 - Guidelines on Therapeutics in Ulcerative Colitis
-    kind: reference
-  - title: Recommandations AGA 2023/2025 - Management of Hospitalized Ulcerative Colitis Patients
-    kind: reference
 ---
 
 > [!abstract] Poussée Grave de MICI
@@ -156,7 +149,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Un jeune homme de 29 ans suivi pour rectocolite hémorragique depuis 3 ans consulte pour 12 émissions glairo-sanglantes par jour évoluant depuis 4 jours avec épreintes douloureuses, fébricule à 38,5 °C, FC à 112 bpm et PA à 104/64 mmHg (**Colite Aiguë Grave selon Truelove et Witts**). Les examens retrouvent une Hb à 9,4 g/dL, des leucocytes à 16 200/µL, des plaquettes à 490 000/µL, un potassium à 3,1 mmol/L, une albumine à 24 g/dL et une **CRP à 78 mg/L** ; la recherche de toxines de *C. difficile* est négative et l'ASP montre un côlon transverse mesuré à 4,8 cm sans mégacôlon toxique. Dès **J1**, **un avis chirurgical colo-rectal est sollicité**, les opioïdes et AINS sont proscrits, la kaliémie est corrigée, l'**Énoxaparine sous-cutanée** est débutée (malgré les selles sanglantes), une perfusion de **Méthylprednisolone IV (20 mg toutes les 8h)** est initiée et la **recto-sigmoïdoscopie sans préparation** retrouve de larges ulcérations en carte de géographie dont les biopsies sont négatives pour le CMV. À **J3**, il présente toujours 9 selles sanglantes/jour et sa CRP est à 62 mg/L (**Critères d'Oxford remplis signant l'échec des corticoïdes**). Le QuantiFERON et le bilan VHB prélevés à J1 étant normaux et devant l'hypoalbuminémie à 24 g/L, il reçoit immédiatement une **dose intensifiée de sauvetage par Infliximab à 10 mg/kg IV**, permettant une amélioration clinique spectaculaire et évitant la colectomie d'urgence.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - AGA Clinical Practice Update on Management of Hospitalized Ulcerative Colitis Patients: Expert Review — Gastroenterology — 2025/2023 — https://www.gastrojournal.org/article/S0016-5085(22)01151-9/fulltext
 > - ACG Clinical Guideline: Ulcerative Colitis in Adults — American College of Gastroenterology — 2019 — https://journals.lww.com/ajg/fulltext/2019/03000/acg_clinical_guideline__ulcerative_colitis_in.10.aspx

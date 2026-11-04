@@ -5,11 +5,6 @@ aliases:
   - Emphysème Pulmonaire
   - Bronchite Chronique
   - Obstruction Bronchique Chronique
-sources:
-  - title: Recommandations GOLD - Stratégie globale pour le diagnostic et la prise en charge de la BPCO
-    kind: reference
-  - title: Collège des Enseignants de Pneumologie (CEP) & SPLF - BPCO de l'adulte
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -113,6 +108,8 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 65 ans, ayant fumé 45 paquets-années, consulte pour une dyspnée d'effort devenue gênante lors de la marche à plat (mMRC = 2) et deux épisodes de bronchite fébrile ayant nécessité des antibiotiques au cours des 12 derniers mois. La spirométrie post-bronchodilatateur confirme un trouble ventilatoire obstructif fixé avec VEMS/CV à 0,55 et VEMS à 58% de la théorique (GOLD 2, Groupe E). La numération formule sanguine retrouve 350 éosinophiles/$\mu$L. Une trithérapie inhalée fixe combinant un LABA, un LAMA et un corticoïde inhalé est instaurée, couplée à une aide au sevrage tabagique complet par varénicline, des vaccinations à jour et une prescription de réhabilitation respiratoire en ambulatoire.
 
-> [!example]- Références & Recommandations
-> - Global Initiative for Chronic Obstructive Lung Disease (GOLD) — 2024/2025 Report
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Prise en charge de la BPCO
+> [!example]- Références
+>
+>
+> - Global Strategy for Prevention, Diagnosis and Management of COPD — GOLD — 2025/2026 (https://goldcopd.org/)
+> - Pharmacologic Management of Chronic Obstructive Pulmonary Disease: An Official ATS Clinical Practice Guideline — ATS — 2020 (https://www.atsjournals.org/doi/full/10.1164/rccm.202003-0625ST)

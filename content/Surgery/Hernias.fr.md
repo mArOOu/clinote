@@ -9,13 +9,6 @@ aliases:
   - Événétration
   - Hernie Hiatale
   - Étranglement Herniaire
-sources:
-  - title: Recommandations HerniaSurge Group 2018/2023 - International Guidelines for Groin Hernia Management
-    kind: reference
-  - title: Recommandations WSES 2017 - Emergency Repair of Complicated Abdominal Wall Hernias
-    kind: reference
-  - title: Recommandations SAGES - Management of Hiatal Hernia
-    kind: reference
 ---
 
 > [!abstract] Hernies Pariétales
@@ -166,7 +159,7 @@ sources:
 > **Scénario 1 (Hernie Crurale Étranglée) :** Une femme de 76 ans consulte pour une douleur violente de l'aine droite apparue il y a 10 heures, accompagnée de vomissements bilieux et d'un arrêt des matières et des gaz. Les constantes montrent une température à 38,3 °C et une FC à 110 bpm ; la palpation met en évidence une tuméfaction dure de 3 cm, irréductible, **chaude, érythémateuse et extrêmement douloureuse située SOUS l'arcade crurale droite**, en dehors de l'épine du pubis. La biologie retrouve 17 400 leucocytes/µL et des lactates à 3,1 mmol/L. Reconnaissant une **Hernie Crurale Étranglée**, l'équipe **proscrit toute tentative de taxis**, débute une réhydratation IV, injecte de la **Ceftriaxone + Métronidazole IV** et l'achemine **immédiatement au bloc opératoire** : une anse iléale nécrosée est réséquée avec anastomose grêlo-grêlique et fermeture du canal crural par un **procédé de McVay au ligament de Cooper sans matériel prothétique**.
 > **Scénario 2 (Hernie Inguinale Programmée chez l'Homme) :** Un homme de 58 ans consulte pour une gêne inguinale droite traînante depuis 4 mois, déclenchée par le port de cartons et disparaissant au repos couché. L'examen debout confirme une hernie inguinale réductible située au-dessus de l'arcade. Il bénéficie en ambulatoire d'une **cure prothétique selon Lichtenstein sans tension au polypropylène** sous anesthésie locale avec sédation et regagne son domicile le soir même.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - International Guidelines for Groin Hernia Management (HerniaSurge Group) — Hernia — 2018 (Updated 2023) — https://link.springer.com/article/10.1007/s10029-017-1668-x / https://link.springer.com/article/10.1007/s10029-023-02898-4
 > - 2017 Update of the WSES Guidelines for Emergency Repair of Complicated Abdominal Wall Hernias — World Society of Emergency Surgery — 2017 — https://wjes.biomedcentral.com/articles/10.1186/s13017-017-0156-6

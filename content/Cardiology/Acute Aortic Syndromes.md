@@ -140,5 +140,6 @@ Compare:
 > <!-- Personal notes, clinical encounters, and ward experiences -->
 
 > [!example]- Resources
-> - 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease — Circulation / JACC — 2022
-> - 2014 ESC Guidelines on the Diagnosis and Treatment of Aortic Diseases — European Heart Journal — 2014 (Focused Update 2024)
+>
+> - 2024 ESC Guidelines on the Management of Aortic Diseases — European Heart Journal — 2024 — https://doi.org/10.1093/eurheartj/ehae178
+> - 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease — Circulation — 2022 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000001106

@@ -4,11 +4,6 @@ aliases:
   - Urgence Hypertensive
   - Crise Hypertensive
   - Hypertension Artérielle Maligne
-sources:
-  - title: Recommandations ESC - Prise en charge de l'hypertension artérielle et des urgences hypertensives
-    kind: reference
-  - title: Société Française d'Hypertension Artérielle (SFHTA) - Prise en charge des urgences hypertensives
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -109,6 +104,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un homme de 54 ans, ayant interrompu son traitement antihypertenseur depuis 3 semaines, consulte pour des céphalées pulsatiles intenses, une confusion et un flou visuel. À l'admission : PA à 225/135 mmHg aux deux bras, FC à 88 bpm. Le fond d'œil montre des hémorragies rétiniennes en flammèches et un œdème papillaire bilatéral. Le scanner cérébral écarte une hémorragie aiguë. Le diagnostic d'encéphalopathie hypertensive est retenu. Une perfusion de Nicardipine IV est débutée en USIC, permettant de baisser la PAM de 22% au cours de la première heure avec disparition complète de la confusion en 4 heures.
 
-> [!example]- Références & Recommandations
-> - 2024 ESC Guidelines for the management of elevated blood pressure and hypertension — European Heart Journal
-> - Recommandations SFHTA — Prise en charge des urgences hypertensives chez l'adulte
+> [!example]- Références
+>
+> - Recommandations ESC sur la prise en charge de l'hypertension artérielle — European Heart Journal — 2024 — https://doi.org/10.1093/eurheartj/ehae178
+> - Recommandations ACC/AHA sur la prévention et le traitement de l'HTA chez l'adulte — Hypertension — 2018 — https://www.ahajournals.org/doi/10.1161/HYP.0000000000000065

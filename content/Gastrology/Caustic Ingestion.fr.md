@@ -6,13 +6,6 @@ aliases:
   - Ingestion de Bases Fortes
   - Ingestion d'Acides Forts
   - Classification de Zargar
-sources:
-  - title: Recommandations WSES 2021 - Guidelines for the Management of Acute Caustic Ingestion in Children and Adults
-    kind: reference
-  - title: Société Française d'Endoscopie Digestive (SFED) - Brûlures Caustiques du Tractus Digestif Supérieur
-    kind: reference
-  - title: World Journal of Gastrointestinal Endoscopy 2020 - Management of Caustic Ingestion in Adults
-    kind: reference
 ---
 
 > [!abstract] Ingestion de Produits Caustiques
@@ -125,7 +118,7 @@ sources:
 > [!success]- Scénario Clinique Typique
 > Un homme de 34 ans est amené par les secours 2 heures après l'ingestion volontaire d'un déboucheur liquide concentré à base de soude caustique. Il se présente prostré, avec des douleurs rétro-sternales intolérables, une hypersialorrhée avec impossibilité totale d'avaler sa salive et un stridor inspiratoire net. La naso-fibroscopie laryngée met en évidence un œdème supraglottique majeur imposant une **intubation orotrachéale vigile immédiate sous fibroscope**. Le scanner cervico-thoraco-abdominal injecté réalisé en urgence élimine un pneumomédiastin ou un pneumopéritoine libre ; la FOGD réalisée à 14 heures retrouve une nécrose muqueuse noirâtre circonférentielle de grade 3a du tiers moyen de l'œsophage. Il est hospitalisé en réanimation sous **IPP IV à forte dose, antibiothérapie IV et nutrition parentérale exclusive** sous surveillance chirurgicale très rapprochée.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
-> - 2021 WSES Guidelines for the Management of Acute Caustic Ingestion in Children and Adults — World Journal of Emergency Surgery — 2021 — https://wjes.biomedcentral.com/articles/10.1186/s13017-021-00389-2
-> - Management of Caustic Ingestion in Adults — World Journal of Gastrointestinal Endoscopy — 2020 Update — https://www.wjgnet.com/1948-5190/full/v12/i10/339.htm
+> - Recommandations WSES sur la prise en charge de l'ingestion de produits caustiques chez l'adulte — WJES — 2020 — https://wjes.biomedcentral.com/articles/10.1186/s13017-020-00343-0
+> - Prise en charge endoscopique des corps étrangers et ingestions caustiques — GIE — 2021 — https://doi.org/10.1016/j.gie.2021.03.029

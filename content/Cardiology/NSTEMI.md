@@ -138,5 +138,5 @@ Compare:
 
 > [!example]- Resources
 >
-> - 2023 ESC Guidelines for the management of acute coronary syndromes — ESC — 2023
-> - 2014 AHA/ACC Guideline for the Management of Patients With Non–ST-Elevation Acute Coronary Syndromes — AHA/ACC — 2014
+> - 2023 ESC Guidelines for the Management of Acute Coronary Syndromes — European Heart Journal — 2023 — https://academic.oup.com/eurheartj/article/44/38/3720/7243210
+> - 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes — Circulation — 2014 — https://www.ahajournals.org/doi/10.1161/CIR.0000000000000134

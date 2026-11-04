@@ -6,11 +6,6 @@ aliases:
   - Pleurésie Purulente
   - Empyème Pleural
   - Pleurésie Néoplasique
-sources:
-  - title: Recommandations BTS - British Thoracic Society Guideline for Pleural Disease
-    kind: reference
-  - title: Collège des Enseignants de Pneumologie (CEP) & SPLF - Épanchements pleuraux liquidiens
-    kind: reference
 ---
 
 > [!abstract] Définition & Vue d'ensemble
@@ -120,6 +115,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une femme de 68 ans suivie pour un cancer du poumon consulte pour une dyspnée d'effort d'aggravation rapide depuis 10 jours avec toux sèche positionnelle. L'examen physique retrouve une matité déclive de toute la moitié inférieure de l'hémithorax gauche avec abolition du murmure vésiculaire et des vibrations vocales. La radiographie confirme un épanchement pleural gauche de grande abondance avec refoulement médiastinal controlatéral. Une thoracocentèse écho-guidée évacue 1200 mL d'un liquide séro-hématique exsudatif (protéines 46 g/L, LDH 680 UI/L) avec régression immédiate de la dyspnée. La cytologie du liquide confirme la présence d'amas d'adénocarcinome TTF-1 positif. Devant la récidive rapide du liquide à J10, un cathéter pleural tunnellisé permanent est posé en ambulatoire, permettant des évacuations régulières à domicile sans nouvelle hospitalisation.
 
-> [!example]- Références & Recommandations
-> - British Thoracic Society (BTS) Guideline for Pleural Disease — Thorax — 2023
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Prise en charge des épanchements pleuraux
+> [!example]- Références
+>
+>
+> - British Thoracic Society Guideline for Pleural Disease — BTS — 2023 (https://thorax.bmj.com/content/78/Suppl_3/s1)
+> - Management of Malignant Pleural Effusions: An Official ATS/STS/STR Clinical Practice Guideline — ATS — 2018 (https://www.atsjournals.org/doi/full/10.1164/rccm.201808-1464ST)
+> - American Association for Thoracic Surgery Consensus Guidelines for the Management of Empyema — AATS — 2017 (https://www.jtcvs.org/article/S0022-5223(17)30152-6/fulltext)

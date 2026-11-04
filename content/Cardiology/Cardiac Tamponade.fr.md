@@ -4,11 +4,6 @@ aliases:
   - Tamponnade Péricardique
   - Épanchement Péricardique Compressif
   - Péricardite Aiguë Constrictive
-sources:
-  - title: Recommandations ESC - Diagnostic et prise en charge des maladies du péricarde
-    kind: reference
-  - title: Collège National des Enseignants de Cardiologie (CNEC) - Péricardite aiguë et tamponnade
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -102,6 +97,7 @@ sources:
 > [!success]- Cas Clinique Typique
 > Une patiente de 52 ans suivie pour un adénocarcinome pulmonaire consulte pour une dyspnée de repos majeure et des vertiges. L'examen retrouve une PA à 82/56 mmHg avec un pouls paradoxal de 18 mmHg, une fréquence cardiaque à 124 bpm, une turgescence jugulaire saillante et des bruits du cœur assourdis. L'échographie cardiaque montre un épanchement péricardique circonférentiel abondant de 28 mm avec collapsus diastolique du ventricule droit et VCI dilatée sans collapsus inspiratoire. Après un remplissage de 500 mL de sérum salé, une péricardiocentèse écho-guidée permet d'évacuer 350 mL de liquide séro-hémorragique, entraînant une remontée immédiate de la PA à 118/74 mmHg.
 
-> [!example]- Références & Recommandations
-> - 2015 ESC Guidelines for the diagnosis and management of pericardial diseases — European Heart Journal
-> - Recommandations de la Société Française de Cardiologie (SFC) — Pathologies péricardiques aiguës
+> [!example]- Références
+>
+> - Recommandations ESC sur le diagnostic et la prise en charge des maladies péricardiques — European Heart Journal — 2015 — https://academic.oup.com/eurheartj/article/36/42/2921/2293375
+> - Mise au point JASE sur les épanchements péricardiques et la tamponnade — JASE — 2020 — https://doi.org/10.1016/j.echo.2020.03.011

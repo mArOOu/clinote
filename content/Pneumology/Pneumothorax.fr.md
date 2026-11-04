@@ -6,11 +6,6 @@ aliases:
   - Pneumothorax Spontané Primaire
   - Pneumothorax Spontané Secondaire
   - Pneumothorax Sous Tension
-sources:
-  - title: Recommandations BTS - Management of Spontaneous Pneumothorax
-    kind: reference
-  - title: Collège des Enseignants de Pneumologie (CEP) & SPLF - Pneumothorax de l'adulte
-    kind: reference
 ---
 
 > [!abstract] Définition & Urgence
@@ -105,6 +100,9 @@ sources:
 > [!success]- Cas Clinique Typique
 > Un jeune homme de 21 ans, grand et mince (1m88, 64 kg), fumeur régulier, ressent brutalement au repos un point de côté thoracique droit violent avec une toux sèche et une gêne respiratoire modérée. À l'examen : PA 125/75 mmHg, SpO2 96%, tympanisme franc du sommet droit avec disparition du murmure vésiculaire. La radiographie pulmonaire en inspiration debout confirme un pneumothorax spontané primaire droit de grande taille avec un décollement complet de 3 cm au sommet et de 2,5 cm à la ligne axillaire. Une exsufflation manuelle sous anesthésie locale permet de retirer 1400 mL d'air. Le cliché de contrôle montre un poumon totalement ré-appliqué à la paroi. Après une surveillance de 6 heures sans récidive, il regagne son domicile avec consignes strictes d'arrêt du tabac et interdiction formelle de vol et de plongée.
 
-> [!example]- Références & Recommandations
-> - British Thoracic Society (BTS) Clinical Statement on Pleural Procedures and Pneumothorax — Thorax — 2023
-> - Recommandations de la Société de Pneumologie de Langue Française (SPLF) — Prise en charge du pneumothorax spontané
+> [!example]- Références
+>
+>
+> - British Thoracic Society Guideline for Pleural Disease — BTS — 2023 (https://thorax.bmj.com/content/78/Suppl_3/s1)
+> - ERS/EACTS/ESTS Clinical Practice Guidelines on Adults with Spontaneous Pneumothorax — ERS — 2024 (https://erj.ersjournals.com/content/63/5/2300797)
+> - Advanced Trauma Life Support (ATLS) 10th Edition — ACS — 2018 (https://www.facs.org/quality-programs/trauma/education/advanced-trauma-life-support/)

@@ -6,13 +6,6 @@ aliases:
   - Lithiase Vésiculaire
   - Cholédocolithiase
   - Lithiase de la Voie Biliaire Principale
-sources:
-  - title: Recommandations ASGE 2019 - Evaluation and Management of Choledocholithiasis
-    kind: reference
-  - title: Recommandations EASL 2016 - Prevention, Diagnosis and Treatment of Gallstones
-    kind: reference
-  - title: Recommandations ESGAR / EAES 2022 - Management of Gallbladder Polyps
-    kind: reference
 ---
 
 > [!abstract] Lithiase Biliaire
@@ -154,7 +147,7 @@ sources:
 > **Scénario 1 (Colique Hépatique Simple) :** Une femme de 38 ans consulte aux urgences après deux crises de douleurs vives et continues de l'hypochondre droit irradiant vers le dos, survenues 1 heure après avoir consommé une pizza, ayant duré 3 heures et spontanément résolutives au matin. Elle est apyrétique avec un abdomen souple et indolore ; la NFS, les transaminases, les phosphatases alcalines, la bilirubine totale (0,6 mg/dL [10 µmol/L]) et la lipasémie sont strictement normales. L'**échographie hépato-biliaire** objective plusieurs calculs vésiculaires mobiles avec cône d'ombre postérieur, une paroi vésiculaire fine de 2 mm sans épanchement et une **voie biliaire principale fine à 3 mm (Faible probabilité de calcul de la VBP selon l'ASGE)**. Elle reçoit une prescription d'AINS per os (kétoprofène) en cas de récidive, des conseils diététiques pauvres en graisses et est orientée vers une **cholécystectomie laparoscopique programmée en ambulatoire** (sans nécessité de Bili-IRM ni de CPRE).
 > **Scénario 2 (Lithiase de la VBP à Risque Intermédiaire) :** Une femme de 52 ans se présente pour des douleurs continues de l'HCD évoluant depuis 8 heures avec subictère conjonctival et urines foncées, sans fièvre ni frissons (T 36,9 °C, 7 800 leucocytes/µL). La biologie met en évidence une **Bilirubine Totale à 2,9 mg/dL (dont 2,3 mg/dL de directe)**, des PAL à 310 UI/L, des ALAT à 220 UI/L et une lipase normale ; l'échographie montre une lithiase vésiculaire et une **VBP dilatée à 7 mm** sans calcul visible de façon certaine dans le bas cholédoque (**Probabilité Intermédiaire ASGE**). Plutôt que de pratiquer d'emblée une CPRE, une **Bili-IRM** est réalisée en premier lieu, confirmant un calcul de 6 mm dans le bas cholédoque ; elle bénéficie d'une **CPRE avec sphinctérotomie et extraction lithiasique** sous couverture d'indométacine rectale, suivie le surlendemain d'une **cholécystectomie laparoscopique au cours de la même hospitalisation**.
 
-> [!example]- Références & Recommandations
+> [!example]- Références
 >
 > - ASGE Guideline on the Role of Endoscopy in the Evaluation and Management of Choledocholithiasis — American Society for Gastrointestinal Endoscopy — 2019 — https://www.giejournal.org/article/S0016-5107(18)33163-8/fulltext
 > - EASL Clinical Practice Guidelines on the Prevention, Diagnosis and Treatment of Gallstones — European Association for the Study of the Liver — 2016 — https://www.journal-of-hepatology.eu/article/S0168-8278(16)30032-0/fulltext
