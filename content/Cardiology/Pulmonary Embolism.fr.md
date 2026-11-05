@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Embolie Pulmonaire (EP)
 aliases:
   - EP
   - Maladie Thrombo-Embolique Veineuse
   - MTEV
   - Embolie Pulmonaire Massive
+First Aid: "Oxygénothérapie, Remplissage prudent (≤500 mL cristalloïdes), Anticoagulation curative immédiate (HNF ou HBPM) dès suspicion forte, Thrombolyse systémique (Altéplase) si choc hémodynamique"
 ---
 
 > [!abstract] Définition & Urgence

@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterologie, Medecine_Interne, Medecine_Generale, Chirurgie_Viscerale]
 Aliases: [RGO, Reflux Gastro-Œsophagien, Œsophagite par Reflux, Endobrachyoesophage, EBO, Œsophage de Barrett]
 Discipline: Gastro-entérologie
 Sub Pathologies: [Œsophagite érosive, RGO non érosif, Endobrachyoesophage, Sténose peptique]
-First Aid: 
+
 Compare: [[Dyspepsia & Peptic Ulcer Disease]], [[Esophageal Motility Disorders]]
 ---
 

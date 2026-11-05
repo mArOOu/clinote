@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Hépatite Aiguë & Insuffisance Hépatique Aiguë (Hépatite Fulminante)
 aliases:
   - Insuffisance Hépatique Aiguë
@@ -6,6 +7,7 @@ aliases:
   - Hépatite Aiguë Grave
   - Intoxication au Paracétamol
   - Nécrose Hépatique Aiguë
+First Aid: "N-acétylcystéine (NAC) IV précoce quelle que soit l'étiologie, Admission en réanimation et contact immédiat avec un centre de transplantation, Prévention de l'œdème cérébral (tête à 30°, pas de soluté hypotonique)"
 ---
 
 > [!abstract] Hépatite Aiguë & Insuffisance Hépatique Aiguë

@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - CriticalCare
   - ACLS
@@ -15,11 +16,12 @@ Sub Pathologies:
   - Pulseless Ventricular Tachycardia
   - Asystole
   - Pulseless Electrical Activity
-First Aid: CPR
+
 Compare:
   - Syncope
   - Cardiogenic Shock
   - Coma
+First Aid: "Immediate high-quality CPR (100–120 bpm, 5–6 cm depth, minimal interruptions), Attach AED/Defibrillator, Defibrillate VF/pVT immediately (200 J biphasic), IV Epinephrine 1 mg q3–5min"
 ---
 > [!abstract] Cardiac Arrest & Sudden Cardiac Death
 > **Cardiac Arrest** is the abrupt cessation of mechanical cardiac pump function resulting in absent systemic perfusion. **Sudden Cardiac Death (SCD)** is unexpected, non-traumatic death from a cardiac cause within 1 hour of symptom onset (or within 24 hours of last being seen alive and symptom-free if unwitnessed).

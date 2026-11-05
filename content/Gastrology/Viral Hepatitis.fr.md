@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterologie, Hepatologie, Maladies_Infectieuses, Medecine_Interne, Chronique]
 Aliases: [Hepatites Virales, Hepatite A, Hepatite B, Hepatite C, Hepatite D, Hepatite E, VHB Chronique, VHC Chronique]
 Discipline: Gastro-entérologie
 Sub Pathologies: [Hépatite A, Hépatite B, Hépatite C, Hépatite D, Hépatite E]
-First Aid: 
+
 Compare: [[Acute Hepatitis & Acute Liver Failure]], [[Decompensated Cirrhosis]]
 ---
 

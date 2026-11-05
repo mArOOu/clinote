@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - cardiology
   - EmergencyMedicine
@@ -17,12 +18,13 @@ Sub Pathologies:
   - Complete Heart Block
   - Mobitz Type II AV Block
   - Pre-excited Atrial Fibrillation
-First Aid: Automated External Defibrillator (AED)
+
 Compare:
   - Benign Palpitations
   - Stable SVT
   - 1st Degree AV Block
   - Mobitz Type I AV Block
+First Aid: "Immediate unsynchronized defibrillation for pulseless VT/VF, Synchronized electrical cardioversion for unstable tachydysrhythmias with pulse, IV Amiodarone, Airway & O2"
 ---
 
 > [!abstract] Life-threatening Arrhythmias

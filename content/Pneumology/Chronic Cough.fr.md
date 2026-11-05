@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Toux Chronique de l'Adulte
 aliases:
   - Toux Chronique

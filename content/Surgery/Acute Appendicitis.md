@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [General_Surgery, Emergency_Medicine, Gastroenterology, Pediatrics]
 Aliases: [Appendicitis, Ruptured Appendix, Periappendiceal Abscess]
 Discipline: General_Surgery
 Sub Pathologies: [Uncomplicated Appendicitis, Perforated Appendicitis, Periappendiceal Phlegmon/Abscess]
-First Aid: 
+
 Compare: [[Acute Abdomen]], [[Inflammatory Bowel Disease]]
+First Aid: "Strict NPO, IV fluid resuscitation, Early IV analgesia, Preoperative broad-spectrum IV antibiotics (e.g. Cefoxitin or Ceftriaxone + Metronidazole), Urgent laparoscopic appendectomy"
 ---
 
 > [!abstract] Acute Appendicitis

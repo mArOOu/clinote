@@ -1,9 +1,11 @@
 ---
+Type: Emergency
 title: Urgences Hypertensives (avec Atteinte d'Organe Cible)
 aliases:
   - Urgence Hypertensive
   - Crise Hypertensive
   - Hypertension Artérielle Maligne
+First Aid: "Voie veineuse, Réduction progressive de la PAM de 20–25% la 1ère heure (Loxen ou Labétalol IV), En cas de dissection aortique : PAS < 120 mmHg et FC < 60 bpm en 20 min"
 ---
 
 > [!abstract] Définition & Urgence

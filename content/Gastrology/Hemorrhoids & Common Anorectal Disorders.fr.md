@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterologie, Chirurgie_Viscerale, Medecine_Generale, Medecine_d_Urgence]
 Aliases: [Hemorroides Internes, Hemorroides Externes, Fissure Anale, Abces Anorectal, Fistule Anale, Pathologie Hemorroidaire]
 Discipline: Gastro-entérologie
 Sub Pathologies: [Hémorrhoïdes internes, Hémorrhoïdes externes, Fissure anale, Abcès anorectal, Fistule anale]
-First Aid: 
+
 Compare: [[Acute Lower GI Bleeding]], [[Inflammatory Bowel Disease]]
 ---
 

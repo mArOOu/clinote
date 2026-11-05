@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Maladie Cœliaque & Entéropathie au Gluten
 aliases:
   - Maladie Cœliaque

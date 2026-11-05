@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Traumatismes Abdominaux (Fermés & Pénétrants)
 aliases:
   - Traumatisme Abdominal
@@ -6,6 +7,7 @@ aliases:
   - Plaie Pénétrante Abdominale
   - Lésion Splénique Traumatique
   - Lésion Hépatique Traumatique
+First Aid: "Prise en charge selon ATLS (ABCDE), Activation du protocole de transfusion massive si choc hémorragique, Échographie E-FAST rapide, Laparotomie exploratrice immédiate si patient instable et FAST positive"
 ---
 
 > [!abstract] Définition & Urgence

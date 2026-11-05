@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Emergency, Pulmonology]
-Aliases: [AECOPD, COPD Flare]
+Aliases: [AECOPD, COPD Flare, Acute Exacerbation of COPD, COPD Exacerbation]
 Discipline: Emergency Medicine / Pulmonology
 Sub Pathologies: [Acute Hypercapnic Respiratory Failure]
-First Aid: 
+
 Compare: [[Acute Severe Asthma]], [[Acute Decompensated Heart Failure]]
+First Aid: "Controlled supplemental oxygen (target SpO2 88–92% to prevent hypercapnic arrest), Nebulized SABA + SAMA, Systemic Corticosteroids (Prednisone 40 mg daily x 5d), Early NIV (BiPAP) if pH < 7.35 with PaCO2 > 45 mmHg"
 ---
 
 > [!abstract] Acute COPD Exacerbation

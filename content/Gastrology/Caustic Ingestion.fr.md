@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Ingestion de Produits Caustiques
 aliases:
   - Ingestion de Caustiques
@@ -6,6 +7,7 @@ aliases:
   - Ingestion de Bases Fortes
   - Ingestion d'Acides Forts
   - Classification de Zargar
+First Aid: "Jeûne strict absolu, Évaluation et contrôle immédiat des voies aériennes, Ne JAMAIS faire vomir, Ne JAMAIS neutraliser (eau, lait, acide/base), Pas de SNG à l'aveugle, Endoscopie digestive haute dans les 12–24h"
 ---
 
 > [!abstract] Ingestion de Produits Caustiques

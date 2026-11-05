@@ -1,9 +1,11 @@
 ---
+Type: Emergency
 title: Infarctus du Myocarde avec Sus-Décalage de ST (SCA ST+)
 aliases:
   - STEMI
   - Syndrome Coronarien Aigu ST+
   - Infarctus du myocarde transmural
+First Aid: "Aspirine 250–300 mg à croquer, Inhibiteur P2Y12 (Ticagrélor 180 mg ou Prasugrel 60 mg), Dérivé nitré sublingual (sauf infarctus VD/hypotension), Coronarographie et angioplastie primaire urgente (<90 min)"
 ---
 
 > [!abstract] Définition & Urgence
@@ -50,6 +52,20 @@ aliases:
 > - **Troubles conductifs de haut degré :** BAV III, dissociation auriculo-ventriculaire.
 > - **Complications mécaniques :** Rupture de paroi libre (tamponnade brutale), rupture septale (CIV), rupture de cordage/pilier mitral.
 
+
+> [!todo]- Diagnostics Différentiels
+> **Urgences Vitales à Ne Pas Manquer**
+> - **Dissection aortique aiguë :** À éliminer impérativement avant toute anticoagulation ou fibrinolyse si douleur dorsale migratrice ou asymétrie tensionnelle.
+> - **Embolie pulmonaire massive :** Dyspnée prédominante, tachycardie sinusale, aspect S1Q3.
+> - **Pneumothorax sous tension / suffocant :** Asymétrie auscultatoire, tympanisme unilatéral.
+> - **Rupture œsophagienne (syndrome de Boerhaave) :** Emphysème sous-cutané après vomissements violents.
+>
+> **Principaux Pièges et Diagnostics Électriques Trompeurs**
+> - **Péricardite aiguë :** Sus-décalage diffus concave vers le haut sans miroir, sous-décalage du PQ.
+> - **Angor spastique de Prinzmetal :** Sus-décalage transitoire régressant rapidement après dérivés nitrés.
+> - **Repolarisation précoce :** Variante bénigne du sujet jeune, pas de miroir, pas d'évolution enzymatique.
+> - **Cardiomyopathie de stress (Takotsubo) :** Coronarographie normale, ballonisation apicale ventriculaire.
+
 > [!summary]- Prise en Charge Thérapeutique
 > **1. Mesures immédiates au chevet / SAMU**
 > - Repos strict au lit, monitoring ECG continu, oxymétrie, VVP. Oxygénothérapie uniquement si $\text{SpO}_2 < 90\%$.
@@ -74,6 +90,10 @@ aliases:
 > - Insuffisance cardiaque gauche aiguë.
 > - Choc cardiogénique avec mortalité hospitalière élevée.
 > - Réocclusion coronaire ou thrombose aiguë de stent.
+
+
+> [!success]- Scénario Clinique Typique
+> Un homme de 55 ans, tabagique actif, se présente aux urgences pour une douleur rétrosternale constrictive et des sueurs profuses évoluant depuis 45 minutes. L'ECG réalisé dans les 5 minutes montre un sus-décalage de ST de 3 mm en V2–V4 avec miroir inférieur. L'alerte coronarographie H24 est déclenchée. Il reçoit 250 mg d'aspirine à croquer et une dose de charge de ticagrélor 180 mg, puis est transféré directement en salle de cathétérisme pour angioplastie primaire, avec désobstruction réussie 75 minutes après son arrivée.
 
 > [!example]- Références
 >

@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Syndrome Coronarien Aigu sans Sus-Décalage de ST (SCA ST- / NSTEMI)
 aliases:
   - NSTEMI
   - SCA ST-
   - Infarctus du Myocarde sans Sus-Décalage de ST
   - Syndrome Coronarien Aigu Non-ST+
+First Aid: "Aspirine 250–300 mg per os à croquer, Inhibiteur des récepteurs P2Y12, Anticoagulation curative (Fondaparinux / Énoxaparine), Statine forte dose, Coronarographie précoce selon le score GRACE"
 ---
 
 > [!abstract] Définition & Vue d'ensemble

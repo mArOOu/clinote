@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Syndromes Aortiques Aigus (SAA)
 aliases:
   - SAA
   - Dissection Aortique
   - Hématome Intramural
   - Ulcère Athéromateux Pénétrant
+First Aid: "Repos strict au lit, Baisse urgente de la FC (<60 bpm) et de la PA (PAS 100–120 mmHg) par bêtabloquants IV avant tout vasodilatateur, Angio-TDM et avis chirurgical immédiat"
 ---
 
 > [!abstract] Définition & Urgence

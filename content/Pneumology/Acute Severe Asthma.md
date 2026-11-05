@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Emergency, Pulmonology]
 Aliases: [Asthma Exacerbation, Status Asthmaticus, Near-Fatal Asthma]
 Discipline: Emergency Medicine / Pulmonology
 Sub Pathologies: [Status Asthmaticus, Near-Fatal Asthma]
-First Aid: 
+
 Compare: [[COPD Exacerbation]], [[Anaphylaxis]]
+First Aid: "High-flow oxygen, Continuous nebulized SABA (Albuterol 2.5–5 mg) + SAMA (Ipratropium 0.5 mg), Early systemic corticosteroid (Methylprednisolone 40–60 mg IV), IV Magnesium Sulfate 2g over 20 min if severe"
 ---
 
 > [!abstract] Acute Severe Asthma

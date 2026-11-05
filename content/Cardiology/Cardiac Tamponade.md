@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - Cardiology
   - CriticalCare
@@ -13,12 +14,13 @@ Sub Pathologies:
   - Acute Cardiac Tamponade
   - Subacute/Chronic Tamponade
   - Low-Pressure Tamponade
-First Aid: Supine or Leg Elevation & Avoid Sedatives, Nitrates, or Vasodilators
+
 Compare:
   - Constrictive Pericarditis
   - Tension Pneumothorax
   - Acute Massive PE
   - Hypovolemic Shock
+First Aid: "Supine positioning with leg elevation, IV crystalloid bolus (500–1000 mL) to maintain preload, Strictly avoid vasodilators, nitrates & positive-pressure ventilation, Urgent echo-guided pericardiocentesis"
 ---
 
 > [!abstract] Cardiac Tamponade

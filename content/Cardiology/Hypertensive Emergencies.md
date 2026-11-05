@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - cardiology
   - internal_medicine
@@ -13,12 +14,12 @@ Sub Pathologies:
   - Aortic Dissection
   - Flash Pulmonary Edema
   - Preeclampsia with Severe Features
-First Aid:
-  - Page 312 (2024 edition)
+
 Compare:
   - Hypertensive Urgency
   - Ischemic Stroke
   - Pheochromocytoma Crisis
+First Aid: "Immediate IV access, Target 20–25% MAP reduction in first hour (IV Labetalol / Nicardipine), For Aortic Dissection target SBP < 120 and HR < 60 within 20 min"
 ---
 
 > [!abstract] Hypertensive Emergency

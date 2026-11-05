@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Ischémie Mésentérique Aiguë & Infarctus Entéro-Mésentérique
 aliases:
   - Ischémie Mésentérique Aiguë
@@ -8,6 +9,7 @@ aliases:
   - Ischémie Non Occlusive
   - NOMI
   - Thrombose Veineuse Mésentérique
+First Aid: "Remplissage vasculaire rapide, Héparinothérapie par HNF à dose curative en bolus, Antibiothérapie IV large spectre, Angio-TDM abdomino-pelvien en extrême urgence, Revascularisation chirurgicale / laparotomie immédiate"
 ---
 
 > [!abstract] Ischémie Mésentérique Aiguë

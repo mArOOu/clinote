@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - Cardiology
   - VascularSurgery
@@ -17,12 +18,13 @@ Sub Pathologies:
   - Stanford Type B Dissection
   - Aortic Intramural Hematoma (IMH)
   - Penetrating Atherosclerotic Ulcer (PAU)
-First Aid: Strict Exertion Avoidance & Positioning
+
 Compare:
   - Acute Coronary Syndrome
   - Pulmonary Embolism
   - Acute Pericarditis
   - Esophageal Rupture
+First Aid: "Strict Exertion Avoidance & Positioning, Aggressive HR (<60 bpm) & BP Reduction (SBP 100–120 mmHg) with IV Beta-Blockers Prior to Vasodilators, Urgent CT Angiogram & Surgical Consult"
 ---
 
 > [!abstract] Acute Aortic Syndromes

@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Hémoptysie de Grande Abondance & Hémoptysie Menançante
 aliases:
   - Hémoptysie Massive
   - Hémoptysie Grave
   - Hémorragie Alvéolaire
   - Saignement Bronchique Cataclysmique
+First Aid: "Décubitus latéral du côté qui saigne (protéger le poumon sain de l'inondation), Intubation par sonde de gros calibre (≥8,0 mm) si détresse asphyxique, Embolisation artérielle bronchique / Bronchoscopie interventionnelle urgente"
 ---
 
 > [!abstract] Définition & Urgence

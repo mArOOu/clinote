@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Péritonite Aiguë & Perforation d'Organe Creux
 aliases:
   - Perforation d'Organe Creux
@@ -7,6 +8,7 @@ aliases:
   - Ulcère Perforé
   - Diverticulite Perforée
   - Syndrome de Boerhaave
+First Aid: "Jeûne strict, Remplissage hydro-électrolytique agressif pour choc septique, Antibiothérapie probabiliste IV immédiate (ciblant BGN entériques et anaérobies), Laparotomie exploratrice en urgence absolue"
 ---
 
 > [!abstract] Péritonite Aiguë & Perforation d'Organe Creux

@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [General_Surgery, Trauma, Emergency_Medicine, Critical_Care]
 Aliases: [Blunt Abdominal Trauma, Penetrating Abdominal Trauma, Splenic Laceration, Liver Laceration, Duodenal Hematoma, Retroperitoneal Hematoma, Damage Control Laparotomy]
 Discipline: General_Surgery
 Sub Pathologies: [Splenic Trauma, Hepatic Trauma, Hollow Viscus Injury, Duodenal/Pancreatic Trauma, Retroperitoneal Hematoma]
-First Aid: 
+
 Compare: [[Acute Abdomen]], [[Perforated Viscus - Peritonitis]]
+First Aid: "ATLS Primary Survey (ABCDE), Massive Transfusion Protocol if in hemorrhagic shock, Rapid E-FAST ultrasound exam, Immediate exploratory laparotomy if hemodynamically unstable with positive FAST"
 ---
 
 > [!abstract] Abdominal Trauma

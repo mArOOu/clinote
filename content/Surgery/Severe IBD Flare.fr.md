@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Poussée Grave de MICI & Colite Aiguë Grave (CAG)
 aliases:
   - Colite Aiguë Grave
@@ -7,6 +8,7 @@ aliases:
   - Mégacôlon Toxique
   - Colectasie Toxique
   - Poussée Grave de Maladie de Crohn
+First Aid: "Surveillance rapprochée (examen abdominal et ASP pour éliminer un mégacôlon toxique), Corticothérapie IV forte dose (Méthylprednisolone 60 mg/j), Proscription formelle des antidiarrhéiques, morphiniques et AINS, Concertation médico-chirurgicale précoce"
 ---
 
 > [!abstract] Poussée Grave de MICI

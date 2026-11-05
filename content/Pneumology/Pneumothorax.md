@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Emergency, Pulmonology, Trauma, Surgery]
 Aliases: [PTX, Collapsed Lung, Tension Pneumothorax]
 Discipline: Emergency Medicine / Pulmonology / Thoracic Surgery
 Sub Pathologies: [Primary Spontaneous Pneumothorax, Secondary Spontaneous Pneumothorax, Tension Pneumothorax, Traumatic Pneumothorax]
-First Aid: 
+
 Compare: [[Pulmonary Embolism]], [[Acute Pericarditis]], [[Hemothorax]]
+First Aid: "Immediate needle decompression (2nd ICS midclavicular line or 4th/5th ICS anterior axillary line) if tension pneumothorax, followed by immediate tube thoracostomy (chest drain), High-flow oxygen"
 ---
 
 > [!abstract] Pneumothorax

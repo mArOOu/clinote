@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Pulmonology, Outpatient, InternalMedicine]
 Aliases: [Chronic Cough, Unexplained Chronic Cough, Refractory Chronic Cough]
 Discipline: Pulmonology / Internal Medicine / Primary Care
 Sub Pathologies: [Upper Airway Cough Syndrome, Cough-Variant Asthma, Non-Asthmatic Eosinophilic Bronchitis, Refractory Chronic Cough]
-First Aid: 
+
 Compare: [[Asthma]], [[Chronic Obstructive Pulmonary Disease]], [[Gastroesophageal Reflux Disease]], [[Bronchiectasis]]
 ---
 

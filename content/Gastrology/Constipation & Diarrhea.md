@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, Internal_Medicine, Family_Medicine, Infectious_Disease]
 Aliases: [Acute Diarrhea, Chronic Diarrhea, Chronic Idiopathic Constipation, Dyssynergic Defecation, Secretory Diarrhea, Osmotic Diarrhea]
 Discipline: Gastroenterology
 Sub Pathologies: [Chronic Idiopathic Constipation, Dyssynergic Defecation, Opioid-Induced Constipation, Osmotic Diarrhea, Secretory Diarrhea, Microscopic Colitis, Bile Acid Diarrhea]
-First Aid: 
+
 Compare: [[Inflammatory Bowel Disease]], [[Irritable Bowel Syndrome]], [[Celiac Disease]]
 ---
 

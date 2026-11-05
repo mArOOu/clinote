@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, General_Surgery, Internal_Medicine, Outpatient]
 Aliases: [Cholelithiasis, Biliary Colic, Choledocholithiasis, Gallstones, Symptomatic Cholelithiasis]
 Discipline: Gastroenterology
 Sub Pathologies: [Asymptomatic Cholelithiasis, Biliary Colic, Choledocholithiasis, Acute Cholecystitis, Acute Cholangitis, Gallstone Pancreatitis]
-First Aid: 
+
 Compare: [[Acute Cholecystitis]], [[Acute Cholangitis]], [[Acute Pancreatitis]]
 ---
 

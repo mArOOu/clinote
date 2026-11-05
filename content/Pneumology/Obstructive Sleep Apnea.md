@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Pulmonology, SleepMedicine, Outpatient]
 Aliases: [OSA, Sleep Apnea, Obstructive Sleep Apnea-Hypopnea Syndrome]
 Discipline: Pulmonology / Sleep Medicine / Internal Medicine
 Sub Pathologies: [Obesity Hypoventilation Syndrome, Central Sleep Apnea]
-First Aid: 
+
 Compare: [[Obesity Hypoventilation Syndrome]], [[Narcolepsy]], [[Central Sleep Apnea]]
 ---
 

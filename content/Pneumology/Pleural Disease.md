@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Pulmonology, InternalMedicine, Emergency]
 Aliases: [Pleural Effusion, Empyema, Pleuritis, Malignant Pleural Effusion]
 Discipline: Pulmonology / Internal Medicine / Thoracic Surgery
 Sub Pathologies: [Transudative Pleural Effusion, Exudative Pleural Effusion, Parapneumonic Effusion, Empyema, Malignant Pleural Effusion, Hemothorax, Chylothorax]
-First Aid: 
+
 Compare: [[Community-Acquired Pneumonia]], [[Pneumothorax]], [[Congestive Heart Failure]]
 ---
 

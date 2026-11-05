@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterologie, Medecine_Interne, Medecine_Generale, Psychiatrie]
 Aliases: [SII, Syndrome de l Intestin Irritable, Colopathie Fonctionnelle, SII-D, SII-C, SII-M]
 Discipline: Gastro-entérologie
 Sub Pathologies: [SII-D (diarrhée), SII-C (constipation), SII-M (mixte), SII post-infectieux]
-First Aid: 
+
 Compare: [[Inflammatory Bowel Disease]], [[Constipation & Diarrhea]], [[Celiac Disease]]
 ---
 

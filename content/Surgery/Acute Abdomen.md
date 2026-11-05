@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [General_Surgery, Emergency_Medicine, Gastroenterology, Critical_Care]
 Aliases: [Surgical Abdomen, Peritonitis, Acute Abdominal Pain, Hollow Viscus Perforation, Acute Mesenteric Ischemia]
 Discipline: General_Surgery
 Sub Pathologies: [Hollow Viscus Perforation, Acute Mesenteric Ischemia, Bowel Obstruction, Ruptured AAA, Acute Appendicitis, Acute Cholecystitis]
-First Aid: 
+
 Compare: [[Acute Pancreatitis]], [[Upper GI Bleeding]], [[Acute Lower GI Bleeding]]
+First Aid: "Strictly NPO, Two large-bore IV lines, IV crystalloid fluid resuscitation, Early IV analgesia (does NOT obscure clinical signs), Urgent surgical consultation, Broad-spectrum IV antibiotics if peritonitis suspected"
 ---
 
 > [!abstract] Acute Abdomen

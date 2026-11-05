@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Emergency, Pulmonology, CriticalCare, InterventionalRadiology]
 Aliases: [Life-Threatening Hemoptysis, Major Hemoptysis]
 Discipline: Emergency Medicine / Pulmonology / Critical Care
 Sub Pathologies: [Bronchial Artery Hemorrhage, Rasmussen Aneurysm, Aspergilloma]
-First Aid: 
+
 Compare: [[Upper Gastrointestinal Bleeding]], [[Pulmonary Embolism]], [[Diffuse Alveolar Hemorrhage]]
+First Aid: "Place bleeding lung down (lateral decubitus) to prevent aspirating blood into good lung, Large-bore endotracheal intubation (≥8.0 mm) if asphyxia risk, Immediate bronchial artery embolization (BAE) / Rigid bronchoscopy"
 ---
 
 > [!abstract] Massive Hemoptysis

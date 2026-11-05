@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, Internal_Medicine, Family_Medicine, General_Surgery]
 Aliases: [GERD, Acid Reflux, Reflux Esophagitis, Barrett's Esophagus, NERD]
 Discipline: Gastroenterology
 Sub Pathologies: [Erosive Esophagitis, Non-Erosive Reflux Disease, Barrett's Esophagus, Peptic Stricture]
-First Aid: 
+
 Compare: [[Dyspepsia & Peptic Ulcer Disease]], [[Esophageal Motility Disorders]]
 ---
 

@@ -1,9 +1,11 @@
 ---
+Type: Emergency
 title: Choc Cardiogénique
 aliases:
   - Défaillance de Pompe
   - Choc Cardiogénique Ischémique
   - Choc d'Origine Cardiaque
+First Aid: "Oxygénothérapie, Proscription stricte des vasodilatateurs et bêtabloquants, Noradrénaline en première intention (PAM > 65 mmHg) ± Dobutamine, Coronarographie urgente / Assistance circulatoire"
 ---
 
 > [!abstract] Définition & Urgence

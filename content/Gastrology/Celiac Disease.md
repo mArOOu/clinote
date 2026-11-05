@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, Internal_Medicine, Pediatrics, Immunology, Chronic]
 Aliases: [Celiac Sprue, Gluten-Sensitive Enteropathy, Nontropical Sprue]
 Discipline: Gastroenterology
 Sub Pathologies: [Dermatitis Herpetiformis, Refractory Celiac Disease, Enteropathy-Associated T-Cell Lymphoma]
-First Aid: 
+
 Compare: [[Irritable Bowel Syndrome]], [[Constipation & Diarrhea]], [[Inflammatory Bowel Disease]]
 ---
 

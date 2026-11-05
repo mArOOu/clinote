@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Gastroenterology, Hepatology, Emergency_Medicine, Critical_Care, Toxicology]
 Aliases: [ALF, Fulminant Hepatic Failure, Acute Liver Injury, Acute Viral Hepatitis]
 Discipline: Gastroenterology
 Sub Pathologies: [Acetaminophen Toxicity, Acute Viral Hepatitis, Autoimmune Hepatitis, Ischemic Hepatitis]
-First Aid: 
+
 Compare: [[Cirrhosis]], [[Alcoholic Hepatitis]]
+First Aid: "Immediate IV N-acetylcysteine (NAC) regardless of etiology, ICU admission & early liver transplant center contact, Strict cerebral edema precautions (elevate head of bed 30°, avoid hypotonic fluids)"
 ---
 
 > [!abstract] Acute Hepatitis & Acute Liver Failure

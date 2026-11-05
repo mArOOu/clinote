@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterologie, Medecine_Interne, Chirurgie_Viscerale, Immunologie, Chronique]
 Aliases: [MICI, Maladie de Crohn, Rectocolite Hemorragique, RCH, Colite Aigue Grave, CAG]
 Discipline: Gastro-entérologie
 Sub Pathologies: [Maladie de Crohn, Rectocolite hémorragique, Mégacôlon toxique, Lésions anopérinéales de Crohn]
-First Aid: 
+
 Compare: [[Irritable Bowel Syndrome]], [[Constipation & Diarrhea]], [[Celiac Disease]]
 ---
 

@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Pulmonology, InfectiousDisease, Emergency, InternalMedicine]
 Aliases: [CAP, Lobar Pneumonia, Walking Pneumonia]
 Discipline: Internal Medicine / Pulmonology / Infectious Disease
 Sub Pathologies: [Severe CAP, Parapneumonic Effusion, Empyema, Aspiration Pneumonia]
-First Aid: 
+
 Compare: [[Hospital-Acquired Pneumonia]], [[Acute COPD Exacerbation]], [[Pulmonary Embolism]]
+First Aid: "Supplemental O2 to maintain SpO2 ≥ 92%, Assess severity via CURB-65 / PSI score, Blood and sputum cultures before antibiotics, Immediate empiric IV antibiotics (<4h from triage, e.g. Ceftriaxone + Macrolide)"
 ---
 
 > [!abstract] Community-Acquired Pneumonia

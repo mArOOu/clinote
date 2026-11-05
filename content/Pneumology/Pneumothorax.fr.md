@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Pneumothorax Spontané & Traumatique
 aliases:
   - Pneumothorax
@@ -6,6 +7,7 @@ aliases:
   - Pneumothorax Spontané Primaire
   - Pneumothorax Spontané Secondaire
   - Pneumothorax Sous Tension
+First Aid: "Exsufflation / décompression immédiate à l'aiguille (2e EIC ligne médio-claviculaire ou 4e/5e EIC ligne axillaire antérieure) si pneumothorax sous tension, puis drainage pleural en urgence, Oxygénothérapie forte"
 ---
 
 > [!abstract] Définition & Urgence

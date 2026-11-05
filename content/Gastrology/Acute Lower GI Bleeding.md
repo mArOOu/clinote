@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Gastroenterology, Emergency_Medicine, General_Surgery]
-Aliases: [LGIB, Acute Lower Gastrointestinal Hemorrhage, Hematochezia]
+Aliases: [LGIB, Acute Lower Gastrointestinal Hemorrhage, Hematochezia, Lower GI Bleeding, Lower Gastrointestinal Bleeding]
 Discipline: Gastroenterology
 Sub Pathologies: [Diverticular Bleeding, Ischemic Colitis, Angiodysplasia]
-First Aid:
+
 Compare: [[Upper GI Bleeding]]
+First Aid: "Two large-bore IVs (16–18G), Immediate Crystalloid / PRBC Resuscitation, Reverse Anticoagulation if life-threatening, Urgent colonoscopy or CT angiography if hemodynamically unstable"
 ---
 
 > [!abstract] Acute Lower GI Bleeding

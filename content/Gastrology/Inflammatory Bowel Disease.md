@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, Internal_Medicine, General_Surgery, Immunology, Chronic]
 Aliases: [IBD, Crohn's Disease, Ulcerative Colitis, Acute Severe Ulcerative Colitis, ASUC]
 Discipline: Gastroenterology    
 Sub Pathologies: [Crohn's Disease, Ulcerative Colitis, Toxic Megacolon, Perianal Crohn's Disease]
-First Aid: 
+
 Compare: [[Irritable Bowel Syndrome]], [[Constipation & Diarrhea]], [[Celiac Disease]]
 ---
 

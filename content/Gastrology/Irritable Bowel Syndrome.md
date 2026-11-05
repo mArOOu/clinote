@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, Internal_Medicine, Family_Medicine, Psychiatry]
 Aliases: [IBS, IBS-D, IBS-C, IBS-M, Spastic Colon, Disorder of Gut-Brain Interaction]
 Discipline: Gastroenterology
 Sub Pathologies: [IBS-D, IBS-C, IBS-M, Post-Infectious IBS]
-First Aid: 
+
 Compare: [[Inflammatory Bowel Disease]], [[Constipation & Diarrhea]], [[Celiac Disease]]
 ---
 

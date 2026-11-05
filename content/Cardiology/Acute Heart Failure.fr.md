@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Insuffisance Cardiaque Aiguë (ICA) & Œdème Aigu du Poumon (OAP)
 aliases:
   - ICA
   - OAP
   - Insuffisance Cardiaque Décompensée
   - Décompensation Cardiaque Aiguë
+First Aid: "Position assise jambes pendantes, Oxygénothérapie / VNI (CPAP) si détresse respiratoire, Diurétique de l'anse IV (Furosémide 40–80 mg), Dérivés nitrés IV si PAS > 110 mmHg"
 ---
 
 > [!abstract] Définition & Vue d'ensemble

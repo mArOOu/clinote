@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Constipation & Diarrhée (Aiguë & Chronique)
 aliases:
   - Diarrhée Aiguë

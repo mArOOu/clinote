@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Gastroenterology, Hepatology, Emergency_Medicine, Critical_Care, General_Surgery]
 Aliases: [Ascending Cholangitis, Bacterial Cholangitis, Suppurative Cholangitis, Charcot Triad, Reynolds Pentad]
 Discipline: Gastroenterology
 Sub Pathologies: [Choledocholithiasis, Malignant Biliary Obstruction, Primary Sclerosing Cholangitis, Recurrent Pyogenic Cholangitis]
-First Aid: 
+
 Compare: [[Acute Cholecystitis]], [[Acute Pancreatitis]], [[Acute Abdomen]]
+First Aid: "Immediate broad-spectrum IV antibiotics (e.g., Piperacillin/Tazobactam), Vigorous IV fluid resuscitation, ICU monitoring if septic shock, Urgent biliary decompression via ERCP (<24h, or immediate if unstable)"
 ---
 
 > [!abstract] Acute Cholangitis

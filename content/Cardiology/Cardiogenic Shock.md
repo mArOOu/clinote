@@ -1,4 +1,6 @@
 ---
+Type: Emergency
+title: Cardiogenic Shock
 tags:
   - cardiology
   - intensive-care
@@ -11,8 +13,9 @@ discipline: "[[Cardiology]]"
 sub_pathologies:
   - AMI-CS
   - HF-CS
-first_aid: Cardiovascular
+
 compare: Obstructive shock, Hypovolemic shock, Septic shock
+First Aid: "High-flow O2, Strictly avoid vasodilators & beta-blockers, Norepinephrine first-line to target MAP > 65 mmHg, Add Dobutamine if persistent low cardiac output, Urgent cath lab / mechanical support"
 ---
 
 > [!abstract] Cardiogenic Shock

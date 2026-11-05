@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Angiocholite Aiguë Lithiasique
 aliases:
   - Angiocholite Aiguë
@@ -6,6 +7,7 @@ aliases:
   - Angiocholite Suppurée
   - Triade de Charcot
   - Pentade de Reynolds
+First Aid: "Antibiothérapie IV précoce à large spectre (Pipéracilline/Tazobactam), Réanimation liquidienne agressive, Surveillance en soins intensifs si choc septique, Décompression biliaire urgente par CPRE (<24h ou immédiate si choc)"
 ---
 
 > [!abstract] Angiocholite Aiguë

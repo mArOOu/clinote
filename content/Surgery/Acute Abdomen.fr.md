@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Abdomen Aigu Chirurgical & Péritonite
 aliases:
   - Abdomen Aigu
@@ -6,6 +7,7 @@ aliases:
   - Urgence Abdominale Chirurgicale
   - Perforation d'Organe Creux
   - Ischémie Mésentérique Aiguë
+First Aid: "Jeûne strict, Deux voies veineuses de gros calibre, Remplissage vasculaire, Analgésie précoce (ne masque pas la contracture), Avis chirurgical en urgence, Antibiothérapie IV si suspicion de péritonite"
 ---
 
 > [!abstract] Abdomen Aigu

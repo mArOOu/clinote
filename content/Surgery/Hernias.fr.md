@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Hernies Pariétales & Étranglement Herniaire
 aliases:
   - Hernies Pariétales

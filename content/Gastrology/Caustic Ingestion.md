@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Toxicology, Gastroenterology, EmergencyMedicine, CriticalCare]
 Aliases: [Corrosive Ingestion, Alkali Ingestion, Acid Ingestion, Caustic Burn]
 Discipline: Emergency Medicine
 Sub Pathologies: [Alkali Ingestion (Liquefactive Necrosis), Acid Ingestion (Coagulative Necrosis), Button Battery Ingestion]
-First Aid: Caustic Ingestion
+
 Compare: [Boerhaave Syndrome, Foreign Body Ingestion, Esophagitis, Thermal Airway Burn]
+First Aid: "Strictly NPO, Airway assessment & protection, Do NOT induce emesis, Do NOT administer neutralizing acids/bases, Do NOT place blind NG tube, Urgent upper endoscopy within 12–24h"
 ---
 
 > [!abstract] Caustic Ingestion

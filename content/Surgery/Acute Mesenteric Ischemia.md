@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [General_Surgery, Vascular_Surgery, Gastroenterology, Emergency_Medicine, Critical_Care]
 Aliases: [AMI, SMA Embolism, SMA Thrombosis, Non-Occlusive Mesenteric Ischemia, NOMI, Mesenteric Venous Thrombosis, Bowel Infarction]
 Discipline: General_Surgery
 Sub Pathologies: [Mesenteric Arterial Embolism, Mesenteric Arterial Thrombosis, Non-Occlusive Mesenteric Ischemia, Mesenteric Venous Thrombosis]
-First Aid: 
+
 Compare: [[Acute Abdomen]], [[Acute Lower GI Bleeding]], [[Perforated Viscus - Peritonitis]]
+First Aid: "Immediate IV fluid resuscitation, IV Unfractionated Heparin bolus, Broad-spectrum IV antibiotics, Immediate CTA abdomen/pelvis, Urgent surgical revascularization / laparotomy"
 ---
 
 > [!abstract] Acute Mesenteric Ischemia

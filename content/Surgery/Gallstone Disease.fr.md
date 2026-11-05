@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Lithiase Biliaire & Colique Hépatique
 aliases:
   - Lithiase Biliaire

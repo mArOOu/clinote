@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Troubles du Rythme et de la Conduction Graves (Menaces Vitales)
 aliases:
   - Troubles du Rythme Graves
@@ -6,6 +7,7 @@ aliases:
   - Tachycardie Ventriculaire
   - Torsades de Pointes
   - Bloc Auriculo-Ventriculaire Complet
+First Aid: "Défibrillation immédiate non synchronisée si TV sans pouls / FV, Cardioversion électrique synchronisée si tachyarythmie instable avec pouls, Amiodarone IV, Libération des VAS & O2"
 ---
 
 > [!abstract] Définition & Urgence

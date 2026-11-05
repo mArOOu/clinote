@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [General_Surgery, Gastroenterology, Emergency_Medicine, Critical_Care]
 Aliases: [Bowel Obstruction, Small Bowel Obstruction, Large Bowel Obstruction, SBO, LBO, Volvulus, Paralytic Ileus, Ogilvie Syndrome]
 Discipline: General_Surgery
 Sub Pathologies: [Small Bowel Obstruction, Large Bowel Obstruction, Sigmoid Volvulus, Cecal Volvulus, Paralytic Ileus, Acute Colonic Pseudo-Obstruction]
-First Aid: 
+
 Compare: [[Acute Abdomen]], [[Constipation & Diarrhea]]
+First Aid: "Strict NPO, Decompress stomach with wide-bore Nasogastric Tube (NGT) to suction, Vigorous IV fluid & electrolyte repletion (correct hypokalemia & alkalosis), Urgent surgical consult"
 ---
 
 > [!abstract] Intestinal Obstruction

@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - ACS
   - cardiology
@@ -10,12 +11,12 @@ Sub Pathologies:
   - Anterior STEMI
   - Inferior STEMI
   - Posterior STEMI
-First Aid:
-  - Page 298 (2024 edition)
+
 Compare:
   - NSTEMI
   - Aortic Dissection
   - Acute Pericarditis
+First Aid: "Immediate Aspirin 300 mg chewed, P2Y12 inhibitor (Ticagrelor 180 mg or Prasugrel 60 mg), Sublingual Nitroglycerin (unless RV infarct/hypotensive), Urgent primary PCI (<90 min)"
 ---
 
 > [!abstract] STEMI (ST-Elevation Myocardial Infarction)

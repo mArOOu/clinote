@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Gastroenterology, Emergency_Medicine, Critical_Care, General_Surgery, Internal_Medicine]
 Aliases: [Acute Severe Ulcerative Colitis, ASUC, Fulminant Colitis, Toxic Megacolon, Severe Crohn's Flare]
 Discipline: Gastroenterology
 Sub Pathologies: [Acute Severe Ulcerative Colitis, Toxic Megacolon, Penetrating Crohn's Flare, CMV Colitis]
-First Aid: 
+
 Compare: [[Inflammatory Bowel Disease]], [[Perforated Viscus - Peritonitis]], [[Acute Lower GI Bleeding]]
+First Aid: "Serial abdominal exams & plain radiographs to monitor for toxic megacolon, High-dose IV corticosteroids (Hydrocortisone 100 mg q6h or Methylprednisolone 60 mg/d), Strictly avoid opioids, antidiarrheals & NSAIDs, Early surgical team consultation"
 ---
 
 > [!abstract] Severe IBD Flare

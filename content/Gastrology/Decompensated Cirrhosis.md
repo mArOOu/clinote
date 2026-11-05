@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 Tags:
   [
     Gastroenterology,
@@ -9,6 +10,8 @@ Tags:
   ]
 Aliases:
   [
+    Cirrhosis,
+    Cirrhose,
     End-Stage Liver Disease,
     ESLD,
     Ascites,
@@ -25,8 +28,9 @@ Sub Pathologies:
     Hepatorenal Syndrome,
     Variceal Bleeding,
   ]
-First Aid:
+
 Compare: [[Acute Hepatitis & Acute Liver Failure]]
+First Aid: "Diagnostic paracentesis before antibiotics in ascites, Ceftriaxone 1g IV for SBP or variceal bleed, Octreotide 50 mcg bolus + infusion, Lactulose for encephalopathy (titrate 2–3 soft stools/day)"
 ---
 
 > [!abstract] Decompensated Cirrhosis

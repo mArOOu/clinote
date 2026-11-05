@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Pulmonology, Outpatient]
-Aliases: [Chronic Obstructive Pulmonary Disease, Emphysema, Chronic Bronchitis]
+Aliases: [Chronic Obstructive Pulmonary Disease, Emphysema, Chronic Bronchitis, BPCO]
 Discipline: Pulmonology / Internal Medicine
 Sub Pathologies: [Acute COPD Exacerbation, Emphysema, Chronic Bronchitis, Alpha-1 Antitrypsin Deficiency, Cor Pulmonale]
-First Aid: 
+
 Compare: [[Asthma]], [[Bronchiectasis]], [[Congestive Heart Failure]]
 ---
 

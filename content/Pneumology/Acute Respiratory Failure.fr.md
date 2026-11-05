@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Détresse et Insuffisance Respiratoire Aiguë (IRA)
 aliases:
   - Insuffisance Respiratoire Aiguë
   - IRA
   - Détresse Respiratoire Aiguë
   - Défaillance Respiratoire Aiguë
+First Aid: "Oxygénothérapie à haut débit / VNI (BiPAP/CPAP), Intubation en séquence rapide si épuisement respiratoire, coma (GCS < 8) ou choc réfractaire, Traitement étiologique immédiat"
 ---
 
 > [!abstract] Définition & Vue d'ensemble

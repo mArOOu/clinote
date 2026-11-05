@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Arrêt Cardio-Respiratoire (ACR) & Mort Subite
 aliases:
   - ACR
   - Arrêt Cardiaque
   - Mort Subite d'Origine Cardiaque
   - Réanimation Cardio-Pulmonaire
+First Aid: "MCE immédiat de haute qualité (100–120/min, 5–6 cm), Pose du DAE/défibrillateur, Choc électrique précoce si FV/TV sans pouls (200 J biphasique), Adrénaline 1 mg IV toutes les 3–5 min"
 ---
 
 > [!abstract] Définition & Urgence

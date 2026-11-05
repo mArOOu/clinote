@@ -40,6 +40,7 @@ export function BilingualNoteView({
   const currentOutline = isFr ? outlineFr : outlineEn;
   const currentUpdatedAt = isFr && note.fr?.updatedAt ? note.fr.updatedAt : note.updatedAt;
   const subPathologies = isFr && note.fr?.subPathologies?.length ? note.fr.subPathologies : note.subPathologies;
+  const currentFirstAid = isFr && note.fr?.firstAid ? note.fr.firstAid : note.firstAid;
 
   return (
     <div className="note-layout">
@@ -96,10 +97,10 @@ export function BilingualNoteView({
             )}
           </div>
 
-          {note.firstAid && (
+          {currentFirstAid && (
             <p className="first-aid">
               <span>{isFr ? "Premiers soins / Urgence" : "First Aid"}</span>
-              {note.firstAid}
+              {currentFirstAid}
             </p>
           )}
 

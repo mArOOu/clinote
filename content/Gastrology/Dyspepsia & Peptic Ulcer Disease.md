@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, Internal_Medicine, Family_Medicine, General_Surgery]
 Aliases: [PUD, Gastric Ulcer, Duodenal Ulcer, Functional Dyspepsia, H. pylori Infection]
 Discipline: Gastroenterology
 Sub Pathologies: [Gastric Ulcer, Duodenal Ulcer, Helicobacter pylori Infection, Functional Dyspepsia, Zollinger-Ellison Syndrome]
-First Aid: 
+
 Compare: [[Gastroesophageal Reflux Disease]], [[Upper GI Bleeding]], [[Acute Pancreatitis]]
 ---
 

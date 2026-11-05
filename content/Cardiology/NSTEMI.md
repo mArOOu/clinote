@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - cardiology
   - EmergencyMedicine
@@ -8,11 +9,11 @@ aliases:
 discipline: "[[Cardiology]]"
 Sub Pathologies:
   - Unstable Angina
-First Aid:
-  - Page 298 (2024 edition)
+
 Compare:
   - STEMI
   - Unstable Angina
+First Aid: "Immediate Aspirin 300 mg chewed, P2Y12 inhibitor, Therapeutic anticoagulation (Fondaparinux / Enoxaparin), High-intensity Statin, Early invasive risk stratification"
 ---
 
 > [!abstract] NSTEMI (Non-ST-Elevation Myocardial Infarction)

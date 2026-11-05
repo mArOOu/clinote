@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Emergency, Pulmonology, CriticalCare]
 Aliases: [ARF, Type 1 Respiratory Failure, Type 2 Respiratory Failure]
 Discipline: Emergency Medicine / Critical Care / Pulmonology
 Sub Pathologies: [Hypoxemic Respiratory Failure, Hypercapnic Respiratory Failure, ARDS]
-First Aid: 
+
 Compare: [[Acute Respiratory Distress Syndrome]], [[Acute COPD Exacerbation]], [[Acute Severe Asthma]]
+First Aid: "High-flow oxygen / Non-invasive positive pressure ventilation (BiPAP/CPAP), Immediate Rapid Sequence Intubation (RSI) if GCS < 8, severe exhaustion or refractory shock, Treat underlying cause without delay"
 ---
 
 > [!abstract] Acute Respiratory Failure

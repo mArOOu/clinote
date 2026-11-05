@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Asthme de l'Adulte & Prise en Charge Ambulatoire
 aliases:
   - Asthme Bronchique

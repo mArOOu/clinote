@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Appendicite Aiguë
 aliases:
   - Appendicite
   - Péritonite Appendiculaire
   - Plastron Appendiculaire
   - Abcès Appendiculaire
+First Aid: "Jeûne strict, Remplissage hydro-électrolytique, Analgésie IV, Antibiothérapie périopératoire ciblant bacilles gram-négatifs et anaérobies (Ceftriaxone + Métronidazole), Appendicectomie laparoscopique urgente"
 ---
 
 > [!abstract] Appendicite Aiguë

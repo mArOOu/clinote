@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Cancer Broncho-Pulmonaire (Cancer du Poumon)
 aliases:
   - Cancer du Poumon

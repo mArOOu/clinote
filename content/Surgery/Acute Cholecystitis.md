@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [General_Surgery, Gastroenterology, Emergency_Medicine, Critical_Care]
 Aliases: [Calculous Cholecystitis, Acalculous Cholecystitis, Emphysematous Cholecystitis, Mirizzi Syndrome, Gallstone Ileus]
 Discipline: General_Surgery
 Sub Pathologies: [Acute Calculous Cholecystitis, Acute Acalculous Cholecystitis, Emphysematous Cholecystitis, Choledocholithiasis, Acute Cholangitis]
-First Aid: 
+
 Compare: [[Acute Pancreatitis]], [[Acute Abdomen]], [[Acute Appendicitis]]
+First Aid: "Strict NPO, IV fluid hydration, IV analgesia (NSAIDs / Opioids), Broad-spectrum IV antibiotics, Urgent laparoscopic cholecystectomy within 24–72 hours of admission"
 ---
 
 > [!abstract] Acute Cholecystitis

@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - cardiology
   - pulmonology
@@ -16,12 +17,13 @@ Sub Pathologies:
   - Submassive PE (Intermediate-Risk)
   - Low-Risk PE
   - Saddle Pulmonary Embolism
-First Aid:
+
 Compare:
   - "[[Acute Aortic Syndromes]]"
   - Tension Pneumothorax
   - Acute Exacerbation of COPD
-  - "[[STEMI|Acute Coronary Syndrome]]"
+  - "[[STEMI]], [[Acute Coronary Syndrome]]"
+First Aid: "High-flow O2, Cautious IV crystalloid bolus (≤500 mL), Immediate therapeutic anticoagulation (UFH / LMWH) if high clinical probability, Immediate thrombolysis (Alteplase) if hemodynamic collapse"
 ---
 
 > [!abstract] Pulmonary Embolism

@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [General_Surgery, Gastroenterology, Outpatient, Pediatrics]
 Aliases: [Inguinal Hernia, Femoral Hernia, Umbilical Hernia, Incisional Hernia, Ventral Hernia, Hiatal Hernia, Strangulated Hernia]
 Discipline: General_Surgery
 Sub Pathologies: [Indirect Inguinal Hernia, Direct Inguinal Hernia, Femoral Hernia, Umbilical Hernia, Incisional Hernia, Hiatal Hernia]
-First Aid: 
+
 Compare: [[Intestinal Obstruction]], [[Acute Abdomen]], [[Gastroesophageal Reflux Disease]]
 ---
 

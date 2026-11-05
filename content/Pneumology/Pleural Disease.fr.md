@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Épanchements Pleuraux & Pleurésies
 aliases:
   - Épanchement Pleural

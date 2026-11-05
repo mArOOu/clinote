@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Gastroenterologie, Medecine_d_Urgence, Reanimation]
 Aliases: [HDH, Hemorragie Digestive Haute, Rupture de Varices Oesophagiennes, Ulcere Peptique Hemorragique]
 Discipline: Gastro-entérologie
 Sub Pathologies: [Hémorragie ulcéreuse non variqueuse, Hémorragie par rupture de varices œso-gastriques]
-First Aid: 
+
 Compare: [[Lower GI Bleeding]]
+First Aid: "Deux VVP de gros calibre, Érythromycine 250 mg IV 30 min avant endoscopie, IPP forte dose IV (Pantoprazole 80 mg bolus + 8 mg/h), Vasoactif précoce (Octréotide / Terlipressine), Transfusion restrictive (cible Hb 7–8 g/dL), Endoscopie haute urgente (<24h)"
 ---
 
 > [!abstract] Hémorragie Digestive Haute (HDH)

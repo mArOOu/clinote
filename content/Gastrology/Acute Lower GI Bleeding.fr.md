@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Hémorragie Digestive Basse Aiguë (Rectorragies)
 aliases:
   - Hémorragie Digestive Basse
@@ -6,6 +7,7 @@ aliases:
   - Hémorragie Diverticulaire
   - Saignement Digestif Bas
   - Angiodysplasies Coliques
+First Aid: "Deux voies veineuses de gros calibre (16–18G), Remplissage par cristalloïdes et transfusion de CGR si instabilité, Antagonisation des anticoagulants si hémorragie active, Coloscopie urgente ou angio-TDM"
 ---
 
 > [!abstract] Hémorragie Digestive Basse Aiguë

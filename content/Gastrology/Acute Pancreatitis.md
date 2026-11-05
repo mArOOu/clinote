@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Gastroenterology, Emergency_Medicine, General_Surgery, Critical_Care]
 Aliases: [AP, Acute Necrotizing Pancreatitis, Gallstone Pancreatitis]
 Discipline: Gastroenterology
 Sub Pathologies: [Gallstone Pancreatitis, Necrotizing Pancreatitis]
-First Aid: 
+
 Compare: [[Chronic Pancreatitis]], [[Acute Cholecystitis]]
+First Aid: "Aggressive early goal-directed IV hydration (Ringer's lactate 200–500 mL/h), Adequate multimodal analgesia, Early oral feeding as tolerated within 24h, Urgent ERCP (<24h) if acute cholangitis present"
 ---
 
 > [!abstract] Acute Pancreatitis

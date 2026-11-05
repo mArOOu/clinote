@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Exacerbation Aiguë de Broncho-Pneumopathie Chronique Obstructive (BPCO)
 aliases:
   - Exacerbation de BPCO
   - Poussée de BPCO
   - AECOPD
   - Décompensation Respiratoire Aiguë de BPCO
+First Aid: "Oxygénothérapie contrôlée à bas débit (cible SpO2 88–92%), Aérosols de bronchodilatateurs (B2CA + anticholinergique), Corticothérapie systémique (Prednisone 40 mg/j 5 jours), VNI précoce si pH < 7,35 et PaCO2 > 45 mmHg"
 ---
 
 > [!abstract] Définition & Vue d'ensemble

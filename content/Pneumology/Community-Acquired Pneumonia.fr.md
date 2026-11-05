@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Pneumonie Aiguë Communautaire (PAC) & Pneumopathie Franche Lobaire Aiguë
 aliases:
   - PAC
   - PFLA
   - Pneumonie Communautaire
   - Infection Pulmonaire Aiguë
+First Aid: "Oxygénothérapie pour SpO2 ≥ 92%, Évaluation de gravité (score CRB-65 / CURB-65), Hémocultures avant antibiothérapie, Antibiothérapie précoce (<4h, ex: Amoxicilline/Acide Clavulanique + Macrolide si hospitalisation)"
 ---
 
 > [!abstract] Définition & Vue d'ensemble

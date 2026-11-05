@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [Gastroenterology, Emergency_Medicine, Critical_Care]
-Aliases: [UGIB, Upper Gastrointestinal Hemorrhage]
+Aliases: [UGIB, Upper Gastrointestinal Hemorrhage, Upper Gastrointestinal Bleeding]
 Discipline: Gastroenterology
 Sub Pathologies: [Peptic Ulcer Bleeding, Variceal Bleeding]
-First Aid:
+
 Compare: [[Lower GI Bleeding]]
+First Aid: "Two large-bore IV lines, IV Erythromycin 250 mg 30 min pre-procedure, High-dose IV PPI (Pantoprazole 80 mg bolus + 8 mg/h), Vasoactive agent (Octreotide 50 mcg bolus + 50 mcg/h if variceal suspected), Restrictive transfusion (target Hb 7–8 g/dL), Urgent EGD within 24h"
 ---
 
 > [!abstract] Upper GI Bleeding

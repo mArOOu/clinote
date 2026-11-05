@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Asthme Aigu Grave (AAG) & Crise d'Asthme Sévère
 aliases:
   - Asthme Aigu Grave
   - AAG
   - État de Mal Asthmatique
   - Crise d'Asthme Aiguë Sévère
+First Aid: "Oxygénothérapie forte, Nébulisations en continu de B2CA (Salbutamol 5 mg) + anticholinergique (Ipratropium 0,5 mg), Corticoïdes systémiques précoces (Méthylprednisolone IV), Sulfate de magnésium 2g IV en 20 min si forme sévère"
 ---
 
 > [!abstract] Définition & Urgence

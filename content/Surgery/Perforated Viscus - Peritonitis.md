@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 Tags: [General_Surgery, Emergency_Medicine, Critical_Care, Gastroenterology, Infectious_Disease]
 Aliases: [Hollow Viscus Perforation, Secondary Peritonitis, Pneumoperitoneum, Perforated Peptic Ulcer, Perforated Diverticulitis, Boerhaave Syndrome]
 Discipline: General_Surgery
 Sub Pathologies: [Perforated Peptic Ulcer, Perforated Diverticulitis, Boerhaave Syndrome, Primary Bacterial Peritonitis, Secondary Bacterial Peritonitis, Tertiary Peritonitis]
-First Aid: 
+
 Compare: [[Acute Abdomen]], [[Dyspepsia & Peptic Ulcer Disease]], [[Decompensated Cirrhosis]]
+First Aid: "Strict NPO, Immediate aggressive IV crystalloids for septic shock, Prompt IV broad-spectrum antibiotics (covering enteric gram-negatives and anaerobes), Emergency exploratory laparotomy"
 ---
 
 > [!abstract] Perforated Viscus - Peritonitis

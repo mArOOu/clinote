@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Pancréatite Aiguë
 aliases:
   - Pancréatite Aiguë
   - Pancréatite Aiguë Biliaire
   - Pancréatite Nécrosante
   - Nécrose Pancréatique
+First Aid: "Remplissage précoce par Ringer Lactate (200–500 mL/h guidé par la volémie), Analgésie multimodale précoce, Alimentation entérale précoce dès 24h selon tolérance, CPRE en urgence (<24h) si angiocholite associée"
 ---
 
 > [!abstract] Pancréatite Aiguë

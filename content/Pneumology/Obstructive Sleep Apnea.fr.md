@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Syndrome d'Apnées-Hypopnées Obstructives du Sommeil (SAHOS)
 aliases:
   - SAHOS

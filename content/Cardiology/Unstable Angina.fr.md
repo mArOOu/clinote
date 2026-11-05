@@ -1,10 +1,12 @@
 ---
+Type: Emergency
 title: Angor Instable (Angine de Poitrine Instable)
 aliases:
   - Angor Instable
   - Angine de Poitrine Instable
   - Menace d'Infarctus
   - Syndrome Coronarien Aigu sans Nécrose
+First Aid: "Aspirine 250–300 mg à croquer, Dérivé nitré sublingual, Dosages sériés de troponine ultrasensible (H0/H1/H2), Surveillance scopique, Ne jamais libérer sur un seul dosage négatif"
 ---
 
 > [!abstract] Définition & Vue d'ensemble

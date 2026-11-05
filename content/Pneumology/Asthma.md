@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Pulmonology, Outpatient]
 Aliases: [Bronchial Asthma, Allergic Asthma, Cough-Variant Asthma]
 Discipline: Pulmonology / Internal Medicine
 Sub Pathologies: [Acute Severe Asthma, Aspirin-Exacerbated Respiratory Disease, Cough-Variant Asthma, Exercise-Induced Bronchoconstriction]
-First Aid: 
+
 Compare: [[Chronic Obstructive Pulmonary Disease]], [[Vocal Cord Dysfunction]], [[Bronchiectasis]]
 ---
 

@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Cholécystite Aiguë Lithiasique & Alithiasique
 aliases:
   - Cholécystite Aiguë
@@ -7,6 +8,7 @@ aliases:
   - Cholécystite Emphysémateuse
   - Syndrome de Mirizzi
   - Iléus Biliaire
+First Aid: "Jeûne strict, Remplissage IV, Analgésie IV (AINS / morphiniques), Antibiothérapie IV probabiliste, Cholécystectomie laparoscopique précoce dans les 24–72h suivant l'admission"
 ---
 
 > [!abstract] Cholécystite Aiguë

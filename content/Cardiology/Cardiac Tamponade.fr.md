@@ -1,9 +1,11 @@
 ---
+Type: Emergency
 title: Tamponnade Cardiaque
 aliases:
   - Tamponnade Péricardique
   - Épanchement Péricardique Compressif
   - Péricardite Aiguë Constrictive
+First Aid: "Position décubitus dorsal jambes surélevées, Remplissage vasculaire par cristalloïdes pour maintenir la précharge, Proscription stricte des vasodilatateurs et de la VNI, Péricardiocèse urgente sous échographie"
 ---
 
 > [!abstract] Définition & Urgence

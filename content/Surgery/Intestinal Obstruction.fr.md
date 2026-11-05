@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Occlusion Intestinale Aiguë & Volvulus
 aliases:
   - Occlusion Intestinale Aiguë
@@ -8,6 +9,7 @@ aliases:
   - Volvulus du Cæcum
   - Iléus Paralytique
   - Syndrome d'Ogilvie
+First Aid: "Jeûne strict, Pose d'une sonde naso-gastrique (SNG) en aspiration continue, Remplissage et correction des troubles hydro-électrolytiques (alcalose hypokaliémique), Avis chirurgical urgent"
 ---
 
 > [!abstract] Occlusion Intestinale Aiguë

@@ -1,9 +1,10 @@
 ---
+Type: Chronic
 Tags: [Gastroenterology, General_Surgery, Family_Medicine, Emergency_Medicine]
 Aliases: [Internal Hemorrhoids, External Hemorrhoids, Anal Fissure, Anorectal Abscess, Anal Fistula, Pilonidal Disease]
 Discipline: Gastroenterology
 Sub Pathologies: [Internal Hemorrhoids, External Hemorrhoids, Anal Fissure, Anorectal Abscess, Anal Fistula]
-First Aid: 
+
 Compare: [[Acute Lower GI Bleeding]], [[Inflammatory Bowel Disease]]
 ---
 

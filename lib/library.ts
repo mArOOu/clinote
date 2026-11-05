@@ -20,6 +20,7 @@ export type NoteFr = {
   excerpt: string;
   sources?: Source[];
   subPathologies?: string[];
+  firstAid?: string;
   updatedAt?: string;
 };
 
@@ -214,6 +215,7 @@ function readFolder(dir: string, slugParts: string[], title: string, notes: Note
           excerpt: makeExcerpt(frParsed.content),
           sources: parseSources(fmGet(frFm, "sources")),
           subPathologies: strList(fmGet(frFm, "sub pathologies")),
+          firstAid: firstAidText(fmGet(frFm, "first aid")),
           updatedAt: resolveUpdatedAt(frRel, frRaw, frFile),
         };
       }

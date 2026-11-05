@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 title: Cirrhose Décompensée & Complications de l'Hypertension Portale
 aliases:
   - Cirrhose Décompensée
@@ -9,6 +10,7 @@ aliases:
   - Encéphalopathie Hépatique
   - Syndrome Hépatorénal
   - SHR
+First Aid: "Ponction d'ascite exploratrice avant antibiothérapie, Ceftriaxone 1g IV si hémorragie ou suspicion d'infection d'ascite, Octréotide bolus 50 µg puis continu, Lactulose si encéphalopathie (2–3 selles molles/j)"
 ---
 
 > [!abstract] Cirrhose Décompensée

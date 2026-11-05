@@ -1,4 +1,5 @@
 ---
+Type: Emergency
 tags:
   - cardiology
   - internal_medicine
@@ -13,12 +14,13 @@ Sub Pathologies:
   - Flash Pulmonary Edema
   - Cardiogenic Shock
   - Right-Sided Heart Failure
-First Aid:
-  - Page 314 (2024 edition)
+
 Compare:
   - Chronic Heart Failure
   - ARDS
   - Pulmonary Embolism
+First Aid: "Sit upright with legs dependent, High-flow O2 (CPAP/BiPAP if severe dyspnea/edema), IV Loop Diuretic (Furosemide 40–80 mg), IV Nitroglycerin if SBP > 110 mmHg"
+Aliases: [Congestive Heart Failure, Acute Decompensated Heart Failure, ADHF, CHF]
 ---
 
 > [!abstract] Acute Heart Failure (AHF)

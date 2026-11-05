@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Broncho-Pneumopathie Chronique Obstructive (BPCO) & Emphysème
 aliases:
   - BPCO

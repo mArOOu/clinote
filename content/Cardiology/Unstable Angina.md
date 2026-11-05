@@ -1,4 +1,6 @@
 ---
+Type: Emergency
+title: Unstable Angina
 tags:
   - cardiology
   - ACS
@@ -8,11 +10,11 @@ aliases:
 discipline: "[[Cardiology]]"
 Sub Pathologies:
   - NSTEMI
-First Aid:
-  - Page 296 (2024 edition)
+
 Compare:
   - Stable Angina
   - NSTEMI
+First Aid: "Immediate Aspirin 300 mg chewed, Sublingual Nitroglycerin, Serial High-Sensitivity Troponins (H0/H1/H2), Continuous ECG monitoring, Avoid discharge on single negative troponin"
 ---
 
 > [!abstract] Unstable Angina

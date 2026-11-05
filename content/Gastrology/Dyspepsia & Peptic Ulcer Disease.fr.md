@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 title: Dyspepsie & Ulcère Gastro-Duodénal (UGD)
 aliases:
   - Ulcère Gastro-Duodénal

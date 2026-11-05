@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 Tags: [Pulmonology, Oncology, InternalMedicine, Surgery, Chronic]
 Aliases:
   [
@@ -17,7 +18,7 @@ Sub Pathologies:
     Pancoast Tumor,
     Superior Vena Cava Syndrome,
   ]
-First Aid:
+
 Compare: "[[Solitary Pulmonary Nodule]], [[Community-Acquired Pneumonia]], [[Pleural Disease]]"
 ---
 
