@@ -1,9 +1,10 @@
 ---
+Type: Emergency
 Tags: [Neurology, Emergency_Medicine, Internal_Medicine, Critical_Care, Geriatrics, Psychiatry]
 Aliases: [AMS, Delirium, Acute Confusional State, Toxic-Metabolic Encephalopathy, Wernicke Encephalopathy, Coma]
 Discipline: Neurology
 Sub Pathologies: [Delirium, Toxic-Metabolic Encephalopathy, Wernicke Encephalopathy, Hypertensive Encephalopathy, PRES]
-First Aid: 
+First Aid: POC Blood Glucose, High-Dose IV Thiamine (500 mg) Before Glucose, Naloxone if Pinpoint Pupils / Apnea
 Compare: [[Status Epilepticus]], [[Acute Ischemic Stroke & TIA]], [[Decompensated Cirrhosis]]
 ---
 

@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 Tags: [Neurology, Immunology, Internal_Medicine, Ophthalmology]
 Aliases: [MS, Disseminated Sclerosis, Relapsing-Remitting MS, Primary Progressive MS, RRMS, PPMS]
 Discipline: Neurology

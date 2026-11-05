@@ -1,9 +1,10 @@
 ---
+Type: Emergency
 Tags: [Neurology, Emergency_Medicine, Critical_Care, Pediatrics, Toxicology]
 Aliases: [SE, Convulsive Status Epilepticus, Nonconvulsive Status Epilepticus, NCSE, Refractory Status Epilepticus]
 Discipline: Neurology
 Sub Pathologies: [Convulsive Status Epilepticus, Nonconvulsive Status Epilepticus, Refractory Status Epilepticus, Super-Refractory Status Epilepticus]
-First Aid: 
+First Aid: Lateral Decubitus, Airway Protection, Supplemental Oxygen, High-Dose IV Benzodiazepine at Minute 5
 Compare: [[Acute Ischemic Stroke & TIA]], [[Intracerebral Hemorrhage]]
 ---
 

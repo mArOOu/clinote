@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 Tags: [Neurology, Internal_Medicine, Movement_Disorders, Psychiatry]
 Aliases: [Essential Tremor, RLS, Huntington Chorea, Tardive Dyskinesia, Movement Disorders, Tremor]
 Discipline: Neurology

@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 Tags: [Neurology, Internal_Medicine, Geriatrics, Movement_Disorders]
 Aliases: [Parkinson's Disease, Idiopathic Parkinson Disease, IPD, Parkinsonism, Atypical Parkinsonism]
 Discipline: Neurology

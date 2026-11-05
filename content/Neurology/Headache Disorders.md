@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 Tags: [Neurology, Internal_Medicine, Family_Medicine, Emergency_Medicine]
 Aliases: [Primary Headache Disorders, Migraine, Tension-Type Headache, Cluster Headache, Medication-Overuse Headache]
 Discipline: Neurology

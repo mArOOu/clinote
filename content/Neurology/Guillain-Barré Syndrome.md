@@ -1,9 +1,10 @@
 ---
+Type: Emergency
 Tags: [Neurology, Emergency_Medicine, Critical_Care, Immunology]
 Aliases: [GBS, Acute Inflammatory Demyelinating Polyradiculoneuropathy, AIDP, Miller Fisher Syndrome]
 Discipline: Neurology
 Sub Pathologies: [AIDP, AMAN, AMSAN, Miller Fisher Syndrome]
-First Aid: 
+First Aid: Serial FVC & NIF Respiratory Monitoring, Avoid Succinylcholine, ICU Admission
 Compare: [[Myasthenia Gravis]], [[Multiple Sclerosis]]
 ---
 

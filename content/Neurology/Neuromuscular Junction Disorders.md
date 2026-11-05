@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 Tags: [Neurology, Emergency_Medicine, Oncology, Critical_Care, Toxicology]
 Aliases: [NMJ Disorders, Myasthenia Gravis, Lambert-Eaton Myasthenic Syndrome, LEMS, Botulism]
 Discipline: Neurology

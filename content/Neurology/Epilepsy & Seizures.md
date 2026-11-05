@@ -1,9 +1,10 @@
 ---
+Type: Emergency
 Tags: [Neurology, Emergency_Medicine, Internal_Medicine, Pediatrics]
 Aliases: [Epilepsy, Seizure Disorder, First Unprovoked Seizure, Focal Seizures, Generalized Seizures]
 Discipline: Neurology
 Sub Pathologies: [Focal Epilepsy, Generalized Epilepsy, Juvenile Myoclonic Epilepsy, Absence Epilepsy, Psychogenic Nonepileptic Seizures]
-First Aid: 
+First Aid: Recovery Position (Lateral Decubitus), Protect Head, Do Not Insert Objects in Mouth, Time the Seizure
 Compare: [[Status Epilepticus]], [[Acute Altered Mental Status / Encephalopathy]]
 ---
 

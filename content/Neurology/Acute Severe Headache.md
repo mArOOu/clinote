@@ -1,9 +1,10 @@
 ---
+Type: Emergency
 Tags: [Neurology, Emergency_Medicine, Internal_Medicine, Ophthalmology]
-Aliases: [Thunderclap Headache, Red Flag Headache, Secondary Headache, Worst Headache of Life]
+Aliases: [Thunderclap Headache, Red Flag Headache, Secondary Headache, Worst Headache of Life, Subarachnoid Hemorrhage, SAH]
 Discipline: Neurology
 Sub Pathologies: [Subarachnoid Hemorrhage, Giant Cell Arteritis, Cerebral Venous Sinus Thrombosis, Cervical Artery Dissection, Acute Angle-Closure Glaucoma]
-First Aid: 
+First Aid: Rest in Quiet Dark Room, Strict SBP Monitoring, Immediate Non-Contrast Head CT
 Compare: [[Intracerebral Hemorrhage]], [[Acute Ischemic Stroke & TIA]]
 ---
 

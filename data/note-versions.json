@@ -233,6 +233,132 @@
     "addedAt": "2026-11-02",
     "updatedAt": "2026-11-03"
   },
+  "Neurology/Acute Altered Mental Status & Encephalopathy.fr.md": {
+    "hash": "81df74880d8b3b0e07bb6c968b54660f68b21361",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Acute Altered Mental Status & Encephalopathy.md": {
+    "hash": "e53d1bbb0e37041fac02e495b91aac9056dbdf04",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Acute Ischemic Stroke & TIA.fr.md": {
+    "hash": "768ca21ecb35a74b92a65a229cdea79243617355",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Acute Ischemic Stroke & TIA.md": {
+    "hash": "9686ddd61a1e514de2c99ddf786783c781cac6ef",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Acute Severe Headache.fr.md": {
+    "hash": "7d589838ffb3ad48878af6b94d8c8568aa879e14",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Acute Severe Headache.md": {
+    "hash": "b89cdd6db93b1f91043b8eaa1665b344b040f9b8",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Epilepsy & Seizures.fr.md": {
+    "hash": "fe7fa4cc31197f8627131371c750273cc07508b0",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Epilepsy & Seizures.md": {
+    "hash": "759c961b8a2c40d3785f7c7000d934ed9ae54d4c",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Guillain-Barré Syndrome.fr.md": {
+    "hash": "e970155f15b9a204fa71140431189b131d760c6a",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Guillain-Barré Syndrome.md": {
+    "hash": "e87b9fd914d24e08c1dde442c806d3af4276a055",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Headache Disorders.fr.md": {
+    "hash": "d570b486c8d75292952b3087c5ccc8f12043b03a",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Headache Disorders.md": {
+    "hash": "80d7a755fc9ef322dd4302bac5fba3556eec46ec",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Intracerebral Hemorrhage.fr.md": {
+    "hash": "cc28b486fc61399057ff4e8255c8536f2b9057ae",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Intracerebral Hemorrhage.md": {
+    "hash": "8f3035596fd12617f888286c4382c13ccbcaacf1",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Multiple Sclerosis.fr.md": {
+    "hash": "17352018cdd4ba94d1c8fb6b91e33ffc5893c742",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Multiple Sclerosis.md": {
+    "hash": "bf0b9884389d43c84403344bdb6f914c7522180e",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Myasthenic Crisis.fr.md": {
+    "hash": "bccabe59fc74f79387dc2d830911c5ac97f23a27",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Myasthenic Crisis.md": {
+    "hash": "f877a324dd46a115c49ea285c0d4207465d8806c",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Neuromuscular Junction Disorders.fr.md": {
+    "hash": "daac83420535598c2c4fdad2bceca5b461b7e214",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Neuromuscular Junction Disorders.md": {
+    "hash": "7ca0164c79299f06724473234c9a4dee306c7bc3",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Parkinson Disease & Parkinsonism.fr.md": {
+    "hash": "3e5163b0128cb327dc95437a38a9bdf056807dd9",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Parkinson Disease & Parkinsonism.md": {
+    "hash": "94fef43cfc5bd7067f452c51f7fb30773cfd2b45",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Peripheral Neuropathies.fr.md": {
+    "hash": "316b55632fc52f4c8c84a0d4c32c3a254ee2faa8",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Peripheral Neuropathies.md": {
+    "hash": "b27f1838c40d24ef61451907ac4225f6a83037f2",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Status Epilepticus.fr.md": {
+    "hash": "ada16bc27b62d45d66bcdc3de05eb4b640e3ea84",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Status Epilepticus.md": {
+    "hash": "39976b1850013c835d08e40ba516f591b6b37617",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
+  "Neurology/Tremor & Common Movement Disorders.fr.md": {
+    "hash": "9486fc9038a032fa502d6856abafa9c1c8a14088",
+    "addedAt": "2026-11-05"
+  },
+  "Neurology/Tremor & Common Movement Disorders.md": {
+    "hash": "dac51ba962c7e7be2e32d30a894f56d8aa6ecb9a",
+    "addedAt": "2026-11-05",
+    "updatedAt": "2026-11-05"
+  },
   "Pneumology/Acute COPD Exacerbation.fr.md": {
     "hash": "d1e43d626fef5b29455fed5d2bc8c3e180e2bd71",
     "addedAt": "2026-11-04",

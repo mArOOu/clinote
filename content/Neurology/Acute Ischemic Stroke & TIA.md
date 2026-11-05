@@ -1,10 +1,11 @@
 ---
+Type: Emergency
 Tags: [Neurology, Emergency_Medicine, Critical_Care, Internal_Medicine, Neurosurgery]
 Aliases: [AIS, Transient Ischemic Attack, CVA, Cerebrovascular Accident, Large Vessel Occlusion, LVO]
 Discipline: Neurology
 Sub Pathologies: [Cardioembolic Stroke, Large-Artery Atherosclerotic Stroke, Lacunar Stroke, Transient Ischemic Attack]
-First Aid: 
-Compare: [[Intracranial Hemorrhage]], [[Subarachnoid Hemorrhage]], [[Seizures & Status Epilepticus]]
+First Aid: Keep Head of Bed Flat (0–15°), Strictly NPO (Nothing by Mouth), Immediate EMS Activation
+Compare: [[Intracerebral Hemorrhage]], [[Subarachnoid Hemorrhage]], [[Status Epilepticus]]
 ---
 
 > [!abstract] Acute Ischemic Stroke & TIA

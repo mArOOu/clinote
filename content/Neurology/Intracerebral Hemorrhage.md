@@ -1,9 +1,10 @@
 ---
+Type: Emergency
 Tags: [Neurology, Neurosurgery, Emergency_Medicine, Critical_Care]
-Aliases: [ICH, Hemorrhagic Stroke, Intraparenchymal Hemorrhage, Hypertensive Hemorrhage, Cerebral Amyloid Angiopathy]
+Aliases: [ICH, Hemorrhagic Stroke, Intraparenchymal Hemorrhage, Hypertensive Hemorrhage, Cerebral Amyloid Angiopathy, Intracranial Hemorrhage]
 Discipline: Neurology
 Sub Pathologies: [Hypertensive ICH, Cerebral Amyloid Angiopathy, Intraventricular Hemorrhage, Cerebellar Hemorrhage, Pontine Hemorrhage]
-First Aid: 
+First Aid: Elevate Head of Bed to 30°, Rapid SBP Lowering (<140 mmHg), Strict NPO
 Compare: [[Acute Ischemic Stroke & TIA]], [[Subarachnoid Hemorrhage]]
 ---
 

@@ -1,4 +1,5 @@
 ---
+Type: Chronic
 Tags: [Neurology, Internal_Medicine, Endocrinology, Rheumatology]
 Aliases: [Polyneuropathy, Mononeuropathy Multiplex, Diabetic Neuropathy, Peripheral Neuropathy, CIDP, Small Fiber Neuropathy]
 Discipline: Neurology

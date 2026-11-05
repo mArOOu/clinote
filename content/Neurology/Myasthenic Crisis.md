@@ -1,9 +1,10 @@
 ---
+Type: Emergency
 Tags: [Neurology, Emergency_Medicine, Critical_Care, Immunology]
 Aliases: [Myasthenia Gravis Crisis, MC, Acute Myasthenic Crisis]
 Discipline: Neurology
 Sub Pathologies: [Generalized Myasthenia Gravis, Anti-AChR MG, Anti-MuSK MG, Cholinergic Crisis]
-First Aid: 
+First Aid: Frequent FVC/NIF Monitoring, Elective Intubation, Avoid All Neuromuscular Blockers & Sedatives
 Compare: [[Guillain-Barré Syndrome]], [[Acute Ischemic Stroke & TIA]]
 ---
 
