@@ -46,6 +46,7 @@ export const SPECIALTY_FR: Record<string, string> = {
   Surgery: "Chirurgie",
   Pediatrics: "Pédiatrie",
   Neurology: "Neurologie",
+  Neurosurgery: "Neurochirurgie",
   Endocrinology: "Endocrinologie",
   Nephrology: "Néphrologie",
   Infectious: "Maladies Infectieuses",

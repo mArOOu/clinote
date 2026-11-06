@@ -371,6 +371,118 @@
     "addedAt": "2026-11-05",
     "updatedAt": "2026-11-05"
   },
+  "Neurosurgery/Acute Hydrocephalus & Raised Intracranial Pressure.fr.md": {
+    "hash": "f81319028e9afe0f03a2dcec97ca9d1e5bc25fab",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Acute Hydrocephalus & Raised Intracranial Pressure.md": {
+    "hash": "2bfabcf2cb3bdfce1eb2f8d996be6c84d45a2d38",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Acute Spinal Cord Compression & Cauda Equina Syndrome.fr.md": {
+    "hash": "68e04b4aa6115dbf0fa2eba410ebeb3fa7d68602",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Acute Spinal Cord Compression & Cauda Equina Syndrome.md": {
+    "hash": "94e228fa222e69488547022c2f0b9241c287b36d",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Aneurysmal Subarachnoid Hemorrhage.fr.md": {
+    "hash": "e63e141d353753244de15cf5db6cad3f9e861966",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Aneurysmal Subarachnoid Hemorrhage.md": {
+    "hash": "4ccba9e9eeff6978d60075bc221285c66bce3266",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Brain Tumors.fr.md": {
+    "hash": "137fdc893b5398133d72b5bddd4d9d6f3334d4c3",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Brain Tumors.md": {
+    "hash": "99b5d1d4b1824231c534f996af34b6004fa05bc5",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Chiari Malformation.fr.md": {
+    "hash": "681f68c737c0ea811b402f81b158e0962180c32b",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Chiari Malformation.md": {
+    "hash": "a9ca0cc802e92f0ac21d079c4ea9b25ccf112330",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Chronic Subdural Hematoma.fr.md": {
+    "hash": "ba0a8e35cdab002b3c486bb267d8cce3d0aeef17",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Chronic Subdural Hematoma.md": {
+    "hash": "7f55f9ae49b1ba253b1a92737ad845e481120ce7",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Cranial & Peripheral Nerve Compression.fr.md": {
+    "hash": "363462d3503467a596a9711e102430d90e5d5dc4",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Cranial & Peripheral Nerve Compression.md": {
+    "hash": "750ea797b28919927a95286a6ae21aab8ea4d291",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Hydrocephalus.fr.md": {
+    "hash": "ab5925109dbbf50c764c1a328c798a281593cb65",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Hydrocephalus.md": {
+    "hash": "7cf31eb0cc5de3d0264111e886233eb06d95e2ef",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Intracranial Aneurysm & Vascular Malformations.fr.md": {
+    "hash": "1a4e259475173e4dd373cfa4f5176c96324eb042",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Intracranial Aneurysm & Vascular Malformations.md": {
+    "hash": "7fdc96d7bfb9b36538c404006f7ba386c55991a1",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Spinal Trauma.fr.md": {
+    "hash": "892f1787db21044ae03042464197629fdbdaeeca",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Spinal Trauma.md": {
+    "hash": "eb4eaa897aa155d764167d09777ccb786a975f45",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Spinal Tumors & Metastatic Cord Compression.fr.md": {
+    "hash": "a292d267bea7c7a44df2c69feffcd8bcf8c9b24b",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Spinal Tumors & Metastatic Cord Compression.md": {
+    "hash": "0efee04a5751f45b04042fb85b781c66a73d4b83",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Spinal cord malformations.fr.md": {
+    "hash": "6d686a2e8ee8c7e54fa1b317fa4e34390584a5e5",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Spinal cord malformations.md": {
+    "hash": "a5b4d08bc1b9ef4ca19feb86b576aaa1c914d84a",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Traumatic Brain Injury.fr.md": {
+    "hash": "30c99ccf158548faf082844e62519e7187111391",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Traumatic Brain Injury.md": {
+    "hash": "b6b67eed6aef8e6da5f2a17d45e02e0d62e3495c",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Traumatic Intracranial Hemorrhage.fr.md": {
+    "hash": "4a3670db9dde0e44814e07273d55015951e8f1f5",
+    "addedAt": "2026-11-06"
+  },
+  "Neurosurgery/Traumatic Intracranial Hemorrhage.md": {
+    "hash": "7e23a1fe976a0bafc826efd4fcf38bd516aae6b4",
+    "addedAt": "2026-11-06"
+  },
   "Pneumology/Acute COPD Exacerbation.fr.md": {
     "hash": "4e9c5ea7d7a1708c31773ee60b779de92b8bc411",
     "addedAt": "2026-11-04",
