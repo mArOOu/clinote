@@ -1,97 +1,149 @@
 ---
 Type: Chronic
-title: Hydrocéphalie Chronique & Hydrocéphalie à Pression Normale (HPN)
-Tags: [Neurochirurgie, Neurologie, Geriatrie, Pediatrie]
-Aliases: [Hydrocéphalie Chronique, Hydrocéphalie à Pression Normale, HPN, Maladie de Hakim-Adams, Dérivation Ventriculo-Péritonéale, DVP]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Hydrocéphalie à Pression Normale (HPN), Hydrocéphalie Communicante Chronique, Sténose de l'Aqueduc de Sylvius, Dérivation Ventriculo-Péritonéale & Ventriculocisternostomie (VTC), Dysfonction & Hypodrainage de Valve]
-Compare: [[Acute Hydrocephalus & Raised Intracranial Pressure]], [[Parkinson Disease & Parkinsonism]]
+Tags: [Neurosurgery, Neurology, Pediatrics, Geriatrics]
+Aliases: [Hydrocéphalie, Hydrocéphalie Communicante, Hydrocéphalie Obstructive, Hydrocéphalie à Pression Normale, HPN, Ventriculomégalie]
+Discipline: Neurosurgery
+Sub Pathologies: [Hydrocéphalie à Pression Normale, Sténose de l'Aqueduc de Sylvius, Hydrocéphalie Congénitale, Dysfonction de Valve]
+Compare: [[Acute Hydrocephalus & Raised Intracranial Pressure]], [[Chiari Malformation]]
 Reviewed: 2026-11-06
 ---
 
-> [!abstract] Hydrocéphalie Chronique & Hydrocéphalie à Pression Normale (HPN)
-> Dilatation progressive du système ventriculaire cérébral liée à une perturbation chronique de l'hydrodynamique du liquide cérébro-spinal (LCS / LCR). Chez le sujet âgé, l'**Hydrocéphalie à Pression Normale (HPN)** (ou syndrome de Hakim-Adams) représente l'une des rares causes de démence et de troubles de la marche **curables et réversibles** par une dérivation chirurgicale. Chez l'adulte jeune, l'hydrocéphalie chronique obstructive est dominée par la sténose de l'aqueduc de Sylvius.
+> [!abstract] Hydrocéphalie
+> Dilatation active pathologique du système ventriculaire cérébral résultant d'un déséquilibre entre la production de liquide cérébrospinal (LCR, ~500 mL/jour par les plexus choroïdes) et sa résorption (villosités arachnoïdiennes dans le sinus sagittal supérieur), classée en **Non Communicante (Obstructive)**, **Communicante**, et **Hydrocéphalie à Pression Normale (HPN)**.
 
 > [!note] Physiopathologie
-> - **Dynamique du LCR :**
->   - Volume total chez l'adulte d'environ $150\text{ mL}$ avec une sécrétion continue d'environ $500\text{ mL/jour}$ ($0,35\text{ mL/min}$) par les plexus choroïdes.
->   - Trajet : Ventricules latéraux $\rightarrow$ Foramens de Monro $\rightarrow$ 3e ventricule $\rightarrow$ Aqueduc de Sylvius $\rightarrow$ 4e ventricule $\rightarrow$ Foramens de Luschka et Magendie $\rightarrow$ Espaces sous-arachnoïdiens périmédullaires et de la convexité $\rightarrow$ Résorption veineuse dans le sinus sagittal supérieur via les **villosités arachnoïdiennes de Pacchioni**.
-> - **Hydrocéphalie à Pression Normale (HPN) :**
->   - Baisse de la compliance cérébrale et élévation intermittente de l'onde de pouls du LCR au cours du sommeil paradoxal.
->   - La dilatation ventriculaire s'effectue sans élévation permanente de la pression moyenne du LCR ($< 15\text{ mmHg}$ ou $< 18–20\text{ cmH}_2\text{O}$), mais applique des forces de traction et de cisaillement chroniques sur les fibres motrices cortico-spinales périventriculaires destinées aux membres inférieurs, les voies fronto-striatales et les centres sacrés de la miction.
-> - **Sténose Congénitale ou Acquise de l'Aqueduc de Sylvius :**
->   - Hydrocéphalie triventriculaire non communicante (dilatation des ventricules latéraux et du 3e ventricule avec 4e ventricule de taille normale).
+>
+> - **Non Communicante (Obstructive) :** Obstruction mécanique intrinsèque des voies d'écoulement ventriculaire (**Trous de Monro, Aqueduc de Sylvius [#1], ou orifices de Luschka/Magendie**) empêchant le LCR d'atteindre les citernes sous-arachnoïdiennes.
+> - **Communicante :** Écoulement ventriculaire libre mais résorption altérée au niveau des **villosités arachnoïdiennes de Pacchioni** par colmatage ou fibrose post-hémorragie sous-arachnoïdienne, méningite purulente ou méningite carcinomateuse.
+> - **Hydrocéphalie à Pression Normale (HPN) :** Hydrocéphalie communicante chronique du sujet âgé évoluant à pression normale ou modérément fluctuante ($<18	ext{ mmHg}$ ou $<20	ext{ cmH}_2	ext{O}$) ; l'expansion ventriculaire étire les **fibres motrices sacrées de la corona radiata** longeant les ventricules latéraux (expliquant l'atteinte précoce et prédominante de la marche et de la continence urinaire !).
 
 > [!tip]- Perles Cliniques
-> - **La Triade Classique de Hakim et Adams (Ordre chronologique) :**
->   1. **Troubles de la Marche (Le signe le plus précoce, le plus constant et le plus réversible) :** Marche à petits pas, élargissement du polygone, pieds collés au sol ("marche magnétique").
->   2. **Troubles Sphinctériens :** Impériosités mictionnelles $\rightarrow$ pollakiurie $\rightarrow$ fuites d'urine sans besoin préalable, avec anosognosie ou indifférence frontale.
->   3. **Troubles Cognitifs :** Profil sous-cortico-frontal (ralentissement idéatoire, apathie, bradyphrénie, troubles exécutifs).
-> - **Le Test de Soustraction de LCR (Ponction Lombaire Évacuatrice) :**
->   - Soustraction de **$30\text{ à }50\text{ mL}$ de LCR** avec évaluation vidéo/chronométrée de la marche avant et après ponction (test des 10 mètres). Une amélioration $\ge 20\%$ de la vitesse ou du nombre de pas a une valeur prédictive positive $> 90\%$ d'efficacité d'une dérivation ventriculaire.
-> - **Le Signe du DESH à l'IRM :** Dilatation disproportionnée des espaces sous-arachnoïdiens (**D**isproportionately **E**nlarged **S**ubarachnoid-space **H**ydrocephalus) : vallées sylviennes très élargies associées à un écrasement complet des sillons corticaux de la haute convexité et de la région parasagittale (meilleur prédicteur radiologique de succès de la valve).
+>
+> - **Triade d'Adams et Hakim de l'HPN (Par Ordre Chronologique d'Apparition) :**
+>   1. **Troubles de la Marche (PREMIER signe et le plus sensible à la dérivation) :** Marche typiquement **"magnétique" / apraxique** (pieds collés au sol, base élargie, petits pas traînants, demi-tour décomposé, balancement des bras conservé).
+>   2. **Troubles Cognitifs :** Ralentissement sous-cortico-frontal, apathie, inattention.
+>   3. **Incontinence Urinaire (TARDIVE) :** Mictions impérieuses par perte du contrôle frontal du détrusor.
+> - **Le Test de Ponction Lombaire Soustractive Évacuatrice (Tap Test) :** Soustraction de **30 à 50 mL de LCR par ponction lombaire** avec évaluation vidéo-chronométrée du temps de marche sur 10 mètres avant et 30–60 minutes après ; une amélioration objective a une **valeur prédictive positive $>90%$ de succès de la dérivation ventriculo-péritonéale** !
+> - **Signe du Coucher de Soleil chez le Nourrisson :** Déviation forcée du regard vers le bas avec sclérotique visible au-dessus de l'iris, par compression tectale (syndrome de Parinaud).
+> - **VCE vs DVP (Guérison Sans Matériel Prothétique) :** La **Ventriculocisternostomie Endoscopique (VCE)** perfore le plancher du 3e ventricule dans la citerne prépontique ; c'est le **traitement curatif de référence de la sténose de l'aqueduc**, évitant à vie tout matériel prothétique étranger !
+> - **Règle de Dysfonction de Valve :** Tout patient porteur d'une Dérivation Ventriculo-Péritonéale (DVP) consultant pour céphalées inhabituelles, somnolence, nausées ou déclin cognitif présente une **Dysfonction de Valve jusqu'à preuve du contraire** $ightarrow$ prescrire immédiatement une **Radiographie du Trajet de la Valve (Radio Shunt) et un Scanner Cérébral** !
+
+| Catégorie | Mécanisme d'Écoulement | Causes Typiques | Traitement Chirurgical Clé |
+| :--- | :--- | :--- | :--- |
+| **1. Non Communicante** (Obstructive) | Obstacle physique DANS les ventricules | Sténose aqueduc, kyste colloïde, tumeur | Ventriculocisternostomie (VCE) ou DVE/DVP |
+| **2. Communicante** | Écoulement libre mais résorption altérée | Post-HSA, post-méningite, papillome | Dérivation Ventriculo-Péritonéale (DVP) |
+| **3. Hydrocéphalie à Pression Normale** | Communicante chronique ; pression normale | Idiopathique (>60 ans) ; compliance altérée | DVP (si test de soustraction positif ; améliore la MARCHE) |
 
 > [!attention]- Présentation Clinique
-> **Hydrocéphalie à Pression Normale (Sujet Âgé)**
-> - **Démarche Magnétique :** Démarche précautionneuse, difficulté d'initiation du pas (enrayage cinétique), pieds semblant aimantés au plancher, demi-tour décomposé en 4 à 8 temps, sans asymétrie ni tremblement de repos (différence avec la maladie de Parkinson).
-> - **Troubles Urinaires :** Mictions impérieuses évoluant vers une incontinence urinaire vraie diurne et nocturne.
-> - **Atteinte Cognitive :** Ralentissement psychomoteur net, troubles de la mémoire de travail et de l'attention, sans aphasie, agnosie ni apraxie majeure (différence avec la maladie d'Alzheimer).
-> 
-> **Hydrocéphalie Chronique Obstructive (Adulte)**
-> - Céphalées chroniques matinales, paralysie de l'élévation du regard (**syndrome de Parinaud** par compression de la plaque tectale), baisse des performances intellectuelles.
+> **Anamnèse**
+>
+> - **Pédiatrique / Nourrisson :** Cassure vers le haut de la courbe de périmètre crânien franchissant les percentiles, disjonction des sutures crâniennes, fontanelle antérieure bombée tendue non pulsatile, cri aigu cérébral, vomissements en jet et retard des acquisitions motrices.
+> - **Hydrocéphalie à Pression Normale (Sujet Âgé $ge 60$ ans) :**
+>   - Installation insidieuse de **troubles de l'équilibre avec chutes inexpliquées en arrière** (difficulté à décoller les pieds, demi-tour en plusieurs temps).
+>   - Mictions impérieuses progressant vers une **incontinence urinaire franche**.
+>   - Ralentissement cognitif de type sous-cortico-frontal (apathie, oublis bénins).
+> - **Dysfonctionnement / Infection de Dérivation :** Céphalées intermittentes, vomissements, rougeur ou douleur sur le trajet sous-cutané du drain.
+>
+> **Examen Physique**
+>
+> - **Nourrisson :** **Regard en coucher de soleil**, turgescence des veines du scalp, **signe du pot fêlé (signe de Macewen)** à la percussion crânienne.
+> - **Examen de la Marche de l'HPN :** **Marche magnétique à petits pas traînants** (pieds semblant aimantés au plancher), polygone élargi, rétropulsion, **balancement normal des bras conservé** (distingue formellement de la maladie de Parkinson !).
+> - **Examen Neurologique :** Réflexes rotuliens vifs, paratonie oppositionnelle (gegenhalten) et réflexes archaïques de préhension frontale.
 
 > [!check]- Critères Diagnostiques
-> - **Recommandations Internationales de l'HPN :**
->   - Dilatation ventriculaire avec **Indice d'Evans $> 0,30$**.
->   - Présence d'au moins 2 composantes de la triade de Hakim et Adams (dont obligatoirement le trouble de la marche).
->   - Pression d'ouverture normale lors de la ponction lombaire ($< 18–20\text{ cmH}_2\text{O}$).
->   - Amélioration clinique significative après ponction lombaire évacuatrice ou drainage lombaire externe de 72 heures.
+>
+> - **Ventriculomégalie Objective à l'Imagerie :**
+>   - **Indice d'Evans $>0,30$** (rapport du diamètre bipolaire des cornes frontales sur le diamètre interne de la calva).
+>   - **Largeur des cornes temporales $ge 2	ext{ mm}$**.
+>   - **Signes de résorption trans-épendymaire**.
+> - **Hydrocéphalie à Pression Normale Probable (Consensus International) :**
+>   - Âge **$ge 60$ ans**,
+>   - Début insidieux d'un **trouble de la marche** PLUS au moins un autre domaine (incontinence urinaire ou déclin cognitif),
+>   - **Ventriculomégalie disproportionnée par rapport à l'atrophie corticale (Signe DESH : Disproportionately Enlarged Subarachnoid space Hydrocephalus)** avec sillons collabés au vertex et vallées sylviennes élargies, ET
+>   - **Pression d'ouverture normale du LCR à la ponction lombaire ($<18	ext{ mmHg}$ ou $<20–24	ext{ cmH}_2	ext{O}$)**.
 
 > [!fail]- Examens Complémentaires
-> - **IRM Cérébrale avec Séquences 3D T1, T2, FLAIR et Étude du Flux de LCR :**
->   - Indice d'Evans $> 0,30$, angle calleux fermé $< 90°$ sur coupe coronale passant par la commissure blanche postérieure.
->   - Signe du DESH (vallées sylviennes larges et sillons du vertex collabés).
->   - Hypersignal péri-ventriculaire en T2/FLAIR et vide de signal hyperdynamique dans l'aqueduc de Sylvius.
-> - **Test de Marche Chronométré Pré- et Post-Ponction :** Mesure objective de la vitesse et de la cadence sur 10 mètres.
-> - **Mesure de la Résistance à l'Écoulement du LCR ($R_{out}$) :** Test de perfusion lombaire ($R_{out} > 12–14\text{ mmHg/mL/min}$ corrélé à une excellente réponse à la chirurgie).
+> **Imagerie Neurochirurgicale**
+>
+> - **IRM Cérébrale avec Injection (Standard de Référence) :**
+>   - Calcule l'indice d'Evans, élimine une tumeur, met en évidence le **signe DESH** et détecte le **vide de flux de l'aqueduc de Sylvius** (hyposignal T2 hyperdynamique dans l'aqueduc).
+> - **Échographie Transfontanellaire (ETF Pédiatrique) :** Examen au lit du nouveau-né à fontanelle ouverte pour suivre la taille ventriculaire et dépister les hémorragies intraventriculaires.
+>
+> **Tests Diagnostiques Prédictifs de l'HPN**
+>
+> - **Test de Ponction Lombaire Soustractive Évacuatrice (Tap Test) :** Évaluation quantitative initiale de la marche (vitesse et nombre de pas sur 10 mètres), réalisation d'une PL avec évacuation de **30 à 50 mL de LCR**, et réévaluation de la marche à **30 minutes, 2 heures et 4 heures** (l'amélioration significative de la vitesse confirme l'indication opératoire).
+> - **Drainage Lombaire Externe Continu (DLE) :** En cas de doute ou test soustractif limite ; drainage continu de **10 mL/h pendant 72 heures** en hospitalisation (sensibilité $>90–95%$).
+>
+> **Bilan de Dysfonction de Shunt**
+>
+> - **Radiographies du Trajet de la Dérivation (Crâne, Cou, Thorax, Abdomen) :** Dépiste une **déconnexion, fracture ou plicature du cathéter**.
+> - **Ponction du Réservoir de Valve :** Réalisée sous asepsie stricte pour mesurer la pression d'ouverture et prélever le LCR pour cytologie et bactériologie (dépister une méningite ou une ventriculite nosocomiale).
 
-> [!bug]- Signes d'Alerte (Red Flags)
-> - Dysfonction aiguë de dérivation : Céphalées brutales, vomissements, somnolence, baisse visuelle.
-> - Signes d'infection de valve : Fièvre, érythème sur le trajet sous-cutané du cathéter, syndrome péritonéal.
-> - Céphalées orthostatiques intenses soulagées par le décubitus (surdrainage de valve avec décollement sous-dural).
+> [!bug]- Drapeaux Rouges
+>
+> - **Baisse aiguë de vigilance ou mydriase aréactive** chez un porteur de valve ($ightarrow$ engagement ventriculaire aigu ; révision chirurgicale immédiate).
+> - **Fièvre avec placard inflammatoire cutané le long du trajet de la dérivation** ($ightarrow$ infection aiguë de DVP ; impose l'ablation et l'externalisation du drain).
+> - **Augmentation rapide du périmètre crânien ou fontanelle bombée en tension** chez le nourrisson.
 
 > [!todo]- Diagnostics Différentiels
-> - Maladie de Parkinson et Syndromes Parkinsonien Atypiques (PSP, AMS : présence d'une rigidité extrapyramidale, tremblement de repos, chutes précoces).
-> - Maladie d'Alzheimer (amnésie épisodique précoce au premier plan, atrophie hippocampique sans signe du DESH).
-> - Démence Vasculaire (leucoaraïose ischémique étendue, antécédents d'AVC à répétition).
-> - Myélopathie cervicarthrosique (syndrome pyramidal franc avec réflexes ostéo-tendineux vifs et Babinski).
+> **Atrophie et Affections Neurodégénératives**
+>
+> - **Hydrocéphalie Ex-Vacuo :** Dilatation passive des ventricules liée à la perte neuronale globale (**Maladie d'Alzheimer, démence fronto-temporale**) ; **sillons corticaux largement dilatés proportionnels aux ventricules**, pression normale, test de soustraction strictement inefficace.
+> - **Maladie de Parkinson :** Marche à petits pas avec instabilité ; se distingue par le **tremblement de repos asymétrique, la rigidité extrapyramidale en roue dentée et la perte du ballant des bras**.
+> - **Démence Vasculaire Sous-Corticale (Maladie de Binswanger) :** Leucoaraïose étendue en T2/FLAIR avec multiples lacunes ischémiques.
+> - **Hydrocéphalie Externe Bénigne du Nourrisson :** Élargissement transitoire des espaces sous-arachnoïdiens frontaux avec ventricules normaux ; régression spontanée à 2 ans.
 
-> [!summary]- Prise en Charge Thérapeutique
-> **1. Dérivation Neurochirurgicale du LCR**
-> - **Dérivation Ventriculo-Péritonéale (DVP, Traitement de Référence) :**
->   - Implantation d'un cathéter ventriculaire dans la corne frontale au point de Kocher, relié à une valve sous-cutanée rétro-auriculaire, tunnellisé jusqu'à la cavité péritonéale.
->   - **Valves Réglables à Pression Programmable avec Système Gravitationnel Anti-Siphon :** Permettent un réglage transcutané non invasif par aimant en consultation pour adapter précisément le débit de drainage à la clinique et éviter le surdrainage en position debout.
-> - **Dérivation Ventriculo-Atriale (DVA) ou Ventriculo-Pleurale :** Alternatives en cas d'abdomen hostile ou d'antécédent de péritonite.
-> - **Ventriculocisternostomie Endoscopique (VTC) :** Geste de choix de l'**hydrocéphalie obstructive par sténose de l'aqueduc de Sylvius** (évite l'implantation de matériel étranger définitif).
-> 
-> **2. Suivi Postopératoire & Réglage de Valve**
-> - Contrôle scanner à 1 mois pour vérifier la position du drain et l'absence d'hématome sous-dural.
-> - Si les troubles de la marche persistent avec ventricules encore dilatés, baisser le palier de pression de la valve.
-> - Si survenue de céphalées debout ou d'hygrome sous-dural, remonter le seuil de pression.
+> [!summary]- Prise en Charge
+> **Objectifs Thérapeutiques**
+>
+> - **Cible Principale :** Rétablir l'équilibre de résorption du LCR, décomprimer les ventricules, obtenir une **amélioration fonctionnelle durable de la marche dans l'HPN**, et prévenir le déclin cognitif ou la cécité.
+> - **Cible Secondaire :** Éviter l'hyper-drainage ou le sous-drainage, et minimiser les complications mécaniques et infectieuses de matériel.
+>
+> **Urgences Immédiates**
+>
+> - **Hydrocéphalie Obstructive Aiguë :** Référer d'urgence pour **Dérivation Ventriculaire Externe (DVE)** (voir **[[Acute Hydrocephalus & Raised Intracranial Pressure]]**).
+> - **Infection de Dérivation / Ventriculite Aiguë :** **Ablation de la dérivation infectée et externalisation en DVE**, débuter une **Bi-antibiothérapie IV par Vancomycine (15–20 mg/kg q8–12h) PLUS Céfépime ou Méropénème**, et reposer une nouvelle valve controlatérale uniquement après stérilisation durable du LCR pendant au moins 7 à 10 jours.
+>
+> **Traitement Chirurgical de l'Hydrocéphalie Non Communicante (Obstructive)**
+>
+> - **Ventriculocisternostomie Endoscopique (VCE) (Traitement de Référence) :**
+>   - Introduction d'un endoscope rigide dans le 3e ventricule pour créer une stomie de 4–6 mm dans le plancher ventriculaire, permettant au LCR de contourner l'obstacle pour gagner les citernes prépontiques (guérit définitivement la **Sténose de l'Aqueduc** sans prothèse).
+>
+> **Traitement Chirurgical de l'HPN et de l'Hydrocéphalie Communicante**
+>
+> - **Dérivation Ventriculo-Péritonéale (DVP) (Gold Standard) :**
+>   - Implantation sous-cutanée d'un cathéter ventriculaire relié à une **valve à pression réglable aimantée** placée derrière l'oreille, descendant dans la cavité péritonéale.
+>   - _Résultats Fonctionnels :_ **La marche s'améliore chez $>80–90%$ des patients** ayant un test soustractif positif ; les troubles urinaires s'améliorent chez ~50–60 % ; la mémoire chez ~40–50 %.
+>   - _Alternatives d'Écoulement :_ **Dérivation Ventriculo-Atriale (DVA)** (oreillette droite) ou **Ventriculo-Pleurale (DVPl)** en cas d'antécédent de péritonite ou d'adhérences abdominales majeures.
+>
+> **Réglage Postopératoire des Valves**
+>
+> - **Ajustement Transcutané Magnétique de la Pression d'Ouverture :**
+>   - _Si sous-drainage (persistance des troubles de la marche) :_ Baisser la pression de consigne pour augmenter le débit de LCR.
+>   - _Si hyper-drainage (céphalées orthostatiques, hématomes sous-duraux) :_ Augmenter la pression de consigne pour limiter l'évacuation.
 
 > [!warning]- Contre-indications & Pièges
-> - **Ne pas poser d'indication de VTC dans l'HPN communicante :** La VTC est inefficace dans l'HPN car le défaut siège au niveau des granulations de Pacchioni.
-> - **Ne pas attendre que les troubles soient trop évolués :** L'efficacité de la DVP est maximale lorsque les troubles de la marche sont récents ; elle est médiocre sur une démence grabataire évoluant depuis plusieurs années.
+>
+> - **Proscrire la Ponction Lombaire dans l'Hydrocéphalie Obstructive Non Communicante**, qui crée un gradient de pression déclenchant un **engagement amygdalien foudroyant**.
+> - **Ne Pas Poser de Valve chez un Patient Porteur d'une Prétendue HPN SANS Trouble de la Marche**, car une démence isolée sans apraxie de la marche présente un taux d'échec opératoire $>80%$ (il s'agit le plus souvent d'une **maladie d'Alzheimer avec hydrocéphalie ex-vacuo**).
+> - **Proscrire l'Hyper-Drainage Chronique**, le collapsus des hémisphères cérébraux cisaillant les veines ponts et provoquant des **Hématomes Sous-Duraux Chroniques bilatéraux** (utiliser impérativement des **valves programmables avec dispositif anti-siphon gravitaire**).
+> - **Proscrire les Diurétiques (Acétazolamide, Furosémide) comme Traitement Curatif Long Terme**, leur efficacité étant insuffisante pour stopper la ventriculomégalie et pourvoyeuse d'acidose métabolique sévère.
+> - **Ne Jamais Exclure une Dysfonction de Valve sur un Scanner Montrant des "Ventricules de Taille Normale"**, car un cerveau rigidifié peut ne pas se redilater lors d'une obstruction aiguë de valve (toujours comparer au scanner de référence postopératoire).
 
 > [!error]- Complications
-> - Infection de matériel de dérivation (Staphylococcus epidermidis ; impose l'ablation complète du matériel, antibiothérapie adaptée et dérivation externe temporaire).
-> - Obstruction proximale du drain ventriculaire par des plexus choroïdes ou distale par pseudokyste péritonéal.
-> - Hématome ou hygrome sous-dural par surdrainage.
+>
+> - **Infection de Dérivation (~5–10 % des cas) :** Principalement due à des germes cutanés colonisant le drain lors de la pose (**_Staphylococcus epidermidis [#1]_**, _Staphylococcus aureus_) $ightarrow$ impose l'ablation complète du matériel et l'antibiothérapie IV.
+> - **Hématomes Sous-Duraux par Hyper-Drainage :** Requiert l'augmentation transcutanée de la résistance de la valve.
+> - **Pseudokyste Péritonéal :** Occlusion inflammatoire du cathéter distal cloisonné par le grand épiploon $ightarrow$ réimplantation pleurale ou atriale.
+> - **Syndrome des Ventricules Collabés ("Slit-Ventricle Syndrome") :** Ventricules virtuels collapsés par hyper-drainage chronique se bouchant par intermittence sur le cathéter $ightarrow$ céphalées paroxystiques sévères.
 
-> [!success]- Scénario Clinique Typique
-> Un homme de 73 ans, expert-comptable retraité, est adressé en consultation pour des troubles de la marche évoluant depuis 8 mois. Sa femme décrit "des pieds qui restent collés au sol comme s'il avait des aimants". Depuis 3 mois, sont apparues des fuites urinaires impérieuses ainsi qu'une apathie avec lenteur psychomotrice. L'IRM cérébrale montre une volumineuse dilatation ventriculaire télescopant l'indice d'Evans à 0,37, un angle calleux fermé à 72°, des vallées sylviennes élargies et des sillons de la convexité effacés (aspect typique de DESH). La ponction lombaire retrouve une pression d'ouverture à 13 cmH2O ; la soustraction de 45 mL de LCR permet une amélioration spectaculaire du test des 10 mètres à la 4e heure (le temps passe de 26 secondes à 17 secondes avec diminution du nombre de pas de 32 à 22). Une dérivation ventriculo-péritonéale avec valve programmable et système anti-siphon est posée. À la consultation des 3 mois, la marche s'est normalisée, l'incontinence a totalement disparu et le patient a repris ses activités intellectuelles avec vivacité.
+> [!success]- Cas Clinique Typique
+> Un homme de 74 ans, ancien comptable, consulte pour des troubles de la marche d'apparition insidieuse depuis 11 mois avec chutes fréquentes en arrière, accompagnés d'urgences mictionnelles récentes avec fuites occasionnelles. Ses proches notent un ralentissement psychomoteur et une apathie. L'examen physique met en évidence une **marche magnétique à petits pas traînants avec élargissement du polygone** et demi-tour décomposé, avec conservation du ballant des bras et absence de roue dentée ou de tremblement. L'IRM cérébrale confirme une ventriculomégalie marquée avec un **indice d'Evans à 0,36**, des cornes temporales dilatées et des sillons corticaux comprimés au vertex (**Signe DESH**). Un **Test de Ponction Lombaire Soustractive Évacuatrice** de 40 mL est réalisé ; 1 heure après, son temps de marche sur 10 mètres passe de 24 secondes à 15 secondes (**test soustractif hautement positif**). Il bénéficie de la mise en place d'une **Dérivation Ventriculo-Péritonéale avec valve programmable à régulation gravitaire**, permettant la reprise durable d'une marche autonome stable et la disparition de l'incontinence urinaire.
 
-> [!example]- Références
-> - **Marmarou A et al. (Neurosurgery 2005) :** Guidelines for the diagnosis and management of idiopathic normal-pressure hydrocephalus.
-> - **Halperin JJ et al. (Neurology 2015) :** Practice guideline: Idiopathic normal-pressure hydrocephalus.
-> - **Société Française de Neurochirurgie (SFNC) :** Recommandations sur le diagnostic et le traitement de l'HPN.
+> [!info] Expérience Personnelle
+
+> [!example]- Ressources
+>
+> - Guidelines for the Management of Adult Hydrocephalus — Congress of Neurological Surgeons (CNS) — Neurosurgery 2018 — https://www.cns.org/guidelines/guidelines-management-adult-hydrocephalus
+> - International Guidelines for the Management of Idiopathic Normal Pressure Hydrocephalus — Neurosurgery — 2005/2010 Update — https://journals.lww.com/neurosurgery/fulltext/2005/09001/guidelines_for_the_management_of_idiopathic.1.aspx
+> - Long-Term Outcomes of Shunt Surgery in Idiopathic Normal Pressure Hydrocephalus: A Multicenter Study — Lancet Neurology — 2015 — https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(15)00041-8/fulltext

@@ -1,101 +1,148 @@
 ---
 Type: Chronic
-title: Anévrismes Intracrâniens Non Rompus & Malformations Vasculaires Cérébrales
-Tags: [Neurochirurgie, Vasculaire, Radiologie, Neurologie]
-Aliases: [Anévrismes Intracrâniens, Malformations Vasculaires Cérébrales, MAV, Malformation Artério-Veineuse, Cavernome, Fistule Durale]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Anévrisme Intracrânien Non Rompu (AINR), Malformations Artério-Veineuses Cérébrales (MAV), Fistules Artério-Veineuses Durales (FAVD), Cavernomes Cérébraux, Anomalies Veineuses de Développement (AVD)]
-Compare: [[Aneurysmal Subarachnoid Hemorrhage]], [[Intracerebral Hemorrhage]], [[Brain Tumors]]
+Tags: [Neurosurgery, Neurology, Interventional_Neuroradiology, Critical_Care]
+Aliases: [Anévrisme cérébral, MAV cérébrale, Cavernome, Malformation artério-veineuse, Malformation caverneuse, FAVD, AVD]
+Discipline: Neurosurgery
+Sub Pathologies: [Anévrisme intracrânien non rompu, Malformation artério-veineuse, Malformation caverneuse, Anomalie veineuse de développement, Fistule artério-veineuse durale]
+Compare: [[Aneurysmal Subarachnoid Hemorrhage]], [[Intracerebral Hemorrhage]]
 Reviewed: 2026-11-06
 ---
 
-> [!abstract] Anévrismes Intracrâniens Non Rompus & Malformations Vasculaires Cérébrales
-> Ensemble hétérogène de pathologies vasculaires congénitales ou acquises de la circulation cérébrale, regroupant les **Anévrismes Intracrâniens Non Rompus (AINR)**, les **Malformations Artério-Veineuses Cérébrales (MAV)**, les **Fistules Durales Artério-Veineuses (FAVD)**, les **Cavernomes (Angiomes caverneux)** et les **Anomalies Veineuses de Développement (AVD)**. Elles se révèlent par des crises d'épilepsie, des acouphènes pulsatiles, des déficits neurologiques focaux ou une hémorragie intracrânienne. La prise en charge pèse scrupuleusement le risque hémorragique cumulé sur l'espérance de vie contre la morbi-mortalité du traitement.
+> [!abstract] Anévrisme intracrânien & Malformations vasculaires
+> Anomalies cérébrovasculaires congénitales ou acquises exposant au risque vital d'hémorragie intracrânienne catastrophique, de crises épileptiques et de déficits neurologiques focaux, regroupant les **anévrismes sacciformes**, les **malformations artério-veineuses (MAV)**, les **malformations caverneuses (cavernomes)**, les **fistules artério-veineuses durales (FAVD)** et les bénignes **anomalies veineuses de développement (AVD / DVA)**.
 
-> [!note] Physiopathologie
-> - **Anévrisme Intracrânien Non Rompu (AINR) :** Dilatation focale acquise de la paroi artérielle au niveau des bifurcations du polygone de Willis liée à la dégradation de la limitante élastique interne et à l'amincissement de la média musculaire sous l'effet du flux pulsatile.
-> - **Malformations Artério-Veineuses (MAV Cérébrales) :** Shunt artério-veineux direct à haut débit et haute pression sans lit capillaire intermédiaire, formant un peloton vasculaire anormal appelé **nidus**. Les veines de drainage reçoivent directement une pression artérielle pulsatile, exposant à l'hypertension veineuse, au phénomène de vol vasculaire du parenchyme adjacent et à l'hémorragie intraparenchymateuse ou méningée (risque hémorragique spontané d'environ $2–4\%$ par an).
-> - **Fistules Durales Artério-Veineuses (FAVD) :** Shunts acquis siégeant dans les feuillets de la dure-mère en regard d'un sinus veineux dural, souvent secondaires à une thrombose de sinus. La gravité dépend de l'existence d'un **reflux veineux cortical (RVC)** (classifications de Cognard et de Borden).
-> - **Cavernomes Cérébraux (Angiomes Caverneux) :** Lésions vasculaires à bas débit et basse pression constituées de cavités sinusoïdes endothéliales juxtaposées en "mûre" ou "popcorn", sans parenchyme cérébral fonctionnel interposé. Entourées d'une couronne d'hémosidérine secondaire à des micro-hémorragies répétées ; 20% sont familiaux (*mutations CCM1, CCM2, CCM3*).
-> - **Anomalies Veineuses de Développement (AVD / Tête de Méduse) :** Variante anatomique bénigne du drainage veineux d'un territoire cérébral normal ; **ne requiert JAMAIS de geste chirurgical**.
+> [!note] Pathophysiologie
+>
+> - **Anévrismes sacciformes :** Contraintes de cisaillement hémodynamique aux bifurcations artérielles + dégradation acquise ou absence de la **limitante élastique interne et de la média** $\rightarrow$ hernie pariétale progressive (polygone de Willis : ACom 35 %, PCom 35 %, bifurcation sylvienne/MCA 20 %).
+> - **Malformations artério-veineuses (MAV) :** Shunts artério-veineux directs congénitaux à haut débit et basse résistance via un **nidus vasculaire dépourvu de lit capillaire intermédiaire** $\rightarrow$ hypertension veineuse et phénomène de « vol vasculaire » parenchymateux.
+> - **Cavernomes (CCM) :** Cavités capillaires sinusoïdales à bas débit et basse pression, à parois fines et hyperperméables, **dépourvues de parenchyme cérébral intermédiaire**, entourées d'une bordure gliotique épaisse chargée d'hémosidérine.
 
-> [!tip]- Perles Cliniques
-> - **Le Score PHASES (Prédiction du Risque de Rupture d'un Anévrisme) :**
->   - Calculateur validé prédisant le risque de rupture à 5 ans fondé sur : **P**opulation (origine géographique), **H**ypertension artérielle, **A**ge ($> 70$ ans), **S**ize (taille $< 7\text{ mm}$, $7–9\text{ mm}$, $\ge 10\text{ mm}$), **E**arlier SAH (antécédent personnel d'HSA sur un autre anévrisme), et **S**ite (circulation postérieure et communicante postérieure $>$ communicante antérieure $>$ bifurcation sylvienne $>$ carotide interne).
-> - **Classification de Spetzler-Martin (MAV Cérébrale) :**
->   - *Taille :* Petite ($< 3\text{ cm}$, 1 pt), Moyenne ($3–6\text{ cm}$, 2 pts), Grande ($> 6\text{ cm}$, 3 pts).
->   - *Zone Éloquente :* Non-éloquente (0 pt), Éloquente (motrice, sensitive, langage, visuelle, tronc cérébral, 1 pt).
->   - *Drainage Veineux :* Superficiel pur (0 pt), Profond (veines cérébrales internes, veine basilaire, sinus droit, 1 pt).
->   - Grade I–II : Risque chirurgical faible ; Grade III : Cas complexes discutés en RCP ; Grade IV–V : Risque opératoire majeur (abstention thérapeutique souvent recommandée).
-> - **NE JAMAIS TOUCHER À UNE AVD :** La résection d'une anomalie veineuse de développement entraîne un infarctus veineux hémorragique massif et souvent fatal du territoire drainé.
-> - **Acouphène pulsatile synchrone du pouls :** Signe clinique princeps d'une fistule durale du sinus latéral (transverse-sigmoïde) ; rechercher un souffle à l'auscultation mastoïdienne.
+> [!tip]- Perles cliniques
+>
+> - **NE JAMAIS réséquer ni emboliser une anomalie veineuse de développement (AVD / DVA) :** Les AVD (caractérisées par une image en **« tête de Méduse »** de veines médullaires radiaires convergeant vers un tronc collecteur transcortical unique) constituent le drainage veineux normal et exclusif d'un parenchyme cérébral fonctionnel ; détruire une AVD entraîne un **infarctus veineux hémorragique fatal** ! (Les cavernomes sont fréquemment adjacents à une AVD : réséquer _uniquement_ le cavernome, laisser l'AVD intacte !).
+> - **Signature IRM du cavernome (lésion en « popcorn » ou mûre) :** Centre réticulé d'intensité hétérogène associant des produits de dégradation du sang d'âges différents en T1/T2, ceinturé d'un **liseré circonférentiel d'hypointensité en T2 / écho de gradient (GRE) / SWI** (dépôts d'hémosidérine) ; les cavernomes sont **angiographiquement occultes** (invisibles au scanner injecté ou à l'artériographie DSA en raison du flux très lent !).
+> - **Seuil de taille pour l'intervention anévrismale (score PHASES) :** Les anévrismes de la circulation antérieure **$<7\text{ mm}$** chez les non-fumeurs sans antécédent d'hémorragie sous-arachnoïdienne (HSA) ni histoire familiale ont un risque de rupture à 5 ans très bas ($<1\%$) $\rightarrow$ surveillance annuelle par ARM/angio-TDM + sevrage tabagique strict + contrôle tensionnel rigoureux ($<130/80\text{ mmHg}$).
+> - **Acouphène pulsatile + souffle crânien = Fistule artério-veineuse durale (FAVD) :** Un bruit de souffle synchrone du pouls perçu par le patient, accompagné d'un souffle audible à l'auscultation rétro-auriculaire ou crânienne, est une **FAVD** jusqu'à preuve du contraire $\rightarrow$ prescrire un **angio-TDM ou une artériographie (DSA)** ; le reflux veineux cortical confère un risque annuel élevé d'hémorragie !
+> - **Le score de Spetzler-Martin prédit le risque chirurgical d'une MAV :** Les grades I–II (petite taille, siège non éloquent, drainage veineux superficiel) présentent une morbidité chirurgicale faible ($<2–5\%$) ; les grades IV–V exposent à une morbidité neurologique définitive sévère (abstention ou prise en charge conservatrice recommandée !).
 
-> [!attention]- Présentation Clinique
-> **Anévrismes Non Rompus**
-> - Découverte fortuite dans l'immense majorité des cas lors d'un bilan d'imagerie (céphalées, traumatisme, vertiges).
-> - Formes symptomatiques par compression mécanique de voisinage : paralysie douloureuse du nerf oculomoteur (III) par un anévrisme de la communicante postérieure, ou ophtalmoplégie par anévrisme intracaverneux.
-> 
-> **Malformations Vasculaires (MAV & Cavernomes)**
-> - **Hémorragie Intracrânienne (50% des MAV) :** Céphalée brutale, déficit moteur ou sensitif focal, coma.
-> - **Crises d'Épilepsie Inaugurales (30%) :** Crises focales secondaires à l'irritation corticale par l'anneau d'hémosidérine péritumoral.
-> - **Déficits Neurologiques Progressifs :** Phénomène de vol vasculaire ou œdème par stase veineuse chronique.
+| Entité / Pathologie | Statut hémodynamique / Angiographie | Caractéristiques IRM & Imagerie | Prise en charge principale |
+| :--- | :--- | :--- | :--- |
+| **1. Anévrisme sacciforme** | Haut débit artériel (bifurcations du polygone de Willis) | Saillie vasculaire bien visualisée au scanner injecté (angio-TDM), ARM ou artériographie DSA | Occlusion endovasculaire par coils (± stent / diverteur) ou clippage microchirurgical |
+| **2. Malformation artério-veineuse (MAV)** | Shunt artério-veineux à haut débit et basse résistance avec drainage veineux précoce | Vides de flux (flow voids), peloton vasculaire (nidus) au DSA/IRM | Microchirurgie (Spetzler-Martin I-II), Radiochirurgie stéréotaxique (SRS, < 3 cm), ou surveillance médicale (ARUBA) |
+| **3. Malformation caverneuse (Cavernome)** | Bas débit, basse pression (lésion angiographiquement OCCULTE !) | Aspect en "popcorn" ou mûre avec anneau périphérique complet d'hémosidérine en T2* / SWI | Exérèse microchirurgicale complète (si épilepsie réfractaire ou récidive hémorragique) ; proscrire la radiothérapie ! |
+| **4. Anomalie veineuse de développement (AVD / DVA)** | Drainage veineux normal parenchymateux (variante anatomique bénigne) | Aspect typique en "tête de Méduse" (Caput Medusae) au T1 gado / ARM veineuse | **NE PAS TOUCHER ! NE JAMAIS RÉSÉQUER NI EMBOLISER !** (risque d'infarctus veineux mortel) |
+| **5. Fistule artério-veineuse durale (FAVD)** | Shunt dural (artère méningée moyenne vers sinus dural) à haut ou bas débit | Dilatation de veines corticales tortueuses ; DSA gold standard | Embolisation endovasculaire transveineuse ou transartérielle (Onyx/Squid) ou déconnexion chirurgicale |
 
-> [!check]- Critères Diagnostiques
-> - **Classification de Cognard pour les Fistules Durales (Risque Hémorragique) :**
->   - Type I : Drainage vers sinus dural avec flux antérograde (bénigne).
->   - Type II : Drainage avec flux rétrograde (IIa sinus seul, IIb reflux veineux cortical, IIa+b les deux).
->   - Type III : Drainage veineux cortical direct sans sinus (haut risque d'hémorragie).
->   - Type IV : Drainage cortical direct avec ectasie veineuse (risque hémorragique $> 65\%$).
+> [!attention]- Présentation clinique
+> **Histoire clinique**
+>
+> - **Anévrismes non rompus :** Le plus souvent asymptomatiques (découverte fortuite sur une neuro-imagerie) ; peuvent se manifester par un **effet de masse sur les paires crâniennes** :
+>   - _Anévrisme de la communicante postérieure (PCom) :_ **Paralysie du nerf oculomoteur (NC III) homolatéral** (ptosis, diplopie avec œil dévié « en bas et en dehors », **mydriase aréactive** $\rightarrow$ témoin d'une fissuration / rupture imminente !).
+>   - _ACom / Ophtalmique :_ Hémianopsie bitemporale ou déficit campimétrique unilatéral (compression du chiasma optique).
+>   - _Portion intracaverneuse de la carotide interne (ACI) :_ Ophtalmoplégie douloureuse (NC III, IV, VI) et hypoesthésie faciale (V1, V2).
+> - **Malformations artério-veineuses (MAV) :** **Hémorragie intracrânienne (HIC ou HSA, mode de révélation dans ~50 % des cas)**, **crises d'épilepsie inaugurales (~30 %)**, déficits neurologiques progressifs par **« vol vasculaire »** (ischémie parenchymateuse adjacente) ou céphalées chroniques rebelles.
+> - **Cavernomes (CCM) :** **Épilepsie inaugurale (~50 %)**, micro-hémorragies focales responsables de déficits subaigus progressifs, ou saignement volumineux (en particulier dans les **cavernomes du tronc cérébral**).
+> - **Fistules artério-veineuses durales (FAVD) :** **Acouphène pulsatile** (bruit d'échappement ou souffle vasculaire unilatéral), céphalées, ou proptose/chémosis avec injection conjonctivale (fistule carotido-caverneuse).
+>
+> **Examen physique**
+>
+> - Auscultation du crâne et des orbites avec le pavillon du stéthoscope : mise en évidence d'un **souffle crânien ou orbitaire** (pathognomonique d'une MAV à haut débit ou d'une FAVD).
+> - Veines épisclérales dilatées et tortueuses (« aspect en tire-bouchon ») et chémosis (FAVD orbitaire/caverneuse).
 
-> [!fail]- Examens Complémentaires
-> - **Artériographie Cérébrale Numérisée (DSA, Gold Standard) :** Examen clé de haute résolution spatiale et temporelle identifiant avec précision les afférences artérielles, la structure du nidus, les anévrismes de flux intranidaux et le temps de drainage veineux.
-> - **IRM Cérébrale Multiséqence (T1, T2, 3D TOF, T2* / SWI) :**
->   - MAV : Peloton de vides de signal vasculaires (flow voids) en "sac de vers" sur les séquences T2, sans œdème périlésionnel en l'absence de saignement récent.
->   - Cavernome : Aspect caractéristique en "popcorn" ou en "framboise" avec centre réticulé hétérogène en T1/T2 entouré d'une couronne d'hyposignal ferromagnétique complète en T2* et **SWI (Susceptibilité Magnétique)**.
->   - AVD : Image typique en "tête de méduse" (veinules radiaires convergeant vers un volumineux tronc collecteur de drainage).
+> [!check]- Critères diagnostiques & Classification
+>
+> - **Anévrisme sacciforme intracrânien :** Visualisation directe d'une dilatation vasculaire focale sacciforme ou fusiforme à l'**angio-TDM cérébral**, à l'**ARM 3D temps de vol (TOF)** ou à l'**artériographie cérébrale conventionnelle numérisée (DSA)**.
+> - **Malformation artério-veineuse cérébrale (MAV) :** Mise en évidence à l'**artériographie par cathétérisme (DSA, examen de référence)** d'un véritable **nidus** vasculaire constitué de shunts directs artério-veineux sans lit capillaire, associé à un **drainage veineux précoce artérialisé**.
+> - **Malformation caverneuse (Cavernome) :** Démonstration à l'**IRM cérébrale** d'une lésion circonscrite bien délimitée présentant un centre réticulé hétérogène (aspect en « popcorn ») en T1/T2 entouré d'une **couronne d'hypointensité complète et continue en T2* / SWI (hémosidérine)**, avec une **artériographie cérébrale (DSA) normale/négative** (lésion angiographiquement occulte).
 
-> [!bug]- Signes d'Alerte (Red Flags)
-> - Céphalée brutale explosive (rupture anévrismale ou saignement de MAV).
-> - Paralysie douloureuse récente du nerf oculomoteur III (menace de rupture imminente).
-> - Acouphène pulsatile avec reflux veineux cortical identifié à l'imagerie.
-> - Déficit moteur d'installation brutale chez un porteur de cavernome (hématome cavernomateux).
+> [!fail]- Examens complémentaires
+> **Imagerie vasculaire non invasive initiale**
+>
+> - **Angio-TDM cérébral :** **Examen de première intention** pour le dépistage des anévrismes (sensibilité $>95\%$ pour les lésions $\ge 3\text{ mm}$), des volumineuses MAV et des FAVD.
+> - **IRM cérébrale avec injection et séquences pondérées en susceptibilité (SWI / écho de gradient T2*) :**
+>   - Indispensable pour le diagnostic des **cavernomes** et la détection de formes cavernomateuses familiales multiples (mutations des gènes _CCM1, CCM2, CCM3_).
+>   - Révèle l'aspect classique en **« tête de Méduse »** d'une **anomalie veineuse de développement (AVD / DVA)** après injection de gadolinium sur les coupes T1.
+>
+> **Imagerie vasculaire invasive de référence (Gold Standard)**
+>
+> - **Artériographie cérébrale conventionnelle numérisée (DSA par voie transfémorale ou radiale) :**
+>   - **Examen de référence obligatoire** pour toutes les lésions vasculaires à haut débit (anévrismes, MAV, FAVD).
+>   - Mesure précise du rapport collet/dôme pour guider le choix entre embolisation par coils et clippage microchirurgical.
+>   - Établit le **score de Spetzler-Martin pour les MAV** : (1) Taille ($<3\text{ cm} = 1$, $3–6\text{ cm} = 2$, $>6\text{ cm} = 3$), (2) Éloquence cérébrale ($1$ si cortex moteur/langage/visuel/thalamus, $0$ si non éloquent), et (3) Drainage veineux ($1$ si profond, $0$ si exclusivement superficiel).
+>   - Recherche un **reflux veineux cortical (RVC)** dans les FAVD (Borden type II/III ou Cognard type $\ge \text{IIb}$, facteur déterminant d'un haut risque de rupture hémorragique imposant une exclusion rapide).
 
-> [!todo]- Diagnostics Différentiels
-> - Tumeur cérébrale hypervascularisée (glioblastome, métastase hémorragique).
-> - Angiopathie amyloïde cérébrale (hématomes lobaires superficiels du sujet âgé sans lésion vasculaire focale).
-> - Hématome cérébral profond hypertensif.
+> [!bug]- Signaux d'alarme (Red Flags)
+>
+> - **Céphalée en coup de tonnerre brutale** (rupture anévrismale ou de MAV $\rightarrow$ scanner cérébral sans injection en urgence pour éliminer une **[[Aneurysmal Subarachnoid Hemorrhage]]**).
+> - **Paralysie aiguë du nerf oculomoteur (NC III) avec mydriase** (menace d'engagement ou rupture imminente d'un anévrisme de la PCom ou du sommet du tronc basilaire).
+> - **Fistule artério-veineuse durale avec reflux veineux cortical (RVC)** à l'angio-TDM ou DSA (risque hémorragique intracrânien annuel $>10–15\%$).
+> - **Hémorragie d'un cavernome du tronc cérébral** (risque immédiat de tétraplégie, d'ophtalmoplégie internucléaire ou de coma).
 
-> [!summary]- Prise en Charge Thérapeutique
-> **1. Anévrismes Non Rompus (AINR)**
-> - **Surveillance Simple :** Pour les petits anévrismes à faible risque ($< 7\text{ mm}$, carotide interne ou circulation antérieure, score PHASES bas) : angio-IRM à 1 an puis tous les 2–3 ans, contrôle strict de la pression artérielle et sevrage tabagique absolu.
-> - **Traitement Endovasculaire :**
->   - *Coils :* Occlusion du sac anévrismale par spires de platine $\pm$ ballon ou stent de remodelage.
->   - *Stents Dérivateurs de Flux (Flow Diverters) :* Largués dans l'artère porteuse en regard du collet ; dévient le flux sanguin et induisent la thrombose progressive de l'anévrisme avec reconstruction endotheliale (traitement de référence des volumineux anévrismes carotidiens).
-> - **Clippage Neurochirurgical :** Craniotomie et pose d'un clip au collet sous microscope ; privilégié pour les anévrismes de la bifurcation sylvienne ou à collet très large.
-> 
-> **2. Malformations Artério-Veineuses Cérébrales (MAV)**
-> - **Stratégie Multimodale en RCP Spécialisée :**
->   - *Chirurgie d'Exérèse Microchirurgicale :* Traitement de choix des MAV de bas grade (Spetzler-Martin I et II) en zone non-éloquente, assurant une guérison immédiate et définitive.
->   - *Radiochirurgie Stéréotaxique (Gamma Knife) :* Traitement de référence pour les petites MAV ($< 3\text{ cm}$) profondes ou en zone fonctionnelle ; induit une endartérite oblitérante progressive avec occlusion complète en 2 à 3 ans.
->   - *Embolisation Préopératoire (Onyx / Squid) :* Occlusion sélective des pédicules profonds pour faciliter la résection chirurgicale.
-> 
-> **3. Fistules Durales & Cavernomes**
-> - **FAVD :** Embolisation endovasculaire par voie artérielle ou veineuse pour occlure le point de fistule et supprimer le reflux veineux cortical.
-> - **Cavernomes :** Exérèse chirurgicale des cavernomes responsables d'une épilepsie réfractaire ou d'hématomes symptomatiques récidivants en zone accessible. Les cavernomes étant radiorésistants, la radiochirurgie n'est pas recommandée.
+> [!todo]- Diagnostics différentiels
+> **Pièges vasculaires et néoplasiques**
+>
+> - **Infundibulum de l'artère communicante postérieure :** Dilatation triangulaire ou en entonnoir ($<3\text{ mm}$) à l'origine de la PCom, l'artère naissant du sommet ; variante anatomique bénigne (ne constituant pas un anévrisme vrai).
+> - **Métastases cérébrales hémorragiques (mélanome, rein, choriocarcinome) :** Lésions multiples avec prise de contraste annulaire, œdème vasogénique péri-lésionnel majeur et hémosidérine ; présence d'un rehaussement tumoral nodulaire intense après contraste à l'IRM (le cavernome ne prend pas le contraste de manière diffuse).
+> - **Glioblastome avec shunts artério-veineux :** Masse infiltrante avec rehaussement annulaire hétérogène épais et nécrose centrale.
+
+> [!summary]- Prise en charge thérapeutique
+> **Objectifs thérapeutiques**
+>
+> - **Objectif principal :** Prévenir une hémorragie intracrânienne catastrophique (HSA / HIC), oblitérer définitivement les anévrismes et MAV à haut risque, et contrôler l'épilepsie lésionnelle.
+> - **Objectif secondaire :** Éviter l'infarctus cérébral ou l'infarctus veineux iatrogène, préserver les voies motrices et du langage, et supprimer les acouphènes pulsatiles invalidants.
+>
+> **Prise en charge : Anévrismes intracrâniens non rompus (UIA)**
+>
+> - **Stratification du risque (score PHASES & consensus UIATS) :**
+>   - _Surveillance conservative (abstention thérapeutique active) :_ Recommandée pour les petits anévrismes de la circulation antérieure **$<7\text{ mm}$** chez les patients sans antécédent d'HSA ni symptomatologie. Imposer un **contrôle tensionnel strict (cible $<130/80\text{ mmHg}$)**, un **sevrage tabagique complet**, et une **surveillance par ARM ou angio-TDM à 6–12 mois puis tous les 2–3 ans**.
+>   - _Indications d'intervention :_ Taille **$\ge 7\text{ mm}$**, siège sur la circulation postérieure (sommet basilaire, PCom, PICA), croissance documentée sur les examens successifs, effet de masse symptomatique sur une paire crânienne ou histoire familiale d'HSA.
+> - **1. Traitement endovasculaire (première intention pour la majorité des anévrismes) :**
+>   - **Embolisation par microspires (coils) $\pm$ remodelage par ballon ou stent :** Traitement de prédilection chez les patients âgés et pour les anévrismes de la circulation postérieure.
+>   - **Mise en place d'un stent dérivateur de flux (Flow-Diverter : Pipeline, Surpass, FRED) :** Restructure l'artère porte en regard des anévrismes à collet large, volumineux ($>10\text{ mm}$) ou géants ($>25\text{ mm}$) ; induit une thrombose progressive intra-anévrismale tout en préservant la perméabilité des artères perforantes collatérales (**impose une double antiagrégation plaquettaire [Aspirine + Clopidogrel/Ticagrélor] pendant au moins 6 mois**).
+> - **2. Clippage microchirurgical :** Traitement de première intention privilégié pour les **anévrismes de la bifurcation sylvienne (MCA)** (anatomie chirurgicale favorable ; risque de récidive minime à long terme), les anévrismes à collet large englobant des branches efférentes et les patients jeunes désireux d'une exclusion définitive.
+>
+> **Prise en charge : Malformations artério-veineuses cérébrales (MAV)**
+>
+> - **MAV non rompues (standard de l'essai ARUBA) :**
+>   - **Le traitement médical exclusif (antiépileptiques + contrôle strict de la PA)** représente la **stratégie de référence pour la plupart des MAV non rompues**, les données de l'essai randomisé multicentrique **ARUBA** ayant démontré un risque significativement plus élevé d'AVC et de décès sous traitement invasif comparativement au traitement médical seul à 5–10 ans de suivi.
+> - **MAV rompues OU bas grade de Spetzler-Martin (Grades I–II) :**
+>   - **Exérèse microchirurgicale complète** (avec ou sans embolisation préopératoire hypersélective des afférentes artérielles profondes pour réduire le débit du nidus).
+>   - _Règle fondamentale :_ L'exérèse chirurgicale doit être complète ; une résection partielle ou une embolisation incomplète est formellement proscrite en raison du risque de resaignement précoce !
+> - **MAV profondes, inopérables et de petit volume ($<3\text{ cm}$, Spetzler-Martin Grade III) :**
+>   - **Radiochirurgie stéréotaxique (SRS / Gamma Knife)** (induit une prolifération endothéliale graduelle et une oblitération vasculaire complète après une **période de latence de 2 à 3 ans** ; le risque de rupture persiste jusqu'à l'oblitération totale confirmée sur le DSA).
+>
+> **Prise en charge : Malformations caverneuses (Cavernomes) & AVD**
+>
+> - **Cavernome fortuit / asymptomatique :** **Surveillance clinique et IRM annuelle** (aucune indication opératoire ; le risque de saignement spontané n'est que de ~0,5–1 % par an).
+> - **Cavernome symptomatique (épilepsie pharmacorésistante OU récidive hémorragique invalidante) :**
+>   - **Exérèse microchirurgicale complète (exérèse du cavernome ET de la couronne glio-hémosidérinique péri-lésionnelle)** pour obtenir la guérison complète des crises d'épilepsie.
+>   - **LAISSER L'ANOMALIE VEINEUSE DE DÉVELOPPEMENT (AVD) ASSOCIÉE TOTALEMENT INTACTE !** (Ne jamais coaguler, clipper ni réséquer une AVD adjacente !).
+>
+> **Prise en charge : Fistules artério-veineuses durales (FAVD)**
+>
+> - **FAVD avec reflux veineux cortical (Borden Type II/III) :** **Embolisation endovasculaire urgente par voie transartérielle ou transveineuse (agents emboliques liquides [Onyx, Squid])** ou déconnexion microchirurgicale directe de la veine de drainage pour supprimer le risque d'hémorragie cataclysmique.
 
 > [!warning]- Contre-indications & Pièges
-> - **NE JAMAIS OCCLUER NI EXCUSER UNE AVD :** Risque immédiat d'infarctus veineux hémorragique cérébral irréversible.
-> - **Ne pas opérer systématiquement les MAV non rompues de haut grade (Spetzler-Martin IV et V) :** La morbidité de l'intervention dépasse largement le risque spontané de la maladie (leçons de l'essai ARUBA).
+>
+> - **Ne jamais réséquer, clipper ni emboliser une anomalie veineuse de développement (AVD / DVA)**, l'AVD étant la voie de drainage veineux fonctionnelle exclusive d'un territoire cérébral normal ; sa destruction provoque un **infarctus veineux hémorragique massif et souvent mortel**.
+> - **Proscrire la radiochirurgie stéréotaxique (SRS) pour les cavernomes**, l'irradiation n'oblitérant pas les vaisseaux cavernomateux et provoquant un taux inacceptable de **radionécrose sévère, œdème cérébral et hémorragie secondaire**.
+> - **Proscrire l'embolisation partielle d'une MAV sans plan défini d'oblitération totale (chirurgie ou radiochirurgie)** ; une occlusion partielle modifie les gradients de pression intranidaux et **augmente paradoxalement le risque de rupture hémorragique cataclysmique** des pédicules sous tension résiduels !
+> - **Ne jamais interrompre prématurément la double antiagrégation plaquettaire (DAPT) chez les porteurs de stents diverteurs de flux**, la thrombose intra-stent conduisant à un infarctus cérébral étendu.
 
 > [!error]- Complications
-> - Hémorragie intracrânienne cataclysmique par rupture.
-> - Syndrome de rupture de la pression de perfusion normale (NPPB) : Œdème cérébral massif et hémorragies après résection d'une volumineuse MAV par perte d'autorégulation du lit vasculaire environnant.
-> - Déficit neurologique focal ou épilepsie séquellaire.
+>
+> - **Hémorragie intracrânienne cataclysmique (HSA ou HIC lobaire) :** Principale cause de mortalité des anévrismes, MAV et FAVD méconnus ou non traités.
+> - **Rupture par percée de pression normale de perfusion (NPPB - Normal Perfusion Pressure Breakthrough) :** Œdème hyperémique sévère et hémorragie massive survenant quelques heures à quelques jours après l'exérèse d'une volumineuse MAV, causée par la défaillance de l'autorégulation dans un parenchyme cérébral chroniquement hypoperfusé.
+> - **Épilepsie séquellaire pharmaco-résistante :** Secondaire à l'irritation corticale par les produits de dégradation de l'hémosidérine $\rightarrow$ traitement de fond par **Lévétiracétam ou Lamotrigine**.
+> - **Thrombose de stent ou ischémie thromboembolique :** Complication potentielle des procédures endovasculaires avec stent diverteur de flux.
 
-> [!success]- Scénario Clinique Typique
-> Un homme de 36 ans, ingénieur en informatique, présente une première crise convulsive généralisée tonico-clonique inaugurale. Le scanner cérébral initial est normal, mais l'IRM injectée révèle une lésion vasculaire de 2,2 cm du cortex préfrontal droit avec peloton de vides de signal sur les séquences T2, sans œdème vasogénique, et drainage veineux superficiel unique vers le sinus sagittal supérieur (MAV de grade I de Spetzler-Martin). L'artériographie cérébrale confirme une seule afférence nourricière issue de l'artère cérébrale moyenne droite et l'absence d'anévrisme de flux. Après mise sous lévétiracétam, le dossier est validé en RCP neurovasculaire pour exérèse microchirurgicale programmée. L'intervention permet l'ablation complète du nidus sans aucun déficit neurologique postopératoire. L'artériographie postopératoire confirme la disparition totale du shunt. Le traitement antiépileptique est sevré avec succès à 1 an.
+> [!success]- Cas clinique typique
+> Une patiente de 46 ans est admise aux urgences après une première crise tonico-clonique généralisée inaugurale, sans déficit neurologique à l'examen clinique post-critique. L'IRM cérébrale objective une **lésion temporale antérieure droite de 1,6 cm bien circonscrite, multilobulée en aspect typique de « popcorn », cerclée d'une couronne d'hémosidérine complète en T2* / SWI (Malformation caverneuse)**, contiguë à un bouquet de veines médullaires radiaires en **« tête de Méduse » (Anomalie veineuse de développement)**. L'artériographie cérébrale (DSA) est strictement normale (lésion angiographiquement occulte). Une imprégnation par **Lévétiracétam (1 000 mg 2 fois par jour)** est débutée. En raison de la crise inaugurale non provoquée, elle bénéficie d'une **exérèse microchirurgicale du cavernome et de l'anneau hémosidérinique**, le neurochirurgien **préservant scrupuleusement l'AVD adjacente intacte**, permettant un contrôle épileptique complet et définitif sans déficit neurologique.
 
-> [!example]- Références
-> - **Greving JP et al. (Lancet Neurol 2014) :** Development of the PHASES score for intracranial aneurysm rupture risk.
-> - **Spetzler RF & Martin NA (J Neurosurg 1986) :** A proposed grading system for arteriovenous malformations.
-> - **Mohr JP et al. / ARUBA Trial (Lancet 2014) :** Medical management with or without interventional therapy for unruptured brain arteriovenous malformations.
+> [!info] Expérience personnelle
+
+> [!example]- Ressources
+>
+> - Recommandations AHA/ASA pour la prise en charge des anévrismes intracrâniens non rompus — Stroke — 2015 — https://www.ahajournals.org/doi/10.1161/STR.0000000000000070
+> - Traitement médical versus interventionnel des malformations artério-veineuses non rompues (Essai ARUBA) — The Lancet — 2014 — https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)62302-8/fulltext
+> - Recommandations de pratique clinique pour la prise en charge des malformations caverneuses cérébrales — Neurosurgery (Angioma Alliance) — 2017 — https://academic.oup.com/neurosurgery/article/80/5/665/3065306

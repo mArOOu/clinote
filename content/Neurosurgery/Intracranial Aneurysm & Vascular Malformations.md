@@ -1,102 +1,148 @@
 ---
 Type: Chronic
-Tags: [Neurosurgery, Vascular, Radiology, Neurology]
-Aliases: [Cerebral Aneurysm, Vascular Malformations, AVM, Arteriovenous Malformation, Cavernoma, Cavernous Malformation, Dural AV Fistula]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Unruptured Intracranial Aneurysm (UIA), Arteriovenous Malformations (AVM), Dural Arteriovenous Fistulas (dAVF), Cavernous Malformations (Cavernomas), Developmental Venous Anomaly (DVA)]
-Compare: [[Aneurysmal Subarachnoid Hemorrhage]], [[Intracerebral Hemorrhage]], [[Brain Tumors]]
+Tags: [Neurosurgery, Neurology, Interventional_Neuroradiology, Critical_Care]
+Aliases: [Cerebral Aneurysm, Brain AVM, Cavernoma, Arteriovenous Malformation, Cavernous Malformation, dAVF, DVA]
+Discipline: Neurosurgery
+Sub Pathologies: [Unruptured Intracranial Aneurysm, Arteriovenous Malformation, Cavernous Malformation, Developmental Venous Anomaly, Dural Arteriovenous Fistula]
+Compare: [[Aneurysmal Subarachnoid Hemorrhage]], [[Intracerebral Hemorrhage]]
 Reviewed: 2026-11-06
 ---
 
 > [!abstract] Intracranial Aneurysm & Vascular Malformations
-> Spectrum of congenital and acquired cerebrovascular abnormalities including **Unruptured Intracranial Aneurysms (UIA)**, **Brain Arteriovenous Malformations (bAVM)**, **Dural Arteriovenous Fistulas (dAVF)**, **Cerebral Cavernous Malformations (CCM / Cavernomas)**, and **Developmental Venous Anomalies (DVA)**. Present with seizures, focal neurological deficits, pulsatile tinnitus, or catastrophic intracranial hemorrhage. Management balances the lifetime risk of spontaneous rupture against procedural morbidity.
+> Congenital or acquired cerebrovascular anomalies carrying lifelong risks of catastrophic intracranial hemorrhage, seizures, and focal neurological deficits, comprising **Saccular (Berry) Aneurysms**, **Arteriovenous Malformations (AVMs)**, **Cavernous Malformations (Cavernomas)**, **Dural AV Fistulas (dAVFs)**, and benign **Developmental Venous Anomalies (DVAs)**.
 
 > [!note] Pathophysiology
-> - **Unruptured Intracranial Aneurysm (UIA):** Focal outpouchings of the arterial wall at circle of Willis bifurcations due to acquired hemodynamic shear stress, loss of internal elastic lamina, and thinned tunica media.
-> - **Brain Arteriovenous Malformations (bAVM):** Direct high-flow shunts between cerebral arteries and veins without an intervening capillary bed, forming a tangled vascular **nidus**. The draining veins are exposed to systemic arterial pressures, predisposing to venous hypertension, steal phenomenon (hypoperfusion of surrounding brain), and intraparenchymal or subarachnoid hemorrhage. Annual rupture risk is $\approx 2–4\%$ per year unruptured.
-> - **Dural Arteriovenous Fistulas (dAVF):** Acquired shunts located within the leaflets of the dural sinus wall, often secondary to dural sinus thrombosis. Risk of hemorrhage is governed by **Cortical Venous Reflux (CVR)** (Borden and Cognard classifications).
-> - **Cerebral Cavernous Malformations (Cavernomas):** Low-flow, low-pressure vascular malformations composed of dilated endothelial-lined sinusoidal channels ("popcorn" appearance) without intervening brain parenchyma. Lined with a ring of **hemosiderin** from recurrent micro-hemorrhages; 20% are familial (*CCM1, CCM2, CCM3* mutations).
-> - **Developmental Venous Anomaly (DVA, Medusa Head):** Normal anatomical venous variant draining normal brain parenchyma; essentially **benign with zero surgical indication**.
+>
+> - **Saccular Aneurysms:** Hemodynamic shear stress at arterial bifurcations + acquired degradation/absence of the **internal elastic lamina and tunica media** $\rightarrow$ progressive outpouching (Circle of Willis: ACom 35%, PCom 35%, MCA 20%).
+> - **Arteriovenous Malformations (AVMs):** Congenital high-flow, low-resistance direct arteriovenous shunts via a tangled vascular **nidus lacking an intervening capillary bed** $\rightarrow$ venous hypertension and arterial "steal."
+> - **Cavernomas (CCMs):** Low-flow, low-pressure clusters of thin-walled, hyperpermeable sinusoidal capillary spaces **lacking intervening brain parenchyma**, surrounded by a thick hemosiderin/gliotic ring.
 
 > [!tip]- Clinical PEARLS
-> - **The PHASES Score for Unruptured Aneurysms:** Evidence-based risk calculator estimating 5-year rupture risk based on: **P**opulation (geographic origin), **H**ypertension, **A**ge ($> 70$), **S**ize ($< 7\text{ mm}$, $7–9\text{ mm}$, $\ge 10\text{ mm}$), **E**arlier SAH from another aneurysm, and **S**ite (posterior circulation, PCom > ACom > MCA > ICA).
-> - **The Spetzler-Martin AVM Grading Scale (Surgical Morbidity Predictor):**
->   - *Size:* Small ($< 3\text{ cm}$, 1 pt), Medium ($3–6\text{ cm}$, 2 pts), Large ($> 6\text{ cm}$, 3 pts).
->   - *Eloquence of Adjacent Brain:* Non-eloquent (0 pts), Eloquent (sensorimotor, language, visual, brainstem, 1 pt).
->   - *Deep Venous Drainage:* Superficial only (0 pts), Deep (internal cerebral veins, basal vein of Rosenthal, straight sinus, 1 pt).
->   - Grade I–II: Low surgical risk; Grade III: Multimodal challenge; Grade IV–V: High surgical morbidity (conservative management often preferred).
-> - **ARUBA Trial (Lancet 2014):** Randomized trial in unruptured AVMs showing medical management had a significantly lower risk of death or stroke compared to interventional therapy over a 3-year period (though long-term lifetime risk continues to fuel controversy).
-> - **NEVER resect a DVA:** Resection of a Developmental Venous Anomaly causes catastrophic hemorrhagic venous infarction of the brain territory it drains.
-> - **Pulsatile Tinnitus & dAVF:** Synchronous "whooshing" bruit in the ear matching the pulse is classic for a transverse-sigmoid dAVF; always perform auscultation over the mastoid.
+>
+> - **NEVER Resect or Embolize a DVA (Developmental Venous Anomaly):** DVAs (characterized by a **"Caput Medusae"** of radiating medullary veins draining into a single transcortical collector) represent normal, necessary venous drainage for functional brain parenchyma; destroying a DVA causes **fatal venous infarction**! (Cavernomas frequently abut a DVA: resect _only_ the cavernoma, leave the DVA untouched!).
+> - **Cavernoma MRI Signature ("Popcorn" Lesion):** Reticulated, mixed-signal core of multi-stage blood degradation products on T1/T2 enclosed by a complete **hypointense rim of hemosiderin on T2 / Gradient Echo (GRE) / SWI**; cavernomas are **angiographically occult** (invisible on CTA/DSA due to slow flow!).
+> - **Aneurysm Size Threshold for Intervention (PHASES Score):** Anterior circulation aneurysms **$<7\text{ mm}$** in non-smokers without prior SAH or family history have a very low 5-year rupture risk ($<1\%$) $\rightarrow$ manage with annual MRA/CTA + strict smoking cessation + blood pressure control ($<130/80\text{ mmHg}$).
+> - **Pulsatile Tinnitus + Bruit = Dural AV Fistula (dAVF):** A subjective "whooshing" sound synchronous with the pulse, accompanied by an audible retroauricular/cranial bruit, is a **dAVF** until proven otherwise $\rightarrow$ order **CTA or DSA**; cortical venous reflux carries a high annual hemorrhage risk!
+> - **Spetzler-Martin AVM Score Predicts Surgical Risk:** Grades I–II (small, non-eloquent, superficial drainage) have low surgical morbidity ($<2–5\%$); Grades IV–V carry severe permanent neurological morbidity (manage conservatively!).
+
+| Entity | Angiographic Flow Status | MRI / Imaging Feature | Core Management |
+| :--- | :--- | :--- | :--- |
+| **1. Saccular Aneurysm** | High-Flow Arterial (Circle of Willis bifurcations) | Vascular outpouching on CTA / MRA / DSA | Endovascular Coiling or Surgical Clipping |
+| **2. Arteriovenous Malformation (AVM)** | High-Flow, High-Resistance Shunt with early venous drain | Flow voids; tangled Nidus on DSA/MRI | Microsurgery (Grades I-II); SRS (< 3 cm); Conservative observation (ARUBA) |
+| **3. Cavernous Malformation (Cavernoma)** | Low-Flow, Low-Resistance (Angiographically OCCULT!) | "Popcorn" lesion with hemosiderin rim (T2*/SWI) | Microsurgery (if seizures or recurrent bleed); NO radiation! |
+| **4. Developmental Venous Anomaly (DVA)** | Normal Venous Drainage (Congenital variant) | "Caput Medusae" on T1-Contrast / MRV | **LEAVE ALONE! DO NOT RESECT OR EMBOLIZE!** |
+| **5. Dural AV Fistula (dAVF)** | High/Low-Flow Dural Shunt (MMA to dural venous sinus) | Dilated tortuous dural veins; DSA gold standard | Endovascular Transvenous/Transarterial Embolization (Onyx) |
 
 > [!attention]- Clinical Presentation
-> **Unruptured Aneurysms**
-> - Most are asymptomatic and discovered incidentally on brain MRI/CT performed for other indications.
-> - Symptomatic unruptured: Mass effect causing cranial nerve palsies (e.g., PCom aneurysm causing painful CN III palsy, cavernous carotid aneurysm causing ophthalmoplegia in CN III, IV, VI).
-> 
-> **Vascular Malformations (AVMs & Cavernomas)**
-> - **Intracranial Hemorrhage (50% of AVMs):** Sudden headache, focal deficit, seizure, or coma.
-> - **New-Onset Seizures (30%):** Caused by cortical irritation and gliosis from recurrent hemosiderin deposition.
-> - **Chronic Headache or Focal Neurological Deficits:** Steal phenomenon, venous congestion, or mass effect.
+> **History**
+>
+> - **Unruptured Aneurysms:** Mostly asymptomatic (incidental finding on neuroimaging); can present with **cranial nerve mass effect**:
+>   - _PCom Aneurysm:_ **Ipsilateral CN III palsy** (ptosis, "down-and-out" eye deviation, **dilated non-reactive pupil** $\rightarrow$ heralds impending rupture!).
+>   - _ACom / Ophthalmic:_ Bitemporal hemianopia or unilateral visual field deficit (optic chiasm compression).
+>   - _Cavernous ICA:_ Painful ophthalmoplegia (CN III, IV, VI) and facial numbness (CN V1, V2).
+> - **Arteriovenous Malformations (AVMs):** **Intracranial Hemorrhage (ICH or SAH, ~50% initial presentation)**, new-onset **seizures (~30%)**, progressive neurological deficits from **"vascular steal"** (ischemia of adjacent parenchyma), or chronic intractable headaches.
+> - **Cavernomas (CCMs):** **New-onset epilepsy (~50%)**, focal microhemorrhages causing subacute progressive neurological deficits, or catastrophic hemorrhage (especially **brainstem cavernomas**).
+> - **Dural AV Fistulas (dAVFs):** **Pulsatile tinnitus** (whooshing noise in ear), headache, or proptosis/chemosis/ocular injection (carotid-cavernous sinus fistula).
+>
+> **Physical**
+>
+> - Auscultate the cranium and orbits with the bell of the stethoscope: audible **cranial or orbital bruit** (pathognomonic for high-flow AVM or dAVF).
+> - Dilated, tortuous episcleral veins ("corkscrew vessels") and chemosis (cavernous dAVF).
 
 > [!check]- Diagnostic Criteria
-> - **Cognard Classification for dAVF (Rupture Risk):**
->   - Type I: Dural sinus drainage with antegrade flow (benign).
->   - Type II: Dural sinus drainage with retrograde venous flow (IIa sinus only, IIb cortical reflux, IIa+b both).
->   - Type III: Direct cortical venous drainage without sinus (high risk of intracranial hemorrhage).
->   - Type IV: Direct cortical venous drainage with venous ectasia (highest hemorrhage risk $> 65\%$).
+>
+> - **Intracranial Saccular Aneurysm:** Direct visualization of a focal saccular or fusiform vascular dilation on **CT Angiography (CTA)**, **3D Time-of-Flight MRA**, or **Digital Subtraction Angiography (DSA)**.
+> - **Brain Arteriovenous Malformation (AVM):** Demonstration on **Catheter DSA (Gold Standard)** of a true vascular **nidus** with direct high-flow arteriovenous connections, lack of an intervening capillary network, and **early-draining arterialized veins**.
+> - **Cavernous Malformation (Cavernoma):** Demonstration on **Brain MRI** of a discrete, well-circumscribed lesion displaying mixed-signal reticulated core ("popcorn" appearance) on T1/T2 surrounded by a **complete continuous rim of low T2 / SWI signal blooming (hemosiderin)**, with **negative/normal findings on catheter DSA** (angiographically occult).
 
 > [!fail]- Further Investigations
-> - **Digital Subtraction Angiography (DSA, Gold Standard):** Essential for dynamic high-frame-rate evaluation of feeding arteries, transit time through the nidus, intranidal aneurysms, and deep venous drainage patterns in AVMs and dAVFs.
-> - **Brain MRI with Contrast & SWI/GRE (Gradient Echo):**
->   - AVM: Flow-void tangle ("bag of black worms") on T2 with no mass effect or vasogenic edema unless recently bled.
->   - Cavernoma: Classic "popcorn" or "mulberry" lesion with reticulated core of mixed signal intensity on T1/T2 surrounded by a complete rim of signal loss (hemosiderin ring) on T2* and **Susceptibility-Weighted Imaging (SWI)**.
->   - DVA: "Caput medusae" (spoke-wheel radial medullary veins converging into a single dilated collector vein) best seen on contrast T1 and SWI.
+> **Initial Non-Invasive Vascular Neuroimaging**
+>
+> - **CT Angiography (CTA) of the Head:** **First-line screening modality** for aneurysms ($\ge 3\text{ mm}$), large AVMs, and dAVFs (sensitivity $>95\%$).
+> - **Brain MRI with Contrast and Susceptibility-Weighted Imaging (SWI / GRE):**
+>   - Mandatory to diagnose **Cavernomas** and identify multifocal familial cavernous malformations (_CCM1, CCM2, CCM3_ gene mutations).
+>   - Identifies the classic **"Caput Medusae"** umbrella sign of a **Developmental Venous Anomaly (DVA)** on post-contrast T1.
+>
+> **Gold-Standard Invasive Vascular Imaging**
+>
+> - **Digital Subtraction Angiography (DSA / Catheter Cerebral Angiogram):**
+>   - **Mandatory gold standard** for all high-flow vascular lesions (Aneurysms, AVMs, dAVFs).
+>   - Evaluates exact neck-to-dome ratio for aneurysm coiling vs. clipping.
+>   - Determines the **Spetzler-Martin Grade for AVMs**: (1) Size ($<3\text{ cm} = 1$, $3–6\text{ cm} = 2$, $>6\text{ cm} = 3$), (2) Eloquent brain ($1$ if motor/language/visual/thalamus, $0$ if non-eloquent), and (3) Venous drainage ($1$ if deep veins, $0$ if superficial only).
+>   - Evaluates for **Cortical Venous Reflux (CVR)** in dAVFs (Borden Type II/III or Cognard Type $\ge \text{IIb}$; indicates high risk of intracranial hemorrhage requiring urgent treatment).
 
 > [!bug]- Red Flags
-> - Sudden severe thunderclap headache (aneurysm or AVM rupture).
-> - Acute painful CN III palsy (impending rupture of expanding PCom aneurysm).
-> - Progressive pulsatile tinnitus with cortical venous reflux on imaging (dAVF at high risk of intracranial hemorrhage).
-> - Rapid neurological decline with seizure in a patient with a known cavernoma (cavernoma re-bleed).
+>
+> - **Sudden thunderclap headache** (aneurysmal or AVM rupture $\rightarrow$ emergent non-contrast Head CT to rule out **[[Aneurysmal Subarachnoid Hemorrhage]]**).
+> - **Acute pupil-involving CN III palsy** (signals imminent rupture of a PCom or basilar tip aneurysm).
+> - **Dural AV fistula with Cortical Venous Reflux (CVR)** on CTA/DSA (annual intracranial hemorrhage risk $>10–15\%$).
+> - **Brainstem Cavernoma hemorrhage** (causes rapid quadriplegia, internuclear ophthalmoplegia, or coma).
 
 > [!todo]- Differentials
-> - Aneurysmal Subarachnoid Hemorrhage vs. Traumatic SAH.
-> - Hemorrhagic Brain Tumor (high-grade glioma, metastatic melanoma/choriocarcinoma/renal cell).
-> - Cerebral Amyloid Angiopathy (lobar hematomas in elderly without vascular nidus).
-> - Hypertensive Deep Intracerebral Hemorrhage (basal ganglia/thalamus/pons).
+> **Vascular & Neoplastic Mimics**
+>
+> - **Infundibular Dilation of Posterior Communicating Artery:** Triangular/funnel-shaped widening ($<3\text{ mm}$) at the PCom takeoff with the artery arising from its apex; benign anatomical variant (not a true aneurysm).
+> - **Hemorrhagic Brain Metastasis (Melanoma, Renal Cell, Choriocarcinoma):** Multiple ring-enhancing lesions with surrounding vasogenic edema and extensive hemosiderin; distinguished on MRI by internal nodular contrast enhancement (cavernomas lack significant internal enhancement).
+> - **Glioblastoma with Arteriovenous Shunting:** Infiltrative mass with thick irregular ring enhancement and necrotic center.
 
 > [!summary]- Management
-> **1. Unruptured Intracranial Aneurysms (UIA)**
-> - **Conservative Observation:** Serial MRA/CTA at 12, 24, and 36 months for small low-risk aneurysms ($< 7\text{ mm}$, anterior circulation, low PHASES score), aggressive blood pressure control, and smoking cessation.
-> - **Endovascular Treatment:**
->   - *Coiling:* Packing with detachable platinum coils $\pm$ balloon remodeling.
->   - *Flow Diverter Stents (Pipeline, Surpass):* Placed in parent artery across aneurysm neck; redirects blood flow along parent vessel, inducing progressive thrombosis of the aneurysm sac and vessel wall endothelization (treatment of choice for large/giant unruptured internal carotid aneurysms).
-> - **Microsurgical Clipping:** Surgical craniotomy and clip obliteration; preferred for middle cerebral artery (MCA) bifurcation aneurysms, wide-necked aneurysms, or tortuous anatomy.
-> 
-> **2. Brain Arteriovenous Malformations (bAVM)**
-> - **Multimodal Individualized Strategy:**
->   - *Microsurgical Resection:* Treatment of choice for low-grade AVMs (Spetzler-Martin I–II) located in non-eloquent cortex, offering immediate, permanent cure.
->   - *Stereotactic Radiosurgery (SRS, Gamma Knife):* Ideal for small ($< 3\text{ cm}$), deep, or eloquent AVMs; induces progressive vessel wall thrombosis and complete obliteration over 2–3 years.
->   - *Preoperative Endovascular Embolization (Onyx, PHIL):* Occludes deep inaccessible feeders to reduce intraoperative blood loss and surgical risk.
-> 
-> **3. Dural AV Fistulas & Cavernomas**
-> - **dAVF:** Transarterial or transvenous endovascular embolization with liquid embolic agents (Onyx) to close the fistula and abolish cortical venous reflux.
-> - **Cavernomas:** Microsurgical resection for lesions causing medically refractory epilepsy or progressive neurological deficits from repeated symptomatic bleeding in accessible locations. Cavernomas are radioresistant; stereotactic radiosurgery is generally avoided.
+> **Treatment Goals**
+>
+> - **Primary Target:** Prevent catastrophic intracranial hemorrhage (SAH / ICH), permanently obliterate high-risk aneurysms/AVMs, and eliminate seizure foci.
+> - **Secondary Target:** Avoid iatrogenic stroke or venous infarction, preserve functional speech and motor pathways, and eliminate pulsatile tinnitus.
+>
+> **Management: Unruptured Intracranial Saccular Aneurysms (UIA)**
+>
+> - **Risk Stratification (PHASES Score & UIATS Consensus):**
+>   - _Conservative Management (Observation):_ Indicated for small, anterior circulation aneurysms **$<7\text{ mm}$** without prior SAH or symptoms. Prescribe **strict Blood Pressure Control (target $<130/80\text{ mmHg}$)**, **mandatory Smoking Cessation**, and **serial MRA or CTA imaging at 6–12 months, then every 2–3 years**.
+>   - _Intervention Indications:_ Size **$\ge 7\text{ mm}$**, posterior circulation location (Basilar tip, PCom, PICA), documented interval growth on serial imaging, symptomatic cranial nerve mass effect, or family history of SAH.
+> - **1. Endovascular Therapy (First-Line for Most Unruptured Aneurysms):**
+>   - **Endovascular Coiling $\pm$ Stent-Assisted Coiling:** Primary choice for older adults and posterior circulation aneurysms.
+>   - **Flow-Diverter Stent Placement (Pipeline, Surpass, FRED):** Reconstructs the diseased parent artery across wide-necked, large ($>10\text{ mm}$), or giant ($>25\text{ mm}$) aneurysms; promotes spontaneous gradual intra-aneurysmal thrombosis while preserving perforator vessels (**mandates Dual Antiplatelet Therapy [Aspirin + Clopidogrel/Ticagrelor] for $\ge 6$ months**).
+> - **2. Microsurgical Clipping:** Preferred first-line therapy for **Middle Cerebral Artery (MCA) bifurcation aneurysms** (favorable anatomy; lower recurrence), wide-necked aneurysms with branching vessels, and young patients seeking definitive lifelong cure.
+>
+> **Management: Brain Arteriovenous Malformations (AVMs)**
+>
+> - **Unruptured AVMs (The ARUBA Trial Standard):**
+>   - **Medical Management (Antiseizure Medications + Blood Pressure Control)** is the **preferred first-line strategy for most unruptured AVMs**, as randomized trial data (**ARUBA trial**) demonstrated that procedural intervention carries a significantly higher risk of stroke and death compared to medical management alone over 5–10 years.
+> - **Ruptured AVMs OR Low-Grade Spetzler-Martin (Grade I–II):**
+>   - **Perform Complete Microsurgical Resection** (with or without preoperative targeted endovascular embolization to close deep arterial feeders).
+>   - _Crucial Rule:_ Complete surgical excision is mandatory; partial resection or partial embolization is dangerous!
+> - **Deep, Inoperable, Small AVMs ($<3\text{ cm}$, Spetzler-Martin Grade III):**
+>   - **Perform Stereotactic Radiosurgery (SRS / Gamma Knife)** (induces gradual endothelial proliferation and complete vascular obliteration over a **2 to 3-year latency period**; hemorrhage risk persists until complete obliteration is confirmed on DSA).
+>
+> **Management: Cavernous Malformations (Cavernomas) & DVAs**
+>
+> - **Incidental / Asymptomatic Cavernoma:** **Observe with serial Brain MRI** (zero surgical indication; annual bleeding risk is only ~0.5–1%).
+> - **Symptomatic Cavernoma (Medically Refractory Epilepsy OR Recurrent Disabling Hemorrhage):**
+>   - **Perform Complete Microsurgical Resection (Surgical Excision of the Cavernoma AND the Surrounding Hemosiderin-Stained Gliotic Ring)** to achieve complete cure of intractable seizures.
+>   - **LEAVE ANY ASSOCIATED DVA UNTOUCHED!** (Never coagulate, clip, or resect an adjacent Developmental Venous Anomaly!).
+>
+> **Management: Dural AV Fistulas (dAVFs)**
+>
+> - **dAVFs with Cortical Venous Reflux (Borden Type II/III):** **Perform Emergent Transarterial or Transvenous Endovascular Embolization (using liquid embolic agents [Onyx, Squid])** or surgical disconnection of the draining vein to eliminate the lethal risk of intracranial hemorrhage.
 
 > [!warning]- Contraindications & Pitfalls
-> - **NEVER resect or coagulate a Developmental Venous Anomaly (DVA):** DVAs represent the sole venous drainage route for adjacent healthy brain parenchyma; resection causes catastrophic venous infarction.
-> - **Do NOT routinely operate on unruptured Spetzler-Martin Grade IV–V AVMs:** Surgical morbidity and mortality exceed the natural history of the disease.
+>
+> - **Avoid Surgical Resection, Coiling, or Embolization of a Developmental Venous Anomaly (DVA)**, as DVAs are the sole functional venous drainage pathways for normal brain; destroying a DVA causes **catastrophic, fatal hemorrhagic venous infarction**.
+> - **Avoid Stereotactic Radiosurgery (SRS) for Cavernous Malformations**, as radiation fails to obliterate cavernomas and carries an unacceptably high rate of **severe radiation-induced necrosis, edema, and secondary hemorrhage**.
+> - **Avoid Partial Embolization of an AVM without a Definitive Plan for Complete Obliteration (Surgery or SRS)**; partial occlusion alters intranidal pressure gradients and **paradoxically INCREASES the risk of catastrophic AVM rupture** from remaining pressurized vessels!
+> - **Avoid Discontinuing Dual Antiplatelet Therapy (DAPT) Prematurely in Patients with Flow-Diverting Stents**, as in-stent thrombosis causes massive cerebral infarction.
 
 > [!error]- Complications
-> - Intracranial hemorrhage (subarachnoid, intraparenchymal, intraventricular).
-> - Normal Perfusion Pressure Breakthrough (NPPB): Severe postoperative hyperemic brain swelling and hemorrhage following AVM resection due to altered vascular autoregulation in previously chronically hypoperfused surrounding brain.
-> - Cranial neuropathies from mass effect or treatment.
-> - Post-treatment ischemic stroke or thromboembolism.
+>
+> - **Catastrophic Intracranial Hemorrhage (SAH or Lobar ICH):** Leading cause of death from untreated aneurysms, AVMs, and dAVFs.
+> - **Normal Perfusion Pressure Breakthrough (NPPB):** Severe hyperemic edema and massive hemorrhage occurring hours to days after AVM resection due to autoregulatory failure in chronically hypoperfused adjacent brain parenchyma.
+> - **Intractable Post-Vascular Epilepsy:** Resulting from cortical irritation by hemosiderin breakdown products $\rightarrow$ manage with **Levetiracetam or Lamotrigine**.
+> - **In-Stent Thrombosis or Thromboembolic Stroke:** Following flow-diverter or stent-assisted coiling.
 
 > [!success]- Typical Scenario
-> A 36-year-old software engineer experiences a first-time generalized tonic-clonic seizure while at home. Post-ictal non-contrast head CT is unremarkable, but follow-up contrast-enhanced brain MRI reveals a 2.2 cm compact tangle of flow voids in the right frontal operculum with superficial venous drainage into the superior sagittal sinus, without deep venous involvement (Spetzler-Martin Grade I AVM). Formal catheter cerebral angiography confirms a single prominent feeding branch from the right middle cerebral artery and rapid filling of a single superficial cortical draining vein with no intranidal aneurysms. Levetiracetam is initiated, achieving seizure control. After multidisciplinary neurovascular review, the patient elects for elective microsurgical resection. A right frontotemporal craniotomy allows complete microsurgical excision of the AVM nidus. Postoperative angiography confirms total obliteration with no residual shunt. He recovers completely and remains seizure-free without medication at 1 year.
+> A 46-year-old woman presents to the ED following a single, witnessed generalized tonic-clonic seizure. Neurological examination is completely normal. Brain MRI demonstrates a **1.6-cm well-circumscribed, multi-lobulated "popcorn"-like lesion with a complete peripheral hemosiderin ring on T2/SWI in the right anterior temporal lobe (Cavernous Malformation)**, abutting an incidental transmedullary **"Caput Medusae" (Developmental Venous Anomaly)**. Catheter DSA is negative (angiographically occult). She is loaded with **Levetiracetam (1,000 mg BID)**, and because the cavernoma caused an unprovoked cortical seizure, she undergoes **microsurgical excision of the cavernoma and surrounding hemosiderin rim**, while the neurosurgeon **carefully preserves the adjacent DVA intact**, resulting in permanent seizure freedom.
+
+> [!info] Personal Experience
 
 > [!example]- Resources
-> - **Greving et al. (Lancet Neurol 2014):** Development of the PHASES score for prediction of risk of rupture of intracranial aneurysms.
-> - **Spetzler & Martin (J Neurosurg 1986):** A proposed grading system for arteriovenous malformations.
-> - **Mohr et al. / ARUBA Trial (Lancet 2014):** Medical management with or without interventional therapy for unruptured brain arteriovenous malformations.
+>
+> - Guidelines for the Management of Patients with Unruptured Intracranial Aneurysms — Stroke (AHA/ASA) — 2015 — https://www.ahajournals.org/doi/10.1161/STR.0000000000000070
+> - Medical Management with or without Interventional Therapy for Unruptured Brain Arteriovenous Malformations (ARUBA Trial) — The Lancet — 2014 — https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)62302-8/fulltext
+> - Clinical Practice Guidelines for the Management of Cerebral Cavernous Malformations — Neurosurgery (Angioma Alliance) — 2017 — https://academic.oup.com/neurosurgery/article/80/5/665/3065306

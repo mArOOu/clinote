@@ -1,106 +1,158 @@
 ---
 Type: Emergency
-title: Traumatismes du Rachis & de la Moelle Épinière
-Tags: [Neurochirurgie, Traumatologie, Rachis, Reanimation, Urgences]
-Aliases: [Traumatismes du Rachis, Traumatisme Rachidien, Lésion Médullaire Traumatique, Fracture du Rachis, Choc Neurogénique]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Fractures et Luxations Cervicales, Traumatismes Thoraco-Lombaires, Lésions Médullaires Aiguës, Fractures de l'Odontoïde, Fracture de Hangman]
-First Aid: "Immobilisation stricte en bloc avec collier cervical rigide, Oxygénothérapie, Cible de PAM 85-90 mmHg pendant 7 jours pour perfusion médullaire, TDM/IRM du rachis en urgence et avis chirurgical rachidien"
-Compare: [[Acute Spinal Cord Compression & Cauda Equina Syndrome]], [[Spinal Tumors & Metastatic Cord Compression]]
+Tags: [Neurosurgery, Orthopedics, Trauma, Emergency_Medicine, Critical_Care]
+Aliases: [Traumatisme du Rachis, Traumatisme Médullaire, Lésion de la Moelle Épinière, Choc Neurovasculaire, Choc Spinal]
+Discipline: Neurosurgery
+Sub Pathologies: [Lésion Médullaire Aiguë, Choc Neurovasculaire, Syndrome Centro-Médullaire, Syndrome de l'Artère Spinale Antérieure, Syndrome de Brown-Séquard]
+First Aid: Immobilisation stricte en triple collier rigide et plan dur, maintien d'une PAM ≥ 85–90 mmHg pendant 5–7 jours par vasopresseurs, avis neurochirurgical d'extrême urgence (<24h pour décompression)
+Compare: [[Acute Spinal Cord Compression & Cauda Equina Syndrome]], [[Traumatic Intracranial Hemorrhage]]
 Reviewed: 2026-11-06
 ---
 
-> [!abstract] Traumatismes du Rachis & de la Moelle Épinière
-> Ensemble des atteintes traumatiques ostéo-disco-ligamentaires de la colonne vertébrale, associées ou non à une souffrance neurologique médullaire ou radiculaire. Le spectre s'étend des fractures stables sans déficit jusqu'au traumatisme médullaire complet avec tétraplégie ou paraplégie. La prise en charge initiale impose une immobilisation rigoureuse et le maintien impératif d'une pression de perfusion médullaire optimale pour éviter l'aggravation secondaire.
+> [!abstract] Traumatisme du Rachis
+> Atteinte mécanique de la colonne vertébrale, de la moelle épinière ou de la queue de cheval consécutive à un traumatisme violent (accidents de la voie publique, chutes de grande hauteur, plongeons : **Rachis Cervical [55 %] > Thoraco-lombaire [45 %]**), provoquant une disruption tissulaire mécanique immédiate (**Lésions Primaires**) suivie d'ischémie, de peroxydation lipidique et d'œdème médullaire (**Lésions Secondaires**).
 
 > [!note] Physiopathologie
-> - **Théorie des Trois Colonnes de Denis :**
->   - **Colonne Antérieure :** Ligament vertébral commun antérieur (LVCA) + 2/3 antérieurs du corps vertébral et du disque.
->   - **Colonne Moyenne (Clé de la stabilité) :** 1/3 postérieur du corps vertébral et de l'annulus + ligament vertébral commun postérieur (LVCP).
->   - **Colonne Postérieure :** Pédicules, massifs articulaires, lames, épineuses, ligaments jaunes et interépineux. Une atteinte de $\ge 2$ colonnes définit l'instabilité rachidienne.
-> - **Lésion Médullaire Primaire vs. Secondaire :**
->   - *Lésion primaire :* Contusion, dilacération, compression mécanique immédiate lors de l'impact ostéo-ligamentaire.
->   - *Lésion secondaire :* Cascade d'ischémie microvasculaire progressive, effondrement de l'autorégulation, œdème cytotoxique, afflux de radicaux libres et apoptose neuronale et gliale.
-> - **Choc Neurogénique vs. Choc Spinal :**
->   - *Choc Neurogénique :* Choc distributif hémodynamique par rupture du tonus sympathique vasomoteur en cas de lésion cervicale ou dorsale haute ($> \text{Th6}$) $\rightarrow$ hypotension sévère + **bradycardie paradoxale** (tonus vagal prédominant) avec extrémités chaudes et bien perfusées.
->   - *Choc Spinal :* Sidération neurologique fonctionnelle temporaire avec perte complète de toute activité motrice, sensitive et réflexe sous la lésion (réflexe bulbocaverneux aboli). La réapparition du réflexe bulbocaverneux signe la fin du choc spinal et le début de l'automaticité médullaire (spasticité).
+>
+> - **Choc Neurovasculaire vs Choc Spinal :**
+>   - _Choc Neurovasculaire (Effondrement Hémodynamique) :_ Perte du tonus vasomoteur sympathique par lésion située à ou au-dessus de **T6** $ightarrow$ tonus vagal prédominant sans frein $ightarrow$ **triade d'Hypotension + Bradycardie Paradoxale + Extrémités Chaudes et Bien Vasculisées** !
+>   - _Choc Spinal (Bloc de Conduction Physiologique) :_ Perte transitoire complète de toute activité motrice et réflexe sous le niveau lésionnel $ightarrow$ **paralysie flasque, aréflexie et abolition du réflexe bulbo-caverneux**. Sa résolution est marquée par la **réapparition du réflexe bulbo-caverneux (S2–S4)** (habituellement en 24 à 48 heures), laissant place à la spasticité et à l'hyperréflexie.
 
 > [!tip]- Perles Cliniques
-> - **La règle de la PAM à 85–90 mmHg pendant 7 jours :** Maintenir la pression artérielle moyenne entre **85 et 90 mmHg pendant les 7 premiers jours** (à l'aide de noradrénaline et de remplissage) pour perfuser la moelle ischémiée (Recommandations AANS/CNS).
-> - **Choc Neurogénique : Hypotension + Bradycardie :** À l'opposé du choc hémorragique (hypotension + tachycardie), le choc neurogénique associe bradycardie et vasodilatation artériolocapillaire par levée du frein sympathique.
-> - **Critères de NEXUS pour l'élimination clinique d'un traumatisme cervical (les 5 critères doivent être réunis) :**
->   1. Absence de douleur ou sensibilité sur la ligne médiane épineuse postérieure.
->   2. Absence totale d'intoxication (alcool, drogues).
->   3. État d'alerte normal (GCS 15).
->   4. Absence de déficit neurologique focal.
->   5. Absence de lésion douloureuse distrayante.
-> - **Le priapisme traumatique :** Érection réflexe continue chez un traumatisé comateux, signant une section médullaire cervicale ou dorsale haute complète.
+>
+> - **Maintenir une PAM $ge 85–90	ext{ mmHg}$ pendant 5 à 7 Jours :** Mesure médicale la plus déterminante dans le traumatisme médullaire aigu ; assure la perfusion de la pénombre ischémique médullaire via **Cristalloïdes IV + Vasopresseurs (Noradrénaline / Phényléphrine)**.
+> - **Les Corticoïdes sont DÉSORMAIS PROSCRITS :** La méthylprednisolone à forte dose (protocole NASCIS) est **formellement déconseillée** par les consensus internationaux AANS/CNS ; elle n'apporte **aucune amélioration motrice** et majore lourdement les **sepsis, pneumopathies et hémorragies digestives** !
+> - **L'Épargne Sacrée Définit le Caractère INCOMPLET de la Lésion :** Toute préservation de la sensibilité (au tact ou à la piqûre au niveau de la marge anale S4–S5) OU de la motricité volontaire (contraction volontaire du sphincter anal au toucher rectal) définit une **Lésion Médullaire Incomplète (ASIA B, C ou D)**, associée à un potentiel de récupération motrice élevé !
+> - **Discriminateur Rapide des Syndromes Médullaires Incomplets :**
+>   - _Syndrome Centro-Médullaire (#1) :_ Traumatisme en hyperextension chez le sujet âgé avec canal cervical étroit $ightarrow$ **Déficit moteur : Membres Supérieurs >>> Membres Inférieurs** avec épargne de la sensibilité sacrée.
+>   - _Syndrome Antérieur :_ Hyperflexion ou ischémie de l'artère spinale antérieure $ightarrow$ **paralysie complète + perte thermo-algique** avec **PRÉSERVATION de la sensibilité proprioceptive et vibratoire (cordons postérieurs intacts)**.
+>   - _Syndrome de Brown-Séquard (Hémi-section) :_ Paralysie motrice et perte proprioceptive **homolatérales** + perte thermo-algique **controlatérale** 1 à 2 métamères sous la lésion.
+
+| Syndrome | Mécanisme Lésionnel | Profil du Déficit Moteur | Profil du Déficit Sensitif |
+| :--- | :--- | :--- | :--- |
+| **1. Syndrome Centro-Médullaire** (#1) | Hyperextension sur canal cervical étroit chez le sujet âgé | Membres Supérieurs >>> Membres Inférieurs | Hétérogène ; Épargne Sacrée préservée |
+| **2. Syndrome de l'Artère Spinale Antérieure** | Hyperflexion, fracture-éclatement ou ischémie spinale | Paralysie motrice complète bilatérale | Perte thermo-algique ; Proprioception/Vibration conservées |
+| **3. Syndrome de Brown-Séquard** | Traumatisme pénétrant (arme blanche) ou fracture facettaire | Paralysie spastique homolatérale | Proprioception homolatérale ; Thermo-algie controlatérale |
 
 > [!attention]- Présentation Clinique
-> **Syndromes Médullaires Incomplets**
-> - **Syndrome Centro-Médullaire de Schneider (Le plus fréquent) :** Traumatisme en hyperextension chez le sujet âgé avec canal cervical étroit. Déficit moteur prédominant nettement aux **membres supérieurs par rapport aux membres inférieurs**, avec troubles sensitifs suspendus.
-> - **Syndrome de l'Artère Spinale Antérieure :** Traumatisme en flexion. Paraplégie motrice complète flasque avec perte de la sensibilité thermo-algique sous la lésion ; **conservation de la sensibilité proprioceptive et vibratoire** (cordons postérieurs intacts). Pronostic de récupération le plus sombre.
-> - **Syndrome de Brown-Séquard (Hémisection médullaire) :** Déficit moteur et proprioceptif **homolatéral** à la lésion ; anesthésie thermo-algique **controlatérale** 1 à 2 métamères sous la lésion.
-> 
-> **Examen Physique Systématique**
-> - Palpation en monobloc de l'axe rachidien à la recherche d'une douleur exquise, d'un décrochage épineux ou d'un hématome.
-> - Examen moteur et sensitif standardisé selon la classification internationale ASIA (niveaux sensitifs de C2 à S4/S5, testing moteur clé 0 à 5).
-> - Toucher rectal systématique : Évaluation du tonus anal volontaire (définit le caractère complet ou incomplet de l'atteinte) et recherche du **réflexe bulbocaverneux**.
+> **Anamnèse**
+>
+> - **Mécanisme du Traumatisme :** Accident de la voie publique à grande vitesse, plongeon en eau peu profonde, chute d'une échelle/toit, plaquage de rugby.
+> - **Symptômes Immédiats :** Douleur rachidienne cervicale ou dorsolombaire violente, impotence fonctionnelle absolue, anesthésie ou paresthesies des membres.
+> - **Signes Neurovégétatifs :** Détresse respiratoire brutale, sensation de chaleur paradoxale des téguments, lipothymie.
+>
+> **Examen Physique**
+>
+> - **Bilan Primaire (ABCDE) :**
+>   - _Voies Aériennes / Ventilation :_ Respiration paradoxale ou apnée traduisant une atteinte cervicale haute (**C3–C5 : atteinte des racines phréniques**).
+>   - _Circulation :_ **Choc neurovasculaire** associant **hypotension artérielle et bradycardie sinusale** (contrairement au choc hémorragique qui associe hypotension et tachycardie !).
+> - **Examen Neurologique Standardisé (Protocole Officiel ASIA / ISNCSCI) :**
+>   - _Cotation Motrice (Groupes Clés, Échelle de 0 à 5) :_ C5 (biceps), C6 (extenseurs du poignet), C7 (triceps), C8 (fléchisseurs des doigts), T1 (abducteur du petit doigt) ; L2 (psoas), L3 (quadriceps), L4 (tibial antérieur), L5 (extenseur propre du gros orteil), S1 (triceps sural).
+>   - _Cotation Sensitive :_ Examen bilatéral du tact et de la piqûre sur les 28 dermatomes.
+> - **Examen Anorectal (OBLIGATOIRE chez 100 % des Traumatisés du Rachis) :**
+>   - **Contraction Anale Volontaire (S4–S5) :** Détecte une épargne sacrée motrice.
+>   - **Sensibilité Anale Profonde / Tact S4–S5 :** Détecte une épargne sacrée sensitive.
+>   - **Réflexe Bulbo-Caverneux (S2–S4) :** Contraction du sphincter anal provoquée par la traction de la sonde urinaire ou la pression du gland/clitoris (sa présence signe la fin du **choc spinal** ; son absence confirme le choc spinal).
+> - **Priapisme :** Érection involontaire réflexe traduisant une section médullaire complète par rupture du frein sympathique.
 
 > [!check]- Critères Diagnostiques
-> - **Score de Sévérité ASIA (AIS) :**
->   - **A (Complet) :** Aucune fonction motrice ni sensitive préservée dans les segments sacrés S4–S5.
->   - **B (Sensitif Incomplet) :** Préservation de la sensibilité mais absence de motricité sous le niveau lésionnel, incluant S4–S5.
->   - **C (Moteur Incomplet) :** Motricité préservée sous le niveau lésionnel avec plus de la moitié des muscles clés ayant une force $< 3/5$.
->   - **D (Moteur Incomplet) :** Motricité préservée avec au moins la moitié des muscles clés ayant une force $\ge 3/5$.
->   - **E (Normal) :** Fonctions motrices et sensitives normales.
-> - **Score TLICS (Thoracolumbar Injury Classification and Severity Score) :** Guide l'indication chirurgicale selon la morphologie de la fracture, l'intégrité du complexe ligamentaire postérieur et l'état neurologique (chirurgie recommandée si score $> 4$).
+>
+> - **Critères de Dégagement Cervical Clinique (Règle NEXUS — Tous les 5 critères doivent être réunis pour éliminer une lésion sans imagerie) :**
+>   1. Absence de douleur ou sensibilité palpatoire sur la ligne médiane du rachis cervical.
+>   2. Absence de tout déficit neurologique focal.
+>   3. État de conscience et vigilance parfaitement normaux (GCS 15).
+>   4. Absence d'intoxication (éthanol, drogues, sédatifs).
+>   5. Absence de lésion distrayante douloureuse majeure.
+> - **Classification de Gravité ASIA (Échelle AIS) :**
+>   - **Grade A (Complète) :** Aucune fonction motrice ni sensitive n'est préservée dans les segments sacrés S4–S5.
+>   - **Grade B (Sensitive Incomplète) :** Préservation de la sensibilité sous le niveau lésionnel s'étendant jusqu'à S4–S5, mais motricité nulle.
+>   - **Grade C (Motrice Incomplète) :** Motricité préservée sous le niveau ; $>50%$ des muscles clés sous la lésion ont une force $<3/5$.
+>   - **Grade D (Motrice Incomplète) :** Motricité préservée sous le niveau ; $ge 50%$ des muscles clés sous la lésion ont une force $ge 3/5$.
+>   - **Grade E (Normale) :** Fonctions motrice et sensitive intégralement normales.
 
 > [!fail]- Examens Complémentaires
-> - **Scanner (TDM) du Rachis Complet sans injection :** Examen osseux de référence en urgence, analysant les fractures des corps, pédicules, lames, processus articulaires et le recul du mur postérieur dans le canal.
-> - **IRM Médullaire en urgence :** Examen clé pour visualiser la contusion médullaire, l'œdème intramédullaire, un hématome épidural compressif, une hernie discale traumatique et l'état des ligaments spinaux.
-> - **Angio-TDM des Troncs Supra-Aortiques :** Indispensable devant toute fracture cervicale intéressant le foramen transversaire ou luxation articulaire pour éliminer une **dissection de l'artère vertébrale**.
+> **Imagerie Osseuse de Référence**
+>
+> - **TDM du Rachis Entier en Coupes Millimétriques (Reconstructions Axiales, Sagittales et Coronales) :**
+>   - **Examen d'imagerie obligatoire de première intention** pour tout traumatisé répondant aux critères NEXUS ou canadiens (sensibilité $>99%$ pour les fractures comminutives, luxations et déchirures osseuses).
+>
+> **Imagerie Médullaire et Disco-Ligamentaire**
+>
+> - **IRM Médullaire (Sagittale T1, T2, STIR, Axiale T2) :**
+>   - **Indiquée en urgence chez tout patient avec déficit neurologique**, patient comateux ou suspicion de rupture ligamentaire.
+>   - Évalue la **compression médullaire, la contusion/myélomalacie, les hématomes épiduraux et la rupture du Complexe Ligamentaire Postérieur (CLP)**.
+>
+> **Imagerie Vasculaire des Troncs Supra-Aortiques**
+>
+> - **Angio-TDM des Artères Cervicales :** Obligatoire si la fracture cervicale traverse le **foramen transversaire (C1–C6)**, en cas de luxation articulaire ou de syndrome de Claude Bernard-Horner inexpliqué, pour exclure une **Dissection de l'Artère Vertébrale**.
 
-> [!bug]- Signes d'Alerte (Red Flags)
-> - Ascendance progressive du niveau moteur ou détresse respiratoire (atteinte phrénique C3–C5).
-> - Hypotension avec bradycardie paradoxale (choc neurogénique menaçant le pronostic vital).
-> - Perte de l'échappement sacré (anesthésie en selle et atonie sphinctérienne complète).
+> [!bug]- Drapeaux Rouges
+>
+> - **Choc Neurovasculaire :** Hypotension (PAS $<90	ext{ mmHg}$) associée à une **Bradycardie sinusale (FC $<60	ext{ bpm}$)**.
+> - **Niveau Lésionnel au-dessus de C5 :** Épuisement phrénique rapide et arrêt respiratoire imminent.
+> - **Luxation Facettaire Bilatérale ("Facettes Enclavées") :** Instabilité rachidienne majeure avec écrasement médullaire critique.
+> - **Priapisme d'apparition immédiate** (lésion médullaire complète gravissime).
+> - **Ascension rapide du niveau moteur ou sensitif** (hématome épidural extensif ou œdème médullaire aigu).
 
 > [!todo]- Diagnostics Différentiels
-> - Hernie discale compressive aiguë sans fracture.
-> - Hématome épidural ou sous-dural rachidien non traumatique.
-> - Syndrome de la queue de cheval d'origine non osseuse.
-> - Myélite aiguë transverse inaugurale.
+> **Urgences Vitales Traumatiques et Vasculaires**
+>
+> - **Choc Hémorragique :** Se distingue par une **hypotension AVEC tachycardie (FC $>100	ext{ bpm}$)**, des marbrures et des extrémités froides et cyanosées (rappel : une lésion médullaire isolée _ne provoque jamais de tachycardie_ sauf polytraumatisme hémorragique surajouté !).
+> - **Hématome Épidural Spinal Traumatique :** Paraplégie rapidement progressive dans les heures suivant le choc (fréquent sous anticoagulants) ; impose une décompression chirurgicale en urgence.
+> - **Dissection Aortique Aiguë :** Ischémie aiguë de l'artère d'Adamkiewicz réalisant un syndrome spinal antérieur sans lésion traumatique osseuse.
+> - **Trouble Neurologique Fonctionnel :** Réflexes normaux, tonus sphinctérien normal, absence de lésion à l'IRM.
 
-> [!summary]- Prise en Charge Thérapeutique
-> **1. Stabilisation Préhospitalière & Urgences**
-> - Immobilisation stricte en monobloc : Collier cervical rigide, matelas coquille, interdiction de toute flexion/rotation du cou.
-> - Voies Aériennes : Intubation précoce avec maintien manuel en ligne si atteinte C3–C5 ou détresse respiratoire.
-> - Optimisation Hémodynamique : Remplissage prudent et maintien d'une **$\text{PAM} \ge 85–90\text{ mmHg}$ pendant 7 jours** par perfusion de Noradrénaline.
-> - Pose d'une sonde vésicale en urgence pour éviter la rétention aiguë d'urine et le claquage vésical.
-> 
-> **2. Traitement Médical & Corticoïdes**
-> - **Méthylprednisolone à forte dose (Protocole NASCIS) :** N'est plus recommandée en routine par les sociétés savantes (AANS/CNS, SFNR) en raison de l'absence de bénéfice clinique probant et d'un surrisque majeur d'infections sévères, de pneumopathies et d'hémorragies digestives.
-> 
-> **3. Traitement Chirurgical**
-> - **Décompression Précoce ($< 24\text{ heures}$) :** L'intervention précoce (idéalement dans les 8 à 12 premières heures) en cas de déficit incomplet ou d'aggravation rapide améliore significativement la récupération motrice (étude STASCIS).
-> - **Techniques :** Arthrodèse antérieure par cage et plaque (ACDF au niveau cervical) ou laminectomie décompressive postérieure avec ostéosynthèse par vis pédiculaires au niveau thoraco-lombaire.
-> - **Traction Crânienne (Étriers de Gardner-Wells) :** Réduction orthopédique en urgence des luxations articulaires cervicales chez le patient vigile sous contrôle radiologique et neurologique continu.
+> [!summary]- Prise en Charge
+> **Objectifs Thérapeutiques**
+>
+> - **Cible Principale :** Maintenir une **Pression Artérielle Moyenne (PAM) $ge 85–90	ext{ mmHg}$ pendant 5 à 7 jours**, stabiliser le rachis dans l'axe, et réaliser une **décompression chirurgicale précoce dans les <24 heures**.
+> - **Cible Secondaire :** Réduire les luxations articulaires instables, prévenir les agresseurs ischémiques secondaires, et prévenir les thromboses veineuses profondes et les escarres.
+>
+> **Mesures Réanimatoires Immédiates**
+>
+> - **1. Immobilisation Rachidienne Stricte :** **Collier cervical rigide, décubitus dorsal strict et retournement en monobloc (log-roll)** jusqu'à élimination formelle de toute lésion instable.
+> - **2. Contrôle des Voies Aériennes avec Maintien de l'Axe Tête-Cou (MILS) :** Réaliser une **Vidéo-laryngoscopie ou Intubation sous Fibroscope pendant qu'un opérateur maintient fermement l'axe tête-cou en ligne** pour proscrire toute hyperextension cervicale lors de l'IOT chez les patients comateux ou lésés au-dessus de C5.
+> - **3. Réanimation du Choc Neurovasculaire (Cible PAM $ge 85–90	ext{ mmHg}$) :**
+>   - Remplissage prudent par cristalloïdes isotoniques.
+>   - **Recours précoce aux vasopresseurs à action $alpha$ et $eta_1$—Noradrénaline**—pour corriger la vasoplégie et la bradycardie (utiliser **l'Atropine IV** si bradycardie extrême).
+> - **4. Réduction par Traction Crânienne Fermée des Luxations Facettaires :**
+>   - Mise en place d'un étrier de traction (type **Gardner-Wells**) avec charges progressives sous **contrôle radiologique continu et examen neurologique répété** pour réduire la luxation avant l'acte opératoire.
+> - **5. Pose d'une Sonde Urinaire à Demeure** immédiate pour lever la rétention aiguë d'urine sur vessie atone.
+>
+> **Décompression et Ostéosynthèse Chirurgicale Précoce (Standard STASCIS)**
+>
+> - **Décompression Chirurgicale et Stabilisation Instrumentée dans les <24 HEURES suivant le Traumatisme :**
+>   - L'essai princeps **STASCIS** a démontré qu'une décompression précoce ($<24	ext{ h}$) **multiplie par près de 3 le taux de récupération fonctionnelle motrice d'au moins 2 grades ASIA** par rapport à une chirurgie différée.
+>   - Voies d'abord : Arthrodèse cervicale antérieure (ACDF), laminectomie cervicale postérieure avec ostéosynthèse, ou vissage pédiculaire thoraco-lombaire.
+>
+> **Soins Neuro-Intensifs & Prophylaxie des Complications**
+>
+> - **Prophylaxie de la Maladie Thromboembolique (Énoxaparine 40 mg SC/j ou 30 mg 2×/j) débutée entre 24 et 72 heures post-trauma** dès stabilisation des saignements, associée à une **compression pneumatique intermittente** (risque majeur d'embolie pulmonaire fatale !).
+> - **Prévention de l'Hyperréflexie Autonome (Lésions $ge 	ext{T6}$) :** Crise hypertensive sévère déclenchée par un globe urinaire ou un fécalome des semaines après le traumatisme $ightarrow$ asseoir le patient, desserrer les vêtements, vidanger la vessie, et administrer un antihypertenseur à action brève (**Nicardipine IV**).
 
 > [!warning]- Contre-indications & Pièges
-> - **Proscription de la Célocurine (Succinylcholine) après 48h :** Risque d'arrêt cardiaque par hyperkaliémie foudroyante due à la dénervation musculaire.
-> - **Ne pas sevrer prématurément les vasopresseurs :** L'hypoperfusion médullaire aggrave irréversiblement les lésions ischémiques secondaires.
+>
+> - **Proscrire les Corticoïdes à Forte Dose (Méthylprednisolone / Protocole NASCIS)** dans le traumatisme médullaire aigu ; les consensus neurochirurgicaux recommandent formellement de **NE PLUS LES UTILISER** en raison de leur inefficacité prouvée et de la survenue fréquente de **pneumopathies graves, sepsis et décès**.
+> - **Proscrire le Remplissage Vasculaire Massif Isolé dans le Choc Neurovasculaire**, la vasoplégie ne pouvant être corrigée par du soluté seul et conduisant rapidement à un **œdème aigu pulmonaire iatrogène** (introduire précocement la **Noradrénaline** !).
+> - **Proscrire l'Hyperextension du Cou ou la Subluxation Mandibulaire Brutale lors de l'Intubation**, pour ne pas convertir une fracture incomplète en section médullaire complète (utiliser impérativement le **Maintien Manuel en Ligne [MILS]**).
+> - **Ne Jamais Laisser la PAM Chuter sous 85 mmHg durant les 5 à 7 Premiers Jours**, la perfusion de la moelle lésée dépendant directement de la pression systémique.
+> - **Proscrire le Dégagement Cervical Clinique chez un Patient Inconscient, Intoxiqué ou avec Lésion Distrayante** (réaliser impérativement une **TDM millimétrique**).
 
 > [!error]- Complications
-> - Dysréflexie autonomique (complication tardive des lésions $\ge \text{Th6}$ : HTA paroxystique sévère avec céphalées et sueurs déclenchée par une rétention d'urine ou un fécalome).
-> - Maladie thromboembolique veineuse majeure (anticoagulation préventive par HBPM indispensable dès 24–48h).
-> - Escarres de décubitus aux points d'appui.
-> - Vessie et intestin neurogènes avec infections urinaires à répétition.
+>
+> - **Choc Neurovasculaire et Asystolie :** Perte de l'innervation sympathique cardio-accélératrice $ightarrow$ arrêts cardiaques réflexes $ightarrow$ traiter par **Atropine + Noradrénaline**.
+> - **Thrombose Veineuse Profonde & Embolie Pulmonaire :** Incidence la plus élevée de tous les traumatismes ($>60–80%$ sans prophylaxie) $ightarrow$ HBPM précoce obligatoire.
+> - **Dysréflexie Végétative Autonome (Lésions $ge 	ext{T6}$) :** Décharge sympathique massive déclenchée par une distension vésicale ou rectale $ightarrow$ hypertension maligne (PAS $>200	ext{ mmHg}$), céphalées explosives, sueurs profuses sus-lésionnelles $ightarrow$ **surélever le buste et sonder immédiatement la vessie** !
+> - **Iléus Paralytique & Vessie Atonique :** Décompression gastrique par sonde nasogastrique et sondages urinaires pluriquotidiens.
+> - **Escarres Majeures :** Retournement régulier en monobloc toutes les 2 heures et matelas dynamique anti-escarres.
 
-> [!success]- Scénario Clinique Typique
-> Un ouvrier de 32 ans fait une chute de 5 mètres d'un échafaudage. Il est conscient mais signale une vive douleur dorsale et une impossibilité immédiate de bouger les deux jambes. Les secours l'immobilisent en coquille avec collier rigide. Aux urgences, sa PA est à 82/46 mmHg avec une fréquence cardiaque à 52 bpm ; la peau est chaude et sèche. L'examen met en évidence un niveau sensitif franc au niveau de l'ombilic (Th10), une paraplégie flasque 0/5 et une atonie sphinctérienne. Le diagnostic de choc neurogénique est posé ; un bolus de cristalloïdes et une perfusion de noradrénaline permettent d'atteindre une PAM à 88 mmHg. Le scanner thoraco-lombaire confirme une fracture-éclatement de Th9 avec recul du mur postérieur sténosant 75% du canal. L'IRM montre une contusion avec compression médullaire sans section anatomique. Il est transféré au bloc opératoire à la 5e heure pour laminectomie décompressive et ostéosynthèse postérieure de Th7 à Th11. La PAM est maintenue $> 85\text{ mmHg}$ en réanimation ; à 3 semaines, il amorce une récupération sensitive sacrée et motrice sur les psoas.
+> [!success]- Cas Clinique Typique
+> Un jeune homme de 22 ans plonge dans un lac en eau peu profonde, heurte le fond avec sa tête et est repêché tétraplégique. À l'admission au déchocage avec collier rigide, les constantes révèlent une PA à 82/44 mmHg et une FC à 46 bpm avec des extrémités chaudes et vasodilatées (**Choc Neurovasculaire**). L'examen montre une force à 0/5 aux 4 membres, un réflexe bulbo-caverneux aboli (**Choc Spinal**) et un niveau sensitif à C4 (**ASIA Grade A**). Il est intubé sous vidéo-laryngoscopie avec maintien en ligne, une perfusion continue de **Noradrénaline** est débutée visant une **PAM $ge 85–90	ext{ mmHg}$**, et l'angio-TDM/IRM révèle une **luxation facettaire bilatérale C5–C6 avec contusion médullaire sévère**. Il bénéficie d'une réduction fermée par étrier de Gardner-Wells suivie d'une **décompression chirurgicale antérieure avec arthrodèse (ACDF) réalisée 8 heures après le choc**, avec maintien de la PAM $ge 85	ext{ mmHg}$ en réanimation pendant 7 jours.
 
-> [!example]- Références
-> - **AANS / CNS Joint Guidelines (Neurosurgery 2013) :** Guidelines for the Management of Acute Cervical Spine and Spinal Cord Injuries.
-> - **STASCIS Trial (Fehlings et al., PLoS ONE 2012) :** Early versus Delayed Decompression for Traumatic Cervical Spinal Cord Injury.
-> - **ASIA / ISNCSCI :** International Standards for Neurological Classification of Spinal Cord Injury.
+> [!info] Expérience Personnelle
+
+> [!example]- Ressources
+>
+> - Guidelines for the Management of Acute Cervical Spine and Spinal Cord Injuries — Neurosurgery (AANS/CNS) — 2013/Reaffirmed 2020 — https://www.cns.org/guidelines/guidelines-management-acute-cervical-spine-spinal-cord-injuries
+> - Early versus Delayed Decompression for Traumatic Cervical Spinal Cord Injury: Results of the STASCIS Trial — PLoS ONE — 2012 — https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032037
+> - International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI / ASIA Exam) — ASIA — 2019 Revised — https://asia-spinalinjury.org/international-standards-neurological-classification-sci-isncsci-worksheet/

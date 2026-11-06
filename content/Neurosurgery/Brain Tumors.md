@@ -1,98 +1,163 @@
 ---
 Type: Chronic
-Tags: [Neurosurgery, Oncology, Neurology, Pathology]
-Aliases: [Brain Tumors, Intracranial Neoplasms, Glioblastoma, Meningioma, Brain Metastases, Glioma, Pituitary Adenoma, Acoustic Neuroma]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [High-Grade Gliomas (Glioblastoma), Meningiomas, Brain Metastases, Pituitary Adenomas, Vestibular Schwannoma / Acoustic Neuroma]
-Compare: [[Spinal Tumors & Metastatic Cord Compression]], [[Acute Hydrocephalus & Raised Intracranial Pressure]]
+Tags: [Neurosurgery, Oncology, Neurology, Critical_Care]
+Aliases: [Intracranial Neoplasm, Glioblastoma, Meningioma, Brain Metastases, Astrocytoma, Central Nervous System Tumors]
+Discipline: Neurosurgery
+Sub Pathologies: [Glioblastoma, Brain Metastases, Meningioma, Oligodendroglioma, Primary CNS Lymphoma, Vestibular Schwannoma]
+Compare: [[Intracerebral Hemorrhage]], [[Acute Hydrocephalus & Raised Intracranial Pressure]]
 Reviewed: 2026-11-06
 ---
 
 > [!abstract] Brain Tumors
-> Diverse spectrum of neoplastic intracranial space-occupying lesions, broadly categorized into **Secondary Metastatic Tumors** (most common overall, from lung, breast, melanoma, kidney, colon) and **Primary Brain Tumors** (most commonly benign Meningiomas and malignant Gliomas/Glioblastomas). Diagnosis integrates anatomical and functional MRI with molecular and genetic histopathology under the 2021 WHO Classification of CNS Tumors.
+> Neoplastic masses within the intracranial vault, broadly divided into **Secondary Brain Metastases (Most Common, ~50–60% of all adult brain tumors)** and **Primary Central Nervous System Tumors (~40–50%)**, characterized by progressive focal neurological deficits, seizures, and life-threatening **vasogenic edema** from blood-brain barrier disruption.
 
 > [!note] Pathophysiology
-> - **Primary Gliomas (Diffuse Astrocytoma, Oligodendroglioma, Glioblastoma):**
->   - Arise from glial progenitor cells. Under the 2021 WHO CNS classification, molecular alterations define diagnosis:
->     - **Glioblastoma, IDH-wildtype (WHO Grade 4):** Highly aggressive, characterized by microvascular proliferation, pseudopalisading necrosis, *TERT* promoter mutation, *EGFR* amplification, and $+7/-10$ chromosome copy number changes.
->     - **Astrocytoma, IDH-mutant (WHO Grade 2–4):** Better prognosis than glioblastoma; homozygous deletion of *CDKN2A/B* defines Grade 4.
->     - **Oligodendroglioma, IDH-mutant and 1p/19q-codeleted (WHO Grade 2–3):** Marked chemosensitivity to alkylating regimens (PCV / temozolomide).
-> - **Extra-Axial Tumors:**
->   - **Meningioma (WHO Grade 1–3):** Arise from arachnoid cap cells, slow-growing, dura-based, exhibiting a "dural tail" and *NF2* mutations.
->   - **Vestibular Schwannoma (Acoustic Neuroma):** Arises from Schwann cell sheath of superior vestibular nerve in internal acoustic meatus and cerebellopontine angle (CPA).
->   - **Pituitary Adenoma:** Arises from adenohypophysis within sella turcica; causes visual field defects (bitemporal hemianopsia via optic chiasm compression) and endocrine dysfunction.
-> - **Peritumoral Vasogenic Edema:** Disruption of tight junctions in neoplastic blood vessels (VEGF over-expression) $\rightarrow$ protein-rich fluid leaks into white matter tracts $\rightarrow$ elevated ICP.
+>
+> - **Adult vs. Pediatric Anatomical Rule:** In adults, **~70% of brain tumors are Supratentorial** (cortex/subcortex); in children, **~70% are Infratentorial** (posterior fossa: Medulloblastoma, Pilocytic Astrocytoma, Ependymoma).
+> - **Vasogenic Cerebral Edema:** Tumor-secreted **Vascular Endothelial Growth Factor (VEGF)** degrades endothelial tight junctions, allowing protein-rich plasma to pour into the white matter extracellular space (uniquely responsive to **corticosteroids**!).
 
 > [!tip]- Clinical PEARLS
-> - **Metastases vs. Glioblastoma:**
->   - *Metastases:* Often multiple, well-circumscribed, located at gray-white matter junctions, surrounded by extensive vasogenic edema disproportionate to tumor size.
->   - *Glioblastoma:* Typically solitary, infiltrative, crosses corpus callosum ("butterfly glioma"), thick irregular ring-enhancing rim with central necrosis.
-> - **Dexamethasone is the gold standard for vasogenic edema:** Rapidly down-regulates VEGF and tightens the blood-tumor barrier, resolving headaches and focal deficits within 24–48 hours.
-> - **New-Onset Seizure in Adult $> 40$:** Must be considered a brain tumor until proven otherwise by contrast-enhanced MRI.
-> - **Pituitary Apoplexy:** Sudden infarction or hemorrhage of a pituitary adenoma $\rightarrow$ acute catastrophic headache, ophthalmoplegia, visual field collapse, and adrenal crisis from acute ACTH deficiency (requires immediate high-dose Hydrocortisone).
+>
+> - **Dexamethasone is the Vasogenic Edema "Silver Bullet":** Unlike ischemic stroke edema (where steroids do nothing), tumor-associated vasogenic edema responds dramatically to **Dexamethasone (4–8 mg PO/IV BID–QID)** by sealing tight junctions within 24–48 hours; add a **PPI** for gastroprotection.
+> - **HOLD Steroids if Primary CNS Lymphoma is Suspected:** Corticosteroids are directly cytolytic to B-cell lymphoma and cause the tumor to vanish ("ghost tumor") on MRI within 24–48 hours, rendering stereotactic biopsy **completely non-diagnostic**!
+> - **Top Primary Sources of Brain Metastases (Mnemonic: Lung > Breast > Melanoma > Colon > Renal):**
+>   - **Lung (Small cell & NSCLC, ~50%)** > **Breast (~15–20%)** > **Melanoma (~10%)** > Colon > Renal Cell.
+>   - _Hemorrhagic Brain Metastases (Mnemonic: MR. CT Lung):_ **M**elanoma, **R**enal cell carcinoma, **C**horiocarcinoma, **T**hyroid, and small-cell **Lung** cancer frequently bleed spontaneously.
+> - **The 3 Critical Molecular Markers (2021 WHO Classification):**
+>   1. **IDH1 / IDH2 Mutation:** Distinguishes favorable astrocytomas from aggressive **IDH-wildtype Glioblastoma**.
+>   2. **1p/19q Co-deletion:** Mandatory defining hallmark of **Oligodendroglioma** (fried-egg cells, chemosensitive).
+>   3. **MGMT Promoter Methylation:** Epigenetic silencing of the DNA repair enzyme MGMT predicts **high sensitivity to Temozolomide (TMZ)** chemotherapy.
+> - **No Prophylactic Antiseizure Medications (ASMs):** AAN guidelines strictly recommend **AGAINST routine prophylactic ASMs** in seizure-naive brain tumor patients; treat only after an initial clinical seizure.
+
+| Tumor Entity | MRI Enhancement / Morphology | Histology / Molecular | Management Essence |
+| :--- | :--- | :--- | :--- |
+| **1. Brain Metastases** (Most Common) | Multiple, well-circumscribed at gray-white junction; ring enhancement | Resembles primary site; VEGF-driven | SRS / Surgery + Systemic Targeted Tx |
+| **2. Glioblastoma** (WHO Grade 4) | Irregular, thick ring-enhancing; central necrosis; crosses corpus callosum | Pseudopalisading necrosis; IDH-wt; microvascular prolif. | Maximal Resection + Stupp Protocol (RT+TMZ) |
+| **3. Meningioma** (WHO Grade 1) | Extra-axial; homogeneous contrast uptake; "Dural Tail" | Psammoma bodies; spindle cells/whorls | Observe if small; Complete Resection |
+| **4. Primary CNS Lymphoma** (PCNSL) | Periventricular dense, solid enhancing mass; "Ghost tumor" with steroids | Diffuse Large B-Cell; CD20+; EBV-associated | HD-Methotrexate + Rituximab (NO STEROIDS before biopsy!) |
+| **5. Vestibular Schwannoma** | Cerebellopontine angle (CPA); expands internal auditory canal | S100+ Schwann cells; Antoni A/B; NF2 linked | Surgery / SRS; Screen for NF2 |
 
 > [!attention]- Clinical Presentation
-> **Cardinal Presentations**
-> - **Progressive Focal Neurological Deficits:** Hemiparesis, dysphasia/aphasia, apraxia, or homonymous visual field loss dictated by anatomical tumor location.
-> - **Seizures (First symptom in 30–50%):** Focal onset seizures $\pm$ secondary generalization. High incidence in low-grade gliomas and cortex-involving metastases.
-> - **Subacute Raised ICP Syndrome:** Progressive dull headache (worse in the morning, exacerbated by recumbency, coughing, or Valsalva), nausea, vomiting, apathy, and papilledema.
-> - **Neurocognitive & Personality Changes:** Apathy, disinhibition, executive dysfunction (frontal lobe lesions) or memory decline (temporal lesions).
-> - **Endocrine & Chiasmatic Signs (Sellar/Suprasellar lesions):** Bitemporal hemianopsia, hyperprolactinemia (amenorrhea-galactorrhea, impotence), acromegaly, or Cushing's disease.
+> **History**
+>
+> - **Classic Tumor Headache (~50%):** Dull, aching, progressive tension-like headache that is **worse in the early morning** (due to transient nocturnal hypoventilation/$	ext{CO}_2$ vasodilation), **worse when lying recumbent or coughing/bending**, accompanied by nausea and projectile vomiting.
+> - **New-Onset Adult Seizure (~25–40% initial symptom):** First-time focal or generalized seizure in any adult $>35$ years old is a brain tumor until proven otherwise.
+> - **Progressive Focal Neurological Deficits:**
+>   - _Frontal Lobe:_ Abulia, apathy, disinhibition, executive dysfunction, contralateral hemiparesis, expressive aphasia (Broca).
+>   - _Temporal Lobe:_ Receptive aphasia (Wernicke), memory impairment, superior quadrantanopia ("pie-in-the-sky").
+>   - _Parietal Lobe:_ Contralateral hemisensory loss, astereognosis, spatial neglect, Gerstmann syndrome.
+>   - _Cerebellopontine Angle (Vestibular Schwannoma):_ Unilateral progressive **sensorineural hearing loss**, tinnitus, and equilibrium instability.
+>
+> **Physical**
+>
+> - **Papilledema:** Chronic optic disc swelling, blurred disc margins, loss of retinal venous pulsations.
+> - **Focal Upper Motor Neuron Signs:** Pronator drift, spasticity, hyperreflexia, unilateral extensor plantar response (positive Babinski sign).
+> - **Cranial Nerve Palsies:** CN VI palsy (false-localizing sign from raised ICP); CN III palsy (uncal herniation).
 
 > [!check]- Diagnostic Criteria
-> - **2021 WHO Classification of Tumors of the Central Nervous System:** Mandatory integration of histology + molecular genetics (*IDH1/2* mutation, *1p/19q* co-deletion, *MGMT* promoter methylation, *TERT* mutation, *H3K27M* mutation).
-> - **Macdonald and RANO (Response Assessment in Neuro-Oncology) Criteria:** Standardized MRI evaluation of contrast-enhancing and non-enhancing T2/FLAIR tumor burden.
+>
+> - **Definitive Neuropathologic Diagnosis (2021 WHO Classification):** Requires **Tissue Biopsy or Surgical Resection** with integrated histopathology AND molecular testing:
+>   - _Glioblastoma, IDH-wildtype (WHO Grade 4):_ Diffuse astrocytic glioma lacking IDH1/2 mutations WITH either (1) microvascular proliferation, (2) necrosis, OR (3) molecular hallmarks: _TERT_ promoter mutation, _EGFR_ amplification, or $+7/-10$ chromosome copy number alterations.
+>   - _Oligodendroglioma (WHO Grade 2/3):_ IDH-mutant **PLUS 1p/19q whole-arm co-deletion**.
+> - **Radiologic Criteria (Brain MRI with IV Gadolinium):**
+>   - _Brain Metastases:_ Discrete, spherical enhancing nodules located at the **arteriolar gray-white junction** with disproportionate surrounding finger-like vasogenic edema.
+>   - _Meningioma:_ Extra-axial, sharply demarcated, dural-based mass demonstrating **avid, uniform contrast enhancement with a tapering "Dural Tail"**.
 
 > [!fail]- Further Investigations
-> - **Brain MRI with and without Gadolinium (Gold Standard):**
->   - Axial T1, T2, FLAIR, Diffusion (DWI), and 3D volumetric T1 post-contrast.
->   - **Perfusion MRI (rCBV):** Differentiates high-grade tumor (elevated rCBV due to neo-angiogenesis) from radiation necrosis or demyelination.
->   - **MR Spectroscopy (MRS):** Elevated Choline (membrane turnover), decreased N-acetylaspartate (neuronal loss), and elevated Lactate/Lipid peak (necrosis).
-> - **CT Chest/Abdomen/Pelvis or Whole-Body FDG-PET:** Mandatory staging workup when brain metastasis is suspected to locate the occult primary source.
-> - **Endocrine Workup:** Morning cortisol, ACTH, TSH, free T4, Prolactin, IGF-1, LH/FSH for all sellar/parasellar masses.
+> **Initial / Gold-Standard Neuroimaging**
+>
+> - **Brain MRI with and without IV Gadolinium (T1, T2, FLAIR, T1+Contrast, DWI, Perfusion):**
+>   - **T1 + Gadolinium:** Identifies active blood-brain barrier breakdown (nodular, ring-like, or homogeneous enhancement).
+>   - **T2 / FLAIR:** Maps the extent of non-enhancing infiltrative tumor and surrounding **vasogenic edema**.
+>   - **Diffusion-Weighted Imaging (DWI):** Distinguishes a necrotic Glioblastoma from a **Bacterial Brain Abscess** (abscess cavity shows **bright hyperintensity on DWI with dark ADC**, whereas necrotic tumor core shows facilitated diffusion / dark DWI).
+>
+> **Systemic Staging (When Metastasis is Suspected)**
+>
+> - **CT Chest, Abdomen, and Pelvis with IV Contrast:** Detects the primary occult malignancy (Lung, Renal, GI).
+> - **Whole-Body FDG-PET/CT & Full-Body Skin Exam** (melanoma).
+> - **Mammography** (breast cancer).
+>
+> **Neurosurgical Tissue Sampling**
+>
+> - **Frame-Based or Frameless Stereotactic Needle Biopsy:** Indicated for deep, surgically inaccessible lesions (thalamus, brainstem) or when **Primary CNS Lymphoma** is suspected.
+> - **Lumbar Puncture (CSF Cytology & Flow Cytometry):** Indicated **ONLY** if leptomeningeal carcinomatosis is suspected and **after neuroimaging confirms NO mass effect or risk of brainstem herniation**!
 
 > [!bug]- Red Flags
-> - Progressive lethargy and pupillary asymmetry (herniation risk).
-> - Uncontrolled status epilepticus.
-> - Pituitary apoplexy with acute visual loss and adrenal crisis.
-> - Infratentorial posterior fossa tumor with acute obstructive hydrocephalus.
+>
+> - **Signs of Impending Brain Herniation:** Unilateral fixed dilated pupil (CN III compression), Cushing triad (hypertension + bradycardia + irregular breathing), or GCS $le 8$.
+> - **Intratumoral Hemorrhage (Tumor Apoplexy):** Sudden, stroke-like collapse or thunderclap headache within a pre-existing tumor (classic in **Melanoma, Renal Cell, or Pituitary Adenoma**).
+> - **Status Epilepticus** in a patient with a known or newly diagnosed intracranial mass.
+> - **Midline shift $ge 5	ext{ mm}$** or compression of the ambient/quadrigeminal basal cisterns on imaging.
 
 > [!todo]- Differentials
-> - Brain Abscess (central diffusion restriction on DWI with smooth thin rim enhancement).
-> - Tumefactive Multiple Sclerosis / Acute Disseminated Encephalomyelitis (open-ring enhancement pointing toward cortex).
-> - Subacute Ischemic Stroke (gyral enhancement, restricted diffusion matching vascular territory).
-> - Primary CNS Lymphoma (homogeneous periventricular enhancement in deep gray matter).
+> **Life-Threatening & Non-Neoplastic Mimics**
+>
+> - **Pyogenic Brain Abscess:** Ring-enhancing lesion; distinguished by **central restricted diffusion (bright on DWI, dark on ADC)**, smooth thin capsule, fever, and dental/sinus source.
+> - **Tumefactive Demyelinating Lesion (Multiple Sclerosis):** Large demyelinating plaque ($>2	ext{ cm}$) mimicking a high-grade glioma; distinguished by **"open-ring" (horseshoe) enhancement** facing the cerebral cortex, minimal mass effect, and young age.
+> - **Subacute Ischemic Stroke:** Gyriform cortical enhancement in a specific territorial distribution; maximal at onset.
+> - **Subdural Empyema or Tuberculoma / Neurocysticercosis.**
 
 > [!summary]- Management
-> **1. Medical & Supportive Therapy**
-> - **Vasogenic Edema:** Dexamethasone $4–8\text{ mg}$ PO/IV twice daily with a PPI; taper rapidly post-resection to avoid myopathy, immunosuppression, and hyperglycemia.
-> - **Anticonvulsants:** Levetiracetam (Keppra $500–1000\text{ mg}$ PO bid) for patients who have had a seizure. Prophylactic antiepileptics are *not* recommended in seizure-free patients.
-> 
-> **2. Neurosurgical Resection**
-> - **Maximal Safe Resection:** The primary goal for high-grade gliomas and metastases. Cytoreduction prolongs survival while preserving eloquent neurological function.
-> - **Adjunctive Surgical Technologies:** Intraoperative stereotactic neuronavigation, intraoperative MRI/ultrasound, 5-Aminolevulinic Acid (**5-ALA / Gliolan**) fluorescence-guided resection, and **Awake Craniotomy with direct cortical/subcortical electrical brain mapping** for tumors in language or motor eloquent cortex.
-> - **Endoscopic Endonasal Transsphenoidal Resection:** Minimally invasive surgical gold standard for symptomatic pituitary adenomas.
-> - **Biopsy (Stereotactic or Frame-based):** Indicated for unresectable, deep-seated, bi-thalamic, or multicentric lesions.
-> 
-> **3. Adjuvant Oncological Therapy (Stupp Protocol for Glioblastoma)**
-> - Concurrent **Fractionated Radiotherapy** (60 Gy in 30 fractions over 6 weeks) + daily oral **Temozolomide (TMZ)** ($75\text{ mg/m}^2$), followed by 6 cycles of adjuvant maintenance TMZ ($150–200\text{ mg/m}^2$ for 5 days every 28 days).
-> - *MGMT promoter methylation* predicts marked benefit and prolonged survival from temozolomide chemotherapy.
-> - **Stereotactic Radiosurgery (SRS / Gamma Knife / CyberKnife):** First-line therapy for limited brain metastases ($1–4$ lesions), recurrent small meningiomas, and vestibular schwannomas.
+> **Treatment Goals**
+>
+> - **Primary Target:** Relieve life-threatening mass effect and vasogenic edema, achieve **maximal safe surgical resection** while preserving eloquent neurological function, and control seizures.
+> - **Secondary Target:** Maximize progression-free survival (PFS) and overall survival (OS) via targeted chemoradiotherapy while preserving neurocognitive quality of life (Karnofsky Performance Score [KPS] $ge 70$).
+>
+> **Immediate / Emergencies (Acute Herniation & Vasogenic Edema)**
+>
+> - **Administer Dexamethasone (10 mg IV bolus, followed by 4 to 8 mg IV/PO every 6 to 12 hours)** immediately for symptomatic vasogenic edema, headache, or focal deficits (**HOLD steroids if Primary CNS Lymphoma is suspected** until neurosurgical biopsy is complete!).
+> - **Administer Hypertonic Saline (3% NaCl bolus 250 mL IV) or IV Mannitol (0.5–1.0 g/kg)** for acute herniation or rapidly declining consciousness.
+> - **Initiate IV Levetiracetam (Keppra: 500 to 1,000 mg IV/PO BID)** immediately **ONLY if the patient has had a clinical seizure** (do _not_ prescribe prophylactic ASMs to seizure-naive patients!).
+>
+> **Definitive Management: Glioblastoma (WHO Grade 4 — The Stupp Protocol)**
+>
+> - **1. Maximal Safe Surgical Cytoreduction:** Perform gross total resection (GTR) using **intraoperative neuronavigation and 5-Aminolevulinic Acid (5-ALA) fluorescence-guided surgery**, avoiding resection into eloquent motor/speech cortex.
+> - **2. Concurrent Chemoradiation (Weeks 1 to 6):**
+>   - **Focal Fractionated External Beam Radiotherapy (60 Gy in 30 fractions)** PLUS **Oral Temozolomide (TMZ: 75 mg/m² daily)** for 6 consecutive weeks.
+>   - _Pneumocystis jirovecii Prophylaxis:_ Prescribe **TMP-SMX (Bactrim DS 3×/week)** during combined chemoradiation.
+> - **3. Adjuvant Maintenance Chemotherapy (Weeks 10 to 36):**
+>   - **Oral Temozolomide (150–200 mg/m² daily for 5 consecutive days of every 28-day cycle, for 6 cycles)** $pm$ **Tumor-Treating Fields (TTFields / Optune device)**.
+>
+> **Definitive Management: Brain Metastases**
+>
+> - **Single or Oligometastases (1 to 4 lesions) with Controlled Systemic Disease:**
+>   - **Perform Stereotactic Radiosurgery (SRS / Gamma Knife / CyberKnife)** (delivers high-dose focal radiation while sparing healthy brain tissue; superior cognitive preservation compared to Whole-Brain RT).
+>   - **Perform Surgical Resection followed by Cavity SRS** for large, symptomatic metastases ($>3	ext{ cm}$) causing significant mass effect.
+> - **Multiple / Widespread Brain Metastases ($>5–10$ lesions):**
+>   - **Administer Whole-Brain Radiation Therapy (WBRT: 30 Gy in 10 fractions)** with **Hippocampal Avoidance** PLUS **Memantine (20 mg daily)** to minimize neurocognitive decline.
+>   - Prioritize **Targeted Systemic Therapies** with high CNS penetration (e.g., Osimertinib for _EGFR_-mutant NSCLC; Tucatinib/Trastuzumab for _HER2_+ breast cancer; Dabrafenib/Trametinib for _BRAF_-mutant melanoma).
+>
+> **Definitive Management: Meningioma & Primary CNS Lymphoma**
+>
+> - **Meningioma (WHO Grade 1):**
+>   - _Asymptomatic / Small ($<2–3	ext{ cm}$):_ Serial MRI surveillance annually.
+>   - _Symptomatic / Growing:_ **Complete Microsurgical Resection (Simpson Grade 1: gross total resection including dural attachment and abnormal bone)**.
+> - **Primary CNS Lymphoma (PCNSL):**
+>   - **Surgical Resection is CONTRAINDICATED (perform stereotactic needle biopsy ONLY!).**
+>   - **Induce with High-Dose Methotrexate-based Chemotherapy (HD-MTX $ge 3.5	ext{ g/m}^2$ IV) PLUS Rituximab** $ightarrow$ consolidate with Autologous Stem Cell Transplantation (ASCT).
 
 > [!warning]- Contraindications & Pitfalls
-> - **Do NOT start steroids before stereotactic biopsy if lymphoma is in the differential:** Corticosteroids can cause rapid tumor regression ("ghost tumor") rendering biopsy non-diagnostic.
-> - **Never perform LP without prior contrast MRI:** Massive uncal or tonsillar herniation risk.
+>
+> - **Avoid Administering Corticosteroids PRIOR to Neurosurgical Biopsy in Suspected Primary CNS Lymphoma**, as steroids induce rapid apoptosis of lymphoma cells, resulting in a false-negative "ghost tumor" biopsy that delays life-saving chemotherapy.
+> - **Avoid Routine Prophylactic Antiseizure Medications (ASMs) in Seizure-Naive Brain Tumor Patients**, as prophylactic ASMs do not prevent first-time seizures and cause significant cognitive, dermatologic, and hepatic toxicity.
+> - **Avoid Enzyme-Inducing Antiseizure Medications (Phenytoin, Carbamazepine, Phenobarbital)** in brain tumor patients, as they induce CYP3A4, dramatically accelerating the hepatic clearance of chemotherapy (temozolomide, targeted kinase inhibitors) and dexamethasone (use **Levetiracetam** instead).
+> - **Avoid Lumbar Puncture in Patients with Intracranial Brain Tumors and Mass Effect**, as the sudden craniospinal pressure gradient triggers **fatal Tonsillar Herniation**.
+> - **Avoid Open Surgical Resection in Primary CNS Lymphoma**, as open surgery does not improve survival compared to biopsy alone and increases neurological morbidity and delays systemic methotrexate therapy.
 
 > [!error]- Complications
-> - Intratumoral hemorrhage (apoplexy, glioblastoma bleeding).
-> - Postoperative intracranial hematoma or permanent neurological deficit.
-> - Venous thromboembolism (extremely high incidence in high-grade glioma patients; mechanical prophylaxis initially, cautious LMWH once hemostasis verified).
-> - Radiation necrosis vs. tumor pseudoprogression.
+>
+> - **Brainstem Herniation Syndromes (Uncal, Central, Tonsillar):** Expanding tumor volume and vasogenic edema exhausting cranial compliance $ightarrow$ emergent hypertonic saline + decompressive surgery.
+> - **Tumor-Associated Venous Thromboembolism (DVT & PE):** Occurs in **20–30% of high-grade glioma patients** (high procoagulant tissue factor expression + immobility) $ightarrow$ treated with therapeutic **LMWH (Enoxaparin)** or **DOACs** (_intracranial tumor is NOT an absolute contraindication to anticoagulation unless active hemorrhage is present!_).
+> - **Pseudoprogression:** Transient radiologic increase in contrast enhancement and T2 edema occurring **within 3 months of completing chemoradiotherapy**, representing treatment-induced inflammation rather than true tumor recurrence $ightarrow$ continue temozolomide; monitor via perfusion MRI.
+> - **Radiation Necrosis:** Delayed focal mass-like brain necrosis occurring **6 to 24 months** after stereotactic radiosurgery $ightarrow$ treat with **Dexamethasone** or **Bevacizumab (Avastin — anti-VEGF)**.
 
 > [!success]- Typical Scenario
-> A 61-year-old right-handed schoolteacher is brought in by his family with a 4-week history of subtle word-finding difficulty, progressive morning headaches, and a focal motor seizure involving his right hand. On examination, he has mild expressive dysphasia (anomia) and slight right facial pronator drift. Brain MRI with gadolinium reveals a 4.5 cm thick, irregularly ring-enhancing necrotic intra-axial mass in the left posterior temporal lobe with surrounding finger-like vasogenic edema, abutting Wernicke's territory. Dexamethasone 8 mg bid and Levetiracetam 500 mg bid are initiated, resolving his headache and improving language fluency. He undergoes an awake left temporal craniotomy with intraoperative speech mapping and 5-ALA fluorescence guidance, achieving a gross total resection without new postoperative neurological deficit. Histopathology confirms Glioblastoma, IDH-wildtype, WHO Grade 4 with methylated MGMT promoter. He completes standard concurrent temozolomide chemoradiotherapy and remains functional at 2-year follow-up.
+> A 62-year-old man presents with 3 weeks of progressive early-morning headaches, apathy, and a first-time generalized tonic-clonic seizure witnessed by his family. On arrival, neurological exam reveals mild left facial droop, left arm pronator drift, and a positive left Babinski sign. Brain MRI with IV gadolinium reveals a **5-cm thick, irregularly ring-enhancing mass centered in the right frontoparietal white matter with central non-enhancing necrosis, extensive surrounding finger-like vasogenic edema, and 6 mm of subfalcine midline shift**. He is immediately loaded with **IV Levetiracetam (1,000 mg BID)** for his seizure, started on **Dexamethasone (8 mg PO BID)** for mass effect, and undergoes an **emergent awake-craniotomy with gross total resection**. Neuropathology confirms an **IDH-wildtype, MGMT-promoter methylated Glioblastoma (WHO Grade 4)**; he is discharged on postoperative Day 3 to initiate the **Stupp Protocol (radiotherapy + concurrent daily temozolomide)**.
+
+> [!info] Personal Experience
 
 > [!example]- Resources
-> - **Louis et al. (Neuro-Oncology 2021):** The 2021 WHO Classification of Tumors of the Central Nervous System: a summary.
-> - **Stupp et al. (NEJM 2005):** Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma.
-> - **EANO Guidelines (Lancet Oncol 2021):** Diagnosis and management of adult diffuse gliomas.
+>
+> - The 2021 WHO Classification of Tumors of the Central Nervous System: A Summary — Neuro-Oncology — 2021 — https://academic.oup.com/neuro-oncology/article/23/8/1231/6311214
+> - NCCN Clinical Practice Guidelines in Oncology: Central Nervous System Cancers — National Comprehensive Cancer Network — 2024 — https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1425
+> - Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma (Stupp Protocol) — New England Journal of Medicine — 2005 — https://www.nejm.org/doi/full/10.1056/NEJMoa043330

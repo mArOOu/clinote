@@ -1,94 +1,152 @@
 ---
 Type: Chronic
-Tags: [Neurosurgery, Spine, Neurology, Pediatrics]
-Aliases: [Chiari Malformation, Arnold-Chiari, Chiari I, Chiari II, Syringomyelia, Tonsillar Ectopia, Basilar Invagination]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Chiari I Malformation, Chiari II Malformation, Syringomyelia / Hydromyelia, Basilar Invagination & Craniovertebral Junction Instability]
-Compare: [[Spinal cord malformations]], [[Headache Disorders]], [[Hydrocephalus]]
+Tags: [Neurosurgery, Neurology, Pediatrics, Orthopedics]
+Aliases: [Arnold-Chiari Malformation, Chiari I, Chiari II, Syringomyelia, Tonsillar Ectopia, Hindbrain Herniation]
+Discipline: Neurosurgery
+Sub Pathologies: [Chiari I Malformation, Chiari II Malformation, Syringomyelia, Basilar Invagination]
+Compare: [[Acute Hydrocephalus & Raised Intracranial Pressure]], [[Acute Spinal Cord Compression & Cauda Equina Syndrome]]
 Reviewed: 2026-11-06
 ---
 
 > [!abstract] Chiari Malformation
-> Group of structural craniocervical junction anomalies characterized by herniation of posterior fossa contents through the foramen magnum into the upper cervical spinal canal. **Chiari I Malformation** is the most common form in adolescents and adults, defined by downward displacement of the **cerebellar tonsils $> 5\text{ mm}$** below the foramen magnum, frequently complicated by cervical/thoracic **Syringomyelia (50–70%)**. **Chiari II Malformation** involves downward herniation of cerebellar vermis, brainstem, and 4th ventricle, almost invariably associated with open myelomeningocele.
+> Congenital or acquired structural defect of the craniocervical junction characterized by downward herniation of posterior fossa contents through the **foramen magnum**: **Chiari I** (herniation of **cerebellar tonsils $\ge 5\text{ mm}$**, typically presenting in adults, strongly linked to **Syringomyelia**) vs. **Chiari II (Arnold-Chiari)** (herniation of the **cerebellar vermis, tonsils, 4th ventricle, and brainstem**, **100% associated with Myelomeningocele [Spina Bifida]**, presenting in infancy).
 
 > [!note] Pathophysiology
-> - **Chiari I Malformation (Primary Paraxial Mesodermal Insufficiency):**
->   - Underdevelopment of the occipital bone (short clivus, small posterior cranial fossa volume) during embryogenesis.
->   - The normally developing cerebellum and brainstem become crowded in the abnormally small posterior fossa, forcing the cerebellar tonsils to herniate inferiorly through the foramen magnum into the subarachnoid space behind the upper cervical cord (C1–C2).
->   - This tonsillar "plugging" disrupts the normal bidirectional, pulsatile hydrodynamic flow of CSF between the intracranial subarachnoid spaces and the spinal subarachnoid canal.
-> - **Pathogenesis of Syringomyelia (Piston Theory):**
->   - With each cardiac systole, brain expansion forces the tonsils downward like a hydraulic piston against the obstructed foramen magnum.
->   - This creates a magnified systolic fluid pressure wave in the spinal subarachnoid space, driving extracellular fluid and CSF into the central canal and gray matter of the spinal cord through enlarged perivascular (Virchow-Robin) spaces, forming a progressive longitudinal fluid-filled cavity (**syrinx**).
-> - **Chiari II Malformation:** Associated with primary neural tube defect (myelomeningocele). Chronic fetal CSF leakage through open spinal defect causes failure of posterior fossa expansion $\rightarrow$ small posterior fossa, beaked tectum, low tentorium, and downward herniation of vermis and medulla.
+>
+> - **Chiari I (Small Posterior Fossa):** Paraxial mesodermal hypoplasia results in an abnormally small, shallow posterior cranial fossa $\rightarrow$ overcrowding forces cerebellar tonsils through the foramen magnum.
+> - **Cine-CSF Flow Block & Syringomyelia (Syrinx):** Tonsillar impaction acts as a "piston" occluding normal bidirectional, pulsatile CSF flow between the intracranial basal cisterns and the spinal subarachnoid space $\rightarrow$ systolic pressure waves force CSF through the perivascular spaces and central canal, producing an intramedullary fluid cavity (**Syringomyelia in 50–70% of Chiari I**).
 
 > [!tip]- Clinical PEARLS
-> - **The Classic Chiari Cough Headache:** Paroxysmal, intense, bursting **suboccipital and posterior neck pain** induced within seconds by **Valsalva maneuvers** (coughing, sneezing, laughing, bending over, or heavy lifting).
-> - **The Dissociated Sensory Loss of Syringomyelia:**
->   - A cervical syrinx destroys crossing decussating pain and temperature fibers in the anterior white commissure, while sparing the posteriorly situated dorsal columns.
->   - Produces a classic **"cape-like" (suspended) loss of pain and temperature sensation across both shoulders and arms**, while vibration and light touch sensation remain completely intact (frequently presenting with painless burns on hands).
-> - **Rule of 5 mm on Sagittal MRI:** Tonsillar ectopia $> 5\text{ mm}$ below the **McRae line** (connecting basion to opisthion on sagittal MRI) defines Chiari I; ectopia between $3–5\text{ mm}$ is borderline and must correlate with clinical symptoms.
-> - **Downbeat Nystagmus:** Rhythmic upward drift with rapid downward beating nystagmus (maximal on lateral and downward gaze) is a pathognomonic sign of cervicomedullary junction compression.
+>
+> - **The Valsalva Cough Headache is Pathognomonic:** Severe, sharp, bursting **occipital/suboccipital headache provoked instantly by coughing, sneezing, laughing, straining, or bending forward** is the classic hallmark of **Chiari I**; always order a Brain/Cervical MRI in patients with isolated cough headaches!
+> - **Syringomyelia "Cape-Like" Dissociated Sensory Loss:** A cervical syrinx expands from the central canal, disrupting decussating fibers of the **anterior white commissure** $\rightarrow$ bilateral loss of **pain and temperature sensation** across the shoulders, upper back, and arms (**"cape distribution"**) with **PRESERVED light touch, vibration, and proprioception (dorsal columns spared)**!
+> - **Downbeat Nystagmus Localizes to Craniocervical Junction:** Spontaneous downbeat nystagmus (worse on downward and lateral gaze) is a pathognomonic sign of cervicomedullary compression at the foramen magnum.
+> - **Tonsillar Ectopia $\ne$ Chiari Malformation:** Incidental, asymptomatic tonsillar descent of 3–4 mm on MRI is a benign variant; diagnosis requires **$\ge 5\text{ mm}$ tonsillar herniation** AND clinical symptoms or an associated syrinx.
+> - **Treat Hydrocephalus FIRST in Chiari II:** In infants with Chiari II presenting with brainstem stridor or apnea, **shunting the concurrent hydrocephalus with a Ventriculoperitoneal (VP) Shunt** resolves symptoms in ~70% without needing posterior fossa decompression.
+
+| Feature | Chiari I Malformation | Chiari II (Arnold-Chiari) |
+| :--- | :--- | :--- |
+| **Herniated Anatomy** | Cerebellar Tonsils ONLY (\ge 5\text{ mm}) | Vermis, Tonsils, 4th Ventricle, AND Brainstem / Medulla |
+| **Associated Defects** | Syringomyelia (50–70%), Scoliosis, Basilar Invagination, Klippel-Feil | Myelomeningocele (100%), Hydrocephalus (>90%), Tectal Beaking |
+| **Presentation Age** | Adolescents / Adults (20–40 years) | Neonates / Infants |
+| **Primary Symptoms** | Valsalva-induced occipital headache, cape-like sensory loss, hand weakness | Stridor, vocal cord paralysis, apnea, cyanosis, poor feeding |
+| **Primary Treatment** | Posterior Fossa Decompression (+ Duraplasty) | VP Shunt for Hydrocephalus FIRST; Myelomeningocele closure at birth |
 
 > [!attention]- Clinical Presentation
-> **Chiari I Malformation**
-> - **Cough-induced suboccipital headache (70%):** Radiates up into vertex or down into shoulders.
-> - **Ocular & Vestibular Disturbances:** Downbeat nystagmus, vertigo, oscillopsia, tinnitus, dizziness.
-> - **Cervicomedullary Compression Signs:** Dysphagia, sleep apnea, recurrent aspiration, hyperreflexia, spasticity, lower cranial nerve palsies (CN IX, X, XII).
-> - **Syrinx-Related Myelopathy:** Muscle wasting of intrinsic hand muscles, diminished arm reflexes with hyperactive leg reflexes, painless hand burns, progressive neuropathic pain, neurogenic arthropathy (Charcot joints).
+> **History**
+>
+> - **Valsalva-Provoked Occipital Headache (>80% in Chiari I):** Severe, throbbing, or pounding suboccipital and posterior neck pain radiating vertex-ward, brought on instantly by **coughing, sneezing, laughing, bending over, or heavy lifting**, lasting seconds to minutes.
+> - **Syringomyelia / Myelopathy Symptoms:**
+>   - Loss of pain and thermal sensation in the hands/arms (patients report painless burns or cuts on their fingers).
+>   - Progressive hand clumsiness, loss of dexterity, and drop attacks.
+> - **Cranial Nerve & Brainstem Compression:** Dysphagia (choking on liquids), dysarthria, hoarseness, sleep-disordered breathing / **central sleep apnea**, and episodic dizziness/vertigo.
+> - **Chiari II (Infants):** Inspiratory **stridor** (bilateral abductor vocal cord paralysis), dysphagia with nasal regurgitation, weak cry, recurrent aspiration, and life-threatening **prolonged central apnea**.
+>
+> **Physical**
+>
+> - **Ocular / Vestibular:** **Downbeat nystagmus** (present at rest or on lateral/downward gaze); horizontal nystagmus; ataxia and wide-based gait.
+> - **Sensory Exam:** Suspended bilateral "cape-like" loss of pain and temperature sensation over the C2–T4 dermatomes; preserved proprioception.
+> - **Motor / Reflex Exam:**
+>   - _At the level of the syrinx (LMN signs):_ Flaccid weakness and atrophy of the hand intrinsic muscles (thenar/hypothenar), fasciculations, and **absent upper extremity reflexes (biceps/brachioradialis)**.
+>   - _Below the level of the syrinx (UMN signs):_ Lower extremity spastic paraparesis, hyperactive patellar/Achilles reflexes, clonus, and positive **Babinski signs**.
+> - **Musculoskeletal / Pediatric Signs:** Rapidly progressive juvenile **scoliosis** (present in ~30% of pediatric Chiari I with syrinx; scoliosis stabilizes or improves after decompression!).
 
 > [!check]- Diagnostic Criteria
-> - **Radiological Chiari I Criteria:** Sagittal T1/T2 MRI demonstrating $\ge 5\text{ mm}$ tonsillar descent below the foramen magnum (basion-opisthion line) with peg-like, pointed tonsillar configuration (rather than rounded).
-> - **Symptomatic Indication for Surgery:** Presence of disabling Valsalva-induced suboccipital headaches, progressive cervicomedullary neurological deficits, or **presence of an expanding cervical/thoracic syrinx** on whole-spine MRI.
+>
+> - **Chiari I Malformation:** Demonstration on Sagittal T1-Weighted Brain/Cervical MRI of **cerebellar tonsillar herniation $\ge 5\text{ mm}$ below the Foramen Magnum** (measured along McRae's line drawn from the basion to the opisthion) **PLUS** characteristic clinical symptoms or associated **Syringomyelia**. _(In children $<15$ years, tonsillar descent $>5–6\text{ mm}$ is required due to physiological tonsillar mobility)_.
+> - **Chiari II Malformation:** Herniation of the **cerebellar tonsils, vermis, fourth ventricle, AND lower medulla** below the foramen magnum in the presence of an open spinal dysraphism (**Myelomeningocele**).
 
 > [!fail]- Further Investigations
-> - **Brain & Craniovertebral Junction MRI with Sagittal T1, T2, and 3D CISS:** Measures exact tonsillar descent, posterior fossa volume, and examines for associated basilar invagination or retroflexed odontoid.
-> - **Whole-Spine MRI (Cervical, Thoracic, Lumbar):** Mandatory in every Chiari patient to rule in/out **syringomyelia** (occurs in 50–70% of Chiari I cases) and tethered cord.
-> - **Cine Phase-Contrast Flow MRI (CSF Flow Study):** Evaluates dynamic pulsatile CSF velocity at the foramen magnum; absence of CSF flow dorsal/ventral to the tonsils confirms physiological obstruction.
-> - **Flexion-Extension Cervical Spine X-rays / CT:** Evaluates for associated craniovertebral junction instability or atlantoaxial subluxation.
+> **Initial / Gold-Standard Neuroimaging**
+>
+> - **MRI Brain and Cervical/Thoracic/Lumbar Whole Spine with and without Contrast:**
+>   - **Sagittal T1/T2 Brain/Cervical MRI:** Measures exact millimeters of tonsillar herniation below McRae's line and identifies "beaked" tectum or hydrocephalus.
+>   - **Whole-Spine MRI (MANDATORY):** Identifies **Syringomyelia** (intramedullary T1-hypointense, T2-hyperintense fluid cavity; present in 50–70% of Chiari I), screens for low-lying conus medullaris / **tethered cord syndrome**, and rules out occult spinal dysraphism.
+>
+> **Physiological & Craniovertebral Assessment**
+>
+> - **Phase-Contrast Cine-MRI (CSF Flow Study):** Assesses real-time pulsatile CSF velocity at the craniocervical junction (demonstrates **complete obstruction of CSF flow** in the dorsal and/or ventral subarachnoid spaces at the foramen magnum).
+> - **Thin-Slice CT of the Craniocervical Junction (Bone Windows):** Mandatory if bone anomalies are suspected; screens for **Basilar Invagination** (odontoid projecting above Chamberlain's line), retroflexed odontoid, platybasia, or **Atlantoaxial Instability** (e.g., Klippel-Feil syndrome).
+> - **Polysomnography (Sleep Study):** Identifies obstructive and **central sleep apnea** resulting from medullary respiratory center compression.
+> - **Fiberoptic Laryngoscopy:** Evaluates for vocal cord paresis in infants/adults with stridor.
 
 > [!bug]- Red Flags
-> - Progressive dysphagia, choking spells, or stridor (lower cranial nerve / brainstem compromise).
-> - Sleep-disordered breathing and central sleep apnea.
-> - Rapid expansion of a cervical syrinx with intrinsic hand muscle atrophy.
-> - Downbeat nystagmus with gait ataxia.
+>
+> - **Inspiratory stridor, recurrent cyanosis, or central apnea** in an infant with Chiari II / myelomeningocele ($\rightarrow$ acute brainstem decompensation).
+> - Rapidly progressive **hand muscle atrophy** or loss of protective pain sensation (expanding syrinx destroying the anterior horns).
+> - Progressive dysphagia, choking, or recurrent aspiration pneumonia (lower cranial nerve IX/X dysfunction).
+> - Sudden **drop attacks** (paroxysmal quadriparesis without loss of consciousness triggered by head extension).
 
 > [!todo]- Differentials
-> - Intracranial Hypotension (Spontaneous CSF Leak, produces "brain sag" with secondary tonsillar herniation, diffuse pachymeningeal enhancement on MRI).
-> - Cervical Spondylotic Myelopathy (canal stenosis in older adults without tonsillar descent).
-> - Idiopathic Syringomyelia (post-traumatic, post-infectious, or intramedullary ependymoma-associated syrinx).
-> - Multiple Sclerosis (brainstem/cerebellar plaques, Lhermitte's sign).
-> - Migraine or Tension-Type Headache.
+> **Life-Threatening & Structural Mimics**
+>
+> - **Spontaneous Intracranial Hypotension (SIH / Low CSF Volume):** Low CSF pressure from a spinal dural leak causes "brain sag" and tonsillar descent mimicking Chiari I (**"Pseudo-Chiari"**); distinguished by **diffuse pachymeningeal enhancement**, engorged venous sinuses, subdural fluid collections, and **orthostatic headache (worse upright, completely relieved lying flat)** $\rightarrow$ **NEVER operate; treat with an Epidural Blood Patch!**
+> - **Posterior Fossa Tumor (Ependymoma, Medulloblastoma, Pilocytic Astrocytoma):** Space-occupying lesion pushing cerebellar tonsils downward through the foramen magnum.
+>
+> **Most Likely Clinical Mimics**
+>
+> - **Cervical Spondylotic Myelopathy:** Degenerative disc disease and osteophytes compressing the cervical cord in older adults; causes spastic paraparesis, but brain MRI shows completely normal cerebellar tonsils.
+> - **Multiple Sclerosis (MS):** Demyelinating plaques producing ataxia, Lhermitte sign, and optic neuritis; lacks Valsalva headache.
+> - **Amyotrophic Lateral Sclerosis (ALS):** Bulbar and limb UMN/LMN deficits, but strictly lacks sensory loss (pain/temp preserved).
 
 > [!summary]- Management
-> **1. Asymptomatic Tonsillar Ectopia**
-> - Incidental finding on MRI with no symptoms and no syrinx: **Conservative observation** with clinical and MRI follow-up. Prophylactic surgery is *not* indicated.
-> 
-> **2. Neurosurgical Decompression (Posterior Fossa Decompression, PFD)**
-> - **Surgical Gold Standard:** Indicated for symptomatic Chiari I or any Chiari I associated with a syrinx.
-> - **Operative Steps:**
->   - Suboccipital craniectomy ($3 \times 3\text{ cm}$ bony decompression of the lower occipital bone).
->   - **C1 Laminectomy (Atlas removal):** Decompresses the herniated tonsils in the upper cervical canal.
->   - **Duraplasty (PFDD):** Y-shaped dural opening, inspection of tonsils $\pm$ tonsillar shrinkage (bipolar cautery reduction) to open the foramen of Magendie, followed by expansile duraplasty using an autologous pericranial or synthetic collagen graft. This reconstructs a spacious artificial cisterna magna, restoring normal physiological CSF pathways.
-> - **Resolution of Syringomyelia:** Restoring CSF flow at the foramen magnum resolves the hydraulic driving pressure; the spinal syrinx spontaneously collapses and shrinks in $> 80–90\%$ of cases over 6–12 months *without* direct shunting of the syrinx.
-> 
-> **3. Management of Associated Anomalies**
-> - If basilar invagination or atlantoaxial instability is present, posterior occipitocervical instrumented fusion (OCF) is required in addition to decompression.
+> **Treatment Goals**
+>
+> - **Primary Target:** Restore normal bidirectional pulsatile CSF dynamics across the craniocervical junction, eliminate brainstem/cervicomedullary compression, and achieve **complete collapse or regression of the Syringomyelia**.
+> - **Secondary Target:** Eliminate Valsalva headaches, stabilize or reverse scoliosis in children, and preserve bulbar and hand intrinsic motor function.
+>
+> **Immediate / Emergencies (Chiari II Brainstem Decompensation in Infants)**
+>
+> - **Secure the airway (intubation if recurrent severe apnea/stridor)** and **Place an Emergent Ventriculoperitoneal (VP) Shunt** to treat underlying hydrocephalus in symptomatic Chiari II infants (CSF diversion alone relieves brainstem compression and resolves stridor in $>70\%$ of cases!).
+> - **Perform Emergent Posterior Fossa Decompression** if stridor and central apnea persist despite a functioning VP shunt.
+>
+> **Management of Asymptomatic Chiari I Malformation**
+>
+> - **Observe Expectantly with Annual Clinical Follow-up and Serial MRIs:** Asymptomatic tonsillar herniation (even $\ge 5\text{ mm}$) without a syrinx does **NOT** warrant surgery, as the vast majority remain stable over decades without progressing.
+>
+> **Definitive Surgical Management: Symptomatic Chiari I $\pm$ Syringomyelia**
+>
+> - **Surgical Indications (Any of the following):**
+>   1. **Intractable Valsalva-induced suboccipital headaches** impairing quality of life.
+>   2. Objective neurological deficits (myelopathy, ataxia, cranial neuropathies).
+>   3. Presence of **progressive or symptomatic Syringomyelia** (even if headaches are mild).
+>   4. Progressive pediatric **scoliosis** associated with a syrinx.
+> - **Perform Posterior Fossa Decompression (PFD) with or without Duraplasty (Gold Standard):**
+>   - **1. Suboccipital Craniectomy:** Surgical excision of a small ($3\times 3\text{ cm}$) rim of the squamosal occipital bone around the posterior margin of the foramen magnum.
+>   - **2. C1 Posterior Arch Laminectomy:** Excision of the posterior ring of the atlas to decompress the downwardly displaced tonsils.
+>   - **3. Duraplasty (PFDD):** Y-shaped incision of the tight dura, micro-dissection of constricting arachnoid bands, and sewing in a **pericranial, bovine, or synthetic dural graft** to permanently expand the volume of the cisterna magna (standard of care when a syrinx is present).
+>   - _Note on Syringomyelia Management:_ **Direct shunting of the syrinx cavity (syringosubarachnoid or syringoperitoneal shunt) is CONTRAINDICATED as primary therapy!** Relieving the craniocervical CSF block via posterior fossa decompression cures the underlying pathophysiology and leads to **spontaneous syrinx collapse in $>80–90\%$ of patients**!
+>
+> **Special Surgical Cohorts: Craniocervical Instability**
+>
+> - **Chiari I with Basilar Invagination, Retroflexed Odontoid, or Atlantoaxial Instability:**
+>   - **Perform Posterior Fossa Decompression COMBINED WITH Occipitocervical Fusion / Instrumentation (OCF)** (decompression alone destabilizes the craniovertebral junction and causes fatal postoperative neurological collapse!).
+>
+> **Postoperative Follow-up**
+>
+> - **Perform follow-up Brain and Cervical/Thoracic Spine MRI at 3 to 6 Months Postoperatively** to document adequate cisterna magna enlargement and **reduction/resolution of the Syringomyelia cavity**.
 
 > [!warning]- Contraindications & Pitfalls
-> - **NEVER perform a Lumbar Puncture in Chiari I:** Rapid loss of spinal CSF creates a dangerous pressure gradient, accelerating tonsillar herniation and causing fatal medullary compression.
-> - **Do NOT routinely place a syringo-peritoneal shunt:** Direct cord puncture causes cord tethering and myelopathy; posterior fossa decompression treats the primary cause and collapses the syrinx naturally.
-> - **Do not confuse with Intracranial Hypotension:** Placing a duraplasty on a spontaneous CSF leak worsens the condition; look for diffuse dural enhancement and low CSF opening pressure.
+>
+> - **Avoid Performing a Lumbar Puncture in Patients with Chiari Malformation or Syringomyelia**, as withdrawing CSF from the lumbar theca creates a massive downward pressure gradient that **instantly triggers catastrophic Tonsillar Herniation and fatal medullary coning**!
+> - **Avoid Misdiagnosing Spontaneous Intracranial Hypotension (SIH) as a Primary Chiari I Malformation**; performing posterior fossa decompression on a patient with "pseudo-Chiari" caused by an occult spinal CSF leak leads to surgical disaster and severe clinical worsening (treat the CSF leak with an **Epidural Blood Patch**!).
+> - **Avoid Performing Primary Direct Syrinx Shunting or Drainage**, as syrinx shunting carries high morbidity, spinal cord injury risk, and high recurrence rates (always decompress the foramen magnum first!).
+> - **Avoid Posterior Fossa Decompression Alone in Patients with Associated Basilar Invagination or Atlantoaxial Subluxation**, as bone removal without concurrent **Occipitocervical Fusion** causes severe post-op craniocervical instability and **quadriplegia**.
 
 > [!error]- Complications
-> - Postoperative CSF leak / pseudomeningocele (10–15%; requires meticulous watertight dural closure).
-> - Aseptic or bacterial chemical meningitis.
-> - Persistent or worsening syringomyelia (due to inadequate arachnoid scarring or incomplete decompression).
-> - Postoperative craniovertebral instability (if craniectomy extended too far laterally into condyles).
+>
+> - **Postoperative CSF Leak & Pseudomeningocele:** Most common complication of posterior fossa decompression with duraplasty (occurs in 5–15%) $\rightarrow$ presents with subcutaneous occipital fluctuant swelling, clear wound drainage, or low-pressure headache $\rightarrow$ treated with tight re-suturing, temporary lumbar CSF drainage, or surgical revision.
+> - **Aseptic or Bacterial Meningitis:** Post-dural-opening inflammatory reaction or bacterial infection.
+> - **Persistent or Expanding Syringomyelia:** Failure of the syrinx to collapse on follow-up MRI $\rightarrow$ indicates incomplete bone decompression or persistent arachnoid scarring $\rightarrow$ requires repeat cine-MRI flow study and revision decompression.
+> - **Permanent Neuropathic "Central" Pain:** Burning dysesthesias in the shoulders/arms from irreversible dorsal horn injury within an old syrinx cavity $\rightarrow$ treated with Gabapentin/Pregabalin.
 
 > [!success]- Typical Scenario
-> A 28-year-old female presents with a 2-year history of sharp, severe headaches radiating from the back of her neck to the crown of her head whenever she coughs, laughs, or lifts heavy groceries. Over the past 6 months, she noticed that she repeatedly burned the fingers of her right hand on hot pans without feeling any pain. On examination, she has a classic "cape-like" loss of temperature and pinprick sensation over both shoulders and down her right arm, with preserved joint position and vibration sense. She exhibits subtle downbeat nystagmus on downward gaze. Brain and spine MRI demonstrates cerebellar tonsils descending 11 mm below the foramen magnum with crowding of the cervicomedullary junction, and a large holocord syrinx extending from C2 to T8. Cine-MRI confirms complete absence of CSF flow across the foramen magnum. She undergoes a suboccipital craniectomy, C1 laminectomy, and expansile pericranial duraplasty. Postoperatively, her cough-induced headaches resolve within days. Repeat MRI at 6 months demonstrates restoration of a wide cisterna magna and near-total collapse of the cervical syrinx.
+> A 31-year-old woman presents with an 18-month history of severe, sharp suboccipital headaches that "explode" behind her eyes whenever she coughs, sneezes, or laughs, lasting 30 to 60 seconds. Over the past 6 months, she has noticed progressive clumsiness in her hands and recently burned her left forearm on a hot oven rack without feeling any pain. Physical exam demonstrates downbeat nystagmus on downward gaze, hand intrinsic muscle wasting, hyperactive patellar reflexes, and a **dissociated sensory loss to pinprick and temperature across both shoulders and arms with intact vibration sense ("cape distribution")**. Brain and Whole-Spine MRI reveals **cerebellar tonsillar herniation 9 mm below McRae's line** and a large **cervicothoracic Syringomyelia extending from C2 to T6**. She undergoes an uncomplicated **suboccipital craniectomy, C1 laminectomy, and duraplasty**; her cough headaches resolve immediately, and a 6-month follow-up MRI confirms near-complete collapse of the syrinx.
+
+> [!info] Personal Experience
 
 > [!example]- Resources
-> - **Tubbs et al. (World Neurosurg 2012):** The Chiari malformations: a review.
-> - **Milhorat et al. (Neurosurgery 1999):** Chiari I malformation redefined: clinical and radiographic findings for 364 symptomatic patients.
-> - **Chahrour et al. (Neurosurg Rev 2022):** Surgical management of Chiari I malformation in adults: craniectomy with duraplasty versus craniectomy alone.
+>
+> - Chiari Malformation Type I: A Systematic Review and Practice Guideline — Neurosurgery (Congress of Neurological Surgeons [CNS]) — 2023 — https://www.cns.org/guidelines/guidelines-chiari-malformation
+> - Consensus Statement on the Management of Chiari I Malformation and Syringomyelia — Child's Nervous System — 2019 — https://link.springer.com/article/10.1007/s00381-019-04177-y
+> - EANS Consensus on the Diagnosis and Treatment of Chiari Malformation — Acta Neurochirurgica — 2022 — https://link.springer.com/article/10.1007/s00701-022-05206-y

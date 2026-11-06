@@ -1,111 +1,160 @@
 ---
 Type: Chronic
-title: Compressions Nerveuses Crâniennes & Périphériques
-Tags: [Neurochirurgie, Neurologie, Douleur, Chirurgie]
-Aliases: [Compressions Nerveuses, Névralgie du Trijumeau, Tic Douloureux, Spasme Hémifacial, Canal Carpien, Décompression Microvasculaire, DMV]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Névralgie du Trijumeau (Tic Douloureux), Spasme Hémifacial, Syndrome du Canal Carpien, Compression du Nerf Ulnaire au Coude, Compression du Nerf Fibulaire]
-Compare: [[Peripheral Neuropathies]], [[Headache Disorders]]
+Tags: [Neurosurgery, Neurology, Orthopedics, Physical_Medicine_Rehabilitation]
+Aliases: [Syndrome canalaire, Syndrome du canal carpien, Syndrome du canal cubital, Paralysie du nerf fibulaire, Névralgie du trijumeau, Paralysie faciale a frigore, Paralysie de Bell]
+Discipline: Neurosurgery
+Sub Pathologies: [Syndrome du canal carpien, Syndrome du tunnel cubital, Neuropathie du nerf fibulaire commun, Névralgie faciale du trijumeau, Paralysie du nerf radial, Méralgie paresthésique]
+Compare: [[Peripheral Neuropathies]], [[Acute Spinal Cord Compression & Cauda Equina Syndrome]]
 Reviewed: 2026-11-06
 ---
 
-> [!abstract] Compressions Nerveuses Crâniennes & Périphériques
-> Ensemble des syndromes d'enclavement, de compression canalaire et de conflits neurovasculaires intéressant les nerfs crâniens (au premier rang desquels la **Névralgie Essentielle du Trijumeau** et le **Spasme Hémifacial** dans l'angle ponto-cérébelleux) et les troncs nerveux périphériques (principalement le **Syndrome du Canal Carpien** au poignet et la **Compression du Nerf Ulnaire** au coude). Prise en charge initiale médicale puis chirurgicale curative par **Décompression Microvasculaire (procédure de Jannetta)** ou libération canalaire périphérique.
+> [!abstract] Neuropathies canalaires & Compressions nerveuses périphériques et crâniennes
+> Enclavement mécanique, constriction ou compression neurovasculaire de troncs nerveux périphériques ou de nerfs crâniens lors de leur passage dans des défilés ostéo-fibreux étroits ou des orifices duraux, provoquant une ischémie microvasculaire, une démyélinisation focale paranodale (**neurapraxie**) et, en l'absence de levée d'obstacle, une dégénérescence axonale secondaire.
 
-> [!note] Physiopathologie
-> - **Conflit Neurovasculaire des Nerfs Crâniens :**
->   - À l'émergence du tronc cérébral (Root Entry Zone, REZ), la myéline centrale (synthétisée par les oligodendrocytes) laisse place à la myéline périphérique (produite par les cellules de Schwann). Cette zone de transition (zone d'Obersteiner-Redlich) est particulièrement vulnérable aux contraintes mécaniques pulsatiles.
->   - **Névralgie du Trijumeau (Nerf V) :** Compression pulsatile de la racine sensitive du V par une boucle artérielle aberrante (dans 80% des cas, l'**Artère Cérébelleuse Supérieure [ACS]** ou l'AICA) $\rightarrow$ démyélinisation focale chronique $\rightarrow$ éphapses (courts-circuits) entre les fibres myélinisées du tact léger ($A\beta$) et les fibres nociceptives fines ($A\delta$ et $C$) $\rightarrow$ décharges paroxystiques hyperalgiques déclenchées par un simple effleurement.
->   - **Spasme Hémifacial (Nerf VII) :** Compression de la zone d'émergence motrice du VII par la PICA, l'AICA ou l'artère vertébrale $\rightarrow$ hyperexcitabilité du noyau facial avec contractions cloniques et toniques involontaires d'un hémiface.
-> - **Compressions des Nerfs Périphériques :**
->   - **Nerf Médian au Poignet (Canal Carpien) :** Compression sous le rétinaculum des fléchisseurs (ligament annulaire antérieur du carpe) au sein du défilé carpien ostéofibreux inextensible partagé avec les 9 tendons fléchisseurs.
->   - **Nerf Ulnaire au Coude (Gouttière Épitrochléo-Olécrânienne) :** Compression sous l'arcade fibreuse d'Osborne ou subluxation antérieure lors de la flexion du coude.
+> [!note] Pathophysiologie
+>
+> - **Cascade de la compression canalaire :** Une hyperpression focale prolongée supérieure à la pression de perfusion capillaire intra-neurale (**>30 mmHg**) $\rightarrow$ stase veineuse, rupture de la barrière hématonerveuse et œdème endoneural $\rightarrow$ démyélinisation segmentaire paranodale (réversible), évoluant vers une **dégénérescence wallérienne** en l'absence de traitement.
+> - **Névralgie du trijumeau :** Conflit neurovasculaire pulsatile au niveau de la zone d'émergence radiculaire (Root Entry Zone - REZ) du **nerf trijumeau (NC V)** par une boucle artérielle aberrante (principalement l'**artère cérébelleuse supérieure [ACS]**) provoquant une démyélinisation focale et des **transmissions éphaptiques (court-circuitage)** entre fibres tactiles $A\beta$ et nociceptives $A\delta/C$.
 
-> [!tip]- Perles Cliniques
-> - **La Carbamazépine est un véritable test diagnostique dans la névralgie du trijumeau :** L'arrêt spectaculaire et quasi-immédiat des décharges fulgurantes sous Tégrétol ($200\text{ à }1200\text{ mg/jour}$) confirme la nature essentielle de la névralgie du trijumeau ; l'absence totale d'efficacité doit faire rechercher une cause secondaire (SEP, tumeur).
-> - **L'Opération de Jannetta (Décompression Microvasculaire) :** Seul traitement étiologique et non destructeur. La boucle artérielle est disséquée, écartée de la racine nerveuse et maintenue à distance par l'interposition d'un tampon de **feutre de Téflon**, offrant $> 85–90\%$ de guérison définitive sans aucune anesthésie séquellaire du visage.
-> - **Manoeuvre de Phalen & Signe de Tinel :**
->   - *Phalen :* Flexion forcée des deux poignets à 90° pendant 60 secondes ; reproduit les engourdissements dans le territoire du médian (très spécifique).
->   - *Tinel :* Percussion légère de la face antérieure du poignet déclenchant des paresthésies en éclairs dans les 3 premiers doigts.
-> - **Signe de Wartenberg dans la compression ulnaire :** Écartement involontaire permanent du 5e doigt (perte de l'adduction par parésie du 3e interosseux palmaire), signe clinique précoce de souffrance motrice du nerf ulnaire.
+> [!tip]- Perles cliniques
+>
+> - **Canal carpien : La sensibilité de la paume de la main est STRICTEMENT ÉPARGNÉE :** Dans le syndrome du canal carpien (SCC), les engourdissements intéressent la face palmaire des doigts 1 à 3 et la moitié radiale du 4e doigt, MAIS **la sensibilité cutanée de l'éminence thénar est parfaitement NORMALE** (la branche cutanée palmaire naît en amont du poignet et chemine _au-dessus_ du rétinaculum des fléchisseurs ; une hypoesthésie thénarienne doit faire évoquer une **radiculopathie C6 ou un syndrome du rond pronateur** !).
+> - **Atteinte du nerf fibulaire (SPE) vs Radiculopathie L5 (La règle de l'inversion du pied) :** Les deux affections se manifestent par un pied tombant aigu (steppage). Tester l'**inversion du pied (muscle tibial postérieur — nerf tibial / racine L5)** : si l'inversion est **DÉFICITAIRE** $\rightarrow$ **Radiculopathie L5** ! Si l'inversion du pied est **STRICTEMENT NORMALE** $ightarrow$ **Neuropathie compressive du nerf fibulaire commun au col de la fibula** !
+> - **Les rides du front différencient la paralysie de Bell d'un AVC central :** L'atteinte du motoneurone inférieur (paralysie faciale périphérique de Bell) paralyse **toute l'hémiface, y compris les muscles frontaux** (impossibilité d'élever le sourcil et de plisser le front). L'AVC central (motoneurone supérieur) **épargne le front** grâce à la double innervation cortico-bulbaire bilatérale !
+> - **La « paralysie des amoureux / du samedi soir » épargne le triceps brachial :** La compression du nerf radial au niveau de la **gouttière spiralée humérale** (bras comprimé contre un dossier de chaise durant une ivresse) entraîne une **chute complète du poignet et des doigts ("main en col de cygne")**, mais **la force d'extension du coude par le triceps et le réflexe tricipital sont parfaitement CONSERVÉS** (le rameau moteur pour le triceps naît dans l'aisselle, bien en amont de la gouttière humérale !).
+> - **Traitement médical de référence de la névralgie faciale essentielle :** La **Carbamazépine** (ou l'Oxcarbazépine) est la molécule de référence absolue ; les AINS et les dérivés opioïdes sont inefficaces à 100 % !
 
-> [!attention]- Présentation Clinique
-> **Névralgie Essentielle du Trijumeau (Tic Douloureux de Trousseau)**
-> - Douleur unilatérale fulgurante, à type de décharge électrique intolérable ou de broiement, durant de quelques secondes à 2 minutes.
-> - Topographie stricte d'une branche du V : **V2 (Maxillaire supérieur) et/ou V3 (Mandibulaire)** dans 95% des cas ; l'atteinte isolée du V1 (ophtalmique) est exceptionnelle ($< 5\%$) et doit faire suspecter une lésion tumorale ou vasculaire de la fente sphénoïdale.
-> - **Zones Gâchettes (Triggers) :** Déclenchée par l'effleurement d'une zone cutanée ou muqueuse très précise : effleurement, rasage, brossage des dents, mastication, parole, froid ou vent sur la joue. Période réfractaire brève après la crise.
-> - Examen neurologique strictement normal (pas de déficit sensitif objectif ni d'abolition du réflexe cornéen).
-> 
-> **Syndrome du Canal Carpien (SCC)**
-> - Paresthésies et acroparesthésies nocturnes à type de brûlures ou d'engourdissements des trois premiers doigts et de l'hémipulpe radiale du 4e doigt (réveillant la patiente en seconde partie de nuit, soulagées par le secouement de la main).
-> - Formes évoluées : Amyotrophie de l'éminence thénar (court abducteur du pouce).
-> 
-> **Compression du Nerf Ulnaire au Coude**
-> - Paresthésies et hypoesthésie du 5e doigt et de la moitié interne du 4e doigt.
-> - Maladresse de la main, perte de force de la pince pouce-index (**signe de Froment** positif par compensation du long fléchisseur du pouce) et amyotrophie des espaces interosseux (griffe ulnaire).
+| Nerf et siège de compression | Territoire du déficit sensitif | Déficit moteur et signes cliniques | Mécanisme étiologique classique |
+| :--- | :--- | :--- | :--- |
+| **1. Nerf médian (Canal carpien)** | Face palmaire des doigts 1 à 3 et hémipulpe radiale du 4e doigt (éminence thénar épargnée !) | Faiblesse du court abducteur du pouce (APB) ; amyotrophie thénarienne | Flexions répétées du poignet, travail sur clavier, grossesse, obésité |
+| **2. Nerf ulnaire (Gouttière épitrochléo-olécranienne / Coude)** | Face palmaire et dorsale du 5e doigt et moitié ulnaire du 4e doigt | Faiblesse de l'écartement des doigts ; signe de Froment positif ; griffe ulnaire | Appui prolongé sur les coudes, flexion prolongée |
+| **3. Nerf radial (Gouttière humérale / Spirale)** | Première commissure dorsale (dos de la main entre pouce et index) | Main tombante ("en col de cygne"), chute des doigts (triceps brachial ÉPARGNÉ !) | Compression prolongée du bras sur un dossier de chaise ("paralysie des amoureux / du samedi soir") |
+| **4. Nerf fibulaire commun / SPE (Col de la fibula)** | Face dorsale du pied et face antéro-latérale de la jambe (plante du pied épargnée !) | Steppage du pied (faiblesse de la dorsiflexion et éversion ; inversion/tibial postérieur INTACT) | Jambes croisées prolongées, accroupissement, plâtre de jambe trop serré, bottes rigides |
+| **5. Nerf fémoro-cutané / LFCN (Canal inguinal)** | Face antéro-latérale de la cuisse SEULEMENT (Méralgie paresthésique) | AUCUN (nerf purement sensitif ; examen moteur strictement normal) | Ceintures ou vêtements serrés, port de ceinturon de service lourd, obésité, grossesse |
+| **6. Nerf trijumeau / NC V (Zone d'émergence / REZ)** | AUCUN (sensibilité faciale normale conservée en dehors des salves) | AUCUN ; paroxysmes de décharges fulgurantes en éclairs dans le territoire V2/V3 | Conflit neurovasculaire par boucle de l'artère cérébelleuse supérieure (ACS) |
 
-> [!check]- Critères Diagnostiques
-> - **Critères ICHD-3 de la Névralgie du Trijumeau :**
->   - Crises paroxystiques unilatérales dans le territoire d'une ou plusieurs branches du V.
->   - Douleur brève, en éclair, d'intensité sévère, déclenchée par des stimuli cutanés anodins.
->   - Absence de déficit sensitif clinique au niveau de la face.
-> - **Électromyogramme (EMG / ENMG) :**
->   - Canal Carpien : Allongement de la latence distale motrice ($> 4,2\text{ ms}$) et ralentissement des vitesses de conduction sensitives à travers le carpe ($< 50\text{ m/s}$).
+> [!attention]- Présentation clinique
+> **Histoire clinique**
+>
+> - **Syndrome du canal carpien (SCC) :** Acroparesthésies nocturnes douloureuses et brûlures dans le pouce, l'index et le majeur ; réveils nocturnes poussant le patient à secouer vigoureusement ses mains (**signe de la secousse ou "Flick sign" positif**) ; lâchage d'objets ; aggravation lors de la conduite automobile ou de la tenue d'un téléphone.
+> - **Syndrome du canal cubital (nerf ulnaire au coude) :** Engourdissements et picotements du 5e doigt et de la face médiale du 4e doigt ; douleur sourde à la face médiale du coude ; majoration lors de la flexion prolongée du coude (téléphone, sommeil en flexion) ; maladresse et perte de force de la préhension fine.
+> - **Neuropathie du nerf fibulaire commun (SPE au col de la fibula) :** **Steppage unilatéral indolore d'installation brutale** ; accrochage des orteils à la marche, claudication ; hypoesthésie de la face antéro-latérale de la jambe et du dos du pied ; notion de perte de poids rapide récente, d'alitement prolongé ou d'habitude de croiser les jambes.
+> - **Névralgie essentielle du trijumeau (Tic douloureux de Trousseau) :** Paroxysmes unilatéraux de douleurs fulgurantes atroces, à type d'**électrisations ou de coups de poignard**, strictement limitées au territoire du **V2 (maxillaire supérieur) ou du V3 (mandibulaire)**, d'une durée de **quelques secondes à moins de 2 minutes**, déclenchées par l'effleurement d'une **zone gâchette (trigger zone)** (effleurement cutané, rasage, mastication, brossage de dents, parole, courant d'air) ; absence totale de symptôme douloureux entre les accès.
+> - **Paralysie faciale a frigore (Paralysie de Bell) :** Paralysie faciale unilatérale aiguë se constituant en 24 à 48 heures, précédée d'une otalgie rétro-auriculaire, accompagnée d'une hyperacousie douloureuse (paralysie du stapédien) et d'une agueusie des 2/3 antérieurs de l'hémi-langue.
+>
+> **Examen physique**
+>
+> - **Manœuvres provocatrices :**
+>   - _Canal carpien :_ **Test de Phalen** (la flexion forcée des deux poignets à 90° maintenue 60 secondes reproduit les paresthesies dans les 3 premiers doigts) et **Signe de Tinel** (la percussion légère du rétinaculum des fléchisseurs déclenche des décharges électriques projetées dans les doigts médians).
+>   - _Canal cubital :_ **Signe de Froment** (lorsque le patient retient une feuille de papier entre le pouce et l'index, la faiblesse de l'adducteur du pouce [nerf ulnaire] l'oblige à fléchir l'interphalangienne du pouce par le long fléchisseur du pouce [nerf médian]).
+> - **Signes moteurs et amyotrophie :**
+>   - SCC : Amyotrophie du versant externe de l'**éminence thénar** (faiblesse du court abducteur du pouce).
+>   - Canal cubital : Amyotrophie de l'**éminence hypothénar et du premier espace interosseux dorsal** ; griffe ulnaire (hyperextension MCP des 4e et 5e doigts avec flexion IP).
 
-> [!fail]- Examens Complémentaires
-> - **IRM Cérébrale avec Protocole "Angle Ponto-Cérébelleux & Trijumeau" (3D CISS / FIESTA et 3D TOF) :** Visualise le trajet sous-arachnoïdien du nerf V et met directement en évidence l'artère cérébelleuse supérieure entrant en conflit avec la zone d'émergence radiculaire. Élimine formellement une plaque de sclérose en plaques ou une tumeur de l'angle (méningiome, schwannome, kyste épidermoïde).
-> - **Électromyogramme (EMG) des Membres Supérieurs :** Confirme la compression canalaire périphérique, élimine une radiculopathie cervicale associée (C6 ou C8) et évalue la sévérité de l'atteinte axonale.
-> - **Échographie Nerveuse Haute Résolution :** Mesure la surface de section du nerf médian au poignet ($> 10–12\text{ mm}^2$ signant le canal carpien) et recherche une subluxation du nerf ulnaire.
+> [!check]- Critères diagnostiques & Classification
+>
+> - **Syndrome du canal carpien (Clinique + ENMG) :** Signes cliniques typiques dans le territoire du nerf médian **ET confirmation électroneuromyographique (ENMG)** mettant en évidence un ralentissement focal des vitesses de conduction sensitive et motrice au franchissement du canal carpien (latence motrice distale $>4,0\text{ ms}$ ; allongement de la latence sensitive relative $>0,5\text{ ms}$).
+> - **Névralgie essentielle du trijumeau (Critères ICHD-3) :**
+>   - Paroxysmes récurrents unilatéraux de douleur faciale dans une ou plusieurs branches du trijumeau,
+>   - Durée des accès de moins d'une fraction de seconde à **2 minutes**,
+>   - Intensité atroce, décharges électriques fulgurantes, éclairs ou coups de poignard,
+>   - **Déclenchement par des stimuli anodins** au sein d'une zone gâchette, ET
+>   - **Absence de tout déficit neurologique ou sensitif facial objectivable à l'examen clinique**.
 
-> [!bug]- Signes d'Alerte (Red Flags)
-> - Hypoesthésie faciale permanente objective ou abolition du réflexe cornéen (signe formel de lésion organique secondaire).
-> - Douleur continue à fond brûlant sans caractère fulgurant (névralgie trigéminale atypique).
-> - Névralgie bilatérale du trijumeau chez un adulte jeune (évoquer immédiatement une Sclérose en Plaques).
-> - Amyotrophie thénarienne rapide avec perte de la préhension fine.
+> [!fail]- Examens complémentaires
+> **Explorations électrodiagnostiques de référence**
+>
+> - **Électroneuromyographie & Vitesses de conduction nerveuse (ENMG) :**
+>   - **Examen de première intention indispensable** pour toutes les compressions nerveuses périphériques.
+>   - Localise précisément le niveau de l'obstacle (poignet vs coude vs col de la fibula), différencie la démyélinisation focale (bloc de conduction) de la perte axonale, et **élimine formellement une radiculopathie cervicale ou lombaire et une plexopathie**.
+>
+> **Échographie neuromusculaire haute résolution**
+>
+> - Révèle l'épaississement focal en amont de la zone de striction (ex. **surface de section transversale [SST] du nerf médian $>10–12\text{ mm}^2$** à l'entrée du canal carpien ; normale $\le 8\text{ mm}^2$) ; met en évidence une cause compressive extrinsèque (kyste synovial, schwannome).
+>
+> **Neuro-imagerie des compressions crâniennes**
+>
+> - **IRM cérébrale avec séquences 3D FIESTA / CISS en coupes infra-millimétriques (OBLIGATOIRE dans la névralgie du trijumeau) :**
+>   - Identifie avec précision le conflit neurovasculaire à l'émergence du trijumeau par une boucle de l'**artère cérébelleuse supérieure (ACS)**.
+>   - **Indispensable pour éliminer une Sclérose en Plaques** (plaque de démyélinisation au niveau du noyau ou du trajet pontique du trijumeau) et un processus expansif de l'angle ponto-cérébelleux (schwannome vestibulaire, méningiome).
 
-> [!todo]- Diagnostics Différentiels
-> - Pathologie dentaire (pulpite aiguë, desmodontite, dent fêlée).
-> - Dysfonction de l'articulation temporo-mandibulaire (SADAM).
-> - Algie Vasculaire de la Face (Cluster Headache) ou syndrome SUNCT.
-> - Névralgie post-zostérienne (antécédent de zona ophtalmique, douleur continue à fond brûlant).
-> - Radiculopathie cervicale compressive C6 (simulant un canal carpien) ou C8 (simulant un canal ulnaire).
+> [!bug]- Signaux d'alarme (Red Flags)
+>
+> - **Névralgie du trijumeau avec hypoesthésie faciale permanente ou atteinte bilatérale** (évoque fortement une **Sclérose en Plaques** ou une tumeur de la base du crâne !).
+> - **Amyotrophie thénarienne ou interosseuse rapidement progressive** (perte axonale irréversible justifiant une décompression chirurgicale sans délai).
+> - **Pied tombant accompagné de lombalgies, d'atteinte bilatérale ou d'anesthésie en selle** (signe un **Syndrome de la queue de cheval**, et NON une simple atteinte fibulaire !).
+> - **Paralysie faciale épargnant les muscles frontaux** (AVC ischémique ou hémorragique supranucléaire !).
+> - **Paralysie faciale accompagnée d'une éruption vésiculeuse dans la zone de Ramsay Hunt (conduit auditif externe)** (Syndrome de Ramsay Hunt / Zona du ganglion géniculé).
 
-> [!summary]- Prise en Charge Thérapeutique
-> **1. Traitement Médical de Première Intention (Névralgie du Trijumeau)**
-> - **Carbamazépine (Tégrétol) :** Traitement de référence absolu : débuter à $100–200\text{ mg}$ x 2/j, augmenter par paliers jusqu'à $600–1200\text{ mg/j}$ (surveillance biologique de la NFS et du bilan hépatique pour éliminer agranulocytose et hyponatrophie).
-> - **Oxcarbazépine (Trileptal) :** $300\text{ mg}$ x 2/j jusqu'à $1200–1800\text{ mg/j}$ (meilleure tolérance hématologique).
-> - **Co-analgésiques de 2e ligne :** Baclofène ($10–20\text{ mg}$ x 3/j), Gabapentine ou Prégabaline.
-> 
-> **2. Décompression Microvasculaire selon Jannetta (Chirurgie Curative)**
-> - **Geste de Référence en Cas d'Échappement ou d'Intolérance Médicale :**
->   - Craniotomie rétrosigmoïde sous microscope opératoire.
->   - Abord de l'angle ponto-cérébelleux, dissection arachnoïdienne et identification de l'émergence du nerf V.
->   - Décollement de la boucle vasculaire compressive (artère cérébelleuse supérieure).
->   - Interposition protectrice d'une mèche de Téflon entre le vaisseau et le tronc nerveux.
->   - Efficacité immédiate dans $> 85–90\%$ des cas, sans perte de la sensibilité de la face.
-> 
-> **3. Procédures Percutanées & Radiochirurgie (Sujet Âgé ou Haut Risque Chirurgical)**
-> - **Radiochirurgie Stéréotaxique (Gamma Knife) :** Irradiation focale ciblée de la zone gâchette du V à dose élevée (80 Gy) ; soulagement obtenu en 1 à 3 mois.
-> - **Thermorégulation percutanée par Radiofréquence ou Compression par Ballonnet :** Ponction percutanée trans-jugale du foramen ovale au niveau de la fente de Meckel ; geste destructeur efficace mais au prix d'une hypoesthésie faciale séquellaire.
-> 
-> **4. Libération Chirurgicale des Nerfs Périphériques**
-> - **Neurolyse du Nerf Médian au Canal Carpien :** Section complète du rétinaculum des fléchisseurs sous anesthésie locale (voie ouverte ou endoscopique), soulagement nocturne immédiat.
-> - **Décompression du Nerf Ulnaire au Coude :** Ouverture du toit fibreux de la gouttière épitrochléo-olécrânienne $\pm$ transposition antérieure sous-cutanée si subluxation dynamique.
+> [!todo]- Diagnostics différentiels
+> **Pièges radiculaires et plexiques**
+>
+> - **Radiculopathie C6 :** Douleur irradiant du cou vers le bord externe du membre supérieur jusqu'au pouce ; **diminution du réflexe stylo-radial** et **hypoesthésie de l'éminence thénar** (préservée dans le canal carpien !).
+> - **Radiculopathie C8–T1 / Syndrome du défilé thoraco-brachial :** Déficit de TOUS les muscles intrinsèques de la main (médian et ulnaire confondus).
+> - **Radiculopathie L5 :** Faiblesse de la dorsiflexion de la cheville ET **déficit de l'inversion du pied** + hypoesthésie de la face latérale de jambe descendant jusqu'au gros orteil.
+> - **Sclérose latérale amyotrophique (SLA) :** Steppage unilatéral indolore ou fonte musculaire des interosseux ; présence de **fasciculations diffuses et hyperréflexie pyramidale**.
+
+> [!summary]- Prise en charge thérapeutique
+> **Objectifs thérapeutiques**
+>
+> - **Objectif principal :** Lever la compression mécanique, rétablir la microcirculation endoneurale, faire disparaître les accès fulgurants dans la névralgie faciale, et prévenir l'atrophie axonale motrice définitive.
+> - **Objectif secondaire :** Restaurer la préhension et la dextérité manuelle, éliminer le risque de chute lié au pied tombant, et protéger la cornée dans les paralysies faciales.
+>
+> **Prise en charge : Syndrome du canal carpien (SCC)**
+>
+> - **Symptômes légers à modérés (acroparesthésies intermittentes sans amyotrophie) :**
+>   - **Prescription d'une attelle de poignet rigide en position neutre portée STRICTEMENT LA NUIT pendant 6 à 12 semaines** comme traitement conservateur de première intention (évite l'hyperpression canalaire $>50\text{ mmHg}$ liée à la flexion nocturne).
+>   - **Infiltration locale écho-guidée de corticoïdes (Triamcinolone 20–40 mg + Lidocaïne)** dans le canal carpien pour un soulagement rapide (efficacité transitoire de 1 à 3 mois).
+> - **Symptômes sévères ou réfractaires (déficit moteur, amyotrophie thénarienne, échec de l'attelle) :**
+>   - **Neurolyse chirurgicale du nerf médian par section complète du rétinaculum des fléchisseurs (voie ouverte ou endoscopique)** (traitement curatif de référence ; taux de succès $>90\%$).
+>
+> **Prise en charge : Syndrome du canal cubital (nerf ulnaire)**
+>
+> - **Éviter les flexions prolongées du coude et les appuis répétés sur surfaces dures** ; port d'une **attelle d'extension nocturne du coude (rembourrée à environ 45° de flexion)** pendant 6 à 12 semaines.
+> - **Décompression chirurgicale du nerf ulnaire au coude (décompression in situ ou transposition antérieure sous-cutanée/sous-musculaire)** en cas d'amyotrophie interosseuse évolutive, de griffe ulnaire ou d'échec du traitement conservateur.
+>
+> **Prise en charge : Neuropathie du nerf fibulaire commun (SPE)**
+>
+> - **Prescription immédiate d'une orthèse releveur de pied (attelle AFO)** pour pallier le déficit de la dorsiflexion, stabiliser la marche et prévenir les chutes traumatiques pendant la phase de remyélinisation.
+> - Suppression du facteur compressif externe (arrêt du croisement des jambes, protection de la tête de la fibula) ; **la majorité des neurapraxies récupèrent spontanément en 2 à 3 mois**.
+>
+> **Prise en charge : Névralgie essentielle du trijumeau**
+>
+> - **Traitement médical de première intention (Bloqueurs des canaux sodiques voltage-dépendants — Traitement de référence) :**
+>   - **Carbamazépine (débuter à 100–200 mg 2 fois par jour, avec titration progressive jusqu'à 600–1 200 mg/jour répartis en 3 prises)** comme molécule la plus efficace (surveiller la formule sanguine et la natrémie).
+>   - **Oxcarbazépine (débuter à 300 mg 2 fois par jour, titrer jusqu'à 600–1 200 mg 2 fois par jour)** en alternative de première intention présentant une meilleure tolérance.
+> - **Formes réfractaires ou intolérance médicamenteuse (Neurochirurgie) :**
+>   - **Décompression microvasculaire (intervention de Jannetta par craniotomie rétrosigmoïde) :** **Traitement chirurgical curatif de choix** chez le patient en bon état général ; consiste à interposer une compresse de Téflon non résorbable entre la boucle artérielle compressive (ACS) et l'émergence du trijumeau ($>80–90\%$ de soulagement immédiat sans anesthésie de la face).
+>   - **Radiochirurgie stéréotaxique (Gamma Knife) ou thermocoagulation percutanée par ballonnet du ganglion de Gasser** chez les patients âgés ou à risque chirurgical prohibitif.
+>
+> **Prise en charge : Paralysie faciale de Bell**
+>
+> - **Corticothérapie orale précoce par Prednisone (60 à 80 mg/jour pendant 7 jours, puis décroissance sur 5 jours) débutée IMPÉRATIVEMENT DANS LES <72 HEURES suivant les premiers symptômes** (accélère significativement la récupération complète).
+> - Adjonction de **Valaciclovir par voie orale (1 000 mg 3 fois par jour pendant 7 jours)** dans les formes sévères.
+> - **Protection oculaire rigoureuse et agressive :** Instillation diurne de **larmes artificielles sans conservateur toutes les 1 à 2 heures** et application nocturne de **pommade ophtalmique lubrifiante avec occlusion palpébrale par pansement adhésif** pour prévenir la kératite d'exposition et la cécité.
 
 > [!warning]- Contre-indications & Pièges
-> - **Éviter les gestes destructeurs percutanés chez les sujets jeunes :** Risque d'anesthésie douloureuse de la face (Anesthesia Dolorosa), complication neuropathique gravissime et incurable. Privilégier la décompression microvasculaire.
-> - **Recherche systématique de l'allèle HLA-B*1502 chez les patients d'origine asiatique** avant prescription de Carbamazépine (risque d'érythrodermie bulleuse de Lyell/Stevens-Johnson).
+>
+> - **Proscrire la prescription de carbamazépine chez les patients d'origine asiatique sans dépistage préalable de l'allèle HLA-B*1502**, afin de prévenir le risque vital de **syndrome de Stevens-Johnson (SJS) et de nécrolyse épidermique toxique (syndrome de Lyell)**.
+> - **Ne jamais traiter une névralgie faciale par des AINS ou des morphiniques**, ces antalgiques conventionnels étant totalement dénués d'efficacité sur les douleurs éphaptiques neuropathiques de démyélinisation (recourir exclusivement à la **Carbamazépine ou à l'Oxcarbazépine** !).
+> - **Éviter toute injection intraneurale directe lors des infiltrations du canal carpien** ; retirer immédiatement l'aiguille si le patient signale une décharge électrique aiguë dans les doigts (risque de nécrose axonale irréversible).
+> - **Ne jamais négliger la protection oculaire dans une paralysie faciale périphérique**, l'inocclusion palpébrale (lagophtalmie) conduisant en quelques jours à une **kératite ulcérative sévère et à une perte définitive de la vision**.
+> - **Éviter la chirurgie dans la méralgie paresthésique**, la compression du nerf fémoro-cutané étant une atteinte purement sensitive qui guérit le plus souvent avec la perte de poids, le port de vêtements amples et des infiltrations locales.
 
 > [!error]- Complications
-> - Anesthésie douloureuse de la face (après rhizotomie percutanée destructrice).
-> - Surdité de perception homolatérale (par étirement du nerf VIII lors de la voie d'abord de Jannetta).
-> - Paralysie faciale transitoire.
-> - Douleur cicatricielle résiduelle du talon de la main ("pillar pain") après ouverture du canal carpien.
+>
+> - **Amyotrophie définitive des muscles intrinsèques et main en griffe :** Séquelle d'une compression canalaire ulnaire ou médiane trop tardivement opérée $ightarrow$ perte définitive de la motricité fine.
+> - **Kératite d'exposition et ulcère cornéen perforant :** Complication majeure de la lagophtalmie dans la paralysie faciale $ightarrow$ pose d'un implant palpébral en or ou tarsorraphie temporaire en cas de non-récupération.
+> - **Méningite aseptique ou surdité unilatérale post-décompression microvasculaire :** Complications rares de la craniotomie rétrosigmoïde par traction sur les paires crâniennes acousticovestibulaires.
+> - **Agranulocytose et hyponatrémie sévère induites par la carbamazépine :** Risque d'aplasie médullaire ou de SIADH $ightarrow$ contrôle systématique de la NFS et du ionogramme sanguin à l'initiation et sous traitement.
 
-> [!success]- Scénario Clinique Typique
-> Une femme de 54 ans consulte pour des décharges électriques fulgurantes atroces de la joue et de la gencive inférieure droites (territoire V2/V3) évoluant depuis 6 mois. Les crises durent 15 à 30 secondes et sont déclenchées par l'effleurement de l'aile du nez, le brossage des dents ou la parole, l'empêchant de s'alimenter convenablement. La carbamazépine avait apporté un soulagement spectaculaire initial mais a dû être interrompue en raison d'une cytolyse hépatique sévère. L'examen neurologique montre une sensibilité faciale intacte et des réflexes cornéens vifs. L'IRM cérébrale en coupes millimétriques 3D CISS et angio-IRM met en évidence une boucle proéminente de l'artère cérébelleuse supérieure droite comprimant l'émergence du nerf trijumeau au niveau pontique. Une décompression microvasculaire selon Jannetta par voie rétrosigmoïde est réalisée. Après mobilisation de l'artère et interposition d'un fragment de Téflon, les décharges disparaissent immédiatement dès le réveil. La patiente reste totalement asymptomatique sans aucun médicament avec une sensibilité faciale parfaitement conservée à 2 ans de recul.
+> [!success]- Cas clinique typique
+> Une hygiéniste dentaire de 48 ans consulte pour des engourdissements nocturnes douloureux et brûlants de son pouce, index et majeur droits évoluant depuis 7 mois, la réveillant chaque nuit et la forçant à secouer la main pour se soulager. Elle lâche fréquemment ses instruments au cabinet. L'examen met en évidence une discrète fonte musculaire de la **loge thénarienne droite**, un **test de Phalen positif en 25 secondes**, un signe de Tinel positif au poignet et une **sensibilité tactile normale en regard de la paume de l'éminence thénar**. L'ENMG confirme un **syndrome du canal carpien droit sévère** avec allongement significatif de la latence motrice distale du nerf médian à 5,2 ms. Devant l'échec du port nocturne d'attelles, elle bénéficie d'une **section chirurgicale endoscopique du rétinaculum des fléchisseurs**, permettant la disparition complète des douleurs nocturnes dès les premiers jours et la récupération de sa force de préhension.
 
-> [!example]- Références
-> - **Cruccu G et al. (Eur J Neurol 2019) :** European Academy of Neurology guidelines on trigeminal neuralgia.
-> - **Jannetta PJ (J Neurosurg 1980) :** Neurovascular compression in cranial nerve disorders.
-> - **Société Française de Neurochirurgie (SFNC) :** Recommandations sur le traitement chirurgical des névralgies faciales et des compressions canalaires.
+> [!info] Expérience personnelle
+
+> [!example]- Ressources
+>
+> - Prise en charge du syndrome du canal carpien : Recommandations cliniques fondées sur les preuves — American Academy of Orthopaedic Surgeons (AAOS) — 2016 — https://www.aaos.org/quality/quality-programs/upper-extremity-programs/carpal-tunnel-syndrome/
+> - Recommandations AAN-EFNS : Prise en charge thérapeutique de la névralgie du trijumeau — Neurology — 2021 — https://www.aan.com/Guidelines/home/GetGuidelineContent/332
+> - Recommandations de pratique clinique : Paralysie faciale de Bell — American Academy of Otolaryngology–Head and Neck Surgery — 2013 — https://www.entnet.org/resource/clinical-practice-guideline-bells-palsy/

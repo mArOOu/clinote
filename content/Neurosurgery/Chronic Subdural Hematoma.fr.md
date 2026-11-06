@@ -1,98 +1,153 @@
 ---
 Type: Chronic
-title: Hématome Sous-Dural Chronique (HSDC)
-Tags: [Neurochirurgie, Geriatrie, Traumatologie, Neurologie]
-Aliases: [HSDC, Hématome Sous-Dural Chronique, Hygrome Sous-Dural, Trous de Trépan]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Hématome Sous-Dural Chronique Bilatéral, HSD Subaigu sur Chronique, Évacuation par Trous de Trépan avec Drain, Embolisation de l'Artère Méningée Moyenne (AMM)]
-Compare: [[Traumatic Intracranial Hemorrhage]], [[Acute Altered Mental Status & Encephalopathy]], [[Acute Ischemic Stroke & TIA]]
+Tags: [Neurosurgery, Neurology, Geriatrics, Emergency_Medicine]
+Aliases: [Hématome Sous-Dural Chronique, HSDc, Hygrome Sous-Dural, Hématome Sous-Dural du Sujet Âgé]
+Discipline: Neurosurgery
+Sub Pathologies: [Hématome Sous-Dural Aigu sur Chronique, Hygrome Sous-Dural, Hématome Sous-Dural Chronique Bilatéral]
+Compare: [[Traumatic Intracranial Hemorrhage]], [[Acute Altered Mental Status & Encephalopathy]]
 Reviewed: 2026-11-06
 ---
 
-> [!abstract] Hématome Sous-Dural Chronique (HSDC)
-> Collection liquidienne encapsulée de sang noir défibriné siégeant dans l'espace sous-dural à la convexité des hémisphères cérébraux, évoluant depuis plus de 3 semaines après un traumatisme crânien souvent minime ou oublié. Pathologie fréquente du sujet âgé favorisée par l'atrophie cérébrale physiologique et la prise d'anticoagulants ou d'antiagrégants. Considéré comme le **"grand simulateur" en gériatrie**, il égare fréquemment le diagnostic vers une démence à progression rapide, un syndrome confusionnel, une dépression ou un AVC ischémique récidivant.
+> [!abstract] Hématome Sous-Dural Chronique
+> Collection extra-axiale encapsulée de sang lysé et de liquide séreux située entre la dure-mère et l'arachnoïde, évoluant depuis **$ge 21$ jours** après un traumatisme crânien souvent minime ou inaperçu, entretenue par un cercle vicieux **d'angiogenèse néo-membranaire et de micro-saignements récurrents** chez le sujet âgé.
 
 > [!note] Physiopathologie
-> - **Mécanisme Initial :** Choc crânien bénin entraînant un déplacement du cerveau au sein de la boîte crânienne atrophiée $\rightarrow$ étirement et rupture des **veines ponts corticales** traversant l'espace sous-dural élargi vers le sinus sagittal supérieur.
-> - **Néo-Membranes & Auto-Entretien du Volume :**
->   - Le saignement initial déclenche une réaction inflammatoire de la face interne de la dure-mère.
->   - Constitution de **néo-membranes fibrovasculaires externe et interne** tapissées d'un réseau capillaire sinusoïde anarchique, hyperperméable et fragile.
->   - La sécrétion continue de **VEGF**, d'activateurs du plasminogène tissulaire (tPA) et de cytokines pro-inflammatoires induit une alternance d'hyperfibrinolyse locale et de micro-saignements récurrents. L'hématome augmente ainsi inexorablement de volume par auto-sécrétion liquidienne et récidives hémorragiques microscopiques.
+>
+> - **Cisaillement des Veines Ponts :** L'atrophie cérébrale cortico-sous-corticale liée à l'âge ou à l'éthylisme chronique élargit l'espace sous-dural, exerçant une traction mécanique permanente sur les **veines ponts corticales** se jetant dans le sinus sagittal supérieur $ightarrow$ un traumatisme minime déchire une veine.
+> - **Angiogenèse Auto-Entretenue :** Les cellules bordantes durales prolifèrent pour former une **néo-membrane externe et interne** hypervascularisée alimentée par des branches de **l'Artère Méningée Moyenne (AMM)** ; la perméabilité capillaire excessive et l'activité fibrinolytique locale intense (VEGF, t-PA) entretiennent des **micro-saignements répétés et un appel osmotique de liquide**, augmentant progressivement le volume de l'hématome sur plusieurs semaines à mois.
 
 > [!tip]- Perles Cliniques
-> - **La règle du trou de trépan avec drainage clos sous-dural pendant 48h :** L'essai randomisé de référence (Santarius et al., Lancet 2009) a formellement prouvé que laisser un drain sous-dural souple en déclive pendant 48 heures réduit le taux de récidive de plus de moitié (de $24\%$ à $9\%$) et diminue la mortalité à 6 mois.
-> - **Positionnement postopératoire à plat strict :** Le patient doit être maintenu en décubitus dorsal strict (0–15°) pendant 24 à 48 heures pour éviter l'entrée d'air (pneumocéphale sous tension) et favoriser la réexpansion du parenchyme cérébral.
-> - **L'Embolisation de l'Artère Méningée Moyenne (AMM) :** Révolution thérapeutique mini-invasive par voie endovasculaire. L'occlusion sélective de l'AMM par microparticules ou agents liquides tari l'apport artériel des néo-membranes fragiles, stoppant le cycle des microsaignements et favorisant la résorption spontanée.
-> - **Fluctuations cliniques :** Les symptômes ont la particularité d'être fluctuants d'un jour à l'autre (alternance de jours lucides et de jours d'obnubilation), ce qui le distingue de la fixité d'un AVC ischémique.
+>
+> - **"Le Grand Caméléon Neurologique" :** Chez le sujet âgé, l'HSDc s'accompagne rarement de céphalées violentes ; il se manifeste typiquement par une **confusion mentale fluctuante**, une apathie progressive, des troubles mnésiques, des chutes à répétition ou une hémiparésie discrète, fréquemment étiqueté à tort **"démence", "syndrome confusionnel" ou "AIT"** !
+> - **Repos Strict À PLAT pendant 24 à 48 Heures Post-Op :** Maintenir le patient en décubitus dorsal strict à plat (0° à 15°) pendant 24 à 48h après évacuation par trou de trépan permet au cerveau atrophique de se ré-expanser contre la voûte, prévient le pneumocéphale compressif et **réduit drastiquement le taux de récidive** !
+> - **Toujours Laisser un Drain Sous-Dural Clos :** L'essai princeps de **Santarius (The Lancet 2009)** a prouvé que la mise en place d'un drain sous-dural clos déclive pendant 48 heures **diminue le taux de récidive de plus de moitié (de 24 % à 9 %)** et réduit significativement la mortalité à 6 mois.
+> - **La Dexaméthasone est DÉLÉTÈRE (Essai Dex-CSDH) :** Le grand essai randomisé du NEJM (2020) a démontré que la dexaméthasone n'améliore pas le pronostic fonctionnel, majore lourdement les complications infectieuses/métaboliques et augmente la mortalité ; **ne PAS utiliser de corticoïdes en routine dans l'HSDc** !
+> - **L'Embolisation de l'AMM est la Révolution Récente :** L'embolisation trans-artérielle de **l'Artère Méningée Moyenne (AMM)** en neuroradiologie interventionnelle dévascularise la néo-membrane externe ; les grands essais de 2024 (**EMBOLISE, MAGIC-MT**) ont prouvé qu'elle réduit massivement les récidives en complément de la chirurgie ou en monothérapie dans les formes peu symptomatiques.
 
 > [!attention]- Présentation Clinique
-> **Classification Clinique de Markwalder :**
-> - **Grade 0 :** Asymptomatique (découverte fortuite d'imagerie).
-> - **Grade 1 :** Patient alerte, céphalées modérées ou ralentissement psychomoteur discret.
-> - **Grade 2 :** Somnolence, désorientation, déficits focaux fluctuants (hémiparésie, aphasie).
-> - **Grade 3 :** Stupeur, réponse uniquement aux stimuli nociceptifs, hémiplégie franche.
-> - **Grade 4 :** Coma aréactif, rigidité de décérébration ou de décortication.
-> 
-> **Tableaux Cliniques Révélateurs**
-> - Détérioration cognitive subaiguë, confusion, apathie, troubles mnésiques (faisant évoquer à tort une maladie d'Alzheimer à début brutal).
-> - Troubles de l'équilibre, chutes inexpliquées à répétition.
-> - Déficit moteur hémicorporel ou aphasie fluctuante simulant des AIT répétés.
-> - Céphalées tenaces d'apparition progressive, résistantes aux antalgiques.
+> **Anamnèse**
+>
+> - Terrain : Sujet âgé ($ge 65–70$ ans), éthylisme chronique, patients sous **anticoagulants ou antiagrégants plaquettaires**, ou porteurs de valves de dérivation de LCR.
+> - **Traumatisme Crânien Ancien Minime :** Choc banal contre un meuble ou chute de sa hauteur survenu **3 à 8 semaines auparavant** (jusqu'à 30 à 50 % des patients n'ont **aucun souvenir du traumatisme initial** !).
+> - **Symptômes Neuropsychiatriques Fluctuants :** Ralentissement idéatoire, apathie, somnolence, baisse mnésique subaiguë, inversion du rythme veille-sommeil.
+> - **Déclin Fonctionnel et Moteur :** Instabilité posturale, chutes répétées, claudication motrice, parésie brachio-faciale unilatérale trompeuse mimant un AIT.
+> - **Céphalées Sourdes Diffuses :** Plus marquées au réveil ou lors de la flexion antérieure du tronc.
+>
+> **Examen Physique**
+>
+> - **État Mental :** Désorientation temporo-spatiale, inattention, ralentissement psychomoteur.
+> - **Examen Moteur :** **Signe du pronateur (décollement unilatéral de la main)**, déficit moteur hémicorporel asymétrique modéré, réflexes ostéotendineux vifs et **signe de Babinski unilatéral**.
+> - **Examen de la Marche :** Démarche précautionneuse à petits pas traînants, instable, ataxique.
+> - **Examen Pupillaire :** Symétrique au stade initial ; l'anisocorie (mydriase homolatérale) traduit un engagement uncal terminal menaçant.
 
 > [!check]- Critères Diagnostiques
-> - **Signes Tomodensitométriques :** Collection extra-axiale en croissant hypodense ou isodense au parenchyme cérébral le long de la convexité (aspect hétérogène "en niveau" traduisant un resaignement subaigu au sein d'un hématome chronique).
-> - Effet de masse avec effacement des sillons corticaux, écrasement du ventricule latéral et déviation de la ligne médiane $> 5\text{ mm}$.
+>
+> - **Hématome Sous-Dural Chronique à la TDM Cérébrale Sans Injection :** Mise en évidence scanographique d'une collection extra-axiale en croissant épousant la convexité cérébrale, à tonalité **majoritairement hypodense (sombre, densité proche du liquide cérébrospinal)**, franchissant les sutures osseuses, limitée par la faux du cerveau et la tente du cervelet, évoluant depuis **$ge 21$ jours** ou encapsulée par des **néo-membranes**.
 
 > [!fail]- Examens Complémentaires
-> - **Scanner Cérébral sans injection (Examen de Référence) :** Diagnostic rapide montrant la collection sous-durale en croissant, son volume, son caractère unilatéral ou bilatéral et le degré d'engagement sous-falcoriel.
-> - **IRM Cérébrale :** Très sensible pour identifier les formes isodenses au scanner, visualiser les membranes internes cloisonnées et apprécier les composantes subaiguës en T1 et T2.
-> - **Bilan d'Hémostase en Urgence :** TP, INR, TCA, plaquettes, anti-Xa (l'antagonisation des anticoagulants est obligatoire avant tout geste chirurgical).
+> **Imagerie Tomodensitométrique (Standard de Référence)**
+>
+> - **TDM Cérébrale Sans Injection :**
+>   - _Aspects de Densité :_
+>     - **Hypodense Typique :** Collection sombre traduisant la liquéfaction complète de l'hématome.
+>     - **Isodense (Subaigu-chronique, 2–4 semaines) :** Même densité que le cortex sous-jacent (reconnu par l'effacement des sillons corticaux et la déviation des cavités ventriculaires).
+>     - **Densité Mixte ("Niveau Hématocrite / Sédimentation") :** Phase liquide hypodense supérieure surnageant au-dessus d'un sédiment cellulaire hyperdense déclive postérieur.
+>     - **Hémorragie Aiguë sur Chronique :** Plages hyperdenses fraîches au sein d'une collection chronique hypodense préexistante.
+>   - _Évaluation de l'Effet de Masse :_ Mesure de **l'épaisseur maximale de l'hématome (mm)** et de la **déviation de la ligne médiane (mm)** au niveau du septum pellucidum ; compression du ventricule latéral.
+>
+> **Imagerie Complémentaire Spécialisée**
+>
+> - **IRM Cérébrale avec Injection :** Utile si la TDM est douteuse (HSDc isodense) ou pour cartographier des néo-membranes internes épaisses et cloisonnées (T1 montre un signal intermédiaire/élevé ; T2/FLAIR hypersignal liquidien avec hyposignal membranaire périphérique).
+> - **Artériographie Cérébrale (DSA) :** Réalisée lors de **l'Embolisation de l'Artère Méningée Moyenne (AMM)** ; montre une opacification capillaire "cotonneuse" diffuse le long de la néo-membrane dural externe.
+>
+> **Bilan Biologique d'Urgence**
+>
+> - **Bilan d'Hémostase STAT :** TP/INR, TCA, Numération plaquettaire (indispensable pour neutraliser les antithrombotiques).
+> - **Ionogramme Sanguin :** Dépistage d'une hyponatrémie associée (aggrave l'œdème et freine la ré-expansion cérébrale postopératoire).
 
-> [!bug]- Signes d'Alerte (Red Flags)
-> - Aggravation brutale de la vigilance (coma).
-> - Mydriase unilatérale (engagement temporal uncal).
-> - Resaignement hyperdense aigu massif intralésionnel ("hématome aigu sur chronique").
-> - Déviation de la ligne médiane $> 10\text{ mm}$ avec effacement des citernes de la base.
+> [!bug]- Drapeaux Rouges
+>
+> - **Dégradation neurologique brutale ou chute du GCS $ge 2$ points** (saignement **aigu sur chronique** surajouté).
+> - **Déviation de la ligne médiane $ge 5	ext{ mm}$** ou épaisseur $ge 10	ext{ mm}$ avec obnubilation.
+> - **Mydriase unilatérale fixe aréactive** (engagement uncal imminent).
+> - **Traitement anticoagulant en cours (AVK, AOD)** ou thrombopénie sévère ($<50,000/mu	ext{L}$) face à une lésion compressive.
 
 > [!todo]- Diagnostics Différentiels
-> - AVC Ischémique constitué ou AIT à répétition.
-> - Démence d'évolution rapide (Alzheimer, Creutzfeldt-Jakob, démence à corps de Lewy).
-> - Hygrome sous-dural post-traumatique (collection de LCR pur sans néo-membranes vascularisées).
-> - Encéphalopathie métabolique ou syndrome confusionnel toxique du sujet âgé.
+> **Urgences Lésionnelles et Vasculaires**
+>
+> - **Hématome Sous-Dural Aigu :** Blanc éclatant (hyperdense) ; traumatisme violent datant de moins de 3 jours ; lésions parenchymateuses sévères sous-jacentes.
+> - **Hygrome Sous-Dural :** Épanchement de LCR clair xanthochromique sous-dural par brèche arachnoïdienne sans sang ; **densité strictement identique au LCR (0–10 UH)**, absence de néo-membranes.
+> - **AVC Ischémique / AIT :** Topographie systématisée à un territoire artériel en séquence de diffusion IRM ; absence de collection extra-axiale au scanner.
+>
+> **Affections Médicales Fréquentes**
+>
+> - **Démence d'Alzheimer ou Vasculaire :** Déclin cognitif très progressif, sans fluctuation journalière marquée, sans collection extra-axiale.
+> - **Hydrocéphalie à Pression Normale (HPN) :** Triade marche/incontinence/démence ; TDM montrant une ventriculomégalie sans épanchement sous-dural.
+> - **Syndrome Confusionnel Métabolique ou Infectieux (Infection urinaire, pneumopathie).**
 
-> [!summary]- Prise en Charge Thérapeutique
-> **1. Antagonisation des Antithrombotiques**
-> - Arrêt et neutralisation immédiate de tout anticoagulant :
->   - Sous AVK : Complexe prothrombinique (PPSB $25–50\text{ UI/kg}$) + Vitamine K $10\text{ mg}$ IV lente.
->   - Sous AOD : Antidote spécifique ou PPSB non activé à forte dose.
->   - Sous antiagrégants : Transfusion plaquettaire $\pm$ Desmopressine (DDAVP) avant le geste opératoire.
-> 
-> **2. Évacuation Neurochirurgicale**
-> - **Trous de Trépan (Burr-Hole Craniostomy, Traitement de Choix) :** Un ou deux trous de trépan en regard de l'épaisseur maximale de l'hématome, incision durale et de la membrane externe, lavage doux au sérum tiède jusqu'à obtention d'un liquide limpide, puis mise en place d'un **drain sous-dural souple en système clos déclive maintenu pendant 24 à 48 heures**.
-> - **Mini-Volet Crânien :** Réservé aux hématomes multiseptés, très organisés avec coques épaisses empêchant la réexpansion cérébrale.
-> - **Consignes Postopératoires :** Décubitus dorsal strict pendant 24 heures, hydratation abondante pour regonfler le parenchyme cérébral.
-> 
-> **3. Embolisation de l'Artère Méningée Moyenne (AMM)**
-> - Indiquée en première intention dans les formes modérément symptomatiques, chez les patients à très haut risque anesthésique ou en cas de récidive après chirurgie. L'occlusion par microparticules ou colle détruit le contingent vasculaire responsable du saignement.
-> 
-> **4. Traitement Médical Conservateur**
-> - *Dexaméthasone :* L'essai randomisé DEX-CSDH a démontré que les corticoïdes augmentent la survenue d'infections et d'effets indésirables sévères sans améliorer le pronostic fonctionnel. **La dexaméthasone n'est PAS recommandée en routine**.
+> [!summary]- Prise en Charge
+> **Objectifs Thérapeutiques**
+>
+> - **Cible Principale :** Lever la compression cérébrale symptomatique, favoriser la ré-expansion durable du parenchyme et **minimiser le risque de récidive ($<10%$)** avec une morbidité périopératoire minimale.
+> - **Cible Secondaire :** Réintroduire en toute sécurité les anticoagulants ou antiagrégants nécessaires sans provoquer de nouveau saignement.
+>
+> **Urgences Vitales Immédiates**
+>
+> - **Neutraliser immédiatement toute anticoagulation** dès la confirmation d'un HSDc symptomatique :
+>   - **Sous AVK :** Administrer **Concentré de Complexe Prothrombinique (CCP 4F : 25–50 UI/kg IV) PLUS Vitamine K 10 mg IV lente** (cibler INR $<1,3$).
+>   - **Sous Anti-Xa (Apixaban, Rivaroxaban) :** Administrer **Andexanet alfa** (ou CCP 4F 50 UI/kg IV).
+>   - **Sous Dabigatran :** Administrer **Idarucizumab (5 g IV)**.
+> - **Intubation et osmothérapie (SSH 3 %)** en cas d'engagement débutant ou de coma (GCS $le 8$) pendant l'acheminement au bloc opératoire.
+>
+> **Traitement Neurochirurgical (Standard de Référence dans l'HSDc Symptomatique)**
+>
+> - **Indications Opératoires :**
+>   1. Présence d'un déficit neurologique focal, de troubles cognitifs ou de céphalées invalidantes (Score de Markwalder $ge 1$).
+>   2. **Épaisseur de l'hématome $ge 10	ext{ mm}$** OU **déviation médiane $ge 5	ext{ mm}$** au scanner.
+> - **1. Évacuation par Trou(s) de Trépan avec Lavage Abondant au Sérum Tiédi (Gold Standard) :**
+>   - Un ou deux trous de trépan en regard de l'épaisseur maximale ; incision et coagulation de la néo-membrane externe et de la dure-mère, puis rinçage doux au sérum physiologique tiédi jusqu'à obtention d'un liquide de retour parfaitement clair.
+> - **2. Pose Obligatoire d'un Drain Sous-Dural Clos Déclive pendant 24 à 48 Heures :**
+>   - Cathéter souple sous-dural extériorisé par contre-incision, relié à une poche de recueil sans aspiration maintenue au niveau de la tête (réduit le taux de récidive de ~24 % à $<9%$).
+> - **3. Repos Strict en Décubitus Dorsal À PLAT (0° à 15°) pendant 24 à 48 Heures :**
+>   - Maintien à plat jusqu'à l'ablation du drain ; prévient le pneumocéphale sous tension et favorise l'accolement cortical à la dure-mère.
+> - **Minivolet Crânien ou Craniotomie :** Strictement réservé aux hématomes solides calcifiés anciens ou aux néo-membranes multi-cloisonnées non drainables par trous de trépan.
+>
+> **Nouvelle Approche Endovasculaire : Embolisation de l'AMM**
+>
+> - **Embolisation Transcathéter de l'Artère Méningée Moyenne (AMM) par Agents Liquides (Onyx, Squid) ou Microparticules :**
+>   - **En Complément de la Chirurgie :** Réduit le taux de récidive postopératoire de $>10–15%$ à $<2–4%$ chez les patients à haut risque.
+>   - **En Monothérapie Première :** Alternative remarquable chez les patients paucisymptomatiques ou trop fragiles pour une anesthésie chirurgicale.
+>
+> **Surveillance des Formes Asymptomatiques**
+>
+> - **Surveillance Clinique et TDM Hebdomadaire/Bimensuelle** pour les hématomes de **petite taille ($<10	ext{ mm}$)** avec **déviation médiane minime ($<5	ext{ mm}$)** chez un patient sans anomalie neurologique (Grade de Markwalder 0).
+>
+> **Reprise de l'Anticoagulation**
+>
+> - **Reprendre l'anticoagulation ou l'antiagrégation indispensable entre 2 et 4 semaines postopératoires**, sous réserve d'un scanner de contrôle confirmant l'évacuation satisfaisante, l'absence de récidive hémorragique et la ré-expansion cérébrale.
 
 > [!warning]- Contre-indications & Pièges
-> - **NE JAMAIS OMETTRE LE DRAIN SOUS-DURAL :** L'absence de drain triple le risque de récidive postopératoire.
-> - **Ne pas asseoir le patient immédiatement après l'opération :** La position assise crée un appel d'air (pneumocéphale compressif) et favorise la récidive de l'hématome.
-> - **Ne pas reprendre les anticoagulants trop précocement :** Respecter un délai minimal de 2 à 4 semaines après vérification scannographique.
+>
+> - **Proscrire la Dexaméthasone en Routine dans l'HSDc**, l'essai international de référence (**Dex-CSDH Trial**) ayant démontré que les corticoïdes ne diminuent pas le recours à la chirurgie et augmentent significativement les infections sévères et la mortalité à 6 mois !
+> - **Proscrire la Surélévation de la Tête (>30°) dans les 24 à 48 Heures Suivant l'Évacuation par Trou de Trépan**, la position proclive créant un vide qui favorise le **pneumocéphale compressif sous tension et la récidive hémorragique** (toujours maintenir le patient **à plat** !).
+> - **Proscrire les Antiépileptiques Prophylactiques Systématiques**, le risque de crise étant faible ($<5%$) et les molécules sédatives altérant la vigilance du sujet âgé.
+> - **Proscrire Toute Aspiration en Pression Négative sur le Drain Sous-Dural**, l'aspiration risquant de déchirer les veines corticales et de provoquer une **hémorragie sous-durale aiguë peropératoire cataclysmique** (drainage déclive gravitaire exclusif).
+> - **Ne Pas Reprendre l'Anticoagulation durant les 7 à 14 Premiers Jours Post-Op**, afin de permettre la cicatrisation des néo-membranes vascularisées.
 
 > [!error]- Complications
-> - Récidive de l'hématome (5 à 15% des cas, plus fréquente en cas de bilatéralité ou d'antiagrégants).
-> - Pneumocéphale compressif sous tension (signe du Mont Fuji au scanner).
-> - Crises d'épilepsie postopératoires.
-> - Empyème sous-dural infectieux.
+>
+> - **Récidive de l'Hématome (10 à 20 %) :** Ré-expansion incomplète ou saignement persistant des néo-membranes $ightarrow$ reprise chirurgicale ou **embolisation de l'AMM**.
+> - **Pneumocéphale Sous Tension (Signe du Mont Fuji) :** Air sous-dural comprimant les deux lobes frontaux $ightarrow$ oxygénothérapie à 100 %, repos à plat, ponction évacuatrice si engagement.
+> - **Hémorragie Aiguë sur Chronique :** Déchirure de vaisseaux néo-membranaires immatures $ightarrow$ coma brutal et hyperdensité au scanner $ightarrow$ ré-intervention chirurgicale d'extrême urgence.
+> - **Empyème Sous-Dural / Infection de Paroi :** Infection nosocomiale du trajet de drainage.
 
-> [!success]- Scénario Clinique Typique
-> Un homme de 78 ans, traité par apixaban pour une fibrillation auriculaire, est conduit aux urgences par sa famille pour un ralentissement psychique progressif depuis 15 jours, des chutes répétées et une confusion fluctuante. Sa fille se rappelle une chute bénigne dans les escaliers un mois plus tôt. Depuis 24 heures, le patient est très somnolent, avec une paralysie faciale centrale droite et un déficit moteur discret du bras droit (score de Markwalder Grade 2). Le scanner cérébral montre une volumineuse collection sous-durale chronique hémisphérique gauche de 22 mm d'épaisseur, d'allure hétérogène (hématome subaigu sur chronique), déviant la ligne médiane de 11 mm vers la droite. L'apixaban est neutralisé en urgence par PPSB. Deux trous de trépan sont réalisés sous sédation et anesthésie locale ; le lavage évacue un liquide noir sous pression d'aspect "huile de vidange" et un drain sous-dural souple en système clos est laissé en place. Le patient reste à plat pendant 36 heures. Le drain est retiré à J2. Dès le surlendemain, la vigilance et le déficit moteur régressent complètement et le scanner de contrôle confirme la réexpansion harmonieuse du cerveau.
+> [!success]- Cas Clinique Typique
+> Un homme de 77 ans suivi pour fibrillation auriculaire sous apixaban consulte pour un syndrome confusionnel d'aggravation progressive depuis 3 semaines, une apathie, une démarche instable avec chutes répétées et un signe du pronateur gauche à l'examen. Sa fille se rappelle qu'il s'est heurté la tête contre le montant d'une portière de voiture 5 semaines auparavant (**traumatisme minime oublié**). La TDM cérébrale sans injection révèle une volumineuse collection extra-axiale en croissant **hypodense de 18 mm d'épaisseur sur toute la convexité fronto-pariéto-temporale droite avec déviation de 7 mm de la ligne médiane et compression du ventricule latéral (Hématome Sous-Dural Chronique)**. L'apixaban est immédiatement neutralisé par **Andexanet alfa**, et il bénéficie d'une **évacuation par deux trous de trépan avec rinçage abondant au sérum tiédi et pose d'un drain sous-dural clos déclive**. Il est maintenu **strictement à plat au lit pendant 24 heures** ; le drain est retiré à J2, avec régression intégrale des troubles cognitifs et de la marche, et l'apixaban est réintroduit en toute sécurité 3 semaines plus tard.
 
-> [!example]- Références
-> - **Santarius T et al. (Lancet 2009) :** Use of drains in surgical management of chronic subdural hematoma: a randomized trial.
-> - **Hutchinson PJ et al. (NEJM 2020) :** Trial of dexamethasone for chronic subdural hematoma (DEX-CSDH).
-> - **Société Française de Neurochirurgie (SFNC) :** Prise en charge de l'hématome sous-dural chronique de l'adulte.
+> [!info] Expérience Personnelle
+
+> [!example]- Ressources
+>
+> - A Randomized Trial of Dexamethasone in Chronic Subdural Hematoma (Dex-CSDH Trial) — New England Journal of Medicine — 2020 — https://www.nejm.org/doi/full/10.1056/NEJMoa2020473
+> - Use of Subdural Drains for Chronic Subdural Hematoma: A Randomized Controlled Trial (Santarius Trial) — The Lancet — 2009 — https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61199-2/fulltext
+> - Middle Meningeal Artery Embolization for Chronic Subdural Hematoma (EMBOLISE Trial) — New England Journal of Medicine — 2024 — https://www.nejm.org/doi/full/10.1056/NEJMoa2314341

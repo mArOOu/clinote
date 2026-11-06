@@ -1,107 +1,154 @@
 ---
 Type: Emergency
-Tags: [Neurosurgery, Critical_Care, Emergency_Medicine, Neurology]
-Aliases: [Acute Hydrocephalus, Raised ICP, Intracranial Hypertension, Brain Herniation, EVD, Hydrocephalus]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Acute Obstructive Hydrocephalus, External Ventricular Drainage (EVD), Brain Herniation Syndromes, Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)]
-First Aid: "Elevate head of bed 30°, IV Hypertonic Saline (3% 250 mL) or Mannitol (20% 1 g/kg), Neutral neck alignment, Sedation and intubation if GCS ≤ 8, Immediate emergent External Ventricular Drain (EVD)"
-Compare: [[Hydrocephalus]], [[Traumatic Brain Injury]], [[Aneurysmal Subarachnoid Hemorrhage]]
+Tags: [Neurosurgery, Neurology, Emergency_Medicine, Critical_Care]
+Aliases: [Raised ICP, Increased Intracranial Pressure, Intracranial Hypertension, Non-Communicating Hydrocephalus, Obstructive Hydrocephalus, Herniation Syndromes]
+Discipline: Neurosurgery
+Sub Pathologies: [Obstructive Hydrocephalus, Communicating Hydrocephalus, Brain Herniation Syndromes, Colloid Cyst of Third Ventricle]
+First Aid: Elevate Head of Bed 30° with midline neck, administer 3% Hypertonic Saline 250 mL or Mannitol 20% STAT, emergency neurosurgical consult for External Ventricular Drain (EVD), absolute contraindication to lumbar puncture
+Compare: [[Traumatic Intracranial Hemorrhage]], [[Intracerebral Hemorrhage]], [[Acute Severe Headache]]
 Reviewed: 2026-11-06
 ---
 
 > [!abstract] Acute Hydrocephalus & Raised Intracranial Pressure
-> Acute life-threatening imbalance between intracranial contents and the rigid skull vault, governed by the **Monro-Kellie hypothesis**. Acute hydrocephalus results from sudden blockage of cerebrospinal fluid (CSF) flow (non-communicating / obstructive) or acute failure of CSF absorption (communicating). Elevated intracranial pressure ($\text{ICP} > 20–22\text{ mmHg}$) severely compromises cerebral perfusion pressure ($\text{CPP}$) and precipitates fatal brain herniation syndromes if not immediately treated with medical osmotherapy and surgical CSF diversion.
+> **Raised Intracranial Pressure (ICP):** Sustained elevation of intracranial vault pressure **$>20–22	ext{ mmHg}$** resulting from mass lesions, brain edema, or hydrocephalus, precipitating cerebral ischemia and fatal brain herniation.
+> **Acute Hydrocephalus:** Rapid, abnormal accumulation of cerebrospinal fluid (CSF) within the ventricular system caused by physical outflow obstruction (**Obstructive / Non-Communicating**) or impaired arachnoid resorption (**Communicating**), leading to life-threatening acute ventriculomegaly.
 
 > [!note] Pathophysiology
-> - **The Monro-Kellie Doctrine:**
->   - The intracranial vault has a fixed total volume comprising **Brain Parenchyma (80%)**, **Blood (10%)**, and **Cerebrospinal Fluid (10%)**.
->   - Addition of an abnormal volume (mass, hematoma, or excess CSF) initially causes compensatory displacement of CSF into the spinal subarachnoid space and venous blood into the internal jugular veins.
->   - Once spatial compensation is exhausted, the intracranial compliance curve steepens exponentially: tiny increases in volume cause catastrophic spikes in ICP.
-> - **Mechanisms of Acute Hydrocephalus:**
->   - *Obstructive (Non-communicating):* Sudden blockage of CSF pathways at the Foramen of Monro (colloid cyst), Cerebral Aqueduct of Sylvius (tectal glioma, hemorrhage, edema), or Fourth Ventricle outlet (posterior fossa hematoma or cerebellar stroke).
->   - *Communicating:* Acute blockage of arachnoid villi absorption by blood products (aneurysmal SAH, intraventricular hemorrhage) or purulent exudate (acute bacterial meningitis).
-> - **Herniation Syndromes:**
->   1. **Uncal (Lateral Transtentorial):** Medial temporal lobe herniates over tentorial incisura $\rightarrow$ ipsilateral CN III palsy (blown pupil) + contralateral hemiparesis.
->   2. **Central (Transtentorial):** Bilateral downward displacement of diencephalon and midbrain $\rightarrow$ small reactive pupils, Cheyne-Stokes respirations, progressing to decerebrate posturing.
->   3. **Subfalcine (Cingulate):** Cingulate gyrus herniates under the falx cerebri $\rightarrow$ compression of anterior cerebral arteries (ACA infarction).
->   4. **Tonsillar (Infratentorial):** Cerebellar tonsils herniate through foramen magnum $\rightarrow$ compression of medulla oblongata $\rightarrow$ Cushing's triad, respiratory arrest, and sudden death.
+>
+> - **Monro-Kellie Doctrine:** The rigid cranium has a fixed volume containing Brain (80%), Blood (10%), and CSF (10%). Once compensatory displacement of CSF into the spinal theca and venous blood into jugular veins is exhausted, **ICP rises exponentially** with small volume increments.
+> - **Cerebral Perfusion Pressure ($	ext{CPP} = 	ext{MAP} - 	ext{ICP}$):** Spikes in ICP directly diminish cerebral perfusion, precipitating secondary global cerebral ischemia (**target CPP 60–70 mmHg**).
 
 > [!tip]- Clinical PEARLS
-> - **The Normal ICP Thresholds:** Normal adult resting ICP is $5–15\text{ mmHg}$. Sustained $\text{ICP} > 20–22\text{ mmHg}$ warrants aggressive escalation of medical and surgical therapy.
-> - **Cerebral Perfusion Pressure Equation:**
->   $$\text{CPP} = \text{MAP} - \text{ICP}$$
->   Target CPP is strictly **60–70 mmHg**. CPP $< 50\text{ mmHg}$ causes massive cerebral ischemia; CPP $> 70\text{ mmHg}$ risks hyperemic cerebral edema and ARDS.
-> - **Cushing's Triad is a terminal warning:** Hypertension (widening pulse pressure), bradycardia, and irregular respirations occur *after* brainstem distortion has already begun.
-> - **Colloid Cyst of Third Ventricle:** Classic cause of sudden drop attacks and abrupt fatal acute obstructive hydrocephalus at the Foramen of Monro triggered by head position changes (ball-valve effect).
-> - **Papilledema takes time:** Papilledema takes 12–48 hours to develop; its absence *never* rules out hyperacute intracranial hypertension.
+>
+> - **Cushing Triad is a LATE / Terminal Emergency:** The triad of **(1) Severe Hypertension (widened pulse pressure)**, **(2) Bradycardia**, and **(3) Irregular/Apneic Respirations** signals severe brainstem compression and imminent herniation; never wait for Cushing's triad to treat raised ICP!
+> - **Colloid Cyst Drop Attacks:** A benign mucin-filled cyst at the **Foramen of Monro** causes episodic "drop attacks" (sudden leg buckling without loss of consciousness) and acute thunderclap headache classically triggered by **bending forward or Valsalva** due to "ball-valve" ventricular obstruction $ightarrow$ high risk of sudden death!
+> - **Temporal Horn Dilation is the Earliest Sign of Hydrocephalus:** Normal temporal horns of the lateral ventricles are slit-like and barely visible on CT; **temporal horn width $ge 2	ext{ mm}$** is the most sensitive early imaging indicator of acute hydrocephalus.
+> - **Hyperventilation is ONLY a 15-Minute Bridge:** Titrating $	ext{PaCO}_2$ to 30–35 mmHg induces cerebral vasoconstriction to drop ICP, but **prolonged hyperventilation (>1–2 hours) causes severe secondary cerebral ischemia/infarction**—use it strictly while wheeling the patient to the Operating Room!
+> - **Posterior Fossa EVD Trap:** Never place an isolated frontal External Ventricular Drain (EVD) for hydrocephalus secondary to a large cerebellar mass/infarct without planning a **suboccipital decompression**, as draining supratentorial CSF triggers fatal **Upward Transtentorial Herniation**!
+
+| Herniation Type | Displaced Brain Structure | Pathognomonic Clinical Features |
+| :--- | :--- | :--- |
+| **1. Uncal** (Transtentorial) | Medial temporal lobe uncus over the tentorial incisura | Ipsilateral dilated/fixed pupil (CN III) + contralateral hemiplegia; Duret hemorrhages |
+| **2. Central** (Transtentorial) | Downward displacement of diencephalon/midbrain | Progressive lethargy, small reactive pupils $ightarrow$ midpoint fixed pupils, decerebrate posturing |
+| **3. Subfalcine** (Cingulate) | Cingulate gyrus herniates under the falx cerebri | Contralateral leg weakness (Anterior Cerebral Artery [ACA] territory compression) |
+| **4. Tonsillar** ("Coning") | Cerebellar tonsils down through Foramen Magnum | Rapid medullary compression $ightarrow$ respiratory arrest, flaccid quadriplegia, instant death |
+| **5. Upward** (Infratentorial) | Cerebellum herniates UP through tentorium | Coma, pinpoint pupils, midbrain destruction (occurs when supratentorial EVD is placed) |
 
 > [!attention]- Clinical Presentation
-> **Symptoms**
-> - Severe generalized headache (worse supine, awakening patient from sleep, aggravated by coughing, bending, or Valsalva).
-> - Projectile vomiting (frequently without preceding nausea).
-> - Transient visual obscurations, diplopia (unilateral or bilateral **CN VI palsy** due to its long intracranial course under Dorello's canal—a "false localizing sign").
-> - Progressive lethargy, stupor, and coma.
-> 
-> **Signs of Decompensation**
-> - Progressive pupillary sluggishness to light leading to unilateral or bilateral fixed dilated pupils.
-> - Decorticate (flexor) progressing to decerebrate (extensor) posturing.
-> - Cushing's triad (hypertension, bradycardia, respiratory irregularity).
+> **History**
+>
+> - **Classic Raised ICP Headache:** Severe diffuse headache that is **worse when lying flat (recumbent)**, **worse in early mornings**, and exacerbated by coughing, sneezing, bending over, or Valsalva maneuvers.
+> - **Projectile Vomiting:** Sudden, explosive vomiting, often occurring in the morning **without preceding nausea**.
+> - **Visual Symptoms:** Transient visual obscurations (brief graying-out of vision with changes in posture) and binocular horizontal diplopia.
+> - **Altered Mental Status:** Progressive apathy, psychomotor slowing, somnolence, confusion, and coma.
+> - **Acute Hydrocephalus Triggers:** Intraventricular hemorrhage, aneurysmal SAH (blood clogging arachnoid villi), acute bacterial/cryptococcal meningitis, cerebellar stroke/hemorrhage, colloid cyst, or malfunction of a pre-existing VP shunt.
+>
+> **Physical**
+>
+> - **Fundoscopy:** **Papilledema** (blurring of optic disc margins, loss of spontaneous retinal venous pulsations, flame hemorrhages; takes 24–48 hours to fully develop, may be absent in hyperacute spikes).
+> - **Cranial Nerve VI Palsy:** Lateral rectus muscle weakness with impaired abduction (false-localizing sign due to long, vulnerable intracranial path of CN VI over the petrous ridge).
+> - **Parinaud Syndrome (Dorsal Midbrain Syndrome):** Dilated 3rd ventricle compressing the tectum $ightarrow$ **Upward gaze palsy**, convergence-retraction nystagmus on attempted upgaze, and light-near pupillary dissociation ("setting-sun" eyes).
+> - **Motor Signs:** Hyperreflexia, bilateral Babinski signs, progression from **decorticate (flexor) posturing** to **decerebrate (extensor) posturing** as brainstem compression deepens.
 
 > [!check]- Diagnostic Criteria
-> - **Neuroimaging Criteria for Acute Hydrocephalus:**
->   - **Evan's Index $> 0.30$** (ratio of maximum width of frontal horns to maximum internal diameter of skull).
->   - Ballooning / rounding of the frontal and temporal horns of lateral ventricles.
->   - Periventricular hypoattenuation on CT (or hyperintensity on T2/FLAIR MRI) indicating **transependymal CSF resorption/edema**.
-> - **Invasive ICP Measurement:** Intracranial catheter (EVD or intraparenchymal fiber-optic transducer) showing sustained values $> 20–22\text{ mmHg}$.
+>
+> - **Raised Intracranial Pressure:** Direct invasive measurement demonstrating an **ICP $>20–22	ext{ mmHg}$** sustained for $>5$ minutes (measured via an intraparenchymal catheter or fluid-coupled External Ventricular Drain [EVD]).
+> - **Acute Hydrocephalus on Neuroimaging (Non-Contrast Head CT):**
+>   - **Evans Index $>0.30$** (ratio of the maximum width of the frontal horns of the lateral ventricles to the maximum internal diameter of the skull at the same level).
+>   - **Bilateral Temporal Horn Dilation $ge 2	ext{ mm}$** in the absence of generalized cerebral atrophy.
+>   - **Periventricular Hypodensity ("Transependymal Edema"):** Interstitial fluid tracking into periventricular white matter due to high intraventricular pressure breaching the ependymal lining.
+>   - **Disproportionate Ventricular Expansion:** Ballooning of the 3rd and lateral ventricles with a normal/small 4th ventricle (**Aqueductal Stenosis / Non-Communicating**) OR symmetric enlargement of all 4 ventricles (**Communicating**).
 
 > [!fail]- Further Investigations
-> - **Non-Contrast Head CT (First-line):** Demonstrates ventricular enlargement, identifies the anatomical site of obstruction, detects intracranial hemorrhage or mass effect, and evaluates basal cistern effacement.
-> - **Brain MRI with Contrast & CISS/FIESTA sequences:** Detailed visualization of the aqueduct of Sylvius, posterior fossa, colloid cysts, tectal plate lesions, and basal arachnoid membranes.
-> - **Invasive ICP Monitoring (EVD):** External ventricular drain placed into the frontal horn of the lateral ventricle (Kocher's point) provides both continuous diagnostic measurement and immediate therapeutic CSF drainage.
+> **Initial Neuroimaging**
+>
+> - **Non-Contrast Head CT (NCCT):** **Mandatory immediate first-line imaging test** to assess ventricular caliber, identify mass effect, calculate Evans index, and screen for **effacement of the basal cisterns** (quadrigeminal, ambient, suprasellar cisterns; effacement signals impending herniation!).
+>
+> **Confirmatory & Etiologic Imaging**
+>
+> - **Brain MRI with and without IV Gadolinium (with CISS / FIESTA thin-slice sequences):** Gold standard to localize the precise site of obstruction (e.g., membranous aqueductal web, tectal glioma, tiny **colloid cyst of the 3rd ventricle**, or cysticercosis).
+>
+> **Invasive Monitoring & Therapeutic Access**
+>
+> - **External Ventricular Drain (EVD / Ventriculostomy):** Inserted into the frontal horn of the lateral ventricle (Kocher's point: 11 cm posterior from nasion, 3 cm lateral from midline); provides **simultaneous real-time continuous ICP monitoring AND therapeutic CSF drainage**.
+> - **Lumbar Puncture (LP):** **ABSOLUTELY CONTRAINDICATED in Non-Communicating (Obstructive) Hydrocephalus or Intracranial Mass Lesions** due to the extreme risk of precipitating fatal **brainstem tonsillar herniation ("coning")**! (LP is reserved _strictly_ for Communicating Hydrocephalus without mass effect [e.g., Cryptococcal meningitis, IIH]).
 
 > [!bug]- Red Flags
-> - Depressed level of consciousness (GCS drop $\ge 2$).
-> - Unilateral or bilateral fixed dilated pupil.
-> - Extensor motor posturing.
-> - Bradycardia with severe hypertension.
-> - Transependymal edema with effaced basal cisterns on CT.
+>
+> - **Glasgow Coma Scale $le 8$** or rapid acute decline in consciousness.
+> - **Unilateral or bilateral fixed, dilated pupil** (indicates CN III compression and active uncal/central herniation $ightarrow$ emergent OR / hyperosmolar therapy!).
+> - **Complete effacement of the basilar cisterns or sulcal flattening** on Head CT.
+> - **Cushing Triad** (Hypertension + Bradycardia + Irregular respirations).
+> - **Acute hydrocephalus in the setting of a Posterior Fossa Mass or Cerebellar Stroke/Hemorrhage**.
 
 > [!todo]- Differentials
-> - Idiopathic Intracranial Hypertension (Pseudotumor cerebri, normal ventricles in young obese female).
-> - Acute Cerebral Venous Sinus Thrombosis (CVST).
-> - Severe Hypertensive Encephalopathy.
-> - Acute Meningoencephalitis or Subarachnoid Hemorrhage without hydrocephalus.
+> **Life-Threatening Mimics**
+>
+> - **Malignant Cerebral Edema / Massive Hemispheric Stroke:** Diffuse hemispheric swelling without ventriculomegaly (ventricles are small and compressed).
+> - **Acute Intracerebral or Subarachnoid Hemorrhage:** Primary vascular hemorrhage triggering secondary hydrocephalus.
+>
+> **Most Likely Non-Emergent Mimics**
+>
+> - **Hydrocephalus Ex-Vacuo:** Compensatory, non-pathologic ventricular enlargement secondary to diffuse brain atrophy (Alzheimer's, advanced age); **normal ICP, no periventricular edema, Evans index elevated but accompanied by prominent cortical sulci**.
+> - **Normal Pressure Hydrocephalus (NPH):** Chronic communicating hydrocephalus in the elderly; triad of **"Wet, Wacky, and Wobbly"** (Urinary urgency/incontinence, Dementia, and Magnetic/Apraxic wide-based gait); normal or intermittently high opening pressure.
+> - **Idiopathic Intracranial Hypertension (Pseudotumor Cerebri):** Raised ICP in young obese females; papilledema, normal CSF composition, slit-like normal ventricles (NO hydrocephalus), elevated opening pressure ($>25	ext{ cmH}_2	ext{O}$).
 
 > [!summary]- Management
-> **1. Emergent Medical Stabilization (Tiered ICP Protocol)**
-> - **Positioning:** Elevate head of bed to 30° with head strictly in neutral midline position; remove tight neck collars.
-> - **Airway & Ventilation:** Intubation for GCS $\le 8$; maintain normocapnia ($\text{PaCO}_2\ 35–40\text{ mmHg}$) and $\text{SpO}_2 \ge 95\%$.
-> - **Osmotherapy:**
->   - *Hypertonic Saline (3% NaCl):* $250\text{ mL}$ IV bolus over 15 minutes (or 23.4% NaCl $30\text{ mL}$ in impending herniation). Target serum Na 145–155 mEq/L.
->   - *Mannitol 20%:* 0.5–1.0 g/kg IV bolus over 20 minutes (ensure serum osmolality $< 320\text{ mOsm/kg}$).
-> - **Brief Hyperventilation ($\text{PaCO}_2\ 30–35\text{ mmHg}$):** Strictly temporary bridge (20–30 minutes) only during active herniation while surgeon prepares for intervention.
-> - **Target Hemodynamics:** Maintain $\text{MAP} \ge 80–90\text{ mmHg}$ to preserve $\text{CPP} = \text{MAP} - \text{ICP} \ge 60\text{ mmHg}$.
-> 
-> **2. Neurosurgical CSF Diversion**
-> - **External Ventricular Drain (EVD) / Ventriculostomy:** Gold standard emergency treatment. Catheter placed into frontal horn of lateral ventricle via **Kocher's point** (1 cm anterior to coronal suture, 2.5–3 cm lateral to midline, in mid-pupillary line). Allows immediate controlled drainage of CSF against a pressure gradient (e.g., leveled at 10–15 cm H2O).
-> - **Endoscopic Third Ventriculostomy (ETV):** Definitive endoscopic fenestration of the floor of the 3rd ventricle into the prepontine cistern, highly effective for non-communicating aqueductal stenosis or tectal tumors.
-> - **Surgical Resection / Decompression:** Resection of obstructing posterior fossa mass, cerebellar infarct decompression (suboccipital craniectomy), or colloid cyst excision.
+> **Treatment Goals**
+>
+> - **Primary Target:** Rapidly lower ICP to **$<20–22	ext{ mmHg}$**, maintain **Cerebral Perfusion Pressure ($	ext{CPP} = 	ext{MAP} - 	ext{ICP}$) between 60 and 70 mmHg**, and immediately relieve CSF obstruction.
+> - **Secondary Target:** Prevent secondary ischemic and hypoxic brain injury, avoid uncal/tonsillar herniation, and transition to definitive permanent CSF diversion.
+>
+> **Immediate / Emergencies (Acute Herniation & Severe Intracranial Hypertension)**
+>
+> - **1. Secure Airway & Intubate:** **Perform Rapid Sequence Intubation if GCS $le 8$** or active herniation; maintain strict **normocarbia ($	ext{PaCO}_2	ext{ 35–40 mmHg}$)** and **$	ext{SpO}_2 ge 95%$**.
+> - **2. Administer Hyperosmolar Therapy Immediately:**
+>   - **Hypertonic Saline (3% NaCl bolus 250 mL IV over 15 min, or 23.4% NaCl 30 mL via central line over 10 min):** **First-line choice** (especially if hypotensive or hypovolemic; target serum sodium **145–155 mEq/L**; target serum osmolality $<360	ext{ mOsm/kg}$).
+>   - **IV Mannitol (0.5 to 1.0 g/kg IV bolus infused over 15–20 minutes):** Alternative in euvolemic/hypervolemic patients (target serum osmolality $<320	ext{ mOsm/kg}$ and osmolal gap $<20$).
+> - **3. Place an Emergent External Ventricular Drain (EVD):** **Call Neurosurgery STAT for bedside EVD ventriculostomy** to immediately vent CSF and monitor ICP in acute obstructive or communicating hydrocephalus (level the drain at the **Tragus / External Auditory Meatus** [Foramen of Monro] at a target height of 10–15 $	ext{cmH}_2	ext{O}$).
+> - **4. Temporary Rescue Hyperventilation ($	ext{PaCO}_2	ext{ 30–35 mmHg}$):** Utilize **strictly as a temporary bridge for <15–30 minutes** during acute uncal herniation (blown pupil) while transporting to the operating room.
+>
+> **Tiered Medical Protocol for Intracranial Hypertension (When ICP >22 mmHg)**
+>
+> - **Tier 1 (Base Neurocritical Care):**
+>   - **Elevate Head of Bed to 30°** with the patient's head in a neutral midline position (avoid tight endotracheal tube ties or neck twisting that compress the internal jugular veins).
+>   - Provide continuous **sedation and analgesia (Propofol + Fentanyl)** to eliminate agitation, coughing, and ventilator dyssynchrony.
+>   - Maintain strict **Normothermia (core temp <37.5°C)** with cooling devices (fever increases brain metabolic rate and cerebral blood volume!).
+>   - Maintain **MAP $ge 80–90	ext{ mmHg}$** (using IV fluids and Norepinephrine if needed) to ensure **CPP 60–70 mmHg**.
+> - **Tier 2 (Hyperosmolar Boluses & CSF Drainage):**
+>   - Re-bolus **3% Hypertonic Saline**; open EVD for continuous or intermittent drainage against a set pressure gradient.
+> - **Tier 3 (Refractory Intracranial Hypertension):**
+>   - **Induce High-Dose Barbiturate Coma (Pentobarbital or Thiopental)** to achieve continuous burst-suppression on continuous EEG (requires continuous vasopressors and arterial line).
+>   - **Perform Emergent Decompressive Craniectomy** (surgical removal of a large bone flap to convert the rigid cranium into an open system).
+>
+> **Definitive Neurosurgical Interventions for Hydrocephalus**
+>
+> - **Endoscopic Third Ventriculostomy (ETV):** Neuroendoscopic fenestration through the floor of the third ventricle into the interpeduncular cistern (**first-line definitive treatment for non-communicating Aqueductal Stenosis or tectal tumors**; avoids permanent foreign shunt hardware!).
+> - **Ventriculoperitoneal (VP) Shunt Placement:** Surgical implantation of a permanent subcutaneous catheter diverting CSF from the lateral ventricle to the peritoneal cavity for **communicating hydrocephalus** or failed ETV.
+> - **Microsurgical / Endoscopic Resection:** Immediate removal of an obstructing **Colloid Cyst of the third ventricle** or posterior fossa tumor.
 
 > [!warning]- Contraindications & Pitfalls
-> - **NEVER perform a Lumbar Puncture in acute obstructive hydrocephalus:** Creating a caudal pressure gradient causes immediate, fatal downward tonsillar herniation through the foramen magnum.
-> - **Avoid rapid over-drainage of CSF from an EVD:** Excessive drainage risks subdural hematoma formation from tearing of bridging veins or upward cerebellar herniation.
-> - **Avoid hypotonic IV solutions (5% Dextrose, 0.45% Saline):** Accelerates brain edema.
+>
+> - **Avoid Performing a Lumbar Puncture in Patients with Obstructive Hydrocephalus, Posterior Fossa Masses, or Intracranial Mass Effect**, as removing CSF from the lumbar cistern creates a massive craniospinal pressure gradient that **instantly triggers fatal Tonsillar Herniation ("coning")**!
+> - **Avoid Hypotonic IV Fluids (0.45% Saline, D5W, and Lactated Ringer's [mildly hypotonic])**, as free water rapidly crosses into swollen brain tissue, dramatically worsening **cerebral edema and ICP spikes** (use **0.9% Normal Saline** exclusively).
+> - **Avoid Prolonged Hyperventilation ($	ext{PaCO}_2 <30	ext{ mmHg}$)**, as intense cerebral vasoconstriction causes **catastrophic secondary cerebral ischemia and stroke**.
+> - **Avoid Rapid Systemic Blood Pressure Lowering** in patients with severely elevated ICP, as dropping the MAP directly collapses **Cerebral Perfusion Pressure ($	ext{CPP} = 	ext{MAP} - 	ext{ICP}$)** and causes brain death.
+> - **Avoid Placing a Supratentorial EVD Alone for Acute Cerebellar Strokes or Tumors WITHOUT Surgical Decompression of the Posterior Fossa**, to prevent fatal **Upward Transtentorial Herniation**.
 
 > [!error]- Complications
-> - Transtentorial, tonsillar, or subfalcine herniation with fatal brainstem infarction.
-> - EVD-related ventriculitis / bacterial meningitis (requires strict sterile management).
-> - Intraventricular hemorrhage from catheter tract.
-> - Cortical blindness from posterior cerebral artery (PCA) compression against tentorium.
+>
+> - **Brainstem Herniation & Duret Hemorrhages:** Transtentorial displacement shearing basilar artery perforators $ightarrow$ fatal brainstem infarction.
+> - **EVD-Related Ventriculitis / Meningitis:** Occurs in 5–10% of external drains (risk rises after 7–10 days) $ightarrow$ presents with fever, CSF pleocytosis, and high CSF lactate $ightarrow$ requires intrathecal and IV Vancomycin + EVD exchange.
+> - **Ventriculoperitoneal (VP) Shunt Malfunction / Infection:** Mechanical obstruction by choroid plexus/protein (presents with recurrent raised ICP symptoms) or infection by _Staphylococcus epidermidis_ $ightarrow$ requires shunt series X-ray, head CT, shunt tap, and neurosurgical revision.
+> - **Post-Decompression Subdural Hematoma:** Rapid venting of massive hydrocephalus causes the brain to collapse inward, tearing bridging veins.
 
 > [!success]- Typical Scenario
-> A 58-year-old man presents with sudden explosive occipital headache and ataxia while gardening. Over the next 90 minutes, he becomes increasingly somnolent, vomits repeatedly, and his GCS drops from 14 to 8. On examination, he is stuporous, withdraws to pain, has bilateral papilledema, a right abducens nerve palsy (CN VI), and a BP of 190/100 mmHg with a heart rate of 48 bpm. Emergent non-contrast head CT reveals a 4 cm acute right cerebellar hemisphere hemorrhage compressing the fourth ventricle, causing marked acute obstructive tri-ventricular hydrocephalus (Evans index 0.38) and periventricular transependymal edema. The patient is immediately intubated, receives 250 mL of 3% hypertonic saline, and is brought directly to the neurosurgical operating room. An emergent right frontal external ventricular drain (EVD) is placed, releasing CSF under high pressure and immediately decreasing ICP from 32 mmHg to 14 mmHg, followed by a suboccipital craniectomy and cerebellar hematoma evacuation. Postoperatively, his pupils remain briskly reactive and he regains consciousness on postoperative day 2.
+> A 36-year-old woman presents to the ED with a sudden, excruciating headache and projectile vomiting that developed while bending forward to tie her shoes. Over 30 minutes in the emergency department, she becomes progressively somnolent (GCS drops from 15 to 10), and vitals reveal BP 184/96 mmHg with HR 48 bpm (**Cushing Triad**). A STAT non-contrast Head CT reveals massive dilation of both lateral ventricles (**Evans index 0.42**) and severe temporal horn ballooning, with a 1.2-cm hyperdense rounded lesion obstructing the Foramen of Monro (**Colloid Cyst of the Third Ventricle**). She is immediately intubated, given a bolus of **250 mL of 3% Hypertonic Saline**, and taken emergently to the neurosurgical OR for **immediate placement of a right frontal External Ventricular Drain (EVD)**, successfully aborting herniation followed by endoscopic resection of the cyst.
+
+> [!info] Personal Experience
 
 > [!example]- Resources
-> - **Brain Trauma Foundation (BTF):** Monitoring and Management of Intracranial Pressure.
-> - **Neurocritical Care Society (NCS):** Emergency Neurological Life Support (ENLS) - Intracranial Hypertension and Herniation Protocol.
-> - **Marmarou et al. (J Neurosurg):** The pathophysiology of raised intracranial pressure and cerebral compliance.
+>
+> - Guidelines for the Management of Severe Traumatic Brain Injury: 4th Edition (ICP Thresholds & Management) — Brain Trauma Foundation — Neurosurgery 2017 — https://braintrauma.org/guidelines/guidelines-for-the-management-of-severe-tbi-4th-ed
+> - Emergency Neurological Life Support (ENLS): Intracranial Hypertension and Herniation Protocol — Neurocritical Care Society — 2020 — https://www.neurocriticalcare.org/education/enls/enls-protocols
+> - Guidelines for the Management of Adult Hydrocephalus — Congress of Neurological Surgeons (CNS) — Neurosurgery 2018 — https://www.cns.org/guidelines/guidelines-management-adult-hydrocephalus

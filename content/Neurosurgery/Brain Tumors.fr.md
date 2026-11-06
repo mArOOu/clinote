@@ -1,98 +1,163 @@
 ---
 Type: Chronic
-title: Tumeurs Cérébrales & Intracrâniennes
-Tags: [Neurochirurgie, Oncologie, Neurologie, Pathologie]
-Aliases: [Tumeurs Cérébrales, Néoplasmes Intracrâniens, Glioblastome, Méningiome, Métastases Cérébrales, Gliome, Adénome Hypophysaire, Schwannome Vestibulaire]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Gliomes de Haut Grade (Glioblastome), Méningiomes, Métastases Cérébrales, Adénomes Hypophysaires, Schwannome Vestibulaire / Neurinome de l'Acoustique]
-Compare: [[Spinal Tumors & Metastatic Cord Compression]], [[Acute Hydrocephalus & Raised Intracranial Pressure]]
+Tags: [Neurosurgery, Oncology, Neurology, Critical_Care]
+Aliases: [Tumeurs Cérébrales, Néoplasie Intracrânienne, Glioblastome, Méningiome, Métastases Cérébrales, Astrocytome]
+Discipline: Neurosurgery
+Sub Pathologies: [Glioblastome, Métastases Cérébrales, Méningiome, Oligodendrogliome, Lymphome Cérébral Primitif, Schwannome Vestibulaire]
+Compare: [[Intracerebral Hemorrhage]], [[Acute Hydrocephalus & Raised Intracranial Pressure]]
 Reviewed: 2026-11-06
 ---
 
-> [!abstract] Tumeurs Cérébrales & Intracrâniennes
-> Ensemble hétérogène de processus expansifs intracrâniens néoplasiques, divisés en **Tumeurs Secondaires (Métastases Cérébrales)** — les plus fréquentes chez l'adulte, issues de cancers bronchiques, mammaires, mélaniques, rénaux ou coliques — et **Tumeurs Primitives** (Méningiomes bénins, Gliomes et Glioblastomes malins). La prise en charge moderne associe chirurgie d'exérèse sous guidage fonctionnel et classification moléculaire intégrée selon l'OMS 2021.
+> [!abstract] Tumeurs Cérébrales
+> Masses néoplasiques développées au sein de la boîte crânienne, réparties principalement entre les **Métastases Cérébrales Secondaires (les plus fréquentes, ~50–60 % des tumeurs de l'adulte)** et les **Tumeurs Primitives du Système Nerveux Central (~40–50 %)**, caractérisées par des déficits neurologiques progressifs, des crises d'épilepsie et un **œdème vasogénique** potentiellement mortel lié à la rupture de la barrière hémato-encéphalique.
 
 > [!note] Physiopathologie
-> - **Gliomes Primitifs (Astrocytomes, Oligodendrogliomes, Glioblastomes) :**
->   - Développés aux dépens des cellules gliales. La classification OMS 2021 repose désormais sur le statut génétique et moléculaire :
->     - **Glioblastome IDH non muté (IDH-wildtype, Grade 4 OMS) :** Tumeur primitive maligne la plus agressive, caractérisée par une angiogenèse néomicrovasculaire anarchique, des nécroses en pseudopalissades, une mutation du promoteur de *TERT*, une amplification d'*EGFR* et des anomalies $+7/-10$.
->     - **Astrocytome IDH muté (Grades 2 à 4 OMS) :** De meilleur pronostic ; la délétion homozygote de *CDKN2A/B* classe d'emblée la lésion en Grade 4.
->     - **Oligodendrogliome IDH muté avec codélétion 1p/19q (Grades 2 et 3 OMS) :** Forte chimiosensibilité aux agents alkylants (protocole PCV ou témozolomide).
-> - **Tumeurs Extra-Axiales :**
->   - **Méningiome (Grades 1 à 3 OMS) :** Développé aux dépens des cellules méningothéliales arachnoïdiennes. Tumeur extra-axiale à croissance lente, refoulant le parenchyme cérébral, caractérisée par une prise de contraste homogène avec "queue de comète durale" (dural tail) et mutations fréquentes de *NF2*.
->   - **Schwannome Vestibulaire (Neurinome de l'acoustique) :** Tumeur bénigne de la gaine de Schwann du nerf vestibulaire supérieur au fond du conduit auditif interne et de l'angle ponto-cérébelleux.
->   - **Adénome Hypophysaire :** Tumeur bénigne de l'antéhypophyse intrasellaire ; responsable de compressions chiasmatiques (hémianopsie bitemporale) et d'hypersecrétions hormonales.
-> - **Œdème Vasogénique Périlésionnel :** Sécrétion de VEGF par la tumeur $\rightarrow$ rupture des jonctions serrées capillaires $\rightarrow$ fuite d'eau et de protéines dans la substance blanche cérébrale $\rightarrow$ syndrome d'HTIC.
+>
+> - **Règle Topographique Adulte vs Enfant :** Chez l'adulte, **~70 % des tumeurs sont Supratentorielles** (hémisphères cérébraux) ; chez l'enfant, **~70 % sont Infratentorielles** (fosse postérieure : Médulloblastome, Astrocytome pilocytique, Épendymome).
+> - **Œdème Cérébral Vasogénique :** Le **VEGF** sécrété par la tumeur altère les jonctions serrées des cellules endothéliales, permettant la fuite d'un plasma riche en protéines dans la substance blanche (extrêmement sensible à la **corticothérapie** !).
 
 > [!tip]- Perles Cliniques
-> - **Métastases vs. Glioblastome à l'IRM :**
->   - *Métastases :* Souvent multiples, rondes, bien délimitées, situées à la jonction substance blanche-substance grise, entourées d'un œdème vasogénique majeur disproportionné par rapport à la taille de la lésion.
->   - *Glioblastome :* Souvent volumineux, infiltrant, solitaire, traversant fréquemment le corps calleux ("gliome en ailes de papillon"), prenant le contraste en anneau épais festonné avec centre nécrotique.
-> - **La Dexaméthasone est le traitement de référence de l'œdème vasogénique :** Elle restaure l'imperméabilité de la barrière hémato-tumorale en inhibant le VEGF, résolvant les céphalées et les déficits focaux en 24 à 48 heures.
-> - **Première crise convulsive après 40 ans :** Doit être considérée comme une tumeur cérébrale jusqu'à preuve du contraire par IRM injectée.
-> - **Apoplexie Hypophysaire :** Nécrose hémorragique brutale d'un adénome hypophysaire $\rightarrow$ céphalée cataclysmique, chute de la vision, ophtalmoplégie et collapsus par insuffisance corticotrope aiguë (urgence médicale imposant l'hydrocortisone IV immédiate).
+>
+> - **La Dexaméthasone est "l'Arme Absolue" contre l'Œdème Vasogénique :** Contrairement à l'œdème de l'AVC ischémique (où les corticoïdes sont inefficaces), l'œdème vasogénique péri-tumoral régresse spectaculairement sous **Dexaméthasone (4 à 8 mg PO/IV 2 à 4×/j)** qui colmate les jonctions serrées en 24 à 48 heures ; associer un **IPP** pour gastroprotection.
+> - **DIFFÉRER les Corticoïdes en Cas de Suspicion de Lymphome Primitif :** Les corticoïdes sont directement lytiques pour les lymphocytes B et font disparaître la lésion ("tumeur fantôme") à l'IRM en 24 à 48h, rendant la biopsie stéréotaxique **strictement non contributive** !
+> - **Principaux Primitifs des Métastases Cérébrales (Moyen mémotechnique : Poumon > Sein > Mélanome > Côlon > Rein) :**
+>   - **Poumon (Petites cellules et non à petites cellules, ~50 %)** > **Sein (~15–20 %)** > **Mélanome (~10 %)** > Côlon > Rein.
+>   - _Métastases Cérébrales Hémorragiques :_ Mélanome, Carcinome à cellules rénales, Choriocarcinome, Thyroïde et cancer du poumon saignent fréquemment spontanément.
+> - **Les 3 Marqueurs Moléculaires Clés (Classification OMS 2021) :**
+>   1. **Mutation IDH1 / IDH2 :** Sépare les astrocytomes de bon pronostic du **Glioblastome IDH-sauvage** très agressif.
+>   2. **Co-délétion 1p/19q :** Marqueur obligatoire définissant **l'Oligodendrogliome** (aspect en "œuf au plat", chimiosensible).
+>   3. **Méthylation du Promoteur de la MGMT :** Le silençage épigénétique de l'enzyme de réparation MGMT prédit une **haute sensibilité à la chimiothérapie par Témozolomide (TMZ)**.
+> - **Pas de Prophylaxie Antiépileptique Systématique :** Les recommandations formelles de l'AAN **proscrivent les antiépileptiques préventifs** chez le patient sans crise clinique ; traiter uniquement après la première crise avérée.
+
+| Entité Tumorale | Rehaussement IRM & Morphologie | Histologie & Moléculaire | Essentiel du Traitement |
+| :--- | :--- | :--- | :--- |
+| **1. Métastases Cérébrales** (#1) | Multiples, bien limitées à la jonction SB/SG ; prise de contraste annulaire | Identique au primitif ; VEGF élevé | Radiochirurgie / Chirurgie + Thérapie ciblée |
+| **2. Glioblastome** (OMS Grade 4) | Prise de contraste annulaire épaisse hétérogène ; nécrose centrale ; franchit le corps calleux | Nécrose pseudopallissadique ; IDH-sauvage ; prolifération microvasculaire | Résection maximale + Protocole de Stupp (RT+TMZ) |
+| **3. Méningiome** (OMS Grade 1) | Extra-axial ; rehaussement homogène intense ; "Prise de contraste durale" (dural tail) | Corps de psammome ; cellules fusiformes en tourbillons | Surveillance si petit ; Exérèse complète |
+| **4. Lymphome Cérébral Primitif** | Masse périventriculaire dense homogène ; "tumeur fantôme" sous corticoïdes | Grand B diffus ; CD20+ ; associé à l'EBV | Méthotrexate haute dose + Rituximab (PAS DE CORTICOÏDES avant biopsie !) |
+| **5. Schwannome Vestibulaire** | Angle ponto-cérébelleux ; élargissement du conduit auditif interne | Cellules de Schwann S100+ ; Antoni A/B ; lié à NF2 | Chirurgie / Radiochirurgie ; Dépister NF2 |
 
 > [!attention]- Présentation Clinique
-> **Modes d'Entrée Révélateurs**
-> - **Déficit Neurologique Focal Subaigu :** Hémiparésie motrice progressive, aphasie d'expression ou de compréhension, apraxie ou amputation du champ visuel (quadranopsie, hémianopsie) selon la topographie lésionnelle.
-> - **Crises d'Épilepsie Inaugurales (30 à 50%) :** Crises focales motrices, sensitives ou visuelles, avec ou sans généralisation secondaire. Très fréquentes dans les gliomes de bas grade corticaux.
-> - **Syndrome d'HTIC d'Installation Progressive :** Céphalées sourdes matinales, résistantes aux antalgiques usuels, vomissements soulageant temporairement la douleur, ralentissement psychique et œdème papillaire.
-> - **Troubles du Comportement et Fonctions Supérieures :** Syndrome frontal (apathie, perte de l'inhibition sociale) ou troubles mnésiques temporaux.
-> - **Signes Endocriniens & Ophtalmologiques (Tumeurs Sellaires) :** Hémianopsie bitemporale par compression chiasmatique, aménorrhée-galactorrhée (adénome à prolactine), acromégalie ou syndrome de Cushing.
+> **Anamnèse**
+>
+> - **Céphalées Tumorales Typiques (~50 %) :** Céphalées sourdes, progressives, tenaces, **prédominant en fin de nuit / au petit matin** (par hypoventilation nocturne avec vasodilatation à l'hypercapnie), **aggravées par le décubitus ou les efforts de toux**, associées à des nausées et vomissements matinaux.
+> - **Crise d'Épilepsie Inaugurale de l'Adulte (~25–40 % des modes de découverte) :** Toute première crise comitiale focale ou généralisée chez un adulte $>35$ ans est une tumeur cérébrale jusqu'à preuve du contraire.
+> - **Déficits Neurologiques Focaux Progressifs :**
+>   - _Lobe Frontal :_ Apathie, aboulie, syndrome dys-exécutif, hémiparésie motrice controlatérale, aphasie d'expression (Broca).
+>   - _Lobe Temporal :_ Aphasie de compréhension (Wernicke), troubles mnésiques, quadranopsie supérieure homonyme ("pie-in-the-sky").
+>   - _Lobe Pariétal :_ Astéréognosie, extinction sensitive, héminégligence spatiale, syndrome de Gerstmann.
+>   - _Angle Ponto-Cérébelleux (Schwannome) :_ **Surdité de perception unilatérale progressive**, acouphènes continus et instabilité vestibulaire.
+>
+> **Examen Physique**
+>
+> - **Fond d'Œil :** **Œdème papillaire** bilatéral (flou des contours de la papille, disparition du pouls veineux).
+> - **Signes Pyramidaux Focaux :** Déficit moteur spastique unilatéral, réflexes vifs et signe de Babinski unilatéral.
+> - **Atteintes des Nerfs Crâniens :** Paralysie du VI (faux signe de localisation par HTIC) ; paralysie du III (engagement uncal).
 
 > [!check]- Critères Diagnostiques
-> - **Classification OMS 2021 des Tumeurs du Système Nerveux Central :** Diagnostic histomoléculaire intégré associant aspect anatomopathologique et statut génétique (*IDH1/2*, codélétion *1p/19q*, statut de méthylation du promoteur de *MGMT*, mutations *TERT*, altérations *H3K27M*).
-> - **Critères RANO (Response Assessment in Neuro-Oncology) :** Évaluation radiologique standardisée sur l'IRM post-thérapeutique.
+>
+> - **Diagnostic Neuropathologique de Certitude (Classification OMS 2021) :** Repose sur la **Biopsie Cérébrale ou l'Exérèse Chirurgicale** couplée à l'analyse moléculaire :
+>   - _Glioblastome IDH-sauvage (Grade 4 OMS) :_ Gliome astrocytaire diffus sans mutation IDH1/2 avec microprolifération vasculaire, nécrose OU signatures moléculaires (mutation du promoteur de _TERT_, amplification de _l'EGFR_, gain du chr 7/perte du chr 10).
+>   - _Oligodendrogliome (Grade 2/3 OMS) :_ Mutation IDH **PLUS co-délétion 1p/19q complète**.
+> - **Critères Radiologiques (IRM Cérébrale avec Gadolinium) :**
+>   - _Métastases Cérébrales :_ Nodules ronds multiples au niveau de la **jonction cortico-sous-corticale** avec œdème vasogénique digitiforme disproportionné.
+>   - _Méningiome :_ Masse extra-axiale à base d'implantation durale, prenant le contraste de façon **intense et homogène avec le signe du raccord dural ("dural tail")**.
 
 > [!fail]- Examens Complémentaires
-> - **IRM Cérébrale avec Injection de Gadolinium (Examen de Référence) :**
->   - Séquences T1 sans et avec injection 3D volumétrique, T2, T2-FLAIR, Diffusion (DWI).
->   - **Perfusion cérébrale (VSCr) :** Augmentation du volume sanguin cérébral relatif au sein des zones de haute néo-vascularisation tumorale (guide pour la biopsie).
->   - **Spectroscopie par Résonance Magnétique (SRM) :** Inversion du rapport Choline/NAA (augmentation de la choline, marqueur de prolifération membranaire ; effondrement du N-acétyl-aspartate, marqueur neuronal) et pic de lipides-lactates dans les zones de nécrose.
-> - **Bilan d'Extension Général :** Scanner thoraco-abdomino-pelvien injecté ou TEP-TDM au 18-FDG à la recherche du primitif devant toute suspicion de métastase.
-> - **Bilan Hypophysaire :** Dosage du cortisol à 8h, ACTH, TSH, T4L, Prolactine, IGF-1, LH/FSH devant toute masse de la loge sellaire.
+> **Imagerie Neuro-Oncologique de Référence**
+>
+> - **IRM Cérébrale avec et sans Injection de Gadolinium (T1, T2, FLAIR, T1 Gado, Diffusion, Perfusion) :**
+>   - **T1 + Gadolinium :** Cartographie la rupture de la barrière hémato-encéphalique (rehaussement nodulaire ou annulaire).
+>   - **T2 / FLAIR :** Délimite l'infiltration tumorale non rehaussée et **l'œdème vasogénique**.
+>   - **Séquence de Diffusion (DWI) :** Distingue un glioblastome nécrotique d'un **Abcès Cérébral à Pyogènes** (le centre de l'abcès montre une **restriction majeure en hypersignal franc sur la diffusion avec ADC noir effondré**, alors que la nécrose tumorale montre une diffusion facilitée).
+>
+> **Bilan d'Extension Systémique (Si Métastase Suspectée)**
+>
+> - **Scanner Thoraco-Abdomino-Pelvien (TAP) Injecté :** Détecte la néoplasie primitive occulte (poumon, rein, tube digestif).
+> - **TEP-TDM au 18-FDG & Examen dermatologique complet** (mélanome).
+> - **Mammographie** (cancer du sein).
+>
+> **Prélèvement Histologique Neurochirurgical**
+>
+> - **Biopsie Stéréotaxique à l'Aiguille :** Indiquée pour les tumeurs profondes inopérables (thalamus, tronc) ou en cas de suspicion de **Lymphome Primitif du SNC**.
+> - **Ponction Lombaire (Cytologie du LCR) :** Indiquée **UNIQUEMENT** en cas de suspicion de méningite carcinomateuse et **après avoir formellement éliminé tout risque d'engagement cérébral à l'IRM** !
 
-> [!bug]- Signes d'Alerte (Red Flags)
-> - Dégradation rapide de la vigilance ou engagement cérébral imminent.
-> - État de mal épileptique convulsif ou non convulsif.
-> - Baisse visuelle rapide ou apoplexie hypophysaire avec défaillance hémodynamique.
-> - Tumeur de la fosse postérieure avec hydrocéphalie obstructive aiguë.
+> [!bug]- Drapeaux Rouges
+>
+> - **Signes d'Engagement Cérébral Imminent :** Mydriase unilatérale fixe (engagement uncal), triade de Cushing, ou GCS $le 8$.
+> - **Hémorragie Intra-Tumorale Aiguë (Apoplexie Tumorale) :** Coma brutal ou céphalée explosive au sein d'une tumeur méconnue (**Mélanome, Cancer du Rein, Adénome Hypophysaire**).
+> - **État de Mal Épileptique** inaugural.
+> - **Déviation de la ligne médiane $ge 5	ext{ mm}$** ou effacement des citernes de la base.
 
 > [!todo]- Diagnostics Différentiels
-> - Abcès Cérébral bactérien ou fongique (diffusion hypersignale centrale avec chute franche de l'ADC).
-> - Lésion démyélinisante pseudomorale (Sclérose en Plaques pseudo-tumorale avec prise de contraste en anneau incomplet ouvert vers le cortex).
-> - AVC Ischémique subaigu (prise de contraste corticale gyrus-dépendante systématisée à un territoire artériel).
-> - Lymphome Primitif du SNC (prise de contraste dense, homogène, périventriculaire).
+> **Lésions Simulatrices Non Tumorales**
+>
+> - **Abcès Cérébral à Pyogènes :** Prise de contraste annulaire ; se distingue par une **restriction centrale majeure en diffusion (DWI blanc vif, ADC noir)**, une coque fine et régulière, et de la fièvre.
+> - **Lésion Démyélinisante Pseudotumorale (Sclérose en Plaques) :** Vaste plaque ($>2	ext{ cm}$) mimant un gliome ; se caractérise par un **rehaussement en anneau ouvert ("fer à cheval")** orienté vers le cortex, avec un œdème minime chez un sujet jeune.
+> - **Infarctus Cérébral Subaigu :** Rehaussement cortical gyriforme systématisé à un territoire artériel.
+> - **Empyème Sous-Dural ou Tuberculome / Neurocysticercose.**
 
-> [!summary]- Prise en Charge Thérapeutique
-> **1. Traitement Médical Symptomatique**
-> - **Contrôle de l'Œdème Vasogénique :** Dexaméthasone $4–8\text{ mg}$ x 2/j per os ou IV avec protecteur gastrique (décroissance progressive dès la résection chirurgicale).
-> - **Traitement Anticomitial :** Lévétiracétam (Keppra $500–1000\text{ mg}$ x 2/j) chez tout patient ayant présenté une crise. Pas de prescription systématique préventive chez le patient sans crise.
-> 
-> **2. Chirurgie d'Exérèse Neurochirurgicale**
-> - **Résection Maximale Sécurisée :** Objectif princeps dans les gliomes et les métastases pour prolonger la survie globale sans générer de déficit fonctionnel permanent.
-> - **Innovations Chirurgicales :** Neuronavigation stéréotaxique 3D, échographie peropératoire, fluorescence peropératoire à la 5-ALA (**Gliolan**) pour visualiser les limites des glioblastomes, et **Chirurgie Éveillée avec Cartographie Corticale et Sous-Corticale par stimulation électrique directe** pour les tumeurs en zones motrice ou du langage.
-> - **Voie Trans-Sphénoïdale Endoscopique :** Voie mini-invasive de référence pour l'exérèse des adénomes hypophysaires.
-> - **Biopsie Stéréotaxique :** Indiquée pour les tumeurs non résécables, profondes ou multicentriques afin d'obtenir un profil moléculaire.
-> 
-> **3. Traitements Adjuvants Oncologiques (Protocole de Stupp pour Glioblastome)**
-> - **Radio-Chimiothérapie Concomitante :** Radiothérapie conformationnelle fractionnée (60 Gy en 30 séances sur 6 semaines) associée à une chimiothérapie orale quotidienne par **Témozolomide (TMZ)** ($75\text{ mg/m}^2$), suivie de 6 cycles de TMZ adjuvant en monothérapie ($150–200\text{ mg/m}^2$ 5 jours par mois).
-> - *Méthylation du promoteur de MGMT :* Marqueur prédictif majeur d'une sensibilité accrue et d'un gain de survie sous témozolomide.
-> - **Radiochirurgie Stéréotaxique (Gamma Knife / CyberKnife) :** Traitement de choix des métastases cérébrales peu nombreuses ($1–4$ lésions), des récidives de méningiomes ou des petits schwannomes vestibulaires.
+> [!summary]- Prise en Charge
+> **Objectifs Thérapeutiques**
+>
+> - **Cible Principale :** Lever l'effet de masse et l'œdème vasogénique menaçant le pronostic vital, obtenir une **résection chirurgicale maximale sans déficit neurologique ajouté**, et contrôler les crises d'épilepsie.
+> - **Cible Secondaire :** Prolonger la survie sans progression et la survie globale via la radio-chimiothérapie tout en préservant l'autonomie et les fonctions cognitives (Score de Karnofsky $ge 70$).
+>
+> **Urgences Vitales Immédiates**
+>
+> - **Administrer de la Dexaméthasone (bolus de 10 mg IV, puis 4 à 8 mg IV/PO toutes les 6 à 12 heures)** immédiatement en cas d'œdème vasogénique symptomatique (**DIFFÉRER impérativement les corticoïdes si un Lymphome Cérébral Primitif est suspecté** jusqu'à réalisation de la biopsie !).
+> - **Osmothérapie par Sérum Salé Hypertonique 3 % ou Mannitol 20 %** en cas d'engagement ou de dégradation de vigilance.
+> - **Lévétiracétam IV (Keppra : 500 à 1 000 mg 2×/j)** immédiatement **UNIQUEMENT SI le patient a présenté une crise clinique** (pas de traitement préventif chez le patient asymptomatique).
+>
+> **Prise en Charge Curative du Glioblastome (Protocole de Stupp — Standard International)**
+>
+> - **1. Résection Chirurgicale Maximale Épargnant les Zones Éloquentes :** Exérèse macroscopiquement complète guidée par la neuronavigation et la **fluorescence peropératoire par acide 5-aminolévulinique (5-ALA)**.
+> - **2. Radio-Chimiothérapie Concomitante (Semaines 1 à 6) :**
+>   - **Radiothérapie Externe Conformationnelle Focale (60 Gy en 30 fractions)** PLUS **Témozolomide oral quotidien (TMZ : 75 mg/m²/jour)** pendant 6 semaines.
+>   - _Prophylaxie de la Pneumocystose :_ Prescrire **Bactrim (TMP-SMX) 3×/semaine** durant cette phase.
+> - **3. Chimiothérapie Adjuvante d'Entretien (Semaines 10 à 36) :**
+>   - **Témozolomide oral (150–200 mg/m²/j pendant 5 jours consécutifs tous les 28 jours, pour 6 cycles)** $pm$ **Champs Électriques Antimitotiques (TTFields / Optune)**.
+>
+> **Prise en Charge des Métastases Cérébrales**
+>
+> - **Métastases Uniques ou Oligométastases (1 à 4 lésions) :**
+>   - **Radiochirurgie Stéréotaxique Ciblée (SRS / Gamma Knife / CyberKnife)** (irradiation focale à haute dose épargnant le parenchyme sain et préservant les fonctions cognitives).
+>   - **Exérèse Chirurgicale suivie d'une Radiochirurgie du Lit Tumoral** pour les lésions volumineuses symptomatiques ($>3	ext{ cm}$) responsables d'effet de masse.
+> - **Métastases Multiples Cérébrales ($>5–10$ lésions) :**
+>   - **Radiothérapie Pan-Cérébrale (WBRT : 30 Gy en 10 fractions)** avec **protection hippocampique** PLUS **Mémantine (20 mg/j)**.
+>   - Privilégier les **Thérapies Ciblées à Haute Pénétration Cérébrale** (Osimertinib pour CBNPC muté _EGFR_, Trastuzumab-déruxtécan pour cancer du sein _HER2+_, Dabrafénib+Tramétinib pour mélanome muté _BRAF_).
+>
+> **Méningiomes et Lymphomes Cérébraux Primitifs**
+>
+> - **Méningiome (Grade 1 OMS) :**
+>   - _Asymptomatique / Petit ($<2–3	ext{ cm}$) :_ Surveillance IRM annuelle.
+>   - _Symptomatique ou Évolutif :_ **Exérèse Microchirurgicale Complète (Simpson Grade 1)** emportant la zone d'implantation durale.
+> - **Lymphome Primitif du SNC (LPSNC) :**
+>   - **L'Exérèse Chirurgicale Ouverte est CONTRE-INDIQUÉE (Biopsie Stéréotaxique à l'Aiguille UNIQUEMENT !).**
+>   - **Chimiothérapie d'Induction à Haute Dose de Méthotrexate (HD-MTX $ge 3,5	ext{ g/m}^2$ IV) PLUS Rituximab** $ightarrow$ consolidation par autogreffe de cellules souches (ASCT).
 
 > [!warning]- Contre-indications & Pièges
-> - **NE JAMAIS DÉBUTER DE CORTICOÏDES AVANT UNE BIOPSIE SI UN LYMPHOME EST SUSPECTÉ :** Les corticoïdes provoquent une lyse lymphocytaire tumorale rapide ("tumeur fantôme") rendant la biopsie stéréotaxique négative et ininterprétable.
-> - **Pas de ponction lombaire** sans imagerie cérébrale préalable injectée (risque d'engagement fatal).
+>
+> - **Proscrire Formellement les Corticoïdes AVANT la Biopsie en Cas de Suspicion de Lymphome Primitif du SNC**, car ils entraînent une fonte tumorale ultra-rapide aboutissant à une biopsie blanche faussement négative ("tumeur fantôme") retardant la chimiothérapie vitale.
+> - **Proscrire la Prescription Systématique d'Antiépileptiques chez les Patients sans Antécédent de Crise**, en raison de leur toxicité cognitive, hépatique et cutanée sans bénéfice démontré.
+> - **Proscrire les Antiépileptiques Inducteurs Enzymatiques (Phénytoïne, Carbamazépine, Phénobarbital)** chez les patients traités pour une tumeur cérébrale, car ils augmentent l'élimination hépatique des chimiothérapies et de la dexaméthasone (utiliser **exclusivement le Lévétiracétam**).
+> - **Proscrire la Ponction Lombaire en Présence d'une Masse Intracrânienne**, qui précipite un **engagement amygdalien mortel**.
+> - **Proscrire la Chirurgie Ouverte Résectrice dans le Lymphome Primitif**, qui majore la morbidité neurologique sans gain de survie par rapport à la biopsie stéréotaxique suivie de chimiothérapie.
 
 > [!error]- Complications
-> - Hémorragie intra-tumorale aiguë (apoplexie, saignement spontané de glioblastome).
-> - Maladie thromboembolique veineuse (phlébite et embolie pulmonaire à incidence très élevée chez les patients porteurs de gliome malin).
-> - Radionécrose tardive vs. récidive tumorale vraie (pseudo-progression précoce post-Stupp).
+>
+> - **Engagements Cérébraux du Tronc Cérébral :** Décompensation de l'HTIC $ightarrow$ osmothérapie d'urgence et décompression chirurgicale.
+> - **Maladie Thromboembolique Veineuse (TVP & EP) :** Survient chez **20 à 30 % des patients porteurs de gliomes malins** $ightarrow$ traitée par **HBPM curative (Énoxaparine)** ou **AOD** (_la présence d'une tumeur cérébrale n'est PAS une contre-indication absolue à l'anticoagulation curative en l'absence de saignement actif !_).
+> - **Pseudoprogression :** Augmentation transitoire du rehaussement et de l'œdème survenant **dans les 3 mois suivant la fin de la radio-chimiothérapie**, traduisant une réaction inflammatoire radique et non une vraie récidive tumorale $ightarrow$ poursuivre le témozolomide ; contrôle par IRM de perfusion.
+> - **Radionécrose Cérébrale :** Lésion nécrotique tardive survenant **6 à 24 mois** après radiochirurgie stéréotaxique $ightarrow$ traitée par **Dexaméthasone** ou **Bévacizumab (Avastin)**.
 
-> [!success]- Scénario Clinique Typique
-> Un enseignant de 61 ans droitier est amené par son épouse pour des difficultés croissantes à trouver ses mots (manque du mot), des céphalées matinales depuis un mois et une crise convulsive focale de la main droite survenue la veille. L'examen met en évidence une aphasie anomique discrète et un discret déficit moteur facial droit. L'IRM cérébrale injectée objective une volumineuse lésion temporale postérieure gauche de 4,5 cm, prenant le contraste en anneau hétérogène et festonné autour d'un centre nécrotique, bordée d'un important œdème vasogénique au contact de l'aire de Wernicke. Après introduction de Dexaméthasone (8 mg x 2/j) et de Lévétiracétam, il bénéficie d'une résection chirurgicale en condition éveillée avec cartographie peropératoire du langage et guidage par fluorescence 5-ALA. Une exérèse subtotale sans nouveau déficit neurologique est réalisée. L'analyse anatomopathologique et moléculaire confirme un Glioblastome IDH non muté, Grade 4 OMS avec promoteur de MGMT méthylé. Il entame le protocole radio-chimiothérapique de Stupp avec une excellente autonomie fonctionnelle à 2 ans de recul.
+> [!success]- Cas Clinique Typique
+> Un homme de 62 ans consulte pour des céphalées matinales progressives depuis 3 semaines, une apathie et une première crise tonico-clonique généralisée inaugurale. À l'examen, on objective une discrète paralysie faciale centrale gauche, un signe du pronateur au membre supérieur gauche et un signe de Babinski gauche. L'IRM cérébrale injectée révèle une **masse hétérogène de 5 cm de diamètre centrée sur la substance blanche fronto-pariétale droite, avec prise de contraste annulaire épaisse, vaste nécrose centrale, œdème vasogénique digitiforme étendu et déviation de la ligne médiane de 6 mm sous la faux**. Une dose de charge de **Lévétiracétam IV (1 000 mg 2×/j)** est injectée, de la **Dexaméthasone (8 mg PO 2×/j)** est débutée pour lever l'effet de masse, et il bénéficie d'une **exérèse chirurgicale éveillée macroscopiquement complète**. L'analyse anatomopathologique et moléculaire confirme un **Glioblastome IDH-sauvage avec promoteur de MGMT méthylé (Grade 4 OMS)** ; il quitte l'hôpital à J3 pour débuter le **Protocole de Stupp (radiothérapie + témozolomide concomitant quotidien)**.
 
-> [!example]- Références
-> - **Louis DN et al. (Neuro-Oncology 2021) :** The 2021 WHO Classification of Tumors of the Central Nervous System.
-> - **Stupp R et al. (NEJM 2005) :** Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma.
-> - **Société Française de Neurochirurgie (SFNC) & ANOCEF :** Recommandations nationales de prise en charge des tumeurs gliales de l'adulte.
+> [!info] Expérience Personnelle
+
+> [!example]- Ressources
+>
+> - The 2021 WHO Classification of Tumors of the Central Nervous System: A Summary — Neuro-Oncology — 2021 — https://academic.oup.com/neuro-oncology/article/23/8/1231/6311214
+> - NCCN Clinical Practice Guidelines in Oncology: Central Nervous System Cancers — National Comprehensive Cancer Network — 2024 — https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1425
+> - Radiotherapy plus Concomitant and Adjuvant Temozolomide for Glioblastoma (Stupp Protocol) — New England Journal of Medicine — 2005 — https://www.nejm.org/doi/full/10.1056/NEJMoa043330

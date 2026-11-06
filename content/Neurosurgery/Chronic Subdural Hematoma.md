@@ -1,99 +1,153 @@
 ---
 Type: Chronic
-Tags: [Neurosurgery, Geriatrics, Trauma, Neurology]
-Aliases: [CSDH, Chronic Subdural Hematoma, Chronic SDH, Subdural Hygroma, Burr-Hole Evacuation]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Bilateral Chronic Subdural Hematoma, Subacute-on-Chronic SDH, Burr-Hole Craniostomy with Subdural Drain, Middle Meningeal Artery (MMA) Embolization]
-Compare: [[Traumatic Intracranial Hemorrhage]], [[Acute Altered Mental Status & Encephalopathy]], [[Acute Ischemic Stroke & TIA]]
+Tags: [Neurosurgery, Neurology, Geriatrics, Emergency_Medicine]
+Aliases: [cSDH, Chronic Subdural, Subdural Hygroma, Neo-membrane Subdural]
+Discipline: Neurosurgery
+Sub Pathologies: [Acute-on-Chronic Subdural Hematoma, Subdural Hygroma, Bilateral Chronic Subdural Hematoma]
+Compare: [[Traumatic Intracranial Hemorrhage]], [[Acute Altered Mental Status & Encephalopathy]]
 Reviewed: 2026-11-06
 ---
 
 > [!abstract] Chronic Subdural Hematoma
-> Encapsulated, liquefied collection of dark altered blood products within the subdural space over the cerebral hemisphere, presenting $> 3\text{ weeks}$ after minimal or trivial head trauma. Highly prevalent in elderly patients with age-related cerebral atrophy and therapeutic anticoagulation or antiplatelet use. Known as the **"Great Neurological Mimicker"** in geriatric medicine due to its insidious presentation mimicking dementia, depression, Parkinsonism, or recurrent ischemic strokes.
+> Encapsulated extra-axial collection of blood degradation products and serous fluid located between the dura mater and arachnoid membrane, persisting for **$ge 21$ days** following trivial or unnoticed head trauma, driven by a self-propagating cycle of **neo-membrane angiogenesis and recurrent microhemorrhage** in the elderly.
 
 > [!note] Pathophysiology
-> - **Initial Insult:** Trivial blunt head trauma (often forgotten by the patient weeks prior) causes slight brain displacement, stretching and tearing fragile **cortical bridging veins** in the enlarged subdural space created by cerebral parenchymal atrophy.
-> - **Neomembrane Formation & Self-Perpetuating Expansion:**
->   - The initial micro-hematoma triggers an intense local inflammatory response on the inner surface of the dura.
->   - Granulation tissue organizes into vascularized **outer and inner neomembranes** lined with abnormally fragile, hyperpermeable sinusoidal fenestrated capillaries.
->   - Excessive release of **VEGF**, tissue plasminogen activator (tPA), and inflammatory cytokines induces a continuous cycle of **microvascular leakage, hyperfibrinolysis, and recurrent micro-hemorrhages** into the encapsulated subdural fluid, causing relentless enlargement.
+>
+> - **Bridging Vein Shear:** Age-related or alcohol-induced cerebral cortical atrophy widens the subdural space, placing chronic mechanical tension on **bridging cortical veins** draining into the superior sagittal sinus $ightarrow$ minor trauma tears a vein.
+> - **Self-Propagating Angiogenesis:** Dural border cells proliferate to form vascularized **outer and inner neo-membranes** fed by branches of the **Middle Meningeal Artery (MMA)**; immature endothelial gap junctions leak continuously + high local fibrinolytic and inflammatory mediators (VEGF, tissue plasminogen activator) drive **repetitive microbleeding and osmotic fluid accumulation**, progressively expanding the mass over weeks to months.
 
 > [!tip]- Clinical PEARLS
-> - **The "Burr-Hole with Closed-System Subdural Drain" Rule:** Level 1 evidence (Santarius et al., Cambridge trial) proved that leaving a soft subdural drain for 48 hours post-burr hole evacuation cuts recurrence in half (from $24\%$ down to $9\%$) and reduces 6-month mortality.
-> - **Postoperative Positioning:** Patients should be kept flat in bed (0–15°) for 24–48 hours postoperatively with the drain leveled beneath the head to prevent air influx and allow the re-expanding brain to obliterate the subdural dead space.
-> - **Middle Meningeal Artery (MMA) Embolization:** Paradigm-shifting minimally invasive endovascular therapy. Particle or liquid embolization of the MMA occludes the arterial blood supply to the fragile capillary neomembrane, starving the cycle of re-bleeding and promoting spontaneous resorption.
-> - **Motor Fluctuations:** Symptoms characteristically fluctuate day-to-day ("lucid days alternating with confused days"), distinguishing CSDH from a fixed ischemic stroke.
+>
+> - **"The Great Neurological Mimicker":** In older adults, cSDH rarely presents with severe headache; it classically presents with **fluctuating confusion**, progressive apathy, memory loss, gait instability/falls, or mild hemiparesis, frequently misdiagnosed as **"dementia," "delirium," or "TIA"**!
+> - **Keep FLAT for 24 to 48 Hours Post-Op:** Keeping the patient completely flat in bed (0° to 15° supine) for 24–48 hours after burr-hole drainage allows the atrophic brain to re-expand against the skull, eliminates pneumocephalus, and **drastically reduces hematoma recurrence**!
+> - **Always Leave a Closed Subdural Drain:** The landmark **Santarius trial (2009)** proved that placing a closed-system subdural drain for 48 hours post-evacuation **reduces recurrence by more than half (from 24% to 9%)** and significantly reduces 6-month mortality.
+> - **Dexamethasone is HARMFUL (Dex-CSDH Trial):** The landmark NEJM trial (2020) demonstrated that routine dexamethasone fails to improve functional outcomes, causes more adverse infections/hyperglycemia, and increases mortality; **do NOT use corticosteroids as standard therapy for cSDH**!
+> - **MMA Embolization is the Modern Breakthrough:** Transcatheter **Middle Meningeal Artery (MMA) Embolization** devascularizes the leaky outer neo-membrane; landmark 2024 trials (**EMBOLISE, MAGIC-MT**) proved it dramatically cuts recurrence when paired with surgery or used as primary therapy for minimally symptomatic collections.
 
 > [!attention]- Clinical Presentation
-> **Markwalder's Grading Scale of Clinical Severity:**
-> - **Grade 0:** Neurologically intact (incidental radiological finding).
-> - **Grade 1:** Alert, oriented, mild headache or slight cognitive slowing.
-> - **Grade 2:** Drowsy, disoriented, variable focal neurological deficits (hemiparesis, dysphasia).
-> - **Grade 3:** Stuporous, responds only to noxious stimuli, severe hemiplegia.
-> - **Grade 4:** Comatose, non-responsive, decerebrate or decorticate posturing.
-> 
-> **Common Clinical Syndromes**
-> - Subacute cognitive decline, confusion, progressive apathy, and memory deficits (frequently misdiagnosed as rapid-onset dementia).
-> - Unsteady gait, frequent falls, and balance impairment.
-> - Fluctuating hemiparesis or expressive aphasia mimicking transient ischemic attacks (TIAs).
-> - Dull, persistent, progressive holocranial headache.
+> **History**
+>
+> - Demographic: Older adults (age $ge 65–70$), chronic alcohol use disorder, patients on **anticoagulation or antiplatelet therapy**, or CSF shunting (causes brain decompression).
+> - **Remote Trivial Head Trauma:** Minor bump against a cupboard or ground-level fall occurring **3 to 8 weeks prior** (up to 30–50% of patients have **no recollection of any head trauma**!).
+> - **Fluctuating Neuropsychiatric Symptoms:** Waxing and waning confusion, somnolence, apathy, personality change, and subacute memory decline.
+> - **Motor & Functional Decline:** Progressive unsteadiness, frequent falls, gait ataxia, limb weakness, or transient focal neurologic spells mimicking TIAs.
+> - **Dull, Global Headache:** Often worse in the mornings or when bending forward.
+>
+> **Physical**
+>
+> - **Mental Status:** Inattention, psychomotor slowing, disorientation, or executive dysfunction.
+> - **Motor / Reflex Exam:** Contralateral **pronator drift**, mild asymmetric hemiparesis, hyperreflexia, and positive unilateral **Babinski sign**.
+> - **Gait:** Shuffling, wide-based, unsteady, or apraxic gait.
+> - **Pupillary Exam:** Typically symmetric; anisocoria (ipsilateral uncal pupillary dilation) indicates advanced, life-threatening mass effect.
 
 > [!check]- Diagnostic Criteria
-> - **CT Criteria:** Crescentic extra-axial collection along the hemispheric convexity that is characteristically **hypodense or isodense** compared to brain parenchyma (or mixed-density "hematocrit effect" showing dependent hyperdense clotted blood and non-dependent hypodense supernatant fluid in subacute-on-chronic rebleeding).
-> - Significant mass effect demonstrated by effacement of sulci, lateral ventricle compression, and midline shift $> 5\text{ mm}$.
+>
+> - **Chronic Subdural Hematoma (NCCT Head):** Radiologic demonstration on Non-Contrast Head CT of an extra-axial, crescentic, predominantly **hypodense (dark gray/black) fluid collection** tracking along the cerebral convexity, crossing cranial sutures, confined by dural reflections (falx/tentorium), associated with an interval of **$ge 21$ days** from initial trauma or the presence of mature encapsulating **neo-membranes**.
 
 > [!fail]- Further Investigations
-> - **Non-Contrast Head CT (Gold Standard for Diagnosis):** Readily identifies hypodense/isodense crescentic collection. Look specifically for bilateral hematomas, internal trabeculations/membranes, and midline shift.
-> - **Brain MRI with Contrast:** Highly sensitive for subacute-on-chronic components and visualizing enhancing neo-membranes.
-> - **Coagulation Testing:** INR, aPTT, platelet count, anti-Xa level (anticoagulant and antiplatelet reversal is mandatory prior to operative intervention).
+> **Initial Neuroimaging**
+>
+> - **Non-Contrast Head CT (NCCT — Gold Standard):**
+>   - _Density Patterns:_
+>     - **Hypodense (Classic Chronic):** Fluid collection is dark (near-CSF density), reflecting completely liquified blood degradation products.
+>     - **Isodense (Subacute-Chronic, 2–4 weeks):** Attenuation matches the underlying gray matter cortex (can be missed without careful inspection of effaced sulci and ventricular displacement!).
+>     - **Mixed-Density ("Hematocrit / Sedimentation Sign"):** Dark liquified fluid layered superiorly with hyperdense cellular sediment in the dependent posterior portion.
+>     - **Acute-on-Chronic Bleed:** Bright hyperdense fresh blood pockets within or surrounding a dark, hypodense chronic collection.
+>   - _Mass Effect Assessment:_ Measure **maximum hematoma thickness (mm)** and **midline shift (mm)** at the level of the septum pellucidum; note compression of the lateral ventricle or basal cisterns.
+>
+> **Diagnostic Staging & Specialized Imaging**
+>
+> - **Brain MRI with and without IV Gadolinium:** Indicated if CT is equivocal (isodense cSDH) or to visualize thick, multi-loculated internal neo-membranes; T1 shows high/intermediate signal; T2/FLAIR shows hyperintense fluid with hypointense peripheral membranes.
+> - **Catheter Cerebral Angiography (Digital Subtraction Angiography [DSA]):** Performed during **Middle Meningeal Artery (MMA) Embolization**; shows extensive "cotton-wool" microvascular capillary blush along the outer dural membrane.
+>
+> **Laboratory Diagnostics**
+>
+> - **STAT Coagulation Panel:** **PT/INR, aPTT, Platelet count, Type and Screen** (mandatory to uncover occult coagulopathy or reverse active antithrombotics).
+> - **Basic Metabolic Panel:** Screen for hyponatremia (worsens cerebral edema and delays post-op brain re-expansion).
 
 > [!bug]- Red Flags
-> - Progressive lethargy or acute drop in GCS.
-> - Unilateral pupillary dilation (impending uncal herniation).
-> - Acute neurological deterioration from sudden fresh hyperdense rebleeding ("acute-on-chronic" bleed).
-> - Massive midline shift $> 10\text{ mm}$ with compressed basal cisterns.
+>
+> - **Acute neurological deterioration or acute GCS drop $ge 2$ points** (signals fresh **acute-on-chronic rebleeding**).
+> - **Midline shift $ge 5	ext{ mm}$** or hematoma thickness $ge 10	ext{ mm}$ with progressive somnolence.
+> - **Unilateral dilated, non-reactive pupil** (impending uncal herniation).
+> - **Active therapeutic anticoagulation (Warfarin, DOACs)** or severe thrombocytopenia ($<50,000/mu	ext{L}$) in the presence of mass effect.
 
 > [!todo]- Differentials
-> - Acute Ischemic Stroke or Recurrent TIAs.
-> - Rapidly Progressive Dementia (Alzheimer's, Creutzfeldt-Jakob, Lewy body).
-> - Subdural Hygroma (traumatic CSF collection in subdural space without neomembranes).
-> - Severe Sepsis or Delirium in elderly patients.
-> - Brain Metastasis or primary malignant glioma.
+> **Life-Threatening & Structural Mimics**
+>
+> - **Acute Subdural Hematoma:** Bright white (hyperdense) on CT; severe high-energy acute trauma within $<3$ days; severe underlying brain parenchymal injury.
+> - **Subdural Hygroma:** Collection of clear, xanthochromic CSF in the subdural space caused by an arachnoid tear without blood; **attenuation matches CSF identically (0–10 HU)**, no neo-membranes.
+> - **Acute Ischemic Stroke / TIA:** Vascular territorial distribution on DWI-MRI; no extra-axial fluid on CT.
+>
+> **Most Likely Non-Emergent Mimics**
+>
+> - **Alzheimer's or Vascular Dementia:** Slowly progressive, insidious, non-fluctuating cognitive decline without extra-axial fluid collections.
+> - **Normal Pressure Hydrocephalus (NPH):** Triad of gait ataxia, urinary incontinence, and dementia; CT shows **ventriculomegaly with Evans index $>0.30$ and NO subdural collection**.
+> - **Delirium secondary to systemic infection (UTI/Pneumonia) or medication toxicity**.
 
 > [!summary]- Management
-> **1. Reversal of Antithrombotic Agents**
-> - Immediately hold and reverse all anticoagulants:
->   - Warfarin: 4-Factor PCC + IV Vitamin K.
->   - Direct Oral Anticoagulants (DOACs): Specific antidotes (Idarucizumab, Andexanet alfa) or high-dose 4-factor PCC.
->   - Antiplatelets (Aspirin, Clopidogrel): Platelet transfusion $\pm$ DDAVP before urgent burr-hole evacuation.
-> 
-> **2. Neurosurgical Evacuation**
-> - **Burr-Hole Craniostomy (BHC, Treatment of Choice):** One or two burr holes drilled over the maximal hematoma thickness (usually coronal and parietal), cruciate incision of dura and outer neomembrane, gentle warm saline irrigation until effluent is crystal clear, followed by insertion of a **closed-system subdural catheter drain left for 24–48 hours**.
-> - **Minisite Craniotomy:** Reserved for multi-septated or solid organized recurrent hematomas with thick membranes preventing brain re-expansion.
-> - **Postoperative Regimen:** Keep patient flat in bed for 24 hours, encourage liberal oral/IV hydration to promote brain re-expansion, avoid early mobilization.
-> 
-> **3. Endovascular Middle Meningeal Artery (MMA) Embolization**
-> - First-line therapy for minimally symptomatic patients, high surgical-risk patients, or as an adjunct to surgery to eradicate recurrence. Embolization with liquid embolic agents (Onyx / Squid) or PVA microparticles obliterates membrane feeder vessels.
-> 
-> **4. Medical Management (Adjuvant / Conservative)**
-> - *Dexamethasone:* Historical medical therapy; recent randomized trials (DEX-CSDH trial) showed dexamethasone reduced recurrences but caused significantly higher systemic adverse events, infections, and worse 6-month functional outcomes. **Routine dexamethasone is NOT recommended**.
-> - *Tranexamic Acid (TXA) / Atorvastatin:* Investigational agents currently in trials to reduce vascular leakage.
+> **Treatment Goals**
+>
+> - **Primary Target:** Relieve symptomatic mass effect and brain compression, promote durable brain re-expansion, and **minimize hematoma recurrence ($<10%$)** while minimizing perioperative morbidity.
+> - **Secondary Target:** Safely bridge and resume essential anticoagulation/antiplatelets without precipitating rebleeding.
+>
+> **Immediate / Emergencies**
+>
+> - **Reverse all anticoagulation immediately** upon diagnosis of symptomatic cSDH:
+>   - **Warfarin:** Administer **4-Factor Prothrombin Complex Concentrate (4F-PCC: 25–50 units/kg IV) PLUS 10 mg IV Vitamin K** immediately (target INR $<1.3$).
+>   - **Factor Xa Inhibitors (Apixaban, Rivaroxaban):** Administer **Andexanet alfa** (or **4F-PCC 50 units/kg IV**).
+>   - **Dabigatran:** Administer **Idarucizumab (5 g IV)**.
+> - **Intubate for airway protection** if the patient is comatose (GCS $le 8$) or exhibits uncal herniation (blown pupil), and administer a bolus of **3% Hypertonic Saline (250 mL IV)** while transporting directly to the operating room.
+>
+> **Neurosurgical Operative Management (First-Line for Symptomatic cSDH)**
+>
+> - **Indications for Surgical Evacuation:**
+>   1. Presence of focal neurological deficits, cognitive impairment, or disabling headache (Markwalder Grade $ge 1$).
+>   2. **Hematoma thickness $ge 10	ext{ mm}$** OR **midline shift $ge 5	ext{ mm}$** on CT.
+> - **1. Perform Burr-Hole Craniostomy (BHC) with Copious Warm Saline Irrigation (Gold Standard):**
+>   - One or two burr holes placed over the site of maximum hematoma thickness; the outer neo-membrane and dura are coagulated and incised, and the subdural cavity is washed out gently with warm normal saline until the effluent is completely clear.
+> - **2. Place a Closed-System Subdural Drain for 24 to 48 Hours (MANDATORY):**
+>   - Insert a soft, non-suction subdural catheter exiting through a separate puncture, attached to a closed collection bag kept at or slightly below head level (reduces recurrence from ~24% down to $<9%$).
+> - **3. Enforce Strict Flat Bedrest (0° to 15° Supine) for 24 to 48 Hours Postoperatively:**
+>   - Keep the patient supine/flat until the drain is removed; prevents pneumocephalus and allows the brain to re-expand against the skull.
+> - **Perform Small Craniotomy or Mini-Craniotomy** ONLY for thick, organized, solid calcified hematomas or dense multi-loculated neo-membranes that cannot be irrigated via burr holes.
+>
+> **Modern Endovascular Intervention: MMA Embolization**
+>
+> - **Perform Transcatheter Middle Meningeal Artery (MMA) Embolization (using liquid embolic agents [Onyx, Squid] or microparticles):**
+>   - **Adjunct to Surgery:** Dramatically reduces the postoperative recurrence rate from $>10–15%$ down to $<2–4%$ in high-risk patients.
+>   - **Standalone Primary Therapy:** Highly effective alternative to surgery for **asymptomatic or mildly symptomatic cSDH** (avoids surgical anesthesia in frail, elderly patients!).
+>
+> **Conservative (Non-Operative) Management**
+>
+> - **Observe with Serial Weekly/Biweekly Head CTs** for patients with **small hematomas ($<10	ext{ mm}$)**, **minimal midline shift ($<5	ext{ mm}$)**, and **normal neurological baseline (Markwalder Grade 0)**.
+>
+> **Anticoagulation Resumption**
+>
+> - **Resume essential oral anticoagulation or antiplatelet therapy between 2 to 4 weeks postoperatively**, provided a follow-up Head CT confirms stable hematoma evacuation, absence of rebleeding, and adequate cerebral re-expansion.
 
 > [!warning]- Contraindications & Pitfalls
-> - **NEVER omit the subdural drain:** Evacuation without a drain triples the recurrence rate.
-> - **Do NOT elevate the head of the bed immediately postoperatively:** Upright positioning creates a siphon effect, allowing air to enter (pneumocephalus) and promoting hematoma recurrence.
-> - **Avoid hasty resumption of anticoagulants:** Wait at least 2–4 weeks post-evacuation with confirming follow-up CT before restarting therapeutic anticoagulation.
+>
+> - **Avoid Routine Corticosteroids (Dexamethasone) for the Treatment of cSDH**, as high-level evidence (**Dex-CSDH Trial**) proves steroids do not reduce the need for surgery and significantly increase adverse events, serious infections, and 6-month mortality!
+> - **Avoid Elevating the Head of Bed ($>30^circ$) in the First 24–48 Hours Following Burr-Hole Evacuation**, as head elevation allows the atrophic brain to collapse away from the dura, creating a vacuum that causes **tension pneumocephalus and acute hematoma recurrence** (always keep **flat/supine**!).
+> - **Avoid Routine Prophylactic Antiseizure Medications (Levetiracetam/Phenytoin)** in seizure-naive cSDH patients, as the seizure incidence is low ($<5%$) and ASMs cause sedation, confusion, and impaired cognitive recovery.
+> - **Avoid High-Negative-Pressure Suction on Subdural Drains**, as suction tears fragile cortical bridging veins and triggers catastrophic **acute subdural hemorrhage** (use **gravity drainage only**).
+> - **Avoid Resuming Anticoagulation within the First 7 to 14 Days Post-Op**, to prevent fresh hemorrhage into the vascularized subdural neo-membrane space.
 
 > [!error]- Complications
-> - Hematoma recurrence (5–15%; highest in bilateral cases or patients on antiplatelets).
-> - Tension pneumocephalus ("Mount Fuji sign" on CT causing acute brain compression).
-> - Postoperative intracranial hemorrhage or cortical laceration.
-> - Seizures and subdural empyema / wound infection.
+>
+> - **Hematoma Recurrence (10–20%):** Incomplete re-expansion or persistent leakage from outer neo-membranes $ightarrow$ requires repeat burr-hole washout or **MMA embolization**.
+> - **Tension Pneumocephalus ("Mount Fuji Sign"):** Subdural air collection compressing the frontal lobes and causing brain herniation $ightarrow$ high-flow 100% $	ext{O}_2$ mask + flat positioning $ightarrow$ needle aspiration if symptomatic.
+> - **Acute-on-Chronic Subdural Hemorrhage:** Tearing of fragile neo-membrane vessels $ightarrow$ presents with acute coma and hyperdense blood pooling on CT $ightarrow$ emergent re-evacuation.
+> - **Subdural Empyema / Wound Infection:** Bacterial seeding of the drain tract.
 
 > [!success]- Typical Scenario
-> An 78-year-old man on apixaban for atrial fibrillation is brought to the ED by his daughter because of 2 weeks of progressive apathy, unsteady gait, and fluctuating confusion. He had a minor fall bumping his forehead a month ago, which seemed inconsequential at the time. Over the last 24 hours, he has become increasingly somnolent with mild right facial drooping and pronator drift (Markwalder Grade 2). Non-contrast head CT demonstrates a large, 22 mm crescentic, mixed-density left hemispheric chronic subdural hematoma causing 11 mm of rightward midline shift and complete compression of the left lateral ventricle. Apixaban is urgently reversed with 4-factor prothrombin complex concentrate. The neurosurgical team performs a double burr-hole craniostomy under local anesthesia with conscious sedation. Copious motor oil-like altered blood is washed out with warm saline, and a subdural closed drainage system is placed. The patient is nursed flat for 36 hours. The drain is removed at 48 hours without complication; his mental status completely clears, his motor strength normalizes, and follow-up CT demonstrates near-complete brain re-expansion.
+> A 77-year-old man with atrial fibrillation on apixaban presents with 3 weeks of progressive confusion, apathy, unsteady shuffling gait with multiple falls, and mild left arm pronator drift. His daughter recalls he bumped his head getting out of a car 5 weeks ago (**unnoticed minor trauma**). A non-contrast Head CT reveals a large, crescentic, predominantly **hypodense extra-axial fluid collection measuring 18 mm in thickness over the right cerebral convexity with 7 mm of midline shift and compression of the right lateral ventricle (Chronic Subdural Hematoma)**. Apixaban is immediately reversed with **Andexanet alfa**, and he undergoes an uncomplicated **two-burr-hole craniostomy with copious saline irrigation and placement of a closed-system subdural drain**. He is nursed **completely flat in bed for 24 hours**; the drain is removed on Post-Op Day 2, and his confusion and gait unsteadiness resolve completely, with apixaban safely resumed 3 weeks later.
+
+> [!info] Personal Experience
 
 > [!example]- Resources
-> - **Santarius et al. (Lancet 2009):** Use of subcutaneous drains versus no drains in the surgical management of chronic subdural hematoma: a randomized controlled trial.
-> - **Hutchinson et al. (NEJM 2020):** Trial of dexamethasone for chronic subdural hematoma (DEX-CSDH).
-> - **Fiorella et al. (J NeuroIntervent Surg 2022):** Middle meningeal artery embolization for the treatment of chronic subdural hematoma.
+>
+> - A Randomized Trial of Dexamethasone in Chronic Subdural Hematoma (Dex-CSDH Trial) — New England Journal of Medicine — 2020 — https://www.nejm.org/doi/full/10.1056/NEJMoa2020473
+> - Use of Subdural Drains for Chronic Subdural Hematoma: A Randomized Controlled Trial (Santarius Trial) — The Lancet — 2009 — https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61199-2/fulltext
+> - Middle Meningeal Artery Embolization for Chronic Subdural Hematoma (EMBOLISE Trial) — New England Journal of Medicine — 2024 — https://www.nejm.org/doi/full/10.1056/NEJMoa2314341

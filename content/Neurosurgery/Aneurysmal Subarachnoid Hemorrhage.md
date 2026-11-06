@@ -1,106 +1,146 @@
 ---
 Type: Emergency
-Tags: [Neurosurgery, Vascular, Critical_Care, Emergency_Medicine, Neurology]
-Aliases: [aSAH, Subarachnoid Hemorrhage, Ruptured Aneurysm, Berry Aneurysm, Cerebral Aneurysm Rupture]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Ruptured Saccular Aneurysm, Cerebral Vasospasm & Delayed Cerebral Ischemia (DCI), Acute Aneurysmal Hydrocephalus, Rebleeding Prevention]
-First Aid: "Strict bed rest and analgesia, Immediate SBP control (<140-160 mmHg) with IV Labetalol/Nicardipine, Oral Nimodipine 60 mg q4h, Urgent CTA / DSA, Aneurysm securing (coiling/clipping) within 24h"
-Compare: [[Acute Severe Headache]], [[Intracranial Aneurysm & Vascular Malformations]], [[Intracerebral Hemorrhage]]
+Tags: [Neurosurgery, Neurology, Emergency_Medicine, Critical_Care]
+Aliases: [aSAH, Ruptured Aneurysm, Subarachnoid Hemorrhage, Berry Aneurysm Rupture]
+Discipline: Neurosurgery
+Sub Pathologies: [Aneurysmal SAH, Delayed Cerebral Ischemia, Cerebral Vasospasm, Cerebral Salt Wasting]
+First Aid: Strict bedrest with head elevated 30°, target SBP < 140 mmHg with titratable IV Nicardipine, start oral Nimodipine 60 mg q4h immediately, emergent neurosurgical consult for aneurysm securement (<24h)
+Compare: [[Intracerebral Hemorrhage]], [[Acute Severe Headache]]
 Reviewed: 2026-11-06
 ---
 
 > [!abstract] Aneurysmal Subarachnoid Hemorrhage
-> Extravasation of arterial blood under systemic pressure directly into the subarachnoid space, resulting from rupture of an intracranial saccular (berry) aneurysm in 85% of non-traumatic cases. Characterized by sudden, explosive **"thunderclap headache"** peaking within seconds ("worst headache of life"). A catastrophic vascular emergency carrying a 30-day mortality of 35–50%, requiring urgent aneurysm obliteration to prevent fatal rebleeding.
+> Extravasation of arterial blood directly into the subarachnoid space under systemic pressure caused by rupture of an intracranial **saccular (berry) aneurysm (~85% of spontaneous SAH)** at bifurcations of the Circle of Willis, carrying a **40–50% 30-day mortality rate** and severe morbidity among survivors.
 
 > [!note] Pathophysiology
-> - **Aneurysm Rupture:** Saccular aneurysms arise at arterial bifurcations along the circle of Willis (anterior communicating artery 30–35%, posterior communicating artery 25%, middle cerebral artery bifurcation 20%, basilar apex 10%). Rupture occurs at the aneurysm dome due to hemodynamic wall shear stress, elastase degradation of the internal elastic lamina, and muscular media thinning.
-> - **Early Brain Injury (EBI, Hours 0–72):** Massive surge in intracranial pressure (ICP) matching MAP causes transient global cerebral ischemia (loss of consciousness at ictus), blood-brain barrier disruption, acute microvascular thrombosis, and cortical spreading depolarization.
-> - **Delayed Cerebral Ischemia (DCI) & Vasospasm (Days 4–14, peak day 7–8):** Oxyhemoglobin degradation products (endothelin-1 release, nitric oxide scavenging) cause smooth muscle spasm in large conductial cerebral arteries and widespread microvascular dysfunction, leading to secondary ischemic strokes.
+>
+> - **Circle of Willis Bifurcations:** Hemodynamic shear stress at bifurcations lacking an internal elastic lamina leads to saccular outpouchings: **Anterior Communicating Artery (ACom, 30–35%)** > **Posterior Communicating Artery (PCom, 30–35%)** > **Middle Cerebral Artery (MCA, 20%)** > Basilar tip / Vertebrobasilar (10%).
+> - **Biphasic Brain Injury:** (1) **Early Brain Injury (EBI, 0–72h):** Massive ICP spike matching MAP causes transient global cerebral ischemia, transient arrest of perfusion (syncope), and blood-brain barrier breakdown. (2) **Delayed Cerebral Ischemia (DCI, Days 4–14):** Subarachnoid oxyhemoglobin degradation triggers intense arterial spasm, microvascular thrombosis, and cortical spreading depolarization.
 
 > [!tip]- Clinical PEARLS
-> - **The "Ottawa SAH Rule":** In neurologically intact patients with peak headache intensity within 1 hour, investigate for SAH if $\ge 1$ of: age $\ge 40$, neck pain/stiffness, witnessed LOC, onset during exertion, "thunderclap" sensation, or limited neck flexion on exam (100% sensitivity).
-> - **CT Sensitivity drops with time:** Non-contrast head CT is $> 99\%$ sensitive within 6 hours of headache onset, but sensitivity drops to $\approx 85\%$ at 24 hours, $50\%$ at 1 week, and nearly $0\%$ at 3 weeks.
-> - **Lumbar Puncture & Xanthochromia:** If CT is negative $> 6\text{ hours}$ from onset, perform LP. Wait at least 6–12 hours post-ictus before LP to allow enzymatic breakdown of RBCs into bilirubin (**xanthochromia** confirmed by spectrophotometry).
-> - **Nimodipine improves outcome, NOT vasospasm:** Oral Nimodipine ($60\text{ mg}$ q4h for 21 days) is the only proven drug to reduce delayed ischemic deficits and mortality in aSAH; its mechanism is neuroprotection and microcirculatory dilation, *not* reversal of large-vessel vasospasm.
-> - **Rebleeding peak:** The highest risk of fatal rebleeding occurs in the first 24 hours ($4–15\%$, carrying $70\%$ mortality). Securing the aneurysm within 24 hours is the primary preventive mandate.
+>
+> - **The "6-Hour Rule" for NCCT:** A non-contrast head CT (NCCT) performed on a modern third-generation scanner **within 6 hours of headache onset** has a **>99% sensitivity (negative predictive value ~99.9%)** for SAH when read by an experienced radiologist.
+> - **LP Timing for Xanthochromia (The 12-Hour Rule):** If CT is negative $>6$ hours from onset or equivocal, lumbar puncture is mandatory; wait **$ge 2$ to 12 hours from headache onset** to perform the LP to allow enzymatic conversion of RBCs into **bilirubin (xanthochromia on spectrophotometry)**, which reliably distinguishes true SAH from a traumatic tap.
+> - **Pupil-Involving CN III Palsy = PCom Aneurysm:** Acute ptosis, "down-and-out" eye deviation, and a **dilated, unreactive pupil** indicates an expanding or ruptured **Posterior Communicating Artery (PCom)** aneurysm compressing outer parasympathetic fibers $ightarrow$ emergent CTA/DSA!
+> - **Nimodipine Saves Lives; "Triple-H" is Dead:** Oral **Nimodipine (60 mg q4h for 21 days)** is the ONLY neuroprotective medication with Class 1A evidence to prevent DCI and improve outcomes. Historical "Triple-H" (Hypervolemia, Hemodilution, Hypertension) is obsolete; the modern standard is **strict Euvolemia + Induced Hypertension** (if DCI develops).
+> - **Secure the Aneurysm Within <24 Hours:** Eliminates the devastating risk of **aneurysmal rebleeding** (peaks within the first 24 hours; carries a 50–70% mortality rate).
+
+| Time from Onset | Dominant Pathology | Primary Clinical Risk | Core Intervention |
+| :--- | :--- | :--- | :--- |
+| **0 to 24 Hours** | Acute Rupture & Early Brain Injury; Hydrocephalus | Aneurysmal Rebleeding (peaks at 2–12 hours) | SBP <140 mmHg, EVD, Secure Aneurysm <24h |
+| **Days 4 to 14** (Peak: Days 7–10) | Oxyhemoglobin degradation; microthrombosis & spasm | Delayed Cerebral Ischemia (DCI) / Spasm | Oral Nimodipine, Euvolemia, Induced HTN |
+| **Days 4 to 21** | Hypothalamic dysregulation; natriuretic peptide surge | Cerebral Salt Wasting (CSW) / Hyponatremia | 3% Hypertonic Saline, Fludrocortisone |
 
 > [!attention]- Clinical Presentation
-> **Cardinal Symptoms**
-> - Sudden, hyperacute, excruciating headache peaking within seconds (**Thunderclap Headache**).
-> - Transient or prolonged loss of consciousness at onset (50%).
-> - Nausea, projectile vomiting, photophobia, phonophobia.
-> - Meningismus (nuchal rigidity, positive Kernig and Brudzinski signs, takes 6–12h to develop).
-> 
-> **Focal Neurological Clues**
-> - **Posterior Communicating Artery (PCom) Aneurysm:** Painful pupil-involving **CN III palsy** (ptosis, mydriasis, eye displaced "down and out").
-> - **Anterior Communicating Artery (ACom) Aneurysm:** Abulia, amnesia, paraparesis (bilateral frontal lobe or ACA involvement).
-> - **MCA Aneurysm:** Contralateral hemiparesis and aphasia (frequently associated with an intraparenchymal sylvian hematoma).
-> - **Ophthalmic Exam (Terson's Syndrome):** Intraocular / preretinal hemorrhages on fundoscopy (associated with high mortality).
+> **History**
+>
+> - **"Thunderclap" Headache (Hallmark):** Sudden, excruciating headache peaking at maximal intensity **in <1 minute ("worst headache of my life")**, classically triggered by physical exertion, sexual intercourse, or Valsalva maneuvers.
+> - **Transient Loss of Consciousness (Syncope in ~50%):** Caused by the acute intracranial pressure (ICP) spike temporarily halting cerebral perfusion pressure.
+> - **Sentinel Headache (Warning Leak in 15–30%):** Milder, self-limiting thunderclap headache occurring days to weeks prior to the major rupture.
+> - **Associated Symptoms:** Nausea, projectile vomiting, photophobia, phonophobia, and neck stiffness.
+>
+> **Physical**
+>
+> - **Meningeal Signs:** Nuchal rigidity, **Kernig sign**, and **Brudzinski sign** (may take 6–12 hours to develop as blood breaks down to cause chemical meningitis).
+> - **Ophthalmologic Exam:** **Subhyaloid / Preretinal Hemorrhages (Terson Syndrome)** on fundoscopy (associated with high mortality); pupil-involving CN III palsy (PCom aneurysm).
+> - **Neurological Severity Grading (Hunt & Hess / WFNS):**
+>   - _Hunt & Hess Grade 1–2:_ Asymptomatic, mild headache, or cranial nerve palsy (low mortality).
+>   - _Hunt & Hess Grade 3:_ Lethargy, confusion, or mild focal deficit.
+>   - _Hunt & Hess Grade 4–5:_ Stupor, hemiparesis, decerebrate posturing, or deep coma (high mortality).
 
 > [!check]- Diagnostic Criteria
-> - **Hunt and Hess Clinical Grading Scale:**
->   - **Grade 1:** Asymptomatic or mild headache, slight nuchal rigidity.
->   - **Grade 2:** Moderate-to-severe headache, nuchal rigidity, no neurological deficit other than cranial nerve palsy.
->   - **Grade 3:** Drowsy, confused, mild focal deficit.
->   - **Grade 4:** Stupor, moderate-to-severe hemiparesis, early decerebrate posturing.
->   - **Grade 5:** Deep coma, decerebrate posturing, moribund.
-> - **Modified Fisher CT Grading Scale (Predicts Vasospasm):**
->   - **Grade 1:** Focal or diffuse thin SAH, no IVH.
->   - **Grade 2:** Thin SAH, with bilateral IVH.
->   - **Grade 3:** Thick focal or diffuse SAH ($> 1\text{ mm}$), no IVH.
->   - **Grade 4:** Thick SAH with bilateral IVH.
+>
+> - **Aneurysmal Subarachnoid Hemorrhage (aSAH):** Demonstration of subarachnoid blood on **Non-Contrast Head CT** OR **Xanthochromia / non-clearing RBCs on Lumbar Puncture**, WITH confirmation of a culprit intracranial aneurysm on **Digital Subtraction Angiography (DSA)** or **CT Angiography (CTA)**.
 
 > [!fail]- Further Investigations
-> - **Non-Contrast Head CT:** High-density blood in basal cisterns, sylvian fissures, interhemispheric fissure, and sulci.
-> - **CT Angiogram (CTA) Head/Neck:** Fast, non-invasive first-line vascular imaging to detect aneurysm size, neck morphology, and spatial orientation.
-> - **Digital Subtraction Angiography (DSA, Gold Standard):** Definitive multi-vessel catheter angiography; detects microaneurysms, guides immediate endovascular coiling, and demonstrates vasospasm.
-> - **Transcranial Doppler (TCD):** Daily bedside monitoring for cerebral vasospasm (MCA mean flow velocity $> 120\text{ cm/s}$ indicates mild vasospasm; $> 200\text{ cm/s}$ or Lindegaard ratio $> 6$ indicates severe vasospasm).
+> **Initial Neuroimaging**
+>
+> - **Non-Contrast Head CT (NCCT):** **Mandatory immediate first-line imaging test** (>99% sensitive within 6 hours; sensitivity drops to 85% at 24 hours and <50% at 1 week). Demonstrates hyperdense blood layering in the **basal cisterns (pentagon/star pattern), Sylvian fissures, and interhemispheric fissure**; graded by **Modified Fisher Scale** (predicts vasospasm risk).
+>
+> **Confirmatory / Alternative (If CT is Negative/Equivocal >6 Hours from Onset)**
+>
+> - **Lumbar Puncture (LP):** Mandatory if high clinical suspicion persists despite negative CT.
+>   - _CSF Findings:_ Opening pressure elevated ($>20	ext{ cmH}_2	ext{O}$); send tubes 1 and 4 for **cell count** (persistent, non-clearing RBCs in tubes 1 through 4); **Xanthochromia** confirmed via **spectrophotometry** (detects bilirubin; persists for up to 2 weeks).
+>
+> **Vascular Imaging for Aneurysm Detection**
+>
+> - **Digital Subtraction Angiography (DSA):** **Gold standard**; defines aneurysm morphology, neck-to-dome ratio, branch vessels, and suitability for coiling vs. clipping (if initial DSA is negative, repeat in 7–14 days to detect a thrombosed aneurysm).
+> - **CT Angiography (CTA) of the Head:** Rapid, non-invasive alternative performed immediately after NCCT (sensitivity >95% for aneurysms $ge 3	ext{ mm}$).
+>
+> **Surveillance for Delayed Cerebral Ischemia (DCI)**
+>
+> - **Daily Transcranial Doppler (TCD):** Measures blood flow velocity in the Middle Cerebral Artery (MCA); **mean velocity $>120	ext{ cm/s}$** indicates mild/moderate vasospasm; **$>200	ext{ cm/s}$** or **Lindegaard Ratio (MCA/extracranial ICA) $>6$** indicates severe vasospasm.
 
 > [!bug]- Red Flags
-> - Progressive neurological deterioration between post-ictus days 4 and 14 (indicates Delayed Cerebral Ischemia / vasospasm).
-> - Sudden repeat spike in headache, apnea, or instant coma (aneurysm rebleeding).
-> - Acute hydrocephalus causing worsening lethargy (requires emergent EVD placement).
-> - Severe hyponatremia from Cerebral Salt Wasting (CSW) or SIADH.
+>
+> - **Sudden neurological deterioration, coma, or acute re-spike in ICP:** Signals catastrophic **Aneurysmal Rebleeding** (peaks within first 24h).
+> - **Progressive somnolence and downward gaze palsy:** Indicates **Acute Obstructive Hydrocephalus** ($ightarrow$ emergent EVD!).
+> - **New focal neurological deficit or GCS drop $ge 2$ points between Days 4 and 14:** Indicates **Delayed Cerebral Ischemia (DCI) / Vasospasm**.
+> - **Rapidly dropping serum sodium ($<135	ext{ mEq/L}$):** Indicates **Cerebral Salt Wasting (CSW)**, which drastically increases the risk of vasospasm.
+> - **Neurogenic Stunned Myocardium / Takotsubo Cardiomyopathy:** Massive catecholamine storm causing pulmonary edema, apical ballooning, and cardiogenic shock.
 
 > [!todo]- Differentials
-> - Non-aneurysmal perimesencephalic SAH (benign course, blood confined to prepontine/interpeduncular cisterns).
-> - Reversible Cerebral Vasoconstriction Syndrome (RCVS, recurrent thunderclap headaches).
-> - Cervical Artery Dissection (carotid or vertebral dissection with neck pain).
-> - Acute Intracerebral Hemorrhage with secondary intraventricular extension.
-> - Cerebral Venous Sinus Thrombosis (CVST).
-> - Acute Bacterial Meningitis.
+> **Life-Threatening & Secondary Catastrophes**
+>
+> - **Traumatic Subarachnoid Hemorrhage:** History of head trauma; blood localized to superficial cortical sulci/convexities (spares basal cisterns); no vascular aneurysm.
+> - **Reversible Cerebral Vasoconstriction Syndrome (RCVS):** Recurrent thunderclap headaches over 1–2 weeks, "string-of-beads" arterial vasoconstriction, minimal/no convexal SAH; triggered by SSRIs/sympathomimetics/postpartum.
+> - **Cerebral Venous Sinus Thrombosis (CVST):** Headache, papilledema, venous hemorrhagic infarcts, seizures.
+> - **Pituitary Apoplexy:** Sudden severe headache, bitemporal hemianopia, acute adrenal collapse.
+> - **Acute Bacterial Meningitis:** Fever, nuchal rigidity, purulent CSF with high neutrophils and low glucose.
 
 > [!summary]- Management
-> **1. Emergent Medical Stabilization (Pre-Aneurysm Obliteration)**
-> - Strict bed rest, dark quiet room, aggressive IV opioid analgesia, antiemetics, and stool softeners (prevent Valsalva spikes).
-> - **Blood Pressure Control:** Target $\text{SBP} < 140–160\text{ mmHg}$ using titratable IV infusions (Nicardipine or Labetalol) to prevent re-rupture while maintaining cerebral perfusion.
-> - **Oral Nimodipine:** **$60\text{ mg}$ PO/NG every 4 hours for 21 days** initiated immediately upon diagnosis.
-> - **EVD Placement:** Emergent external ventricular drain for acute hydrocephalus or GCS $\le 12$. Drain against a high pop-off pressure ($15–20\text{ cmH}_2\text{O}$) to prevent precipitous transmural aneurysm decompression.
-> 
-> **2. Definitive Aneurysm Securing ($< 24\text{ hours}$)**
-> - **Endovascular Coiling (First-line for most):** Platinum microcoils packed into the aneurysm sac via femoral/radial artery access $\pm$ stent or balloon assistance (ISAT trial demonstrated lower 1-year disability vs. clipping).
-> - **Neurosurgical Clipping:** Pterional or frontotemporal craniotomy and microvascular clip placement across aneurysm neck. Preferred for MCA bifurcation aneurysms, wide-necked aneurysms, or those with large parenchymal hematomas requiring evacuation.
-> 
-> **3. Post-Securing Management & Vasospasm Treatment**
-> - Once the aneurysm is secured, liberalize blood pressure: **Euvolemia** (isotonic crystalloids) and induced hypertension (target $\text{SBP} > 160–180\text{ mmHg}$ with Norepinephrine) if clinical DCI develops ("induced hypertension" component of historic Triple-H).
-> - **Endovascular Rescue for Refractory Vasospasm:** Intra-arterial vasodilator infusion (Nicardipine, Milrinone) or balloon angioplasty.
+> **Treatment Goals**
+>
+> - **Pre-Securing Phase (First 24 Hours):** Maintain **SBP $<140	ext{ mmHg}$** (or MAP $<110	ext{ mmHg}$) to prevent fatal rebleeding while maintaining **CPP 60–70 mmHg**, and **secure the aneurysm within <24 hours**.
+> - **Post-Securing Phase (Days 4 to 21):** Prevent and treat **Delayed Cerebral Ischemia (DCI)** via **Oral Nimodipine**, maintenance of strict **Euvolemia**, and **Induced Hypertension** for symptomatic vasospasm.
+>
+> **Immediate / Emergencies (First 0 to 24 Hours — Rebleeding Prevention & ICP Control)**
+>
+> - **1. Blood Pressure Control:** **Target SBP $<140	ext{ mmHg}$ immediately** using titratable continuous IV infusions—**Nicardipine (5–15 mg/hr IV)**, **Clevidipine**, or **Labetalol**—to minimize aneurysm wall transmural pressure.
+> - **2. Manage Acute Hydrocephalus:** **Place an External Ventricular Drain (EVD)** immediately for acute ventriculomegaly, somnolence, or Hunt & Hess Grade $ge 3$ (level at 10–20 $	ext{cmH}_2	ext{O}$ to avoid rapid decompression that triggers rebleeding).
+> - **3. Secure the Aneurysm Within <24 Hours (AHA/ASA Class 1A):**
+>   - **Endovascular Coiling (Preferred):** First-line therapy for the majority of ruptured aneurysms (especially elderly, basilar tip, and anterior circulation without parenchymal hematoma per the **ISAT trial**; lower 1-year disability compared to open surgery).
+>   - **Microsurgical Clipping:** Preferred for wide-necked aneurysms, MCA bifurcation aneurysms, or large concurrent parenchymal hematomas ($>50	ext{ mL}$) causing mass effect.
+>
+> **Prevention and Treatment of Delayed Cerebral Ischemia (DCI) / Vasospasm (Days 4 to 14)**
+>
+> - **1. Administer Oral Nimodipine (60 mg PO / via NG tube every 4 hours for 21 consecutive days)** to **ALL** patients immediately upon admission (Class 1A evidence; neuroprotective calcium channel blocker that reduces poor neurological outcomes and secondary infarction; if hypotensive, dose-reduce to **30 mg PO q2h**; **NEVER give intravenously!**).
+> - **2. Maintain Strict Euvolemia (The Modern Replacement for "Triple-H"):** Infuse **isotonic crystalloids (0.9% Normal Saline at 1–1.5 mL/kg/hr)** targeting neutral fluid balance and normal central venous volume (**do NOT administer prophylactic hypervolemic or hemodilution therapy!**).
+> - **3. Induced Hypertension for Clinical DCI:**
+>   - If the patient develops a new focal deficit (e.g., hemiparesis, aphasia) or GCS drop $ge 2$ points between Days 4 and 14 (after securing the aneurysm and ruling out hydrocephalus/seizure on Head CT):
+>   - **Initiate Induced Hypertension with an IV Vasopressor—Norepinephrine or Phenylephrine (target SBP 160–180 mmHg or MAP $>100–110	ext{ mmHg}$)** to force blood flow through spastic vessels via collateral pathways.
+> - **4. Endovascular Rescue Angioplasty / Vasodilator Infusion:** Perform **Endovascular Intra-Arterial Vasodilator Infusion (Nicardipine, Milrinone, or Verapamil)** or **Balloon Angioplasty** if symptomatic DCI fails to respond rapidly to induced hypertension.
+>
+> **Electrolyte & General Neurocritical Care**
+>
+> - **Manage Hyponatremia (Cerebral Salt Wasting [CSW]):**
+>   - Hyponatremia in aSAH is almost always **Cerebral Salt Wasting (hypovolemic natriuresis)** rather than SIADH!
+>   - **Administer 3% Hypertonic Saline and Fludrocortisone (0.1–0.4 mg/day PO)** to maintain serum sodium between **135 and 145 mEq/L** (**NEVER fluid-restrict** an aSAH patient!).
+> - **Short-Term Seizure Prophylaxis:** **Administer IV Levetiracetam (500–1,000 mg IV BID) for 3 to 7 days ONLY** during the immediate peri-rupture period (routine long-term prophylactic antiepileptic drugs are not recommended).
+> - **Strict Temperature Control:** Maintain **Normothermia (core temp $<37.5^circ	ext{C}$)** using surface cooling devices.
 
 > [!warning]- Contraindications & Pitfalls
-> - **NEVER administer prophylactic hypervolemic hemodilution:** The old "Triple-H" (hypervolemia, hemodilution, hypertension) is obsolete; hypervolemia causes pulmonary edema and hyponatremia without improving cerebral blood flow. Maintain **strict euvolemia**.
-> - **Do NOT give IV Nimodipine:** IV administration causes severe refractory systemic hypotension; use oral/NG tube route only.
-> - **Never treat hyponatremia with fluid restriction:** Hyponatremia in aSAH is almost always Cerebral Salt Wasting (CSW); fluid restriction causes devastating ischemic strokes. Treat with isotonic or 3% hypertonic saline and fludrocortisone.
+>
+> - **Avoid Fluid Restriction for Hyponatremia in aSAH**, as hyponatremia is caused by **Cerebral Salt Wasting**; fluid restriction precipitates catastrophic hypovolemia, arterial vasospasm, and massive cerebral infarction (always maintain **Euvolemia with Hypertonic Saline**!).
+> - **Avoid Intravenous Administration of Nimodipine** to prevent severe, refractory **hypotensive cardiovascular collapse and cardiac arrest** (must be given **orally or via nasogastric tube ONLY**; explicitly label enteral syringes).
+> - **Avoid Prophylactic Hypervolemia ("Triple-H" Therapy)**, as routine hypervolemia causes pulmonary edema, myocardial infarction, and coagulopathy without reducing ischemic deficits.
+> - **Avoid Lowering Blood Pressure Below SBP 140 mmHg AFTER the Aneurysm is Secured**, as lowering BP post-securing increases the risk of **Delayed Cerebral Ischemia**.
+> - **Avoid Routine Long-Term Antiepileptic Drugs (Phenytoin)** beyond 7 days, as phenytoin is independently associated with poor cognitive and functional outcomes after aSAH.
 
 > [!error]- Complications
-> - Aneurysm Rebleeding (maximum risk in first 24h; 70% mortality).
-> - Delayed Cerebral Ischemia (DCI) / Cerebral Infarction.
-> - Acute and Chronic Hydrocephalus (requires permanent ventriculoperitoneal shunt in 20%).
-> - Neurogenic stunned myocardium and neurogenic pulmonary edema.
-> - Severe hyponatremia (Cerebral Salt Wasting).
+>
+> - **Aneurysmal Rebleeding:** Highest in the first 2–12 hours (risk ~4–10% in 24h); carries a **70% mortality rate** $ightarrow$ prevent by maintaining SBP <140 mmHg and securing the aneurysm within <24 hours.
+> - **Delayed Cerebral Ischemia (DCI) & Vasospasm:** Affects up to 30% of patients; peaks between **Days 4 and 14** $ightarrow$ prevented by oral Nimodipine + euvolemia; treated with induced hypertension and endovascular angioplasty.
+> - **Acute Obstructive or Communicating Hydrocephalus:** Occurs in 20–30% $ightarrow$ requires emergent **EVD placement**; ~10–20% eventually require a permanent **Ventriculoperitoneal (VP) Shunt**.
+> - **Neurogenic Stunned Myocardium & Pulmonary Edema:** Intense sympathetic discharge causing transient left ventricular apical ballooning (**Takotsubo**) and non-cardiogenic pulmonary edema $ightarrow$ supportive inotropic support (Dobutamine/Milrinone).
 
 > [!success]- Typical Scenario
-> A 49-year-old female smoker develops a sudden, thunderous occipital headache ("like being struck by lightning") while exercising at the gym, followed by collapse and vomiting. On arrival at the emergency department, she is agitated and photophobic with neck stiffness and a blood pressure of 185/105 mmHg (Hunt and Hess Grade 2). Non-contrast head CT demonstrates extensive hyperdense blood filling the basal cisterns, sylvian fissures, and fourth ventricle (Modified Fisher Grade 4). An emergent CTA of the circle of Willis demonstrates a 6 mm saccular aneurysm of the anterior communicating artery (ACom). A Nicardipine infusion is started, stabilizing SBP at 135 mmHg, and oral Nimodipine 60 mg is administered. She is taken directly to the neurointerventional suite where successful endovascular coil embolization of the aneurysm dome is performed 6 hours after symptom onset. On post-ictus day 6, she develops subtle right arm pronator drift; emergent TCD shows MCA mean velocity of 210 cm/s. Induced hypertension with Norepinephrine to SBP 170 mmHg rapidly reverses her motor deficit. She is discharged home on day 22 neurologically intact.
+> A 52-year-old woman presents to the ED with a sudden, agonizing headache that reached 10/10 intensity within 15 seconds while lifting weights at the gym ("thunderclap onset"), accompanied by transient syncope, vomiting, and severe photophobia. Vitals reveal BP 184/102 mmHg and HR 88 bpm; exam shows marked nuchal rigidity with an otherwise intact neurological exam (**Hunt & Hess Grade 2**). A non-contrast Head CT performed 2 hours after onset demonstrates **hyperdense subarachnoid blood filling the basal cisterns, ambient cisterns, and anterior interhemispheric fissure (Fisher Grade 3)**. An immediate **IV Nicardipine infusion** is initiated targeting SBP <140 mmHg, oral **Nimodipine (60 mg q4h)** is started, and a STAT **CTA of the Head** reveals a 7-mm **Anterior Communicating Artery (ACom) saccular aneurysm**, which is successfully treated with **endovascular coil embolization within 14 hours of admission**, followed by 21 days of euvolemic ICU care without secondary vasospasm.
+
+> [!info] Personal Experience
 
 > [!example]- Resources
-> - **AHA/ASA Guidelines (Stroke 2023):** Guidelines for the Management of Patients with Aneurysmal Subarachnoid Hemorrhage.
-> - **ISAT Trial (Molyneux et al., Lancet 2005):** International Subarachnoid Aneurysm Trial of neurosurgical clipping versus endovascular coiling.
-> - **Neurocritical Care Society (NCS):** Guidelines for the Critical Care Management of Subarachnoid Hemorrhage.
+>
+> - Guidelines for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage — Stroke (AHA/ASA) — 2023 — https://www.ahajournals.org/doi/10.1161/STR.0000000000000436
+> - International Subarachnoid Aneurysm Trial (ISAT) of Neurosurgical Clipping versus Endovascular Coiling — The Lancet — 2005 — https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)67214-5/fulltext
+> - Neurocritical Care Society Guidelines for the Management of Aneurysmal Subarachnoid Hemorrhage — Neurocritical Care — 2023 — https://link.springer.com/article/10.1007/s12028-023-01712-4

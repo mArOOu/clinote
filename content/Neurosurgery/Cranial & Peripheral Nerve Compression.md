@@ -1,110 +1,160 @@
 ---
 Type: Chronic
-Tags: [Neurosurgery, Neurology, Pain_Medicine, Surgery]
-Aliases: [Nerve Compression, Trigeminal Neuralgia, Hemifacial Spasm, Carpal Tunnel Syndrome, Cubital Tunnel Syndrome, Microvascular Decompression, MVD]
-Discipline: "[[Neurosurgery]]"
-Sub Pathologies: [Trigeminal Neuralgia (Tic Douloureux), Hemifacial Spasm, Carpal Tunnel Syndrome, Ulnar Nerve Entrapment (Cubital Tunnel), Peroneal Nerve Entrapment]
-Compare: [[Peripheral Neuropathies]], [[Headache Disorders]]
+Tags: [Neurosurgery, Neurology, Orthopedics, Physical_Medicine_Rehabilitation]
+Aliases: [Entrapment Neuropathy, Carpal Tunnel Syndrome, Cubital Tunnel Syndrome, Peroneal Nerve Palsy, Trigeminal Neuralgia, Bell's Palsy]
+Discipline: Neurosurgery
+Sub Pathologies: [Carpal Tunnel Syndrome, Cubital Tunnel Syndrome, Common Peroneal Neuropathy, Trigeminal Neuralgia, Radial Nerve Palsy, Meralgia Paresthetica]
+Compare: [[Peripheral Neuropathies]], [[Acute Spinal Cord Compression & Cauda Equina Syndrome]]
 Reviewed: 2026-11-06
 ---
 
 > [!abstract] Cranial & Peripheral Nerve Compression
-> Spectrum of focal compressive, entrapment, and neurovascular conflict disorders affecting cranial nerves (most notably **Trigeminal Neuralgia** and **Hemifacial Spasm** in the cerebellopontine angle) and peripheral nerves (most notably **Carpal Tunnel Syndrome** at the wrist and **Cubital Tunnel Syndrome** at the elbow). Treated conservatively with pharmacotherapy and decompression surgery (e.g., **Microvascular Decompression [Jannetta procedure]** or open/endoscopic peripheral tunnel release).
+> Mechanical entrapment, constriction, or neurovascular compression of peripheral or cranial nerves as they traverse narrow fibro-osseous tunnels or dural apertures, leading to microvascular ischemia, local demyelination (**neurapraxia**), and secondary axonal degeneration.
 
 > [!note] Pathophysiology
-> - **Neurovascular Conflict (Cranial Nerves):**
->   - At the root entry zone (REZ) where cranial nerves emerge from the brainstem, central myelin (produced by oligodendrocytes) transitions to peripheral myelin (produced by Schwann cells). This **Obersteiner-Redlich transition zone** is uniquely susceptible to mechanical deformation.
->   - **Trigeminal Neuralgia (CN V):** Pulsatile compression of the sensory root of CN V by an aberrant arterial loop (most commonly the **Superior Cerebellar Artery [SCA, 75–80%]** or Anterior Inferior Cerebellar Artery [AICA]) causes chronic focal demyelination $\rightarrow$ ephaptic cross-talk ("short-circuiting") between light touch A-beta fibers and nociceptive A-delta/C fibers $\rightarrow$ severe paroxysmal shock-like pain triggered by innocuous light touch.
->   - **Hemifacial Spasm (CN VII):** Compression of the facial nerve REZ by the **PICA, AICA, or vertebral artery** causes hyper-excitable motor firing and involuntary clonic/tonic hemifacial contractions.
-> - **Peripheral Nerve Entrapment:**
->   - **Median Nerve (Carpal Tunnel Syndrome):** Compression beneath the rigid transverse carpal ligament (flexor retinaculum) along with 9 flexor tendons $\rightarrow$ microvascular ischemia, endoneurial edema, and myelin breakdown.
->   - **Ulnar Nerve (Cubital Tunnel Syndrome):** Compression behind medial epicondyle beneath Osborne's ligament or between the two heads of flexor carpi ulnaris.
+>
+> - **Entrapment Cascade:** Sustained focal pressure exceeds capillary perfusion pressure (**>30 mmHg**) $\rightarrow$ venous congestion, breakdown of the blood-nerve barrier, and endoneurial edema $\rightarrow$ segmental paranodal demyelination (reversible) progressing to **Wallerian degeneration** if unrelieved.
+> - **Trigeminal Neuralgia:** Pulsatile neurovascular compression of the **Trigeminal Nerve (CN V)** root entry zone by an aberrant arterial loop (predominantly the **Superior Cerebellar Artery [SCA]**) triggers focal focal demyelination and **ephaptic transmission (cross-talk)** between light-touch $A\beta$ and nociceptive $A\delta/C$ fibers.
 
 > [!tip]- Clinical PEARLS
-> - **Carbamazepine is the Diagnostic Gold Standard in Trigeminal Neuralgia:** Marked, prompt relief of electric shock-like facial pain with Carbamazepine ($100–200\text{ mg}$ bid titrated to $600–1200\text{ mg/day}$) confirms the diagnosis of classic trigeminal neuralgia; non-response strongly suggests alternative etiologies (e.g., multiple sclerosis or dental pathology).
-> - **The Jannetta Microvascular Decompression (MVD):** The only curative, non-destructive surgical treatment for trigeminal neuralgia. The offending artery is mobilized away from CN V and permanently cushioned with a **Teflon felt pledgelet**, achieving $> 80–90\%$ immediate pain relief without facial numbness.
-> - **Phalen's & Tinel's Tests:**
->   - *Phalen's maneuver:* 60 seconds of maximal unforced wrist flexion compresses the median nerve, reproducing paresthesias in digits 1–3 (high specificity).
->   - *Tinel's sign:* Light tapping over the volar wrist induces tingling radiating into median nerve distribution.
-> - **Wartenberg's Sign in Cubital Tunnel:** Inability to adduct the little finger against the ring finger (persistent abduction) due to weakness of the third palmar interosseous muscle, an early sign of ulnar nerve compression.
+>
+> - **Carpal Tunnel: Palmar Sensation is SPARED:** In Carpal Tunnel Syndrome (CTS), numbness affects the palmar surface of digits 1–3 and the radial half of digit 4, BUT the **thenar eminence sensation is completely NORMAL** (the palmar cutaneous branch arises proximal to the wrist and travels _superficial_ to the flexor retinaculum; thenar numbness implies a **C6 radiculopathy or Pronator Teres syndrome**!).
+> - **Peroneal Palsy vs. L5 Radiculopathy (The Foot Inversion Rule):** Both present with sudden foot drop. Test **Foot Inversion (Tibialis Posterior — Tibial nerve / L5)**: If foot inversion is **WEAK** $\rightarrow$ **L5 Radiculopathy**! If foot inversion is **NORMAL** $\rightarrow$ **Common Peroneal (Fibular) Neuropathy at the fibular head**!
+> - **Forehead Wrinkling Differentiates Bell's Palsy from Stroke:** Lower Motor Neuron (LMN) CN VII palsy (**Bell's Palsy**) paralyzes the **entire half of the face, including the forehead** (cannot raise eyebrow / wrinkle forehead). Upper Motor Neuron (UMN) stroke **spares the forehead** due to bilateral corticobulbar innervation!
+> - **"Saturday Night Palsy" Spares the Triceps:** Radial nerve compression at the mid-humeral **spiral groove** (draping arm over a bench while intoxicated) produces severe **Wrist Drop and Finger Drop**, but **Triceps extension strength and triceps reflex are completely INTACT** (the triceps branch departs in the axilla, proximal to the spiral groove!).
+> - **Trigeminal Neuralgia Drug of Choice:** **Carbamazepine** (or Oxcarbazepine) is the gold standard; simple NSAIDs and opioids are 100% ineffective!
+
+| Nerve & Site | Sensory Deficit Territory | Motor Deficit / Signs | Classic Mechanism |
+| :--- | :--- | :--- | :--- |
+| **1. Median Nerve (Carpal Tunnel)** | Palmar digits 1–3 & radial half of ring finger (thenar eminence spared!) | Weak thumb abduction (APB); Thenar atrophy | Repetitive wrist flexion, keyboard work, obesity, pregnancy |
+| **2. Ulnar Nerve (Cubital Tunnel)** | Palmar & dorsal 5th digit & ulnar half of ring finger | Weak finger abduction; Froment sign; ulnar clawing | Leaning on elbows, prolonged elbow flexion |
+| **3. Radial Nerve (Spiral Groove)** | Dorsal 1st webspace (between thumb and index finger) | Wrist drop, finger drop (Triceps extension SPARED!) | Sleeping with arm compressed over chair ("Saturday night palsy") |
+| **4. Common Peroneal / Fibular (Fibular Head)** | Dorsum of foot & anterolateral calf (spares sole of foot!) | Foot drop (weak ankle dorsiflexion/eversion; normal inversion) | Leg crossing, prolonged squatting, knee cast, tight boots |
+| **5. Lateral Femoral Cutaneous (LFCN)** | Anterolateral thigh ONLY (Meralgia Paresthetica) | NONE (Pure sensory nerve; motor function normal) | Tight belts, police duty belt, tight garments, obesity |
+| **6. Trigeminal / CN V (Root Entry Zone)** | NONE (Normal facial sensation preserved between paroxysms) | NONE; excruciating lancinating shock-like V2/V3 pain | Superior Cerebellar Artery (SCA) vascular loop compression |
 
 > [!attention]- Clinical Presentation
-> **Trigeminal Neuralgia (Tic Douloureux)**
-> - Unilateral, lancinating, electric shock-like, excruciating facial pain lasting from seconds up to 2 minutes.
-> - Confined strictly to trigeminal dermatomes: **V2 (Maxillary) and/or V3 (Mandibular) in 95%**; isolated V1 (ophthalmic) involvement occurs in $< 5\%$ and warrants investigation for secondary mass lesions.
-> - **Trigger Zones:** Paroxysms triggered by trivial light touch: shaving, washing face, light wind, brushing teeth, chewing, talking, or drinking cold liquids. Refractory periods follow paroxysms.
-> 
-> **Carpal Tunnel Syndrome (CTS)**
-> - Nocturnal numbness, tingling, and burning pain in thumb, index, middle, and radial half of ring finger (wakes patient up; relieved by "shaking out the hands" [Flick sign]).
-> - Late signs: Thenar muscle atrophy (abductor pollicis brevis weakness, aper hand deformity).
-> 
-> **Cubital Tunnel Syndrome**
-> - Paresthesias and numbness in the ring and little fingers (dermatome C8/T1).
-> - Weakness of hand intrinsic muscles (interossei, hypothenar), difficulty opening jars, clawing of digits 4 and 5 (Froment's sign: compensatory hyperflexion of the thumb IP joint during key pinch).
+> **History**
+>
+> - **Carpal Tunnel Syndrome (CTS):** Nocturnal paresthesias and burning pain in the thumb, index, and middle fingers; patient awakens shaking their hands out (**positive "Flick Sign"**); drops coffee cups; aggravated by driving or holding a phone.
+> - **Cubital Tunnel Syndrome (Ulnar Nerve):** Numbness and tingling in the small and ring fingers; aching medial elbow pain; aggravated by sustained elbow flexion (talking on phone, sleeping with flexed elbows); hand weakness/clumsiness.
+> - **Common Peroneal (Fibular) Neuropathy:** Painless, sudden-onset **foot drop**; tripping over toes, high-stepping "steppage gait"; numbness over the lateral calf and dorsal foot; history of recent rapid weight loss, prolonged bedrest, or habitual leg-crossing.
+> - **Trigeminal Neuralgia (Tic Douloureux):** Paroxysms of excruciating, lancinating, **electric shock-like facial pain** strictly unilateral in the **V2 (maxillary) or V3 (mandibular)** distribution, lasting **seconds to <2 minutes**, triggered by light tactile stimuli (**brushing teeth, chewing, shaving, light breeze, talking**); asymptomatic between attacks.
+> - **Bell's Palsy (Idiopathic Facial Palsy):** Rapid-onset unilateral facial paralysis evolving over 24–48 hours, preceded by retroauricular ear pain, accompanied by hyperacusis (stapedius paralysis) and loss of taste on the anterior two-thirds of the tongue.
+>
+> **Physical**
+>
+> - **Provocative Maneuvers:**
+>   - _Carpal Tunnel:_ **Phalen Test** (sustained wrist flexion to 90° for 60 seconds reproduces paresthesias) and **Tinel Sign** (light tapping over flexor retinaculum shoots tingling into median digits).
+>   - _Cubital Tunnel:_ **Froment Sign** (patient pinches a piece of paper between thumb and index; weak adductor pollicis [ulnar] forces compensatory flexion of the thumb interphalangeal joint via flexor pollicis longus [median]).
+> - **Motor / Atrophy Signs:**
+>   - CTS: Atrophy of the **thenar eminence** (abductor pollicis brevis weakness).
+>   - Cubital Tunnel: Atrophy of the **hypothenar eminence and first dorsal interosseous**; "ulnar claw" (D4–D5 hyperextended at MCP, flexed at IP).
 
 > [!check]- Diagnostic Criteria
-> - **International Headache Society (ICHD-3) Trigeminal Neuralgia Criteria:**
->   - Recurrent paroxysms of unilateral facial pain in distribution of $\ge 1$ branches of CN V.
->   - Pain is shock-like, shooting, stabbing, or sharp, of severe intensity, lasting fractions of a second to 2 minutes.
->   - Precipitated by innocuous stimuli within the trigeminal territory.
->   - No clinically evident neurological deficit.
-> - **Electrodiagnostic Studies (EMG / NCS):**
->   - CTS: Median sensory nerve conduction velocity $< 50\text{ m/s}$ across carpal tunnel; delayed distal motor latency $> 4.2\text{ ms}$.
+>
+> - **Carpal Tunnel Syndrome (Clinical + NCS):** Classic symptoms in the median nerve distribution **PLUS electrodiagnostic confirmation (NCS)** demonstrating focal median sensory/motor conduction delay across the carpal tunnel (distal motor latency $>4.0\text{ ms}$; transcarpal sensory latency difference $>0.5\text{ ms}$).
+> - **Trigeminal Neuralgia (ICHD-3 Criteria):**
+>   - Recurrent paroxysms of unilateral facial pain in $\ge 1$ divisions of CN V,
+>   - Pain lasts from a fraction of a second to **2 minutes**,
+>   - Severe intensity, electric shock-like, shooting, or stabbing quality,
+>   - **Precipitated by innocuous stimuli** within the trigeminal territory, AND
+>   - **No clinically evident neurological/sensory deficit**.
 
 > [!fail]- Further Investigations
-> - **High-Resolution 3D CISS / FIESTA and 3D TOF MRA Brain MRI (The "Trigeminal Protocol"):** Visualizes the cisternal segment of CN V in the CPA and directly confirms the offending loop of the Superior Cerebellar Artery compressing the root entry zone. Excludes multiple sclerosis demyelinating plaques and CPA tumors (vestibular schwannoma, meningioma, epidermoid cyst).
-> - **Nerve Conduction Studies & Electromyography (NCS/EMG):** Definitive confirmation of peripheral nerve compression, grading severity (mild sensory slowing vs. severe axonal loss with denervation potentials).
-> - **High-Frequency Neuromuscular Ultrasound:** Visualizes cross-sectional area (CSA) of median nerve ($> 10–12\text{ mm}^2$ indicates CTS) and dynamic ulnar subluxation over medial epicondyle.
+> **Initial / Gold-Standard Electrodiagnostics**
+>
+> - **Nerve Conduction Studies & Needle Electromyography (NCS/EMG):**
+>   - **First-line confirmatory test** for all peripheral nerve entrapments.
+>   - Localizes the exact site of compression (wrist vs. elbow vs. fibular head), differentiates focal demyelination (conduction block/slowing) from axonal loss, and **rules out Cervical/Lumbar Radiculopathy and Plexopathy**.
+>
+> **High-Resolution Neuromuscular Ultrasound**
+>
+> - Demonstrates focal structural enlargement of the nerve immediately proximal to the constriction site (e.g., median nerve **Cross-Sectional Area [CSA] $>10–12\text{ mm}^2$** at the carpal tunnel inlet; normal $\le 8\text{ mm}^2$); identifies compressing ganglion cysts or schwannomas.
+>
+> **Neuroimaging for Cranial Compressions**
+>
+> - **Brain MRI with 3D CISS / FIESTA High-Resolution Sequences (Mandatory in Trigeminal Neuralgia):**
+>   - Identifies neurovascular contact/compression of CN V root entry zone by the **Superior Cerebellar Artery**.
+>   - **Mandatory to exclude Multiple Sclerosis** (demyelinating plaque in the pontine trigeminal entry zone) and cerebellopontine angle tumors (vestibular schwannoma, meningioma).
 
 > [!bug]- Red Flags
-> - Continuous, dull, burning facial pain without shock-like paroxysms (Atypical facial pain or trigeminal neuropathy).
-> - Objective sensory deficit on facial exam (numbness in V1–V3 indicates secondary lesion: tumor, stroke, or skull base mass).
-> - Bilateral trigeminal neuralgia in a young patient (highly suspicious for Multiple Sclerosis).
-> - Rapidly progressive thenar atrophy or motor claw hand deformity.
+>
+> - **Trigeminal neuralgia with baseline sensory loss or bilateral symptoms** (strongly suggests underlying **Multiple Sclerosis** or compressive skull base tumor!).
+> - **Rapidly progressive thenar or interosseous muscle wasting** (signals irreversible axonal loss requiring urgent decompression).
+> - **Foot drop accompanied by back pain, bilateral weakness, or saddle anesthesia** ($\rightarrow$ **Cauda Equina Syndrome**, NOT peroneal neuropathy!).
+> - **Facial paralysis sparing the forehead** (UMN cortical stroke!).
+> - **Facial paralysis accompanied by external ear canal vesicles** (Ramsay Hunt Syndrome / Herpes Zoster Oticus).
 
 > [!todo]- Differentials
-> - Dental Pathology (periapical abscess, cracked tooth, pulpitis).
-> - Temporomandibular Joint (TMJ) Dysfunction.
-> - Cluster Headache or SUNCT / SUNA syndromes.
-> - Cervical Radiculopathy (C6 radiculopathy mimicking CTS, C8 radiculopathy mimicking cubital tunnel).
+> **Radiculopathy & Plexopathy Mimics**
+>
+> - **C6 Radiculopathy:** Pain radiates from neck down lateral arm to thumb; **diminished brachioradialis reflex** and **numbness over the thenar eminence** (spared in CTS!).
+> - **C8–T1 Radiculopathy / Thoracic Outlet Syndrome:** Weakness of ALL intrinsic hand muscles (both median and ulnar groups).
+> - **L5 Radiculopathy:** Weak ankle dorsiflexion AND **weak foot inversion** + sensory loss extending over lateral calf to the great toe.
+> - **Amyotrophic Lateral Sclerosis (ALS):** Painless foot drop or wasting of hand interossei; distinguished by **fasciculations and upper motor neuron hyperreflexia**.
 
 > [!summary]- Management
-> **1. Pharmacological Management (First-line for Trigeminal Neuralgia)**
-> - **Carbamazepine:** $100–200\text{ mg}$ PO twice daily, titrated up to $600–1200\text{ mg/day}$ (monitor CBC and LFTs for aplastic anemia and hyponatremia).
-> - **Oxcarbazepine:** $300\text{ mg}$ PO bid, titrated up to $1200–1800\text{ mg/day}$ (better tolerated, lower hematologic risk).
-> - **Second-line Add-ons:** Baclofen ($10–20\text{ mg}$ tid), Lamotrigine, or Gabapentin.
-> 
-> **2. Neurosurgical Microvascular Decompression (MVD / Jannetta Procedure)**
-> - **Treatment of Choice for Medically Refractory Trigeminal Neuralgia / Hemifacial Spasm:**
->   - Retrosigmoid suboccipital craniectomy under operative microscope.
->   - Identification of the root entry zone of CN V in the cerebellopontine angle.
->   - Dissection and mobilization of the offending vascular loop (SCA or AICA) off the nerve root.
->   - Interposition of shredded Teflon felt sponges between the vessel and the nerve.
->   - Provides immediate cure in $> 80–90\%$ with lowest recurrence and **preserves facial sensation**.
-> 
-> **3. Percutaneous & Radiosurgical Alternatives (for High Surgical Risk)**
-> - **Stereotactic Radiosurgery (Gamma Knife):** Targeted delivery of high-dose radiation (70–80 Gy) to the trigeminal root entry zone; 75% relief over 1–3 months.
-> - **Percutaneous Rhizotomy (Radiofrequency thermocoagulation, Glycerol injection, or Balloon compression):** Needle placed through foramen ovale (Hartel technique) to ablate sensory pain fibers; carries risk of facial numbness and corneal anesthesia.
-> 
-> **4. Peripheral Nerve Decompression**
-> - **Carpal Tunnel Release (Open or Endoscopic):** Complete division of the transverse carpal ligament, providing immediate decompression.
-> - **Cubital Tunnel Decompression (In situ decompression vs. Anterior transposition):** Division of Osborne's ligament; transposition anterior to the epicondyle indicated if the ulnar nerve subluxates during flexion.
+> **Treatment Goals**
+>
+> - **Primary Target:** Relieve mechanical compression, restore endoneurial microcirculation, abolish lancinating pain in trigeminal neuralgia, and prevent permanent motor axonal atrophy.
+> - **Secondary Target:** Restore functional hand grip/dexterity, eliminate foot drop tripping, and protect the cornea in facial palsy.
+>
+> **Management: Carpal Tunnel Syndrome (CTS)**
+>
+> - **Mild-to-Moderate Symptoms (Intermittent Numbness, No Muscle Atrophy):**
+>   - **Prescribe a Rigid Neutral Wrist Splint worn strictly at NIGHT for 6 to 12 weeks** as first-line conservative therapy (prevents wrist flexion/extension which spikes carpal tunnel pressure $>50\text{ mmHg}$).
+>   - **Perform Ultrasound-Guided Carpal Tunnel Corticosteroid Injection (Triamcinolone 20–40 mg + Lidocaine)** for rapid short-term symptom relief (provides 1–3 months of relief).
+> - **Severe or Refractory Symptoms (Thenar Atrophy, Persistent Numbness, Failed Splints):**
+>   - **Perform Surgical Carpal Tunnel Release (Open or Endoscopic complete division of the Transverse Carpal Ligament)** (gold standard curative treatment; $>90\%$ success rate).
+>
+> **Management: Cubital Tunnel Syndrome (Ulnar Nerve)**
+>
+> - **Avoid prolonged elbow flexion and avoid resting elbows on hard surfaces**; prescribe a **nighttime elbow extension splint (padded at ~45° flexion)** for 6–12 weeks.
+> - **Perform Surgical Decompression (In Situ Decompression or Anterior Subcutaneous/Submuscular Transposition)** if progressive hand intrinsic atrophy, clawing, or failed conservative therapy.
+>
+> **Management: Common Peroneal (Fibular) Neuropathy**
+>
+> - **Prescribe an Ankle-Foot Orthosis (AFO)** immediately to support foot dorsiflexion, normalize gait, and prevent fall-related injuries while awaiting nerve remyelination.
+> - Eliminate external compression (avoid leg-crossing, pad the fibular head); **most neuropraxic compressions recover spontaneously within 2 to 3 months**.
+>
+> **Management: Trigeminal Neuralgia (Tic Douloureux)**
+>
+> - **First-Line Medical Therapy (Voltage-Gated Sodium Channel Blockers — Gold Standard):**
+>   - **Initiate Carbamazepine (start 100 to 200 mg PO BID, titrating slowly up to 600–1,200 mg/day PO divided TID)** as the most effective medical agent (screen for hyponatremia and blood dyscrasias).
+>   - **Initiate Oxcarbazepine (start 300 mg PO BID, titrating to 600–1,200 mg PO BID)** as an equivalent first-line alternative with superior tolerability.
+> - **Refractory / Medication-Intolerant Cases (Neurosurgical Intervention):**
+>   - **Perform Microvascular Decompression (MVD / Janetta Procedure via Retrosigmoid Craniotomy):** The **definitive surgical cure of choice** for healthy patients; places a non-resorbable Teflon felt pad between the compressing arterial loop (SCA) and the trigeminal nerve root (achieves $>80–90\%$ immediate pain relief and $>70\%$ long-term cure without facial numbness).
+>   - **Perform Stereotactic Radiosurgery (Gamma Knife) or Percutaneous Balloon Rhizotomy** for elderly, frail patients or those with prohibitive surgical risk.
+>
+> **Management: Bell's Palsy (CN VII)**
+>
+> - **Initiate Oral Prednisone (60 to 80 mg PO daily for 7 days, then taper over 5 days) within <72 HOURS of symptom onset** (significantly accelerates complete facial recovery).
+> - Add **Oral Valacyclovir (1,000 mg PO TID for 7 days)** in severe cases.
+> - **Enforce Aggressive Eye Protection:** Prescribe daytime **preservative-free lubricating artificial tears every 1–2 hours** and **nighttime ophthalmic lubricating ointment with gentle eye taping** to prevent exposure keratopathy and blindness.
 
 > [!warning]- Contraindications & Pitfalls
-> - **Avoid irreversible destructive rhizotomy in young patients:** Percutaneous ablation causes facial numbness and risks anesthesia dolorosa (intractable burning pain in a numb face, virtually untreatable). MVD should always be offered first.
-> - **Screen for HLA-B*1502 before starting Carbamazepine in Asian descent:** High risk of fatal Stevens-Johnson syndrome / toxic epidermal necrolysis.
+>
+> - **Avoid Starting Carbamazepine in Patients of Asian Ancestry without Prior Screening for the HLA-B\*1502 Allele**, to prevent life-threatening **Stevens-Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN)**.
+> - **Avoid Treating Trigeminal Neuralgia with NSAIDs or Opioids**, as conventional analgesics are completely ineffective for ephaptic paroxysmal neuropathic pain (always use **Carbamazepine or Oxcarbazepine**!).
+> - **Avoid Inadvertent Median Nerve Injection during Carpal Tunnel Steroid Injections**; never inject if the patient feels sharp electric paresthesias shooting into the fingers (withdraw needle immediately to prevent permanent intraneural median nerve necrosis).
+> - **Avoid Failing to Prescribe Aggressive Eye Protection in Bell's Palsy**, as loss of eyelid closure (orbicularis oculi paralysis) causes rapid **corneal desiccation, ulceration, and permanent visual loss**.
+> - **Avoid Operating on Meralgia Paresthetica**, as Lateral Femoral Cutaneous Nerve compression is a pure sensory condition that resolves with weight loss, loose clothing, and local nerve blocks.
 
 > [!error]- Complications
-> - Anesthesia dolorosa (devastating neuropathic pain following destructive rhizotomy).
-> - Hearing loss (injury to CN VIII during retrosigmoid cerebellar retraction in MVD).
-> - Facial nerve (CN VII) palsy.
-> - CSF leak through mastoid air cells post-craniotomy.
-> - Pillar pain and persistent grip weakness post-carpal tunnel release.
+>
+> - **Permanent Hand Muscle Atrophy & Claw Hand:** Irreversible motor loss from delayed cubital/carpal tunnel release $\rightarrow$ permanent loss of fine motor dexterity.
+> - **Exposure Keratitis & Corneal Ulceration:** Complication of lagophthalmos in Bell's palsy $\rightarrow$ treated with gold eyelid weights or tarsorrhaphy if refractory.
+> - **Aseptic Meningitis / Hearing Loss Post-MVD:** Complications of retrosigmoid craniotomy for trigeminal neuralgia due to cerebellar retraction or acoustic nerve manipulation.
+> - **Carbamazepine-Induced Agranulocytosis & Hyponatremia:** Rare severe aplastic anemia and SIADH $\rightarrow$ monitor CBC and electrolytes at baseline and regularly during therapy.
 
 > [!success]- Typical Scenario
-> A 54-year-old woman presents with a 6-month history of excruciating, electric shock-like right-sided facial pain shooting across her cheek and lower jaw (V2/V3 distribution). The pain is triggered by brushing her teeth, eating, or even a cold breeze blowing on her face, causing her to lose weight out of fear of chewing. A trial of Carbamazepine at 800 mg/day provided dramatic initial relief but had to be discontinued due to severe drug-induced hepatitis and leukopenia. Neurological exam reveals completely intact facial sensation and normal corneal reflexes. High-resolution 3D CISS and TOF MRA brain MRI reveals a prominent loop of the right Superior Cerebellar Artery directly compressing and grooving the right trigeminal nerve root at its pontine entry zone. She undergoes an uneventful right retrosigmoid microvascular decompression (Jannetta procedure). The compressing arterial loop is dissected free and a Teflon felt cushion is placed. Upon awakening from anesthesia, her shooting facial pain is completely abolished, and she remains pain-free with intact facial sensation at 2-year follow-up.
+> A 48-year-old dental hygienist presents with a 7-month history of burning numbness in her right thumb, index, and middle fingers that wakes her from sleep, forcing her to shake her hand out for relief. She drops instruments at work, and examination reveals mild atrophy of the right **thenar eminence**, positive **Phalen test at 25 seconds**, positive Tinel sign at the wrist, and **normal sensation over the thenar eminence**. Nerve Conduction Studies confirm severe right **Carpal Tunnel Syndrome** with prolonged median distal motor latency (5.2 ms). After failing nocturnal neutral wrist splints, she undergoes an uncomplicated **endoscopic carpal tunnel release**, resulting in complete resolution of her nocturnal paresthesias and restoration of hand strength.
+
+> [!info] Personal Experience
 
 > [!example]- Resources
-> - **Cruccu et al. (Eur J Neurol 2019):** European Academy of Neurology guidelines on trigeminal neuralgia.
-> - **Bick & Burchiel (Neurosurgery 2017):** Trigeminal neuralgia: historical perspective and current management.
-> - **Keith et al. (J Hand Surg Am 2009):** American Academy of Orthopaedic Surgeons clinical practice guideline on the treatment of carpal tunnel syndrome.
+>
+> - Management of Carpal Tunnel Syndrome: Evidence-Based Clinical Practice Guideline — American Academy of Orthopaedic Surgeons (AAOS) — 2016 — https://www.aaos.org/quality/quality-programs/upper-extremity-programs/carpal-tunnel-syndrome/
+> - AAN-EFNS Practice Guideline: Treatment of Trigeminal Neuralgia — Neurology — Reaffirmed 2021 — https://www.aan.com/Guidelines/home/GetGuidelineContent/332
+> - Clinical Practice Guideline: Bell's Palsy — American Academy of Otolaryngology–Head and Neck Surgery — 2013 — https://www.entnet.org/resource/clinical-practice-guideline-bells-palsy/
